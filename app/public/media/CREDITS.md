@@ -132,5 +132,25 @@ Au Lot 5, la catégorie Science réutilise aussi proprement des médias des lots
 
 Au Lot 6, la catégorie Musique & pop culture réutilise aussi proprement des médias des lots précédents, déjà crédités ci-dessus : `orgue-gothique.wav` (Lot 4), `glas-trois-coups.wav` et `tonnerre-pluie.wav` (Lot 2), `television-retro.svg` (Lot 3), `chateau.svg` et `citrouille-lanterne.svg` (Lot 1). La catégorie compte 32 questions média (18 audio, 14 image), toutes jouables — aucune question « à compléter ». musique-0015 a été complétée avec `boite-musique.wav` (mélodie originale synthétisée, aucune mélodie protégée reproduite) et sa question réécrite sur le mécanisme de la boîte à musique.
 
-## Questions média « à compléter »
-Quelques questions d'autres catégories portent encore `media.status: "a-completer"` dans les JSON de la banque : leur extrait audio définitif (libre de droits / domaine public) sera sourcé à un lot ultérieur. Elles sont **exclues automatiquement** des parties (voir `isPlayable` dans `src/lib/questions.js`) tant que le média n'est pas livré — aucun lien mort, aucun faux média en jeu.
+## Lot 7 — Traditions, bonbons & géographie (médias originaux CC0 ajoutés)
+
+| Fichier | Type | Auteur / source | Licence |
+|---|---|---|---|
+| cerf-volant-geant.svg | Image — cerf-volant géant de fête des morts (Lot 7) | Illustration originale du projet | CC0 |
+| lanterne-papier.svg | Image — lanterne flottante d'Obon (Lot 7) | Illustration originale du projet | CC0 |
+| parade-squelettes.svg | Image — parade de squelettes décorés (Lot 7) | Illustration originale du projet | CC0 |
+| citrouille-turquoise.svg | Image — citrouille turquoise du Teal Pumpkin Project (Lot 7) | Illustration originale du projet | CC0 |
+| sac-bonbons.svg | Image — sac de friandises d'Halloween (Lot 7) | Illustration originale du projet | CC0 |
+| citrouille-geante.svg | Image — citrouille géante de concours (Lot 7) | Illustration originale du projet | CC0 |
+| citrouille-bateau.svg | Image — régate en citrouille géante (Lot 7) | Illustration originale du projet | CC0 |
+| tarte-citrouille.svg | Image — tarte à la citrouille géante (Lot 7) | Illustration originale du projet | CC0 |
+| maison-decoration.svg | Image — maison décorée et squelette géant (Lot 7) | Illustration originale du projet | CC0 |
+| ossuaire.svg | Image — mur d'ossuaire et crânes (Lot 7) | Illustration originale du projet | CC0 |
+| gigue-irlandaise.wav | Audio — gigue originale au timbre de flûte synthétisée (Lot 7) | Synthèse originale du projet | CC0 |
+| sonnette-porte.wav | Audio — sonnette de porte en deux notes synthétisée (Lot 7) | Synthèse originale du projet | CC0 |
+
+Au Lot 7, la catégorie Traditions réutilise aussi proprement des médias des lots précédents, déjà crédités ci-dessus : `cimetiere-nuit.svg`, `pierres-levees.svg`, `tambour-rituel.wav` et `feu-samhain.svg` (Lot 2), `costume-fantome.svg`, `crane-sucre.svg`, `citrouille-lanterne.svg` et `bougie.svg` (Lots 1-2), `araignee-toile.svg` (Lot 6), `manoir-hante.svg` (Lot 4), `cercueil.svg`, `bateau-famine.svg`, `chateau.svg` et `lettre-gothique.svg` (Lots 2-4), `glas-trois-coups.wav` (Lot 2). La catégorie compte 30 questions média (26 image, 4 audio), toutes jouables. traditions-0018 a été complétée avec `gigue-irlandaise.wav` (composition originale, aucun air traditionnel reproduit) et sa question reformulée autour de la gigue entendue.
+
+## Questions média « à compléter » — aucune
+
+Depuis la fin du Lot 7, la banque complète ne contient plus aucune question `a-completer` : les 1 200 questions des six catégories sont jouables et tous leurs médias existent dans `app/public/media/` et `media/`, avec crédit et licence CC0.

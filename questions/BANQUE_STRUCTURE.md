@@ -77,3 +77,13 @@ Médias : 30-40 par catégorie (image ou audio), hébergés dans `/media`, créd
 - Autres catégories : Histoire 200/200 (Lot 2), Cinéma & séries 200/200 (Lot 3), Littérature 200/200 (Lot 4), Science 200/200 (Lot 5) ; traditions inchangée (20, 19 jouables ; 1 audio « à compléter » restante : traditions-0018)
 - **Banque globale : 1 020 questions, 1 019 jouables**
 - Reste : +180 pour traditions → 1 200
+
+## État Lot 7 — Banque complète (2026-10-20) — 1 200 / 1 200
+
+- **Traditions, bonbons & géographie : 200 / 200 — TERMINÉE** (200 jouables : 170 texte, 26 image, 4 audio ; médias = 30 questions, 15 %)
+  - Sous-thèmes des 180 nouvelles : traditions vivantes et fêtes des ancêtres dans le monde — Pologne, Guatemala, Bolivie, Équateur, Philippines, Obon, Chuseok, Vu Lan, Gai Jatra, Famadihana, Púca, Hop-tu-Naa, Castanyada, Fèt Gede (45) ; bonbons, marques, mythes de distribution et pratiques inclusives — Reese, Mars, Haribo, PEZ, candy corn, UNICEF, Teal Pumpkin Project, Beggars' Night, trunk-or-treat, recherches de Joel Best (45) ; citrouilles, records et pratiques nord-américaines — variétés, records Guinness datés et contextualisés, Keene, Half Moon Bay, Pumpkin Smash, squelette géant, enquêtes NRF 2023-2024 (45) ; géographie lugubre — Salem et Proctor's Ledge, Sleepy Hollow, La Nouvelle-Orléans, Catacombes de Paris, Highgate, Sedlec, Poveglia, lieux hantés des Amériques et d'Europe (45)
+  - traditions-0018 complétée : vrai média audio CC0 (`gigue-irlandaise.wav`, composition originale synthétisée) et question reformulée autour de la gigue entendue — **plus aucune question « à compléter » dans toute la banque**
+  - Contrôles automatisés : 200 id uniques et séquentiels, 200 textes uniques, 4 choix distincts par question, correctIndex valide, explication partout ; bonnes réponses des nouvelles réparties exactement 45/45/45/45 ; difficultés totales : 100 intermédiaires / 100 difficiles ; contrôle de similarité (Jaccard) interne et croisé avec Histoire pour distinguer traditions vivantes, pratiques et géographie des origines historiques
+  - Médias : 12 nouveaux fichiers originaux CC0 (10 SVG + 2 WAV synthétisés) dans app/public/media + media/, crédits dans CREDITS.md ; réutilisations propres des médias des Lots 1-6. Aucun hotlink, aucune photo protégée, aucun extrait commercial
+- Autres catégories : Histoire 200/200 (Lot 2), Cinéma & séries 200/200 (Lot 3), Littérature 200/200 (Lot 4), Science 200/200 (Lot 5), Musique 200/200 (Lot 6)
+- **Banque globale : 1 200 questions, 1 200 jouables — BANQUE COMPLÈTE**
