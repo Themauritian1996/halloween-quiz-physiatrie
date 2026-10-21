@@ -1,0 +1,131 @@
+# 🎃 Quiz Halloween — Résidents en physiatrie
+
+Quiz de culture générale **Halloween** multijoueur en temps réel, pour les **résidents en physiatrie** (pas pédiatrie). Un hôte crée une partie, les joueurs rejoignent par **lien unique / code à 6 caractères / QR code**, répondent chacun sur leur appareil, avec **pouvoirs spéciaux**, **modes solo et équipes**, et **classement en direct**.
+
+> Spec de référence : [`SPEC_v2.md`](SPEC_v2.md) à la racine du projet. État : **Lot 2** — application jouable complète, **multijoueur distant Firestore réellement branché** (repli démo local automatique), banque de **300 questions** dont **Histoire & origines au complet : 200**. Cible finale : 200 questions/catégorie = 1 200.
+
+## 🚀 Démarrage rapide (mode démo local, sans aucun compte)
+
+```bash
+cd app
+npm install
+npm run dev
+```
+
+Ouvre l'URL affichée (par défaut http://localhost:5173) :
+
+1. **Créer une partie (hôte)** → configure la partie → un code, un lien et un QR code apparaissent dans le lobby.
+2. **Rejoindre** : clique « Ouvrir un onglet joueur » dans le lobby (ou ouvre le lien dans un autre onglet du **même navigateur**), entre un pseudo, choisis ton équipe si le mode l'exige.
+3. L'hôte peut ajouter des **🤖 bots de démo** pour tester seul.
+4. **Lancer la partie** → questions, timer, pouvoirs, révélations avec explications, classement live, podium final (individuel + équipes).
+
+Le mode démo synchronise les onglets via `localStorage` + `BroadcastChannel` (`src/lib/room.js`). Il fonctionne **sans Firebase, sans serveur, sans clé**.
+
+## ⚙️ Configuration d'une partie (écran hôte)
+
+- **Nombre de questions éditable : 10 à 60** (défaut 30), avec **durée estimée** en direct
+- **Répartition** : équilibrée entre catégories / aléatoire / manuelle (nombre par catégorie)
+- **Difficulté** : mixte / intermédiaire / difficile — **Médias** : mixte / sans média / médias seulement
+- **Timer par question** : 30 / 45 / 60 secondes
+- **Modes** : Solo · Équipes libres (le joueur choisit, 2 à 6 équipes aux noms éditables) · Équipes aléatoires (assignation équilibrée au lancement)
+- **Option vote consensus** (modes équipes) : la réponse majoritaire de l'équipe compte ; égalité → choix du capitaine (le premier membre de l'équipe)
+- **Score d'équipe** : somme ou moyenne des membres
+
+## 📏 Règles de scoring
+
+- **Vitesse** : bonne réponse = 500 + 500 × (temps restant / temps total), soit 500 à 1 000 pts
+- **Bonus série** : +150 pts chaque fois qu'une série de bonnes réponses atteint un multiple de 3 (le bonus n'est ni doublé ni coupé par la Malédiction)
+- **Pouvoirs — 1 utilisation de chacun par partie** :
+  - **✖️2 Double points** : double ta base vitesse sur la question en cours
+  - **⏭️ Sauter** : 0 pt, série conservée, immunisé à la pénalité de la question (même sous Malédiction)
+  - **½ 50/50** : élimine 2 mauvaises réponses, pour toi seul
+  - **☠️ MALÉDICTION** : s'applique à **tout le monde** sur la question en cours — bonne réponse = **50 % des points seulement**, mauvaise réponse ou absence de réponse = **−500 pts**. Une seule Malédiction peut être active par question (la première compte, les suivantes ne sont pas consommées), le lanceur subit aussi l'effet, et l'effet est **visible par tous avant de répondre** (bandeau rouge). Le score cumulé ne descend jamais sous 0.
+
+## ❓ Banque de questions (Lot 2 : 300, dont 296 jouables)
+
+Niveau **intermédiaire à difficile**, 4 choix, 1 seule bonne réponse, **explication vérifiable pour chaque question** :
+
+| Catégorie | État Lot 2 | Jouables | Fichier |
+|---|---|---|---|
+| Histoire & origines | ✅ **200 / 200 — terminée** | 200 (167 texte, 21 image, 12 audio) | `src/data/histoire.json` (copie : `../questions/histoire.json`) |
+| Cinéma & séries | 20 / 200 | 19 | `src/data/cinema-series.json` |
+| Littérature, légendes & monstres | 20 / 200 | 19 | `src/data/litterature.json` |
+| Science, anatomie & médecine macabre *(clin d'œil physiatrie : nerf sciatique, membre fantôme, prothèses…)* | 20 / 200 | 20 | `src/data/science-medecine.json` |
+| Musique & pop culture | 20 / 200 | 19 | `src/data/musique-pop.json` |
+| Traditions, bonbons & géographie | 20 / 200 | 19 | `src/data/traditions.json` |
+
+**Types texte / image / audio** : lecteur média intégré (image affichée avec crédit, audio avec **replay limité à 2 écoutes** côté joueur). Tous les médias sont des **créations originales du projet sous CC0** (illustrations SVG + sons synthétisés, voir `public/media/CREDITS.md`) — aucun hotlink. Histoire compte **33 questions média (16,5 %)**, dans la cible de la spec. Il reste 4 questions audio marquées `media.status: "a-completer"` (cinéma, littérature, musique, traditions) qui attendent leur extrait libre de droits et sont **exclues automatiquement** des parties.
+
+Format d'une question : voir `SPEC_v2.md` §4 (`id`, `category`, `difficulty`, `type`, `question`, `choices`, `correctIndex`, `explanation`, `media {kind, src, alt, credit, licence}`).
+
+## ☁️ Multijoueur distant (Firebase Firestore — branché au Lot 2)
+
+Le mode démo local synchronise les onglets d'**un seul navigateur**. Avec une config Firebase, le store de partie (`app/src/lib/room.js`) bascule **automatiquement** sur Firestore : un document `rooms/{code}` par partie (config, joueurs, réponses, scores), écouté en temps réel par `onSnapshot` — l'hôte et chaque joueur sont alors sur des **appareils différents**, joints par le lien ou le code de partie. Le mapping état local ↔ document est isolé et testé dans `app/src/lib/roomMapping.js` (`npm test`). Sans config dans `.env`, l'app reste en mode démo local.
+
+Pour activer le distant :
+
+1. Crée un projet sur [console.firebase.google.com](https://console.firebase.google.com) et active **Firestore** (mode production).
+2. Déploie les règles de sécurité fournies à la racine : `firestore.rules` (déjà référencées par `firebase.json`) — elles limitent l'accès à la seule collection `rooms`, interdisent de lister les parties, exigent un document de partie bien formé et ferment tout le reste de la base. Déploiement : `firebase deploy --only firestore:rules` (avec [firebase-tools](https://firebase.google.com/docs/cli)) ou copier-coller dans la console Firebase → Firestore → Règles.
+3. Copie `app/.env.example` en `app/.env` et remplis les `VITE_FIREBASE_*` avec la config web de **ton** projet (le fichier `.env` est gitignoré — **aucun secret dans le code ni dans Git**).
+4. Rebuild/redéploie : le badge dans l'app indique alors « ☁️ En ligne (Firestore) ».
+
+> Honnêteté Lot 2 : le code Firestore est complet et le mapping est couvert par des tests automatisés, mais **aucun test réseau réel n'a été fait dans l'environnement de développement** (pas de projet Firebase réel ni d'émulateur disponible là-bas). Le premier vrai test se fait en suivant les étapes ci-dessus, puis en jouant une partie entre deux appareils différents.
+
+> Note de modèle : sans authentification (les joueurs rejoignent sans compte, comme les quiz commerciaux à code de salle), la sécurité repose sur le code de partie à 6 caractères et sur les règles ci-dessus — elles ne peuvent pas distinguer l'hôte d'un joueur connaissant le code. Voir les commentaires détaillés en tête de `firestore.rules`.
+
+## 🚀 Mise en ligne (GitHub + GitHub Pages, pas à pas)
+
+Le repo est prêt pour GitHub (git initialisé, `.gitignore` complet : `node_modules`, `dist`, `.env`, `.firebaserc`, `.firebase`).
+
+1. **Créer le repo GitHub** (vide, sans README ni .gitignore auto) — par ex. `halloween-quiz-physiatrie`.
+2. **Relier et pousser** depuis la racine du projet :
+   ```bash
+   git remote add origin git@github.com:<ton-compte>/halloween-quiz-physiatrie.git
+   git push -u origin main
+   ```
+3. **Créer les secrets GitHub** (repo → *Settings → Secrets and variables → Actions → New repository secret*) — ce sont les mêmes valeurs que `app/.env`, lues au build par le workflow :
+   `VITE_FIREBASE_API_KEY`, `VITE_FIREBASE_AUTH_DOMAIN`, `VITE_FIREBASE_PROJECT_ID`, `VITE_FIREBASE_STORAGE_BUCKET`, `VITE_FIREBASE_MESSAGING_SENDER_ID`, `VITE_FIREBASE_APP_ID`.
+   ( Sans eux, le site se déploie quand même, en mode démo local. )
+4. **Activer Pages** : repo → *Settings → Pages → Build and deployment → Source : **GitHub Actions***.
+5. **C'est tout** : le workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) se déclenche à chaque push sur `main` — tests, build avec `VITE_BASE_PATH=/<nom-du-repo>/` (sous-chemin Pages, calculé automatiquement), publication. Le site sort à `https://<ton-compte>.github.io/halloween-quiz-physiatrie/`.
+6. **Créer le projet Firebase** (si pas déjà fait) : console Firebase → nouveau projet → **Firestore Database → Créer** → déployer `firestore.rules` (étape 2 de la section précédente) → *Paramètres du projet → Tes applications → Web* pour récupérer les valeurs `VITE_FIREBASE_*` à mettre (a) dans les secrets GitHub ci-dessus et (b) dans `app/.env` pour le développement local. Les deux sont indépendants : CI n'utilise PAS ton `.env`.
+
+### Alternative : Firebase Hosting
+
+Plutôt que Pages : `cp .firebaserc.example .firebaserc` (mettre l'ID du projet, fichier gitignoré), installer firebase-tools, puis `bash scripts/deploy-firebase.sh` — le script build avec base `/`, puis déploie Hosting (public = `app/dist`, réécritures SPA déjà dans `firebase.json`) **et** les règles Firestore en une commande.
+
+### Base path Vite (important)
+
+`app/vite.config.js` lit `VITE_BASE_PATH` au build : défaut `./` (local, Firebase Hosting avec `/`), le workflow Pages le fixe à `/<nom-du-repo>/`. N'y touche pas à la main sauf hébergeur exotique.
+
+## 🗂️ Structure
+
+```
+halloween-quiz-physiatrie/
+├── SPEC_v2.md                  # spec validée (source de vérité)
+├── README.md                   # ce fichier (aussi copié dans app/)
+├── firestore.rules             # règles Firestore (collection rooms uniquement)
+├── firebase.json               # Firestore rules + Hosting (public app/dist, SPA)
+├── .firebaserc.example         # modèle de sélection du projet Firebase
+├── .github/workflows/deploy-pages.yml  # CI : tests + build + GitHub Pages
+├── scripts/deploy-firebase.sh  # alternative : déploiement Firebase Hosting
+├── questions/                  # banque source (JSON par catégorie) + BANQUE_STRUCTURE.md
+├── media/                      # copies des médias servis
+└── app/
+    ├── public/media/           # médias servis (SVG CC0, WAV CC0, CREDITS.md)
+    ├── tests/                  # node --test : scoring + mapping Firestore
+    └── src/
+        ├── App.jsx             # écrans : accueil, config, lobby, jeu, révélation, podium
+        ├── data/*.json         # banque importée par l'app (miroir de questions/)
+        └── lib/
+            ├── questions.js    # catalogue, filtres, sélection sans remise
+            ├── scoring.js      # scoring vitesse, série, Malédiction, consensus
+            ├── room.js         # store de partie asynchrone : Firestore ou démo locale
+            ├── roomMapping.js  # mapping pur état <-> document Firestore (testé)
+            └── firebase.js     # init Firebase optionnelle via .env
+```
+
+## 🛣️ Lots suivants
+
+- **Lot 2 (fait)** : Firestore branché pour le jeu à distance, Histoire & origines portée à 200 questions (33 médias), repo prêt pour GitHub (CI Pages) et Firebase Hosting.
+- **Lots 3+** : autres catégories vers 200 chacune (cinéma, littérature, science, musique, traditions) jusqu'à 1 200, médias audio définitifs des 4 dernières questions « à compléter », équilibrage des difficultés, thèmes visuels saisonniers.
