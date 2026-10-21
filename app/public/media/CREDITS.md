@@ -77,5 +77,29 @@ Au Lot 3, la question cinema-0020 (orgue) a reçu son média définitif (`orgue-
 
 Au Lot 4, la question litterature-0019 (Le Corbeau) a reçu son média définitif (`ambiance-corbeau.wav`, CC0, ambiance originale — aucun texte lu, aucun extrait protégé) et une question réécrite (l'ancienne formulation, qui présentait « The Raven » comme le seul poème d'un recueil, était inexacte) : elle est devenue jouable — plus aucune question « à compléter » dans la catégorie Littérature, légendes & monstres.
 
+## Lot 5 — Science, anatomie & médecine macabre (médias originaux CC0 ajoutés)
+
+| Fichier | Type | Auteur / source | Licence |
+|---|---|---|---|
+| theatre-anatomie.svg | Image — théâtre anatomique en gradins (Lot 5) | Illustration originale du projet | CC0 |
+| crane-anatomie.svg | Image — crâne humain de face (Lot 5) | Illustration originale du projet | CC0 |
+| momie.svg | Image — momie bandelettée (Lot 5) | Illustration originale du projet | CC0 |
+| vase-canope.svg | Image — vase canope à tête de faucon (Lot 5) | Illustration originale du projet | CC0 |
+| masque-peste.svg | Image — masque de médecin de peste à long bec (Lot 5) | Illustration originale du projet | CC0 |
+| microscope-ancien.svg | Image — microscope ancien en laiton (Lot 5) | Illustration originale du projet | CC0 |
+| balance-apothicaire.svg | Image — balance d'apothicaire (Lot 5) | Illustration originale du projet | CC0 |
+| amanite.svg | Image — amanite à chapeau rouge tacheté (Lot 5) | Illustration originale du projet | CC0 |
+| grenouille-galvanisme.svg | Image — grenouille reliée à des fils électriques (Lot 5) | Illustration originale du projet | CC0 |
+| cerveau.svg | Image — cerveau humain schématique (Lot 5) | Illustration originale du projet | CC0 |
+| chair-de-poule.svg | Image — peau frissonnante aux poils dressés (Lot 5) | Illustration originale du projet | CC0 |
+| main-fer.svg | Image — main prothétique en fer articulée (Lot 5) | Illustration originale du projet | CC0 |
+| prothese-jambe.svg | Image — prothèse de jambe en bois (Lot 5) | Illustration originale du projet | CC0 |
+| cabinet-curiosites.svg | Image — cabinet de curiosités et spécimens (Lot 5) | Illustration originale du projet | CC0 |
+| sifflement-serpent.wav | Audio — sifflement de serpent synthétisé (Lot 5) | Synthèse originale du projet | CC0 |
+| pulsation-lente.wav | Audio — pulsation lente synthétisée (Lot 5) | Synthèse originale du projet | CC0 |
+| respiration-sommeil.wav | Audio — respiration lente d'un dormeur synthétisée (Lot 5) | Synthèse originale du projet | CC0 |
+
+Au Lot 5, la catégorie Science réutilise aussi proprement des médias des lots précédents, déjà crédités ci-dessus : `squelette-main.svg` et `theremine.wav` (Lot 1), `cloche-funebre.wav` (Lot 1), `battement-coeur.wav` (Lot 3), `potion-flacon.svg`, `loup-garou.svg`, `chuchotements.wav` et `hurlement-loup.wav` (Lot 4), `vent-nuit.wav` et `glas-trois-coups.wav` (Lot 2). La catégorie compte 30 questions média (19 image, 11 audio), toutes jouables — aucune question « à compléter ».
+
 ## Questions média « à compléter »
 Quelques questions d'autres catégories portent encore `media.status: "a-completer"` dans les JSON de la banque : leur extrait audio définitif (libre de droits / domaine public) sera sourcé à un lot ultérieur. Elles sont **exclues automatiquement** des parties (voir `isPlayable` dans `src/lib/questions.js`) tant que le média n'est pas livré — aucun lien mort, aucun faux média en jeu.
