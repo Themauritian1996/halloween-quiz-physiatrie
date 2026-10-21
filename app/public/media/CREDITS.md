@@ -48,5 +48,34 @@ Au Lot 2, la question histoire-0019 (glas) a reçu son média définitif (`cloch
 
 Au Lot 3, la question cinema-0020 (orgue) a reçu son média définitif (`orgue-mineur.wav`, CC0, Lot 1) et est devenue jouable — plus aucune question « à compléter » dans la catégorie Cinéma & séries.
 
+## Lot 4 — Littérature, légendes & monstres (médias originaux CC0 ajoutés)
+
+| Fichier | Type | Auteur / source | Licence |
+|---|---|---|---|
+| crane-plume.svg | Image — crâne et plume d'écriture (Lot 4) | Illustration originale du projet | CC0 |
+| manoir-hante.svg | Image — manoir isolé sous la lune (Lot 4) | Illustration originale du projet | CC0 |
+| vampire.svg | Image — vampire en cape devant la lune (Lot 4) | Illustration originale du projet | CC0 |
+| cercueil.svg | Image — cercueil en bois à croix dorée (Lot 4) | Illustration originale du projet | CC0 |
+| lettre-gothique.svg | Image — lettre ancienne scellée à la cire (Lot 4) | Illustration originale du projet | CC0 |
+| potion-flacon.svg | Image — flacon de potion verte (Lot 4) | Illustration originale du projet | CC0 |
+| tentacule.svg | Image — tentacules émergeant de l'eau sombre (Lot 4) | Illustration originale du projet | CC0 |
+| bougie.svg | Image — bougie allumée dans la nuit (Lot 4) | Illustration originale du projet | CC0 |
+| chat-noir.svg | Image — chat noir au dos arqué (Lot 4) | Illustration originale du projet | CC0 |
+| baba-yaga-hutte.svg | Image — hutte sur pattes de poulet (Lot 4) | Illustration originale du projet | CC0 |
+| lanterne-yokai.svg | Image — lanterne en papier à œil unique (Lot 4) | Illustration originale du projet | CC0 |
+| loup-garou.svg | Image — loup hurlant à la pleine lune (Lot 4) | Illustration originale du projet | CC0 |
+| grimoire.svg | Image — grimoire ancien à fermoir (Lot 4) | Illustration originale du projet | CC0 |
+| miroir-magique.svg | Image — miroir ovale fissuré (Lot 4) | Illustration originale du projet | CC0 |
+| croassement-corbeau.wav | Audio — croassements de corbeau synthétisés (Lot 4) | Synthèse originale du projet | CC0 |
+| ambiance-corbeau.wav | Audio — corbeau et vent nocturne synthétisés (Lot 4) | Synthèse originale du projet | CC0 |
+| orgue-gothique.wav | Audio — mélodie d'orgue en la mineur synthétisée (Lot 4) | Synthèse originale du projet | CC0 |
+| tonnerre-pluie.wav | Audio — pluie et grondement de tonnerre synthétisés (Lot 4) | Synthèse originale du projet | CC0 |
+| viole-zann.wav | Audio — viole dissonante synthétisée (Lot 4) | Synthèse originale du projet | CC0 |
+| chuchotements.wav | Audio — chuchotements déformés synthétisés (Lot 4) | Synthèse originale du projet | CC0 |
+| hurlement-loup.wav | Audio — hurlement nocturne synthétisé (Lot 4) | Synthèse originale du projet | CC0 |
+| ricanement-sorciere.wav | Audio — ricanement de sorcière synthétisé (Lot 4) | Synthèse originale du projet | CC0 |
+
+Au Lot 4, la question litterature-0019 (Le Corbeau) a reçu son média définitif (`ambiance-corbeau.wav`, CC0, ambiance originale — aucun texte lu, aucun extrait protégé) et une question réécrite (l'ancienne formulation, qui présentait « The Raven » comme le seul poème d'un recueil, était inexacte) : elle est devenue jouable — plus aucune question « à compléter » dans la catégorie Littérature, légendes & monstres.
+
 ## Questions média « à compléter »
 Quelques questions d'autres catégories portent encore `media.status: "a-completer"` dans les JSON de la banque : leur extrait audio définitif (libre de droits / domaine public) sera sourcé à un lot ultérieur. Elles sont **exclues automatiquement** des parties (voir `isPlayable` dans `src/lib/questions.js`) tant que le média n'est pas livré — aucun lien mort, aucun faux média en jeu.
