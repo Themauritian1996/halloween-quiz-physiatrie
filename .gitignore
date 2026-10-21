@@ -1,0 +1,21 @@
+# Dépendances et builds
+**/node_modules/
+**/dist/
+dist-ssr/
+
+# Environnement et secrets — JAMAIS dans Git
+.env
+.env.*
+!.env.example
+.firebaserc
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Divers
+*.local
+*.log
+.DS_Store

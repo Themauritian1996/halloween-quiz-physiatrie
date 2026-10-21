@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-night: #12081f;
+  --color-panel: #1e1133;
+  --color-pumpkin: #f97316;
+  --color-slime: #a3e635;
+  --color-blood: #dc2626;
+}
+
+body {
+  background: #12081f;
+  color: #f5f0e8;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  margin: 0;
+}
+
+@keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.floaty { animation: floaty 3s ease-in-out infinite; }

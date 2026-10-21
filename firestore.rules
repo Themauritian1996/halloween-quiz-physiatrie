@@ -1,0 +1,69 @@
+rules_version = '2';
+
+// ============================================================================
+// Quiz Halloween — physiatrie : règles Firestore (Lot 2)
+//
+// Modèle de données : UN document par partie, `rooms/{code}` (état complet :
+// config, joueurs, réponses, scores). Aucune autre collection n'est utilisée.
+//
+// Sans authentification (choix du projet : les joueurs rejoignent sans
+// compte), la sécurité repose sur :
+//   1. Le code de partie : 6 caractères sur un alphabet de 31 symboles
+//      (~28 milliards de combinaisons), seul moyen d'adresser un document.
+//   2. Ces règles : la collection `rooms` est la SEULE accessible, la liste
+//      des parties est interdite (pas d'énumération), et tout document écrit
+//      doit avoir exactement la forme d'une partie (code = id du document,
+//      statut connu, tableaux présents, taille bornée).
+//   3. Tout le reste de la base est fermé (règle par défaut en bas).
+//
+// Limite honnête : sans Firebase Auth, les règles ne peuvent pas distinguer
+// l'hôte d'un joueur ; quiconque connaît le code peut lire/écrire CETTE
+// partie. Pour un quiz entre résidents, c'est le compromis assumé (même
+// modèle que les codes de salle des quiz commerciaux sans compte). Si le
+// projet passe en Auth anonyme un jour, durcir ici en exigeant
+// request.auth != null.
+// ============================================================================
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isValidRoom(roomId, data) {
+      return data.code == roomId
+        && data.code.matches('^[A-Z0-9]{6}$')
+        && data.status in ['lobby', 'question', 'reveal', 'finished']
+        && data.config is map
+        && data.players is list
+        && data.questionIds is list
+        && data.answers is map
+        && data.keys().hasAll(['code', 'config', 'status', 'teams', 'players',
+                               'questionIds', 'currentIndex', 'answers', 'round',
+                               'lastDetail', 'scoredIndex']);
+    }
+
+    match /rooms/{roomId} {
+      // Lecture d'UNE partie connue (par son code) : oui. Lister les parties : non.
+      allow get: if true;
+      allow list: if false;
+
+      // Création : seulement un document de partie bien formé, code = id.
+      allow create: if isValidRoom(roomId, request.resource.data)
+                    && request.resource.data.status == 'lobby'
+                    && request.resource.data.size() < 200;
+
+      // Mise à jour : même forme, nombre de champs borné (les règles ne peuvent
+      // pas mesurer la taille en octets ; un état de partie reste de toute
+      // façon très en dessous de la limite Firestore de 1 Mio par document).
+      allow update: if isValidRoom(roomId, request.resource.data)
+                    && request.resource.data.size() < 200;
+
+      // Suppression : interdite depuis les clients (ménage manuel via la console,
+      // ou script d'administration). Évite qu'un joueur efface la partie en cours.
+      allow delete: if false;
+    }
+
+    // Tout le reste de la base : fermé.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
