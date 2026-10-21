@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect width="400" height="300" fill="#161226"/>
+<g stroke="#8d99ae" stroke-width="2" opacity="0.85">
+<path d="M200 128 L36 20 M200 128 L200 8 M200 128 L364 20 M200 128 L384 128 M200 128 L356 244 M200 128 L200 268 M200 128 L44 244 M200 128 L16 128"/>
+<path d="M200 100 q-70 -6 -104 -34 M200 100 q0 -44 0 -64 M200 100 q66 -8 104 -34 M200 100 q48 0 76 0 M200 100 q44 30 66 58 M200 100 q0 50 0 78 M200 100 q-44 34 -70 58 M200 100 q-50 0 -80 0" fill="none"/>
+<path d="M200 72 q-104 -8 -152 -52 M200 72 q104 -10 152 -52 M200 72 q96 44 128 56 M200 72 q-96 44 -128 56" fill="none" opacity="0.6"/>
+</g>
+<path d="M200 128 L200 178" stroke="#8d99ae" stroke-width="2"/>
+<ellipse cx="200" cy="200" rx="17" ry="21" fill="#1d1430"/>
+<ellipse cx="200" cy="180" rx="10" ry="9" fill="#1d1430"/>
+<circle cx="196" cy="178" r="2" fill="#e2703a"/><circle cx="204" cy="178" r="2" fill="#e2703a"/>
+<g stroke="#1d1430" stroke-width="5" fill="none">
+<path d="M186 188 q-22 -4 -30 -20 M186 198 q-24 2 -36 -8 M186 208 q-22 8 -28 22"/>
+<path d="M214 188 q22 -4 30 -20 M214 198 q24 2 36 -8 M214 208 q22 8 28 22"/>
+</g>
+<circle cx="330" cy="238" r="15" fill="#e8e0cc" opacity="0.9"/>
+</svg>

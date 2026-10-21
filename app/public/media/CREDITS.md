@@ -101,5 +101,36 @@ Au Lot 4, la question litterature-0019 (Le Corbeau) a reçu son média définiti
 
 Au Lot 5, la catégorie Science réutilise aussi proprement des médias des lots précédents, déjà crédités ci-dessus : `squelette-main.svg` et `theremine.wav` (Lot 1), `cloche-funebre.wav` (Lot 1), `battement-coeur.wav` (Lot 3), `potion-flacon.svg`, `loup-garou.svg`, `chuchotements.wav` et `hurlement-loup.wav` (Lot 4), `vent-nuit.wav` et `glas-trois-coups.wav` (Lot 2). La catégorie compte 30 questions média (19 image, 11 audio), toutes jouables — aucune question « à compléter ».
 
+## Lot 6 — Musique & pop culture (médias originaux CC0 ajoutés)
+
+| Fichier | Type | Auteur / source | Licence |
+|---|---|---|---|
+| boite-musique.wav | Audio — mélodie de boîte à musique originale, désaccordée (Lot 6) | Synthèse originale du projet | CC0 |
+| cloches-tubulaires.wav | Audio — cloches tubulaires synthétisées (Lot 6) | Synthèse originale du projet | CC0 |
+| pizzicato.wav | Audio — cordes en pizzicato synthétisées (Lot 6) | Synthèse originale du projet | CC0 |
+| cluster-cordes.wav | Audio — cluster de cordes dissonantes synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| power-chord.wav | Audio — riff en accords de puissance synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| basse-synthwave.wav | Audio — basse synthétique pulsée style synthwave (Lot 6) | Synthèse originale du projet | CC0 |
+| chant-dorian.wav | Audio — chant monodique original en mode dorien (Lot 6) | Synthèse originale du projet | CC0 |
+| sifflement.wav | Audio — thème sifflé original synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| violoncelle.wav | Audio — ligne de violoncelle synthétisée (Lot 6) | Synthèse originale du projet | CC0 |
+| scie-musicale.wav | Audio — scie musicale synthétisée (Lot 6) | Synthèse originale du projet | CC0 |
+| harpe-glissando.wav | Audio — glissando de harpe synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| choeur-spectral.wav | Audio — chœur spectral original synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| cor-harmonie.wav | Audio — cor d'harmonie synthétisé (Lot 6) | Synthèse originale du projet | CC0 |
+| orgue-tuyaux.svg | Image — orgue à tuyaux (Lot 6) | Illustration originale du projet | CC0 |
+| clavecin.svg | Image — clavecin (Lot 6) | Illustration originale du projet | CC0 |
+| theremin-antennes.svg | Image — thérémine et ses antennes (Lot 6) | Illustration originale du projet | CC0 |
+| masque-phantome.svg | Image — demi-masque blanc du Fantôme (Lot 6) | Illustration originale du projet | CC0 |
+| squelette-violon.svg | Image — squelette jouant du violon (Lot 6) | Illustration originale du projet | CC0 |
+| chauve-souris-lune.svg | Image — chauve-souris devant la pleine lune (Lot 6) | Illustration originale du projet | CC0 |
+| tourne-disque.svg | Image — tourne-disque vinyle (Lot 6) | Illustration originale du projet | CC0 |
+| maquillage-etoile.svg | Image — visage maquillé d'une étoile noire (Lot 6) | Illustration originale du projet | CC0 |
+| cloche-tour.svg | Image — tour à cloche (Lot 6) | Illustration originale du projet | CC0 |
+| araignee-toile.svg | Image — araignée dans sa toile (Lot 6) | Illustration originale du projet | CC0 |
+| boite-musique.svg | Image — boîte à musique à cylindre (Lot 6) | Illustration originale du projet | CC0 |
+
+Au Lot 6, la catégorie Musique & pop culture réutilise aussi proprement des médias des lots précédents, déjà crédités ci-dessus : `orgue-gothique.wav` (Lot 4), `glas-trois-coups.wav` et `tonnerre-pluie.wav` (Lot 2), `television-retro.svg` (Lot 3), `chateau.svg` et `citrouille-lanterne.svg` (Lot 1). La catégorie compte 32 questions média (18 audio, 14 image), toutes jouables — aucune question « à compléter ». musique-0015 a été complétée avec `boite-musique.wav` (mélodie originale synthétisée, aucune mélodie protégée reproduite) et sa question réécrite sur le mécanisme de la boîte à musique.
+
 ## Questions média « à compléter »
 Quelques questions d'autres catégories portent encore `media.status: "a-completer"` dans les JSON de la banque : leur extrait audio définitif (libre de droits / domaine public) sera sourcé à un lot ultérieur. Elles sont **exclues automatiquement** des parties (voir `isPlayable` dans `src/lib/questions.js`) tant que le média n'est pas livré — aucun lien mort, aucun faux média en jeu.
