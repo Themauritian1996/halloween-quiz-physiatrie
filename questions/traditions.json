@@ -3,40 +3,44 @@
   "id": "traditions-0001",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute la sonnette d'une porte, un soir d'Halloween. Que crient les enfants en France le soir d'Halloween quand on leur ouvre la porte ?",
+  "type": "image",
+  "question": "Cornes recourbées, crocs, yeux jaunes et masque de bois sculpté : quelle créature des Alpes défile ainsi dans les rues autrichiennes début décembre pour effrayer les enfants pas sages ?",
   "choices": [
-   "Joyeux Halloween, merci !",
-   "Des bonbons ou un sort !",
-   "Trick ou friandise surprise !",
-   "Donnez-moi un chocolat chaud !"
+   "Krampus",
+   "Le père Fouettard",
+   "Zwarte Piet, le compagnon néerlandais",
+   "La Befana, la sorcière italienne"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est la traduction de « trick or treat » : un bonbon, sinon gare au petit sort (gentil, promis).",
+  "correctIndex": 0,
+  "explanation": "C'est Krampus, le compagnon démoniaque de saint Nicolas dans le folklore alpin (Autriche, Bavière, Tyrol) : lors de la Krampusnacht, le 5 décembre, des défilés de créatures cornues — les Krampusläufe — envahissent les rues en agitant chaînes et cloches.",
   "media": {
-   "kind": "audio",
-   "src": "/media/sonnette-porte.wav",
-   "alt": "Sonnette de porte synthétisée",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0250.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
   "id": "traditions-0002",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "En anglais, que veut dire « trick or treat » mot à mot ?",
+  "type": "image",
+  "question": "Blanc, orange et jaune, en petits cônes triangulaires striés : quel bonbon emblématique d'Halloween aux États-Unis voit-on dans ce gros plan ?",
   "choices": [
-   "Un déguisement ou un décor",
-   "Un fantôme ou une sorcière",
-   "Une citrouille ou une bougie",
-   "Un sort ou une friandise"
+   "Le candy corn",
+   "Les jelly beans assortis",
+   "Les bonbons au maïs soufflé caramélisé",
+   "Les pastilles à la citrouille"
   ],
-  "correctIndex": 3,
-  "explanation": "« Trick », c'est la farce, « treat », c'est la gâterie. Le marché est clair et plutôt en faveur des bonbons.",
+  "correctIndex": 0,
+  "explanation": "C'est le candy corn, créé aux États-Unis dans les années 1880 : ses trois bandes — blanc, orange, jaune — imitent les couleurs d'un grain de maïs d'automne. On l'adore ou on le déteste, mais il est indissociable des sacs d'Halloween.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0262.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -61,18 +65,22 @@
   "id": "traditions-0004",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans la vieille tradition du « souling », que recevaient les visiteurs qui priaient pour les âmes des morts ?",
+  "type": "image",
+  "question": "Plats cuisinés, fruits, boissons et bâtonnets d'encens déposés sur l'herbe au bord d'une rue de Singapour : ces offrandes sont destinées aux esprits de passage. Pendant quelle fête d'Asie les dépose-t-on ainsi ?",
   "choices": [
-   "Des bougies parfumées",
-   "Des bonbons à la menthe",
-   "Des pommes caramélisées géantes",
-   "Des soul cakes, petits gâteaux ronds"
+   "Le Festival des fantômes affamés",
+   "La fête de la Mi-Automne",
+   "Le Nouvel An lunaire",
+   "La fête de Vesak"
   ],
-  "correctIndex": 3,
-  "explanation": "Ces petits gâteaux sont un ancêtre lointain de nos tournées de bonbons. Moins de chocolat, beaucoup plus de prières.",
+  "correctIndex": 0,
+  "explanation": "Pendant le Festival des fantômes affamés (7e mois du calendrier lunaire), on nourrit les esprits errants — ceux que personne ne vénère — avec des repas complets, du thé et de l'encens, déposés dans la rue à Singapour, en Malaisie et dans le sud de la Chine. Mieux vaut ne pas marcher dessus !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0253.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -170,21 +178,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "En ordre de grandeur, combien pesait la plus grosse citrouille jamais pesée au monde ?",
+  "question": "Des dizaines de lanternes en papier couvertes de messages et de dessins dérivent sur une rivière japonaise, à la nuit tombée. Comment s'appelle ce rituel qui clôt la fête d'Obon ?",
   "choices": [
-   "Environ 120 kg",
-   "Environ 400 kg",
-   "Environ 12 kg",
-   "Plus de 1 200 kg"
+   "Le hanami, la contemplation des cerisiers",
+   "Le tanabata, la fête des étoiles",
+   "Le tōrō nagashi, le lâcher de lanternes flottantes",
+   "Le setsubun, le lancer de haricots"
   ],
-  "correctIndex": 3,
-  "explanation": "En 2023, la citrouille de l'Américain Travis Gienger a atteint environ 1 247 kg, soit plus qu'une petite voiture. Impossible à mettre sur un perron.",
+  "correctIndex": 2,
+  "explanation": "C'est le tōrō nagashi : à la fin d'Obon, la fête japonaise des ancêtres, on fait flotter des lanternes en papier allumées pour guider les esprits des défunts vers l'au-delà. Cette photo a été prise à Hiroshima.",
   "media": {
    "kind": "image",
-   "src": "/media/citrouille-geante.svg",
-   "alt": "Illustration d'une citrouille géante de concours",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0252.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -210,21 +218,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quelles épices parfument classiquement la tarte à la citrouille nord-américaine ?",
+  "question": "Sur cet étal de marché mexicain, ils s'empilent par dizaines, blancs et décorés de glaçage multicolore, à côté de citrouilles en plastique. De quelle friandise du Día de los Muertos s'agit-il ?",
   "choices": [
-   "Cumin, paprika et origan",
-   "Cannelle, muscade et gingembre",
-   "Vanille, café et cardamome verte uniquement",
-   "Menthe, basilic et citronnelle"
+   "Des œufs en chocolat peints à la main",
+   "Des masques en céramique peinte",
+   "Des bougies parfumées en forme de tête",
+   "Des crânes en sucre décorés"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est le mélange « pumpkin spice » qu'on retrouve partout à l'automne, du latté à la bougie.",
+  "correctIndex": 3,
+  "explanation": "Ce sont des crânes en sucre (calaveras de azúcar) : friandises du Día de los Muertos mexicain, moulées en sucre glace et décorées de glaçage coloré. On y inscrit souvent le prénom d'un défunt… ou celui d'un ami bien vivant, pour rire.",
   "media": {
    "kind": "image",
-   "src": "/media/tarte-citrouille.svg",
-   "alt": "Illustration d'une tarte à la citrouille",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0254.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -249,18 +257,22 @@
   "id": "traditions-0014",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Aux États-Unis, qu'est-ce qu'un « pumpkin patch » visité en famille à l'automne ?",
+  "type": "image",
+  "question": "Rouge brillant comme un bonbon géant, croquante, servie sur un bâtonnet : quelle friandise de fête foraine et d'Halloween se cache sous cette coque de sucre coloré ?",
   "choices": [
-   "Un atelier de couture pour costumes",
-   "Un champ où l'on choisit sa citrouille sur place",
-   "Un marché de bonbons anciens",
-   "Un cimetière décoré de citrouilles"
+   "La barbe à papa rouge",
+   "La pomme d'amour",
+   "La sucette géante aux fruits",
+   "La fraise enrobée de chocolat"
   ],
   "correctIndex": 1,
-  "explanation": "On repart avec la citrouille parfaite, des photos plein le téléphone et souvent un beigne aux pommes en prime.",
+  "explanation": "C'est la pomme d'amour (candy apple) : une pomme entière piquée sur un bâton et trempée dans un sirop de sucre rouge qui durcit en coque brillante. Elle aurait été créée en 1908 par un confiseur du New Jersey — voisine sucrée des pommes du bobbing.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0263.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -340,21 +352,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Que sont les « calaveras de azúcar » du Día de los Muertos ?",
+  "question": "Elles brillent comme des lanternes dans la nuit et leur parfum intense est censé guider les âmes des défunts vers les autels. Quelles fleurs orange vif voit-on sur cette photo prise au Mexique ?",
   "choices": [
-   "Des bougies en forme de fleurs",
-   "Des masques en bois sculpté",
-   "Des crânes en sucre décorés de couleurs vives",
-   "Des petits tambours de fête"
+   "Les tournesols",
+   "Les soucis (cempasúchil)",
+   "Les chrysanthèmes",
+   "Les dahlias"
   ],
-  "correctIndex": 2,
-  "explanation": "Souvent personnalisés d'un prénom, ils se mangent ou décorent l'ofrenda. La mort, version confiserie.",
+  "correctIndex": 1,
+  "explanation": "Ce sont des soucis — cempasúchil en espagnol mexicain, « fleur des morts » — dont la couleur orange éclatante et l'odeur forte jonchent tombes et ofrendas du Día de los Muertos pour montrer le chemin aux âmes.",
   "media": {
    "kind": "image",
-   "src": "/media/crane-sucre.svg",
-   "alt": "Illustration d'un crâne en sucre décoré du Día de los Muertos",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0256.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -397,18 +409,22 @@
   "id": "traditions-0022",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quand célèbre-t-on principalement le Día de los Muertos ?",
+  "type": "image",
+  "question": "Grand feu de joie et gerbe d'étincelles dans la nuit : en Allemagne et en Suède, on allume ces brasiers au printemps, le soir du 30 avril, pour une nuit où les sorcières sont censées se rassembler. Quelle nuit est-ce ?",
   "choices": [
-   "Le 31 octobre uniquement",
-   "Les 1er et 2 novembre",
-   "Le dernier dimanche d'octobre",
-   "Le 25 décembre"
+   "La nuit de Guy Fawkes",
+   "Samhain, le nouvel an celtique",
+   "La nuit de Walpurgis",
+   "La nuit de la Saint-Jean"
   ],
-  "correctIndex": 1,
-  "explanation": "Juste après Halloween : le 1er honore surtout les enfants disparus, le 2 les adultes.",
+  "correctIndex": 2,
+  "explanation": "C'est la nuit de Walpurgis (Walpurgisnacht), du 30 avril au 1er mai : de grands feux chassent l'hiver — et les sorcières que la légende réunissait ce soir-là sur le mont Brocken, en Allemagne. En Suède, on y chante aussi le printemps autour du brasier (Valborg).",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0264.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -560,21 +576,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Que sont les Catacombes de Paris, très visitées toute l'année ?",
+  "question": "Bougies, arche de fleurs orange, crânes décorés, papiers découpés multicolores et photos de disparus : comment appelle-t-on cet autel dressé au Mexique pour accueillir les proches décédés ?",
   "choices": [
-   "Les cachots d'un château parisien disparu",
-   "D'anciennes caves à bonbons du XIXe siècle",
-   "Un réseau de métro abandonné décoré pour Halloween",
-   "Un immense ossuaire souterrain sous la ville"
+   "Un nacimiento, la crèche de Noël",
+   "Un autel de mariage traditionnel",
+   "Une ofrenda",
+   "Un étal de fête foraine"
   ],
-  "correctIndex": 3,
-  "explanation": "Des galeries tapissées d'ossements d'anciens cimetières parisiens : frissons réels, aucun acteur nécessaire.",
+  "correctIndex": 2,
+  "explanation": "C'est une ofrenda, l'autel du Día de los Muertos (1er et 2 novembre) : on y dépose photos, bougies, fleurs de souci, nourriture et objets aimés des défunts pour les accueillir le temps de la fête. Les papiers découpés colorés s'appellent papel picado.",
   "media": {
    "kind": "image",
-   "src": "/media/ossuaire.svg",
-   "alt": "Illustration d'un ossuaire souterrain",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0257.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -617,36 +633,44 @@
   "id": "traditions-0034",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle ville de Louisiane est réputée pour ses défilés et ses fêtes de rue à Halloween ?",
+  "type": "image",
+  "question": "Vue du ciel, ce champ a été taillé en un immense parcours où les visiteurs aiment se perdre à l'automne — le tracé dessine même des fantômes de jeu vidéo. De quelle attraction de ferme s'agit-il ?",
   "choices": [
-   "Sleepy Hollow",
-   "Salem",
-   "La Nouvelle-Orléans",
-   "Keene"
+   "Un parcours de golf miniature",
+   "Un circuit de course de tracteurs",
+   "Un terrain de paintball champêtre",
+   "Un labyrinthe de maïs (corn maze)"
   ],
-  "correctIndex": 2,
-  "explanation": "Krewe of Boo, costumes extravagants et Quartier français en fête : la ville sait recevoir, même les fantômes.",
+  "correctIndex": 3,
+  "explanation": "C'est un labyrinthe de maïs (corn maze), attraction éphémère taillée dans un champ de maïs, star des fermes d'automne nord-américaines. Celui-ci, photographié dans l'Indiana, reprend les fantômes du jeu Pac-Man — visibles seulement depuis le ciel !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0265.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
   "id": "traditions-0035",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Qui était Marie Laveau, figure légendaire de La Nouvelle-Orléans ?",
+  "type": "image",
+  "question": "Squelette souriant, immense chapeau à plumes et à fleurs : cette gravure satirique ancienne est devenue l'image la plus copiée du Día de los Muertos. Quelle figure représente-t-elle ?",
   "choices": [
-   "La première maire de la ville",
-   "La fondatrice du carnaval de la ville",
-   "Une chanteuse de jazz des années 1920",
-   "Une célèbre praticienne vaudou du XIXe siècle, surnommée « reine du vaudou »"
+   "La Catrina",
+   "La Llorona, la pleureuse",
+   "La Malinche",
+   "La Santa Muerte"
   ],
-  "correctIndex": 3,
-  "explanation": "Sa tombe au cimetière Saint-Louis attire encore les visiteurs. Légendes et histoire s'y mélangent joyeusement.",
+  "correctIndex": 0,
+  "explanation": "C'est La Catrina (à l'origine « La Calavera Catrina »), gravée vers 1910 par José Guadalupe Posada — dont on voit la signature en bas à droite — pour se moquer des élites mexicaines fascinées par la France. Son message : riches ou pauvres, nous finissons tous en squelettes.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0255.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -726,21 +750,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Au Japon, qu'est-ce que la fête d'Obon ?",
+  "question": "Sur cette carte postale américaine du début du XXe siècle, la sorcière traverse le ciel sur son balai. Quel animal domestique noir, compagnon classique des sorcières, voyage avec elle sur le balai (et réapparaît en bas à droite) ?",
   "choices": [
-   "Une fête estivale qui honore les esprits des ancêtres",
-   "Une fête des cerisiers au printemps",
-   "Un festival de costumes d'Halloween importé",
-   "Une parade de citrouilles géantes"
+   "Le chat noir",
+   "Le corbeau apprivoisé",
+   "Le rat noir",
+   "Le petit chien noir"
   ],
   "correctIndex": 0,
-  "explanation": "Les familles se réunissent, visitent les tombes et dansent pour accueillir les ancêtres quelques jours.",
+  "explanation": "C'est le chat noir, compagnon traditionnel des sorcières dans l'imaginaire d'Halloween : il est accroché au balai, queue en l'air avec un ruban rouge, et on le retrouve en bas de la carte, dos rond face aux citrouilles. Hibou et chauves-souris complètent le bestiaire.",
   "media": {
    "kind": "image",
-   "src": "/media/lanterne-papier.svg",
-   "alt": "Illustration de lanternes de papier pour une fête des ancêtres",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0258.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -855,18 +879,22 @@
   "id": "traditions-0047",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle est la règle de sécurité la plus connue dans une maison hantée commerciale ?",
+  "type": "image",
+  "question": "Faux cimetière sur la pelouse, squelettes attablés, personnages en capuchon et araignée géante sur le porche : qu'est-ce que cette maison américaine signale ainsi aux enfants déguisés du quartier ?",
   "choices": [
-   "Les monstres ne vous touchent pas, et vous ne les touchez pas non plus",
-   "Il faut courir le plus vite possible jusqu'à la sortie",
-   "Les téléphones doivent sonner en mode fantôme",
-   "Il faut fermer les yeux pendant tout le parcours"
+   "« Entrez : ici, on distribue des bonbons ! »",
+   "« Maison à vendre, fantômes inclus »",
+   "« Ne pas déranger avant Noël »",
+   "« Concours de jardinage, ne pas toucher »"
   ],
   "correctIndex": 0,
-  "explanation": "Un pacte simple entre monstres et visiteurs pour que tout le monde reparte avec des frissons, pas des bobos.",
+  "explanation": "Une maison décorée à ce point pour Halloween signale presque toujours qu'elle participe à la tournée de bonbons : décorations et porche accueillant = friandises assurées. À l'inverse, une maison sombre et sans décor se fait poliment sauter.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0266.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
@@ -874,21 +902,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Que signifie une citrouille turquoise (« teal pumpkin ») déposée devant une maison à Halloween ?",
+  "question": "Visage trempé, pomme coincée entre les dents et bassin d'eau qui éclabousse : à quel jeu traditionnel des fêtes d'Halloween ce joueur s'essaie-t-il ?",
   "choices": [
-   "Les citrouilles y sont peintes par des artistes professionnels",
-   "La maison distribue uniquement des bonbons bleus",
-   "C'est la maison du maire du quartier",
-   "On y offre des surprises non alimentaires, pensées pour les enfants allergiques"
+   "La course de relais aux pommes",
+   "Le lancer de pommes sur cible",
+   "L'épluchage de pomme en un seul ruban",
+   "Le bobbing for apples, attraper une pomme dans l'eau avec les dents"
   ],
   "correctIndex": 3,
-  "explanation": "Autocollants, petits jouets ou crayons : tout le monde peut remplir son seau, allergies ou pas.",
+  "explanation": "C'est le bobbing for apples : mains interdites, il faut attraper avec les dents une pomme qui flotte dans un bassin d'eau. Ce jeu d'automne d'origine celtique servait autrefois aussi à prédire les futurs mariages — aujourd'hui, il sert surtout à bien rire, trempé.",
   "media": {
    "kind": "image",
-   "src": "/media/citrouille-turquoise.svg",
-   "alt": "Illustration d'une citrouille turquoise",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0259.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -950,21 +978,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quelles sont les trois couleurs du candy corn, le bonbon triangulaire emblématique d'Halloween aux États-Unis ?",
+  "question": "Petite sorcière en cape, panier à la main et camarades costumés : ces enfants sont accueillis devant la Maison-Blanche par la Première dame des États-Unis, dans les années 1970. Quelle activité d'Halloween pratiquent-ils ?",
   "choices": [
-   "Rouge, blanc et bleu",
-   "Blanc, orange et jaune",
-   "Noir, orange et violet",
-   "Vert, jaune et rose"
+   "La chasse aux œufs de Pâques",
+   "Le concours de la plus belle citrouille",
+   "La tournée de bonbons (trick-or-treat)",
+   "La parade du 4 juillet"
   ],
-  "correctIndex": 1,
-  "explanation": "Empilées, ses couleurs imitent un grain de maïs d'automne. On adore ou on déteste, rarement entre les deux.",
+  "correctIndex": 2,
+  "explanation": "C'est la tournée de bonbons, le trick-or-treat : les enfants déguisés font du porte-à-porte pour récolter des friandises. Sur cette photo des Archives nationales américaines, ils participaient aussi à la collecte « Trick-or-Treat for UNICEF » — la petite boîte que tient la fillette en rose sert de tirelire pour les dons.",
   "media": {
    "kind": "image",
-   "src": "/media/candy-corn.svg",
-   "alt": "Illustration de bonbons candy corn tricolores",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0260.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1025,18 +1053,22 @@
   "id": "traditions-0056",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans les échanges de bonbons entre enfants après la tournée, qu'est-ce qui a le plus de valeur ?",
+  "type": "image",
+  "question": "À la tombée de la nuit, ce cimetière est devenu une mer de petites lanternes de verre posées sur les tombes par les familles. À quelle fête du 1er novembre correspond cette tradition, très vivace en Pologne ?",
   "choices": [
-   "Les brochures publicitaires glissées dans les sacs",
-   "Les emballages vides collectionnés",
-   "Les bonbons à la réglisse noire pour tout le monde",
-   "Les chocolats populaires comme Reese's et Kit Kat, troqués contre les bonbons moins aimés"
+   "Au Día de los Muertos",
+   "À la fête d'Obon",
+   "À la Toussaint",
+   "À la nuit de Walpurgis"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est une vraie petite bourse du sucre sur le tapis du salon. Certains négocient comme des pros.",
+  "correctIndex": 2,
+  "explanation": "C'est la Toussaint (1er novembre) : en Pologne, les familles déposent sur les tombes des milliers de lanternes funéraires appelées znicze, et les cimetières scintillent plusieurs jours durant. Une des plus belles images des fêtes des morts en Europe.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0268.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1115,18 +1147,22 @@
   "id": "traditions-0061",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Aux États-Unis, qu'est-ce que le « trunk-or-treat » organisé sur les stationnements d'écoles ou d'églises ?",
+  "type": "image",
+  "question": "Visage grimaçant, peau brune et rugueuse, pièce conservée dans un musée irlandais : avant que la citrouille américaine ne s'impose, dans quoi creusait-on ce genre de lanterne d'Halloween en Irlande ?",
   "choices": [
-   "Les enfants font le tour de coffres de voiture décorés pour recevoir des bonbons",
-   "Une course de voitures déguisées en citrouilles",
-   "Un échange de costumes usagés entre familles",
-   "Un concours de coffres remplis de décorations"
+   "Dans un melon",
+   "Dans un navet",
+   "Dans une noix de coco",
+   "Dans un ananas"
   ],
-  "correctIndex": 0,
-  "explanation": "Pratique et sécuritaire, la tournée se fait en boucle sur un stationnement transformé en village d'Halloween.",
+  "correctIndex": 1,
+  "explanation": "Dans un navet (ou une betterave fourragère) : ce sont les lanternes d'Halloween originales d'Irlande, liées à la légende de Jack le Radin. Petites et très dures à sculpter — les immigrants irlandais ont vite adopté la grosse citrouille américaine, bien plus tendre.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0267.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -1170,21 +1206,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Pour le Día de los Muertos, en quoi consiste le maquillage le plus populaire ?",
+  "question": "Alignées sur des palettes comme des championnes avant l'épreuve, ces géantes de plusieurs centaines de kilos attendent leur tour sur des bottes de foin. À quel type de concours d'automne nord-américain participent-elles ?",
   "choices": [
-   "Des paillettes dorées sur les joues uniquement",
-   "Un visage entièrement orange comme une citrouille",
-   "Un visage peint en crâne fleuri inspiré des calaveras",
-   "Un masque de luchador traditionnel"
+   "Le concours de citrouilles géantes, avec pesée officielle",
+   "Le concours de la plus belle citrouille sculptée",
+   "La vente aux enchères de courges rares",
+   "L'exposition de légumes en plastique grandeur nature"
   ],
-  "correctIndex": 2,
-  "explanation": "Yeux cerclés de pétales et détails colorés : le crâne devient une œuvre d'art festive.",
+  "correctIndex": 1,
+  "explanation": "Ce sont des citrouilles géantes présentées à une pesée officielle (un « weigh-off »), grande tradition des foires d'automne nord-américaines : les spécimens dépassent souvent 500 kg, et le record mondial homologué a franchi les 1 200 kg en 2023.",
   "media": {
    "kind": "image",
-   "src": "/media/parade-squelettes.svg",
-   "alt": "Illustration d'une parade de squelettes festifs",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0261.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -1245,18 +1281,22 @@
   "id": "traditions-0068",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle boisson chaude aux pommes accompagne souvent les fêtes d'automne et les visites de vergers en Amérique du Nord ?",
+  "type": "audio",
+  "question": "Écoute cet air martial mené par un instrument à poche, tuyaux et anche double, emblème des défilés en kilt. De quel instrument s'agit-il ?",
   "choices": [
-   "Le cidre de pomme chaud",
-   "Le chocolat à la menthe poivrée",
-   "Le lait doré au curcuma",
-   "Le thé glacé à la pêche"
+   "La grande cornemuse écossaise",
+   "Le hautbois de concert",
+   "L'accordéon diatonique",
+   "La trompette piccolo"
   ],
   "correctIndex": 0,
-  "explanation": "Servi avec un beigne à la cannelle après la balade en charrette, c'est le goût officiel de l'automne.",
+  "explanation": "C'est la grande cornemuse écossaise (great Highland bagpipe), qui joue ici « Scotland the Brave », air traditionnel écossais, dans un enregistrement d'une fanfare militaire américaine tombé dans le domaine public. En Écosse, la cornemuse accompagne fêtes et défilés depuis des siècles.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0270.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Audio — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1389,18 +1429,22 @@
   "id": "traditions-0076",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que propose le château de Bran autour d'Halloween pour les visiteurs adultes ?",
+  "type": "audio",
+  "question": "Violons sautillants et rythme endiablé en 6/8 : cette musique traditionnelle celtique sert à danser une danse rapide typique des veillées irlandaises. Laquelle ?",
   "choices": [
-   "Un banquet médiéval quotidien ouvert toute l'année",
-   "Un marathon de sculpture de citrouilles",
-   "Des visites nocturnes et des soirées costumées sur le thème de Dracula",
-   "Des cours de cuisine roumaine effrayante"
+   "La valse lente",
+   "La polka",
+   "Le tango",
+   "La gigue"
   ],
-  "correctIndex": 2,
-  "explanation": "Couloirs sombres, cape conseillée, ail facultatif. C'est l'Halloween le plus « dans le décor » qui soit.",
+  "correctIndex": 3,
+  "explanation": "C'est une gigue (jig), danse vive en 6/8 menée au violon, au cœur des veillées irlandaises et écossaises. Clin d'œil : à l'époque du guising, les enfants déguisés devaient souvent chanter ou danser un petit numéro avant de recevoir leur friandise d'Halloween.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0271.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Audio — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1443,22 +1487,22 @@
   "id": "traditions-0079",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Écoute cette gigue celtique entraînante. En Écosse, selon la tradition du guising, que devait faire un enfant avant de recevoir sa récompense ?",
+  "type": "image",
+  "question": "Torches, foule nocturne et mannequin en costume du XVIIe siècle porté en procession avant d'être brûlé : quel conspirateur anglais de 1605 cette effigie représente-t-elle, chaque 5 novembre au Royaume-Uni ?",
   "choices": [
-   "Chanter une chanson ou raconter une blague ou un poème",
-   "Deviner le prénom des occupants",
-   "Sculpter un navet sur le pas de la porte",
-   "Danser autour d'une citrouille allumée"
+   "Oliver Cromwell",
+   "Guy Fawkes",
+   "Le roi Charles Ier",
+   "William Wallace"
   ],
-  "correctIndex": 0,
-  "explanation": "Pas de spectacle, pas de friandise. L'ancêtre du « montre-moi ton talent » version Halloween.",
+  "correctIndex": 1,
+  "explanation": "C'est Guy Fawkes, arrêté dans la nuit du 4 au 5 novembre 1605 sous le Parlement de Londres, au milieu de barils de poudre : c'est la Conspiration des Poudres. Chaque 5 novembre, la Bonfire Night brûle son effigie, surnommée le « Guy » — ici lors des célèbres célébrations de Lewes.",
   "media": {
-   "kind": "audio",
-   "src": "/media/gigue-irlandaise.wav",
-   "alt": "Gigue celtique originale synthétisée",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0251.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -1483,18 +1527,22 @@
   "id": "traditions-0081",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "En Pologne et dans plusieurs pays d'Europe centrale, que font les familles à la Toussaint, le 1er novembre ?",
+  "type": "image",
+  "question": "Mie moelleuse parfumée, croûte saupoudrée de sucre et bandes de pâte en forme de petits os : quel pain traditionnel mexicain, déposé sur les autels des morts, voit-on dans ce gros plan ?",
   "choices": [
-   "Elles allument des milliers de bougies sur les tombes des cimetières",
-   "Elles organisent des concours de costumes dans les villages",
-   "Elles sculptent des betteraves géantes",
-   "Elles échangent des bonbons entre voisins"
+   "La concha, la brioche coquillage",
+   "Le bolillo, le petit pain salé",
+   "La rosca de reyes, la couronne des Rois",
+   "Le pan de muerto, le pain des morts"
   ],
-  "correctIndex": 0,
-  "explanation": "La nuit venue, les cimetières scintillent comme des cités de lumière. C'est l'une des plus belles images des fêtes des morts en Europe.",
+  "correctIndex": 3,
+  "explanation": "C'est le pan de muerto, le pain sucré du Día de los Muertos, parfumé à la fleur d'oranger et saupoudré de sucre : ses bandes de pâte évoquent des os (ou des larmes) et sa petite boule centrale, un crâne. On le partage en famille et on en dépose sur les ofrendas.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0269.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1645,18 +1693,22 @@
   "id": "traditions-0090",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quel bonbon gélifié en forme de vers de terre ou d'araignée est un classique des sacs d'Halloween ?",
+  "type": "audio",
+  "question": "Trompettes éclatantes, violons et grosses guitares : cet ensemble festif anime les fêtes de village comme les veillées des morts d'Amérique latine. De quel pays est-il l'emblème musical ?",
   "choices": [
-   "Les pastilles à la menthe forte",
-   "Les bonbons gommeux (« gummies ») aux fruits",
-   "Les sucres d'orge traditionnels",
-   "Les dragées aux amandes"
+   "De Cuba",
+   "Du Mexique",
+   "Du Brésil",
+   "De l'Argentine"
   ],
   "correctIndex": 1,
-  "explanation": "Vers, araignées et yeux gélifiés : plus ça a l'air dégoûtant, plus les enfants adorent.",
+  "explanation": "C'est un ensemble mariachi, emblème musical du Mexique (trompettes, violons, vihuela et guitarrón) : il anime les fêtes mexicaines, y compris les sérénades et veillées du Día de los Muertos, où la musique joyeuse honore les disparus.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0272.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Audio — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1789,18 +1841,22 @@
   "id": "traditions-0098",
   "category": "traditions",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Pourquoi certains quartiers organisent-ils la tournée d'Halloween un peu avant la noirceur complète ?",
+  "type": "video",
+  "question": "Regarde la vidéo : un visage grimaçant est d'abord dessiné, puis découpé patiemment au couteau. Quelle activité classique d'Halloween est filmée ici ?",
   "choices": [
-   "Parce que les bonbons s'épuisent toujours à 19 h",
-   "Pour la sécurité et le confort des plus petits monstres",
-   "Pour éviter de croiser les adolescents déguisés",
-   "Parce que les citrouilles s'éteignent à 20 h"
+   "La fabrication d'un épouvantail",
+   "La peinture d'un masque en plâtre",
+   "La construction d'une mini-maison hantée",
+   "La sculpture d'une citrouille-lanterne"
   ],
-  "correctIndex": 1,
-  "explanation": "Les mini-vampires ont une heure de coucher, même le 31 octobre.",
+  "correctIndex": 3,
+  "explanation": "C'est la sculpture d'une jack-o'-lantern : on dessine le visage sur la citrouille, on découpe au couteau, on évidera et on glissera une bougie (ou une LED) à l'intérieur. La vidéo montre l'étape du tracé et du début de la découpe.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0274.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -1825,18 +1881,22 @@
   "id": "traditions-0100",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle petite ville du Minnesota se proclame « capitale mondiale d'Halloween » pour avoir organisé l'une des premières parades d'Halloween aux États-Unis ?",
+  "type": "audio",
+  "question": "Son souffle rauque, presque venteux, et ses notes espacées viennent d'une flûte de bambou à cinq trous que jouaient autrefois des moines zen japonais. De quel instrument s'agit-il ?",
   "choices": [
-   "Anoka",
-   "Salem",
-   "Sleepy Hollow",
-   "Keene"
+   "Du dizi chinois",
+   "Du daegeum coréen",
+   "Du shakuhachi",
+   "De la flûte de Pan"
   ],
-  "correctIndex": 0,
-  "explanation": "Anoka revendique ce titre depuis sa parade lancée dans les années 1920 pour occuper joyeusement les jeunes le 31 octobre. Depuis, citrouilles et défilés y sont une affaire très sérieuse.",
+  "correctIndex": 2,
+  "explanation": "C'est le shakuhachi, flûte japonaise en bambou au son profondément soufflé, instrument de méditation des moines zen devenu un symbole sonore du Japon — on l'entend dans les musiques de fête traditionnelles comme au cinéma.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0273.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Audio — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  }
 ]

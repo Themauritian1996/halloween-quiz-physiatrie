@@ -4,39 +4,43 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Combien d'os compte le squelette d'un adulte en bonne santé ?",
+  "question": "Un squelette songeur, la main sous le menton, contemple un crâne posé sur un tombeau. Cette gravure de 1543 est la plus célèbre d'un ouvrage qui a révolutionné l'étude du corps humain. Lequel ?",
   "choices": [
-   "106",
-   "412",
-   "306",
-   "206"
+   "Micrographia, de Robert Hooke",
+   "De motu cordis, de William Harvey",
+   "De humani corporis fabrica, d'André Vésale",
+   "Osteographia, de William Cheselden"
   ],
-  "correctIndex": 3,
-  "explanation": "206 os bien rangés : de quoi monter un squelette d'Halloween très complet !",
+  "correctIndex": 2,
+  "explanation": "C'est le squelette pensif de la Fabrica d'André Vésale (1543), premier grand atlas d'anatomie fondé sur la dissection humaine plutôt que sur les textes anciens. La devise gravée sur le tombeau : on vit par son génie, le reste appartient à la mort.",
   "media": {
    "kind": "image",
-   "src": "/media/squelette-main.svg",
-   "alt": "Illustration d'une main squelettique, carpe, métacarpes et phalanges",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0150.jpg",
+   "alt": "Planche anatomique ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "science-medecine-0002",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quel est l'os le plus long du corps humain ?",
+  "type": "image",
+  "question": "Noires, luisantes et très motivées, ces créatures en plein repas étaient les stars des pharmacies du XIXe siècle — et elles servent encore en chirurgie reconstructive. Qui sont-elles ?",
   "choices": [
-   "L'humérus",
-   "Le tibia",
-   "Le fémur",
-   "Le péroné"
+   "Des limaces de jardin",
+   "Des larves de mouche",
+   "Des sangsues médicinales",
+   "Des vers de terre"
   ],
   "correctIndex": 2,
-  "explanation": "Le fémur, l'os de la cuisse, bat tous les records de longueur. C'est aussi l'un des plus solides !",
+  "explanation": "Les sangsues médicinales (Hirudo medicinalis) : leur salive contient un puissant anticoagulant, l'hirudine. Jadis utilisées pour les fameuses saignées, on les emploie encore pour drainer le sang des greffes et des doigts réimplantés.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0164.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -61,18 +65,22 @@
   "id": "science-medecine-0004",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Pourquoi un bébé naît-il avec plus d'os qu'un adulte ?",
+  "type": "image",
+  "question": "Planche XXXVI d'un atlas londonien de 1733 : un squelette agenouillé joint les mains comme en prière. À quelle partie du corps cet ouvrage somptueux était-il entièrement consacré ?",
   "choices": [
-   "Plusieurs de ses os fusionnent avec l'âge",
-   "Ses os se cassent en grandissant",
-   "Il perd des os en apprenant à marcher",
-   "Ses os disparaissent dans le cartilage"
+   "Aux os du squelette",
+   "Au cerveau et aux nerfs",
+   "Au cœur et aux vaisseaux",
+   "Aux muscles"
   ],
   "correctIndex": 0,
-  "explanation": "Un bébé démarre avec environ 300 éléments osseux. Beaucoup se soudent ensuite, comme les pièces d'un casse-tête macabre.",
+  "explanation": "Il s'agit de l'Osteographia de William Cheselden (1733), premier atlas complet du squelette humain, célèbre pour la beauté presque artistique de ses planches — dont ce squelette en prière, devenu iconique.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0154.jpg",
+   "alt": "Planche anatomique ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -80,21 +88,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quel os du crâne bouge quand vous parlez ou mâchez ?",
+  "question": "La peau a disparu : des formes rouges et fibreuses sont exposées de la tête aux pieds, en plein paysage. Sur cette planche de 1543, quel système du corps tient la vedette ?",
   "choices": [
-   "L'os frontal",
-   "La mandibule",
-   "L'os pariétal",
-   "L'os occipital"
+   "Le système musculaire",
+   "Le système nerveux",
+   "La circulation sanguine",
+   "Le système lymphatique"
   ],
-  "correctIndex": 1,
-  "explanation": "La mandibule est la seule partie mobile du crâne. C'est elle qui fait claquer les dents des squelettes de décoration !",
+  "correctIndex": 0,
+  "explanation": "C'est un écorché : sans la peau, on ne voit que les muscles — plus de 600 au total, qui nous font bouger, sourire et frissonner. Cette première planche des muscles vient, elle aussi, de la Fabrica de Vésale.",
   "media": {
    "kind": "image",
-   "src": "/media/crane-anatomie.svg",
-   "alt": "Illustration d'un crâne humain de profil",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0151.jpg",
+   "alt": "Planche anatomique ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -245,18 +253,22 @@
   "id": "science-medecine-0014",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que révèle la fontanelle sur le crâne d'un bébé ?",
+  "type": "image",
+  "question": "Dans cet herbier médiéval, la racine prend la forme d'un petit bonhomme — on disait qu'elle criait quand on l'arrachait, au point de tuer l'imprudent. Quelle plante magique et toxique est-ce ?",
   "choices": [
-   "Des zones encore souples entre les os du crâne",
-   "Un os supplémentaire",
-   "Une absence totale de crâne",
-   "Un signe de maladie"
+   "La mandragore",
+   "La belladone",
+   "L'aconit tue-loup",
+   "La ciguë"
   ],
   "correctIndex": 0,
-  "explanation": "Ces zones molles laissent le crâne grandir et facilitent la naissance. Elles se referment dans les deux premières années.",
+  "explanation": "La mandragore, dessinée dans une copie médiévale du traité de Dioscoride : sa racine fourchue évoque un corps humain. Sédative mais toxique, elle traîne une réputation magique — la légende recommandait de la faire arracher par un chien plutôt qu'à mains nues.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0165.jpg",
+   "alt": "Illustration ancienne à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -372,21 +384,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Qu'est-ce qui provoque la chair de poule ?",
+  "question": "Une main fantomatique, une bague bien visible : cette image floue de décembre 1895 a fait le tour du monde et valu un prix Nobel à son auteur. Quelle découverte révèle-t-elle ?",
   "choices": [
-   "La contraction de minuscules muscles à la base des poils",
-   "Un frisson des os",
-   "La dilatation des veines",
-   "Un courant d'air dans les nerfs"
+   "La radioactivité du radium",
+   "Les rayons X",
+   "L'échographie médicale",
+   "La photographie argentique"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est la piloérection : chaque poil se dresse comme chez un animal qui veut paraître plus gros. Parfait pour un soir d'horreur !",
+  "correctIndex": 1,
+  "explanation": "Wilhelm Röntgen venait de découvrir les rayons X : ce premier « portrait de squelette vivant » est la main de son épouse Anna Bertha, alliance comprise. Elle aurait murmuré en la voyant : « J'ai vu ma mort ! »",
   "media": {
    "kind": "image",
-   "src": "/media/chair-de-poule.svg",
-   "alt": "Illustration d'une peau avec la chair de poule",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0152.jpg",
+   "alt": "Radiographie à identifier",
+   "credit": "Radiographie ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -412,21 +424,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quelle petite région du cerveau joue un rôle central dans la peur ?",
+  "question": "Dans cette vitrine de musée, un crâne endommagé voisine avec la longue barre métallique exposée juste en dessous. En 1848, cette barre avait traversé la tête d'un cheminot... qui a survécu douze ans. Qui était-il ?",
   "choices": [
-   "Le cervelet",
-   "L'amygdale",
-   "L'hippocampe seul",
-   "Le tronc cérébral"
+   "Henry Molaison, le patient « H.M. »",
+   "Louis Leborgne, le patient « Tan »",
+   "Un cheminot resté à jamais anonyme",
+   "Phineas Gage"
   ],
-  "correctIndex": 1,
-  "explanation": "L'amygdale cérébrale — rien à voir avec celles de la gorge — sonne l'alarme face au danger. C'est la vigie de vos soirées d'horreur !",
+  "correctIndex": 3,
+  "explanation": "Phineas Gage, contremaître des chemins de fer : en 1848, une barre de bourrage de plus d'un mètre lui traverse le crâne. Il survit, mais sa personnalité change du tout au tout — un cas fondateur pour comprendre le rôle du lobe frontal.",
   "media": {
    "kind": "image",
-   "src": "/media/cerveau.svg",
-   "alt": "Illustration stylisée d'un cerveau humain",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0153.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo de musée — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -469,58 +481,66 @@
   "id": "science-medecine-0026",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Environ quelle part de notre énergie au repos le cerveau consomme-t-il ?",
+  "type": "image",
+  "question": "Sans scalpel ni ouverture, cette coupe de profil traverse une tête bien vivante, du front à la nuque. Quel organe y occupe presque tout l'espace ?",
   "choices": [
-   "Environ 2 %",
-   "Environ 50 %",
-   "Environ 20 %",
-   "Environ 80 %"
+   "Le cœur",
+   "Le cerveau",
+   "Le foie",
+   "Le poumon"
   ],
-  "correctIndex": 2,
-  "explanation": "Petit organe, gros appétit : le cerveau brûle environ un cinquième de notre énergie. Réfléchir à des énigmes, ça creuse !",
+  "correctIndex": 1,
+  "explanation": "Le cerveau, en coupe sagittale d'IRM : on distingue ses circonvolutions, le cervelet en arrière et le tronc cérébral qui descend vers la moelle épinière. L'imagerie moderne fait en quelques minutes ce que les anatomistes mettaient des jours à préparer.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0166.jpg",
+   "alt": "Imagerie médicale à identifier",
+   "credit": "Imagerie médicale — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
   "id": "science-medecine-0027",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Environ combien de neurones contient le cerveau humain ?",
+  "type": "image",
+  "question": "Au microscope électronique, de minuscules bâtonnets en forme de balle de fusil pullulent dans ce tissu infecté. Ils appartiennent à un virus redouté, transmis par morsure. Lequel ?",
   "choices": [
-   "86 millions",
-   "860 millions",
-   "86 milliards",
-   "860 milliards"
+   "Le virus de la rage",
+   "Le virus Ebola",
+   "Le virus de la variole",
+   "Le virus de la grippe"
   ],
-  "correctIndex": 2,
-  "explanation": "Environ 86 milliards de neurones connectés en un réseau vertigineux. Plus de connexions que d'étoiles visibles dans bien des galaxies !",
+  "correctIndex": 0,
+  "explanation": "Le virus de la rage, reconnaissable à sa forme de balle caractéristique sur cette micrographie du CDC. Transmis par la salive d'un animal mordeur, il remonte lentement le long des nerfs jusqu'au cerveau.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0161.jpg",
+   "alt": "Micrographie à identifier",
+   "credit": "Micrographie — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "science-medecine-0028",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute cette respiration de dormeur. Qu'est-ce que la paralysie du sommeil, à l'origine de bien des récits de démons ?",
+  "type": "image",
+  "question": "Amsterdam, 1632 : devant un cercle de chirurgiens en fraise blanche, un professeur soulève à la pince les tendons de l'avant-bras d'un cadavre. Quelle scène ce célèbre tableau met-il en lumière ?",
   "choices": [
-   "Un rêve où l'on peut bouger",
-   "Un réveil bref alors que le corps reste paralysé par le sommeil",
-   "Une forme de somnambulisme",
-   "Un arrêt du cœur pendant le rêve"
+   "Une amputation en public",
+   "Une saignée thérapeutique",
+   "Une leçon publique de dissection",
+   "Un embaumement"
   ],
-  "correctIndex": 1,
-  "explanation": "L'esprit s'éveille avant le corps, parfois avec une impression d'oppression. De quoi nourrir des siècles de légendes nocturnes !",
+  "correctIndex": 2,
+  "explanation": "La Leçon d'anatomie du Dr Tulp, de Rembrandt : les dissections publiques étaient alors rarissimes — environ une par an, l'hiver, sur le corps d'un condamné. Le professeur y démontre les muscles fléchisseurs de l'avant-bras.",
   "media": {
-   "kind": "audio",
-   "src": "/media/respiration-sommeil.wav",
-   "alt": "Respiration lente d'un dormeur synthétisée",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0155.jpg",
+   "alt": "Peinture à identifier",
+   "credit": "Peinture ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -617,22 +637,22 @@
   "id": "science-medecine-0034",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ces battements de cœur. Environ combien de fois le cœur bat-il en une journée ?",
+  "type": "image",
+  "question": "Figure 3 de cette planche ancienne : des cuisses de grenouille préparées, reliées à des fils, des aimants en fer à cheval et des arcs métalliques. Quelle découverte ces expériences bricolées ont-elles inspirée ?",
   "choices": [
-   "Environ 1 000 fois",
-   "Environ 10 000 fois",
-   "Environ 1 million de fois",
-   "Environ 100 000 fois"
+   "Les grenouilles fabriquent des piles naturelles",
+   "L'électricité peut faire contracter les muscles",
+   "Le magnétisme guérit les nerfs",
+   "Les muscles fonctionnent à la vapeur"
   ],
-  "correctIndex": 3,
-  "explanation": "Cent mille battements par jour, sans pause café. Le cœur est le métronome le plus fidèle du corps !",
+  "correctIndex": 1,
+  "explanation": "Les expériences de Luigi Galvani (fin du XVIIIe siècle) : au contact de métaux, les cuisses de grenouille morte tressautent. Son idée d'« électricité animale » — le galvanisme — inspirera directement le Frankenstein de Mary Shelley.",
   "media": {
-   "kind": "audio",
-   "src": "/media/pulsation-lente.wav",
-   "alt": "Battements de cœur lents synthétisés",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0156.jpg",
+   "alt": "Gravure scientifique ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -693,18 +713,22 @@
   "id": "science-medecine-0038",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Environ combien de litres de sang circulent chez un adulte ?",
+  "type": "image",
+  "question": "De profil, en blanc sur noir : un talon bien dessiné, une voûte élégante, de petits os en éventail au bout. De quelle partie du corps cette radiographie est-elle le portrait ?",
   "choices": [
-   "Environ 1 litre",
-   "Environ 25 litres",
-   "Environ 12 litres",
-   "Environ 5 litres"
+   "La main",
+   "Le coude",
+   "L'épaule",
+   "Le pied"
   ],
   "correctIndex": 3,
-  "explanation": "Environ cinq litres suffisent à irriguer tout le corps. Bien moins que ce que les films d'horreur laissent croire !",
+  "explanation": "Un pied droit vu de profil, avec son talon (calcanéus), sa voûte plantaire et ses orteils : 26 os en tout, un quart du squelette à lui tout seul avec son jumeau. Un terrain de jeu quotidien pour la physiatrie !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0167.jpg",
+   "alt": "Radiographie à identifier",
+   "credit": "Radiographie — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
@@ -784,21 +808,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "De quoi étaient faites les bandelettes classiques des momies égyptiennes ?",
+  "question": "Cette tête de profil est découpée en territoires numérotés : « amativité », « secretivité », « idéalité »... Au XIXe siècle, on prétendait y lire le caractère d'une personne. Quelle pseudo-science cette carte servait-elle ?",
   "choices": [
-   "De lin",
-   "De laine",
-   "De papyrus tissé",
-   "De cuir fin"
+   "La phrénologie",
+   "La graphologie",
+   "La physiognomonie des visages",
+   "L'astrologie médicale"
   ],
   "correctIndex": 0,
-  "explanation": "Des centaines de mètres de lin enroulés avec des résines parfumées. Le costume d'Halloween le plus authentique qui soit !",
+  "explanation": "La phrénologie, popularisée par Gall et Spurzheim : on prétendait déduire les talents et le caractère des bosses du crâne. Réfutée depuis, elle a quand même semée une idée juste — certaines fonctions du cerveau sont localisées.",
   "media": {
    "kind": "image",
-   "src": "/media/momie.svg",
-   "alt": "Illustration d'une momie égyptienne",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0157.jpg",
+   "alt": "Planche ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -859,18 +883,22 @@
   "id": "science-medecine-0047",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Comment la peste bubonique se transmettait-elle le plus souvent aux humains ?",
+  "type": "image",
+  "question": "En 1665, grâce à un microscope, cette bestiole de deux millimètres devient un monstre cuirassé digne d'un bestiaire d'Halloween. Qui est cette vedette miniature ?",
   "choices": [
-   "Par l'eau des puits",
-   "Par la piqûre de puces ayant piqué des rats infectés",
-   "Par la respiration des malades uniquement",
-   "Par les moustiques"
+   "Une puce",
+   "Un pou",
+   "Une tique",
+   "Un acarien"
   ],
-  "correctIndex": 1,
-  "explanation": "Les puces passaient du rat à l'humain quand leur hôte mourait. Le rat a mauvaise réputation, mais la puce était la vraie navette !",
+  "correctIndex": 0,
+  "explanation": "Une puce, dessinée par Robert Hooke dans Micrographia (1665), le premier best-seller de la microscopie : ses lecteurs découvraient, ébahis, que les plus petites bêtes sont de véritables machines blindées.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0169.jpg",
+   "alt": "Gravure ancienne à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -878,21 +906,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Pourquoi le masque des médecins de peste avait-il un long bec ?",
+  "question": "Deux trous aux bords nets percent ce crâne ancien exposé en musée — et les petits disques d'os retirés sont posés juste à côté. De quoi ces ouvertures témoignent-elles ?",
   "choices": [
-   "Pour contenir des herbes aromatiques censées filtrer l'air",
-   "Pour respirer sous l'eau",
-   "Pour imiter un oiseau protecteur",
-   "Pour garder les médicaments"
+   "D'impacts de flèches de guerre",
+   "D'une maladie qui perfore l'os",
+   "D'un rituel de suspension par crochets",
+   "D'une très ancienne opération chirurgicale"
   ],
-  "correctIndex": 0,
-  "explanation": "On croyait aux 'mauvais airs' : le bec plein d'épices devait les neutraliser. Terrifiant d'allure, peu efficace en pratique !",
+  "correctIndex": 3,
+  "explanation": "Une double trépanation, l'une des plus anciennes chirurgies du monde, pratiquée dès le Néolithique : on perçait le crâne, souvent pour soigner un traumatisme. Ici, sur un crâne celte, les bords montrent que le patient a survécu à l'intervention.",
   "media": {
    "kind": "image",
-   "src": "/media/masque-peste.svg",
-   "alt": "Illustration d'un masque de médecin de peste à long bec",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0158.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo de musée — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1061,18 +1089,22 @@
   "id": "science-medecine-0058",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle araignée célèbre porte une marque rouge en forme de sablier ?",
+  "type": "audio",
+  "question": "Écoutez ce « toum-ta, toum-ta » capté au stéthoscope sur une poitrine bien vivante. Quel organe tient le rythme ?",
   "choices": [
-   "La tégénaire domestique",
-   "La mygale commune",
-   "L'épeire diadème",
-   "La veuve noire"
+   "Les poumons",
+   "Le cœur",
+   "L'estomac",
+   "Le diaphragme"
   ],
-  "correctIndex": 3,
-  "explanation": "Son sablier rouge avertit : venin puissant, à admirer de loin. La nature adore les panneaux de signalisation !",
+  "correctIndex": 1,
+  "explanation": "Le cœur, bien sûr : ces deux bruits sont ceux de ses valves qui se ferment, environ 100 000 fois par jour. Cet enregistrement réel a été capté au stéthoscope, comme le font les médecins depuis Laennec.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0170.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement sonore — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1134,39 +1166,43 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Comment appelle-t-on les lames de course utilisées par certains athlètes amputés ?",
+  "question": "Cheveux défaits, collier de perles, allongée sous vitrine comme une belle endormie : cette dame du XVIIIe siècle se démonte en réalité en des centaines de pièces. À quoi servait-elle ?",
   "choices": [
-   "Des ressorts d'acier droits",
-   "Des lames de carbone en forme de J",
-   "Des sabots de caoutchouc",
-   "Des échasses sportives"
+   "De décoration pour un cabinet de curiosités mondain",
+   "À enseigner l'anatomie sans vrai cadavre",
+   "De mannequin pour les couturières",
+   "De relique miraculeuse dans une église"
   ],
   "correctIndex": 1,
-  "explanation": "Ces prothèses en fibre de carbone stockent et relâchent l'énergie à chaque foulée. La technologie au service du sprint !",
+  "explanation": "C'est une Vénus anatomique en cire du musée La Specola, à Florence : son corps s'ouvre et ses organes amovibles servaient aux cours d'anatomie, à une époque où les cadavres frais manquaient cruellement.",
   "media": {
    "kind": "image",
-   "src": "/media/prothese-jambe.svg",
-   "alt": "Illustration d'une prothèse de jambe",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0159.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo de musée — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
   "id": "science-medecine-0063",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Comment une prothèse de main dite myoélectrique capte-t-elle l'intention de bouger ?",
+  "type": "image",
+  "question": "Sur ce frottis sanguin, deux formes violettes en croissant de lune se prélassent parmi les globules rouges. Ce sont les formes sexuées d'un parasite que les moustiques transportent. Quelle maladie annonce-t-il ?",
   "choices": [
-   "Par la pensée lue dans le crâne",
-   "Par des commandes vocales",
-   "Par les signaux électriques des muscles restants du bras",
-   "Par un joystick sur l'épaule"
+   "La dengue",
+   "Le choléra",
+   "La fièvre jaune",
+   "Le paludisme"
   ],
-  "correctIndex": 2,
-  "explanation": "Des électrodes sur la peau lisent la contraction des muscles du moignon. Contracter, et la main artificielle se ferme !",
+  "correctIndex": 3,
+  "explanation": "Le paludisme (malaria) : ces croissants sont les gamétocytes de Plasmodium falciparum, sa forme la plus dangereuse, photographiés par le CDC. Le moustique viendra les chercher lors de son prochain repas de sang.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0162.png",
+   "alt": "Micrographie à identifier",
+   "credit": "Micrographie — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1174,21 +1210,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Qu'est-ce que le galvanisme, qui a inspiré Frankenstein ?",
+  "question": "Rome, 1656 : ce soignant en robe cirée, baguette à la main, porte un masque au long bec pointu. Que glissait-on dans ce bec pour affronter les malades ?",
   "choices": [
-   "L'étude des volcans",
-   "Une technique d'embaumement",
-   "L'idée que l'électricité peut faire contracter les muscles",
-   "La fabrication de miroirs"
+   "De l'eau bénite",
+   "Des braises parfumées",
+   "Des herbes et des épices aromatiques",
+   "Des lingots d'or porte-bonheur"
   ],
   "correctIndex": 2,
-  "explanation": "Les expériences de Galvani faisaient tressauter des cuisses de grenouille sous l'électricité. De là à ranimer un monstre, il n'y avait qu'un roman !",
+  "explanation": "C'est le médecin de peste de la gravure de Paulus Fürst : on croyait la maladie portée par les « mauvais airs », alors le bec était bourré d'herbes et d'épices censées purifier l'air respiré. Terrifiant d'allure, hélas peu efficace.",
   "media": {
    "kind": "image",
-   "src": "/media/grenouille-galvanisme.svg",
-   "alt": "Illustration d'une grenouille de laboratoire et d'étincelles électriques",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0160.png",
+   "alt": "Gravure ancienne à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1285,18 +1321,22 @@
   "id": "science-medecine-0070",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Comment nomme-t-on la peur phobique des araignées ?",
+  "type": "audio",
+  "question": "Cette fois, le même organe galope beaucoup plus vite qu'au repos, fort et régulier, sans être malade pour autant. Qu'est-ce qui explique le plus simplement cette accélération ?",
   "choices": [
-   "La nyctophobie",
-   "L'ophidiophobie",
-   "La claustrophobie",
-   "L'arachnophobie"
+   "Un sommeil profond",
+   "Une anesthésie générale",
+   "Un effort physique juste avant l'enregistrement",
+   "Une fièvre de 40 degrés"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est l'une des phobies animales les plus répandues. Huit pattes de trop pour bien des gens !",
+  "correctIndex": 2,
+  "explanation": "Un effort physique : l'enregistrement a été pris juste après un exercice, quand le cœur bat vite et fort pour rembourser la « dette » d'oxygène des muscles. Au repos, le même cœur redescend tranquillement vers 60 battements par minute.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0172.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement sonore — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1447,18 +1487,22 @@
   "id": "science-medecine-0079",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Qui a réalisé la première radiographie célèbre, celle de la main de son épouse ?",
+  "type": "audio",
+  "question": "Bip... bip... bip... Ce son régulier hante les chambres d'hôpital et toutes les séries médicales. À quoi correspond chaque bip ?",
   "choices": [
-   "Marie Curie",
-   "Nikola Tesla",
-   "Thomas Edison",
-   "Wilhelm Röntgen"
+   "À une respiration du patient",
+   "À un battement du cœur suivi par un moniteur",
+   "À l'arrivée d'un ascenseur",
+   "Au goutte-à-goutte d'une perfusion"
   ],
-  "correctIndex": 3,
-  "explanation": "En 1895, les rayons X révèlent le squelette de la main et son alliance. La première photo de squelette vivant de l'histoire !",
+  "correctIndex": 1,
+  "explanation": "Chaque bip signale un battement capté par le moniteur cardiaque (l'électrocardiogramme). C'est le contraire qui inquiète : quand les bips s'espacent ou que retentit l'alarme de la ligne plate, tout le monde accourt.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0173.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement sonore — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
@@ -1573,18 +1617,22 @@
   "id": "science-medecine-0086",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quel gaz anesthésiant du XIXe siècle a révolutionné la chirurgie ?",
+  "type": "image",
+  "question": "Gros plan charmant : une couronne de crochets et quatre ventouses ornent la tête de ce parasite, prête à s'ancrer dans un intestin. Qui est ce squatteur ?",
   "choices": [
-   "L'hélium",
-   "L'éther",
-   "Le dioxyde de carbone pur",
-   "L'ozone"
+   "L'ascaris",
+   "Le ténia, ou ver solitaire",
+   "La douve du foie",
+   "Le ver de Guinée"
   ],
   "correctIndex": 1,
-  "explanation": "Avec l'éther, les patients dormaient enfin pendant l'opération. La chirurgie a quitté l'ère des hurlements en 1846.",
+  "explanation": "Le scolex du ténia Taenia solium, photographié par le CDC : ventouses et crochets lui servent d'ancre dans l'intestin, pendant que son corps en ruban peut atteindre plusieurs mètres. Le porc mal cuit est son taxi habituel.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0163.jpg",
+   "alt": "Micrographie à identifier",
+   "credit": "Micrographie — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1717,36 +1765,44 @@
   "id": "science-medecine-0094",
   "category": "science-medecine",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quel phénomène fait entendre son propre pouls quand on pose l'oreille sur l'oreiller ?",
+  "type": "image",
+  "question": "De face, cette grande image en grisaille montre deux vastes zones sombres gonflées d'air, une silhouette claire au centre et un dôme en bas. Quels organes remplissent l'essentiel de la scène ?",
   "choices": [
-   "Un fantôme dans le matelas",
-   "Le cœur qui déménage",
-   "Le sang qui pulse dans les vaisseaux près de l'oreille",
-   "Des bulles d'air dans le crâne"
+   "Les reins",
+   "Les muscles pectoraux",
+   "Les intestins",
+   "Les poumons"
   ],
-  "correctIndex": 2,
-  "explanation": "Le silence amplifie les bruits internes du corps, pouls compris. Boum, boum : c'est juste vous, bien vivant !",
+  "correctIndex": 3,
+  "explanation": "Les poumons, sur une radiographie du thorax de face tout ce qu'il y a de plus normale : sombres car pleins d'air, ils encadrent la silhouette du cœur, avec le dôme du diaphragme en dessous.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0174.jpg",
+   "alt": "Radiographie à identifier",
+   "credit": "Radiographie — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
   "id": "science-medecine-0095",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle substance rend la sueur de peur parfois plus odorante ?",
+  "type": "image",
+  "question": "Sur cette planche de 1543, un organe bosselé trône tout en haut, puis un écheveau de cordons s'en échappe et descend dans tout le corps, jusqu'aux jambes. Quel système cette figure cartographie-t-elle ?",
   "choices": [
-   "Les sécrétions de glandes spéciales des aisselles, activées par le stress",
-   "Le sel uniquement",
-   "Le sang",
-   "La kératine des poils"
+   "Le système lymphatique",
+   "Les veines superficielles",
+   "Le système nerveux",
+   "Le tube digestif"
   ],
-  "correctIndex": 0,
-  "explanation": "Ces glandes apocrines se réveillent à la puberté et sous le stress. La peur a donc littéralement une odeur !",
+  "correctIndex": 2,
+  "explanation": "Le système nerveux, cartographié par Vésale dans le livre IV de la Fabrica : le cerveau, la moelle épinière et les paires de nerfs qui s'en échappent. Une des premières vues d'ensemble de notre câblage interne.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0168.jpg",
+   "alt": "Planche anatomique ancienne à identifier",
+   "credit": "Planche ancienne — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -1825,18 +1881,22 @@
   "id": "science-medecine-0100",
   "category": "science-medecine",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quel muscle en forme de coupole est le principal moteur de la respiration ?",
+  "type": "audio",
+  "question": "Même instrument, même organe que d'habitude... mais un bruit râpeux et prolongé envahit tout l'enregistrement, là où l'on attend des battements nets. Comment appelle-t-on ce type de bruit anormal ?",
   "choices": [
-   "Le diaphragme",
-   "Le grand pectoral",
-   "Le transverse de l'abdomen",
-   "Le trapèze"
+   "Un râle crépitant",
+   "Un sifflement d'asthme",
+   "Un borborygme",
+   "Un souffle cardiaque"
   ],
-  "correctIndex": 0,
-  "explanation": "Le diaphragme s'abaisse à chaque inspiration comme un piston. C'est aussi lui qui se contracte par saccades pendant le hoquet !",
+  "correctIndex": 3,
+  "explanation": "Un souffle cardiaque : ici, celui d'une communication interventriculaire — un trou entre les deux ventricules. Le sang qui s'y engouffre crée ce grondement continu, très différent des « toum-ta » nets d'un cœur sans anomalie.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0171.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement sonore — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  }
 ]

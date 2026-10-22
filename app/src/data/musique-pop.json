@@ -3,18 +3,22 @@
   "id": "musique-pop-0001",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Qui chante le tube « Thriller », LA chanson incontournable des soirées d'Halloween ?",
+  "type": "audio",
+  "question": "Trompettes terrifiantes, chœur déchaîné et coups de grosse caisse comme un tonnerre de fin du monde : quel passage célèbre entends-tu ?",
   "choices": [
-   "Prince",
-   "Michael Jackson",
-   "Madonna",
-   "George Michael"
+   "Le Lacrimosa de Mozart",
+   "Le Dies Irae grégorien",
+   "Le chœur des esclaves de Verdi",
+   "Le Dies Irae du Requiem de Verdi"
   ],
-  "correctIndex": 1,
-  "explanation": "Le Roi de la Pop transforme Halloween en piste de danse depuis des décennies. Impossible d'y échapper, même pour un zombie !",
+  "correctIndex": 3,
+  "explanation": "C'est le Dies Irae du Requiem de Giuseppe Verdi (1874) : le Jour du Jugement y éclate en pleine tempête orchestrale. C'est l'un des passages les plus utilisés au cinéma et dans les publicités dès qu'il faut annoncer une catastrophe épique !",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0211.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -111,36 +115,44 @@
   "id": "musique-pop-0007",
   "category": "musique-pop",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Qui a réalisé le célèbre clip de « Thriller », pensé comme un mini-film d'horreur ?",
+  "type": "audio",
+  "question": "Une créature boitillante et menaçante avance par saccades, grogne un moment, puis se fige d'un coup. De quelle pièce de cette galerie musicale s'agit-il ?",
   "choices": [
-   "Tim Burton",
-   "Steven Spielberg",
-   "John Landis",
-   "George Lucas"
+   "Dans l'antre du roi de la montagne de Grieg",
+   "La Cabane sur des pattes de poulet de Moussorgski",
+   "Gnomus, des Tableaux d'une exposition de Moussorgski",
+   "Une nuit sur le mont Chauve de Moussorgski"
   ],
   "correctIndex": 2,
-  "explanation": "John Landis, réalisateur du « Loup-garou de Londres », apporte son savoir-faire. Le clip a changé l'histoire des vidéos musicales.",
+  "explanation": "C'est Gnomus, premier tableau des Tableaux d'une exposition de Modeste Moussorgski (1874) : un gnome difforme, dessiné par son ami Viktor Hartmann, qui avance en boitant. Chaque saccade de la musique est un de ses pas tordus !",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0210.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "musique-pop-0008",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Selon la chanson « Ghostbusters », qui allez-vous appeler s'il y a quelque chose d'étrange dans le quartier ?",
+  "type": "audio",
+  "question": "Trois notes répétées, calmes et hypnotiques, comme un ruisseau qui coule dans la nuit : quelle sonate célèbre commence ainsi ?",
   "choices": [
-   "La police",
-   "Ghostbusters !",
-   "Les pompiers",
-   "Votre voisin"
+   "Sonate « Clair de lune » de Beethoven",
+   "Nocturne posthume de Chopin",
+   "Clair de lune de Debussy",
+   "Rêverie de Schumann"
   ],
-  "correctIndex": 1,
-  "explanation": "« Who you gonna call ? Ghostbusters ! » C'est le numéro d'urgence le plus chanté d'Halloween.",
+  "correctIndex": 0,
+  "explanation": "C'est la Sonate « Clair de lune » de Ludwig van Beethoven (1801), dont le premier mouvement baigne dans une tristesse lunaire. Son surnom lui vient d'un critique qui y voyait un bateau glissant de nuit sur le lac des Quatre-Cantons.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0212.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -273,18 +285,22 @@
   "id": "musique-pop-0016",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que décrit surtout « Monster Mash » ?",
+  "type": "audio",
+  "question": "Une marche à la fois grotesque et triomphale avance vers l'échafaud, jusqu'au coup sec qui fait tomber la tête du condamné. Quelle pièce entends-tu ?",
   "choices": [
-   "Une chasse au trésor",
-   "Une fête dansante pleine de monstres",
-   "Un concours de citrouilles",
-   "Une nuit au musée"
+   "Danse macabre de Saint-Saëns",
+   "Une nuit sur le mont Chauve de Moussorgski",
+   "Marche au supplice, de la Symphonie fantastique de Berlioz",
+   "Marche funèbre d'une marionnette de Gounod"
   ],
-  "correctIndex": 1,
-  "explanation": "Frankenstein, Dracula et leurs amis se retrouvent pour danser. Même les monstres aiment une bonne soirée !",
+  "correctIndex": 2,
+  "explanation": "C'est la Marche au supplice, quatrième mouvement de la Symphonie fantastique d'Hector Berlioz (1830) : le héros rêve qu'il a tué sa bien-aimée et qu'on le conduit à l'échafaud. On entend même le couperet tomber, puis la foule applaudir !",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0214.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -399,18 +415,22 @@
   "id": "musique-pop-0023",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans « This Is Halloween », qui chante principalement la chanson d'ouverture ?",
+  "type": "audio",
+  "question": "Des accords énormes, lents et lourds comme des cloches de cathédrale ouvrent ce court prélude pour piano. Lequel est-ce ?",
   "choices": [
-   "Un seul fantôme solitaire",
-   "Un chœur d'enfants sages",
-   "Les rennes du Père Noël",
-   "Les habitants monstrueux de la ville"
+   "Prélude n° 20 en ut mineur de Chopin",
+   "Marche funèbre de Chopin",
+   "Prélude à l'après-midi d'un faune de Debussy",
+   "Sonate « Pathétique » de Beethoven"
   ],
-  "correctIndex": 3,
-  "explanation": "Sorcières, fantômes et créatures se relaient pour se présenter. C'est une visite guidée dont on ne sort pas indemne !",
+  "correctIndex": 0,
+  "explanation": "C'est le Prélude n° 20 en ut mineur de Frédéric Chopin (1839), surnommé « prélude aux accords » : treize mesures seulement, mais d'un poids de cathédrale. Il a été joué aux funérailles de Chopin, avec sa Marche funèbre.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0216.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -490,21 +510,21 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Dans « Psychose », quelle scène culte est accompagnée de cordes stridentes inoubliables ?",
+  "question": "Quelle pièce célèbre, devenue l'hymne officieux des maisons hantées et des vieux châteaux, reconnais-tu dès ces premières notes menaçantes ?",
   "choices": [
-   "La scène de la douche",
-   "La scène du train",
-   "La scène du marché",
-   "La scène de la plage"
+   "Toccata et fugue en ré mineur de Bach",
+   "Marche funèbre de Chopin",
+   "Danse macabre de Saint-Saëns",
+   "Une nuit sur le mont Chauve de Moussorgski"
   ],
   "correctIndex": 0,
-  "explanation": "Quelques secondes de violons suffisent à rendre toutes les douches suspectes. Hitchcock a traumatisé des générations avec un rideau !",
+  "explanation": "C'est la Toccata et fugue en ré mineur de Jean-Sébastien Bach, composée pour l'orgue : le cinéma d'horreur l'a adoptée depuis un siècle. Ici, elle est jouée au piano, mais ses premières notes restent reconnaissables entre mille !",
   "media": {
    "kind": "audio",
-   "src": "/media/corde-stridente.wav",
-   "alt": "Cordes stridentes synthétisées dans le style d'une bande-son d'horreur",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0200.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -565,18 +585,22 @@
   "id": "musique-pop-0032",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans « Les Dents de la mer », que signalent les deux notes graves et répétées de la musique ?",
+  "type": "image",
+  "question": "Ces tuyaux géants dominent l'intérieur d'une cathédrale. Quel instrument, roi des bandes-son de châteaux hantés, vois-tu ici ?",
   "choices": [
-   "La nuit tombe",
-   "La marée monte",
-   "Un bateau arrive",
-   "Le requin approche"
+   "Un carillon d'église",
+   "L'orgue à tuyaux",
+   "Un harmonium",
+   "Un célesta"
   ],
-  "correctIndex": 3,
-  "explanation": "Deux notes suffisent : da-dum, da-dum… et tout le monde sort de l'eau mentalement. Le requin le plus musical du cinéma !",
+  "correctIndex": 1,
+  "explanation": "C'est l'orgue à tuyaux, ici celui de la cathédrale de Hereford, en Angleterre : ses plus grands tuyaux peuvent dépasser dix mètres. Avec un son pareil, pas étonnant que le cinéma d'horreur l'ait couronné instrument des lieux hantés !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0217.jpg",
+   "alt": "Instrument à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -637,44 +661,44 @@
   "id": "musique-pop-0036",
   "category": "musique-pop",
   "difficulty": "difficile",
-  "type": "image",
-  "question": "Qui a composé la « Danse macabre », où les squelettes dansent la nuit ?",
+  "type": "audio",
+  "question": "Des voix d'hommes chantent à l'unisson, sans aucun instrument, une mélodie médiévale sombre comme un avertissement venu du fond des âges. Que chantent-elles ?",
   "choices": [
-   "Antonio Vivaldi",
-   "Claude Debussy",
-   "Wolfgang Amadeus Mozart",
-   "Camille Saint-Saëns"
+   "Le Lacrimosa du Requiem de Mozart",
+   "Le Dies Irae grégorien",
+   "L'Aquarium de Saint-Saëns",
+   "Le chœur des esclaves de Verdi"
   ],
-  "correctIndex": 3,
-  "explanation": "Saint-Saëns imagine la Mort accordant son violon au cimetière. Un concert où le public est déjà mort, mais très enthousiaste !",
+  "correctIndex": 1,
+  "explanation": "C'est le Dies Irae, la séquence grégorienne médiévale du « jour de colère » chantée dans la messe des morts. Sa mélodie a été citée par des générations de compositeurs, de Berlioz à Saint-Saëns : vous l'avez déjà entendue sans le savoir !",
   "media": {
-   "kind": "image",
-   "src": "/media/squelette-violon.svg",
-   "alt": "Illustration d'un squelette jouant du violon",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "audio",
+   "src": "/media/med-0204.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "musique-pop-0037",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Dans la « Danse macabre », à quelle heure les squelettes sortent-ils danser selon le poème qui a inspiré l'œuvre ?",
+  "type": "audio",
+  "question": "Minuit sonne : les squelettes sortent des tombes et tournent en rond au son d'un violon volontairement désaccordé. Quelle pièce entends-tu ?",
   "choices": [
-   "Au crépuscule",
-   "À midi",
-   "À minuit",
-   "À l'heure du thé"
+   "Le Roi des aulnes de Schubert",
+   "Danse macabre de Saint-Saëns",
+   "Totentanz de Liszt",
+   "Songe d'une nuit du sabbat de Berlioz"
   ],
-  "correctIndex": 2,
-  "explanation": "Les douze coups de minuit donnent le signal de la fête. Les squelettes ont un horaire très strict !",
+  "correctIndex": 1,
+  "explanation": "C'est la Danse macabre de Camille Saint-Saëns (1875) : la Mort y accorde son violon à minuit, et le xylophone imite le bruit des os qui s'entrechoquent. Un bal où tous les invités sont déjà morts !",
   "media": {
-   "kind": "image",
-   "src": "/media/cloche-tour.svg",
-   "alt": "Illustration d'une cloche de tour sonnant minuit",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "audio",
+   "src": "/media/med-0201.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -718,21 +742,21 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Écoute ce chœur spectral venu d'une montagne hantée. Que se passe-t-il pendant « La Nuit sur le mont Chauve » dans « Fantasia » ?",
+  "question": "Sorcières et démons se rassemblent au sommet d'une montagne sinistre pour une nuit de sabbat endiablée. Quelle pièce tourbillonnante entends-tu ?",
   "choices": [
-   "Des animaux dansent un ballet champêtre",
-   "Des fées plantent des fleurs",
-   "Des démons et des fantômes se rassemblent la nuit sur la montagne",
-   "Un sorcier fait la lessive"
+   "Dans l'antre du roi de la montagne de Grieg",
+   "Marche au supplice de Berlioz",
+   "Une nuit sur le mont Chauve de Moussorgski",
+   "Le Vol du bourdon de Rimski-Korsakov"
   ],
   "correctIndex": 2,
-  "explanation": "Le démon ouvre ses ailes et convoque toutes les créatures de la nuit. Réunion de famille très animée au sommet !",
+  "explanation": "C'est Une nuit sur le mont Chauve de Modeste Moussorgski : un sabbat de sorcières qui ne prend fin qu'à l'aube, quand les cloches du village chassent les démons. Disney en a fait le segment le plus effrayant de Fantasia !",
   "media": {
    "kind": "audio",
-   "src": "/media/choeur-spectral.wav",
-   "alt": "Chœur spectral synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0202.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -775,22 +799,22 @@
   "id": "musique-pop-0043",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "À quels lieux associe-t-on souvent la « Toccata et fugue » en ré mineur dans la culture populaire ?",
+  "type": "audio",
+  "question": "Quel cortège imagines-tu en entendant cette marche lente et solennelle au piano, devenue LA musique des enterrements dans l'imaginaire collectif ?",
   "choices": [
-   "Aux plages ensoleillées",
-   "Aux églises gothiques et aux manoirs hantés",
-   "Aux stades de football",
-   "Aux marchés de Noël"
+   "Sonate « Clair de lune » de Beethoven",
+   "Prélude en mi mineur de Chopin",
+   "Funérailles de Liszt",
+   "Marche funèbre de la Sonate n° 2 de Chopin"
   ],
-  "correctIndex": 1,
-  "explanation": "Cinéma, maisons hantées et dessins animés l'utilisent dès qu'il faut une entrée sinistre. C'est le portail sonore du frisson !",
+  "correctIndex": 3,
+  "explanation": "C'est la Marche funèbre de Frédéric Chopin, troisième mouvement de sa Sonate pour piano n° 2 (1839). Elle a même été jouée lors des funérailles de Chopin lui-même, en 1849 !",
   "media": {
-   "kind": "image",
-   "src": "/media/orgue-tuyaux.svg",
-   "alt": "Illustration d'un grand orgue à tuyaux",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "audio",
+   "src": "/media/med-0203.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -798,21 +822,21 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Qui a composé la célèbre « Toccata et fugue » pour orgue ?",
+  "question": "Un bal de sorcières déchaîné, des cloches lointaines et une parodie grinçante d'un chant d'église : quel finale de symphonie entends-tu ?",
   "choices": [
-   "Frédéric Chopin",
-   "Ludwig van Beethoven",
-   "Jean-Sébastien Bach",
-   "Franz Liszt"
+   "Songe d'une nuit du sabbat (Symphonie fantastique) de Berlioz",
+   "Une nuit sur le mont Chauve de Moussorgski",
+   "Danse macabre de Saint-Saëns",
+   "Totentanz de Liszt"
   ],
-  "correctIndex": 2,
-  "explanation": "Bach ne pensait sûrement pas aux maisons hantées, mais la pop culture en a décidé autrement. Merci pour l'ambiance, Johann Sebastian !",
+  "correctIndex": 0,
+  "explanation": "C'est le Songe d'une nuit du sabbat, finale de la Symphonie fantastique d'Hector Berlioz (1830). Berlioz y parodie le Dies Irae pendant que les sorcières dansent autour du héros : le premier grand sabbat de la musique romantique !",
   "media": {
    "kind": "audio",
-   "src": "/media/orgue-mineur.wav",
-   "alt": "Accord d'orgue en la mineur synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0205.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -838,39 +862,43 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Écoute ce glissando de harpe apaisant, comme un retour au calme. Comment se termine « La Nuit sur le mont Chauve » dans « Fantasia » ?",
+  "question": "Cette petite marche boitillante et malicieuse est devenue le générique d'une célèbre série télévisée présentée par le maître du suspense. Quelle est cette pièce ?",
   "choices": [
-   "Les démons ouvrent une discothèque",
-   "La fête continue pour toujours",
-   "Le jour se lève et les cloches chassent les démons",
-   "La montagne s'endort en dansant"
+   "Marche funèbre de Chopin",
+   "Gnomus de Moussorgski",
+   "Marche funèbre d'une marionnette de Gounod",
+   "Marche au supplice de Berlioz"
   ],
   "correctIndex": 2,
-  "explanation": "L'aube met fin au sabbat et les créatures regagnent les ténèbres. Le soleil : meilleur chasseur de démons gratuit !",
+  "explanation": "C'est la Marche funèbre d'une marionnette de Charles Gounod (1872), écrite pour le piano. Près d'un siècle plus tard, elle devient le générique d'« Alfred Hitchcock présente » : impossible de l'entendre sans voir la silhouette du maître apparaître !",
   "media": {
    "kind": "audio",
-   "src": "/media/harpe-glissando.wav",
-   "alt": "Glissando de harpe synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0206.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
   "id": "musique-pop-0047",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Pourquoi la « Toccata et fugue » ouvre-t-elle si bien une maison hantée ?",
+  "type": "image",
+  "question": "Cet instrument étrange se joue sans jamais le toucher, en bougeant les mains dans l'air près de ses antennes. Comment s'appelle-t-il ?",
   "choices": [
-   "Elle ressemble à une chanson de marin",
-   "Elle est jouée à la flûte douce",
-   "Ses accords d'orgue puissants sonnent lugubres et grandioses",
-   "Elle est très courte et joyeuse"
+   "La scie musicale",
+   "L'harmonica de verre",
+   "Le thérémine",
+   "Les ondes Martenot"
   ],
   "correctIndex": 2,
-  "explanation": "Dès les premières notes, le visiteur comprend qu'il n'est pas dans un spa. L'orgue annonce la couleur : frissons inclus !",
+  "explanation": "C'est le thérémine, inventé en 1920 par le physicien russe Léon Theremin : c'est le seul instrument dont on joue sans contact physique. Son glissement fantomatique a envahi les bandes-son de science-fiction et d'horreur des années 1950 !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0218.jpg",
+   "alt": "Instrument à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -931,18 +959,22 @@
   "id": "musique-pop-0051",
   "category": "musique-pop",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle chanson de Lady Gaga les fans ont-ils associée à la danse de Mercredi dans leurs montages viraux ?",
+  "type": "audio",
+  "question": "Un orchestre immense porte le deuil d'un héros tombé, dans une marche lente, noble et écrasante. De quel opéra monumental ce passage vient-il ?",
   "choices": [
-   "« Poker Face »",
-   "« Bloody Mary »",
-   "« Shallow »",
-   "« Rain on Me »"
+   "Marche funèbre de Chopin",
+   "Marche funèbre de Siegfried, du Crépuscule des dieux de Wagner",
+   "Marche au supplice de Berlioz",
+   "Funérailles de Liszt"
   ],
   "correctIndex": 1,
-  "explanation": "La version accélérée de « Bloody Mary » a explosé grâce aux vidéos de fans. La chanson n'est pas dans la scène originale, mais internet a voté !",
+  "explanation": "C'est la Marche funèbre de Siegfried, dans Le Crépuscule des dieux de Richard Wagner (1876) : l'orchestre y raconte toute la vie du héros pendant que son corps est porté en procession. Dix minutes de deuil en format XXL !",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0213.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -950,21 +982,21 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Écoute ce violoncelle mélancolique. De quel instrument Mercredi joue-t-elle dans la série ?",
+  "question": "Des larmes coulent dans ce chœur poignant, extrait d'une messe pour les morts restée inachevée. Quel passage entends-tu ?",
   "choices": [
-   "Du piano à queue uniquement",
-   "De la guitare électrique",
-   "Du violoncelle",
-   "De la trompette"
+   "Le Dies Irae de Verdi",
+   "Le Dies Irae grégorien",
+   "La Marche funèbre de Siegfried de Wagner",
+   "Le Lacrimosa du Requiem de Mozart"
   ],
-  "correctIndex": 2,
-  "explanation": "Son violoncelle géant colle parfaitement à son univers sombre et élégant. Même ses loisirs ont l'air d'un concert funèbre !",
+  "correctIndex": 3,
+  "explanation": "C'est le Lacrimosa du Requiem de Wolfgang Amadeus Mozart (1791), l'œuvre qu'il composait sur son lit de mort et qui est restée inachevée. « Lacrimosa » signifie « pleine de larmes » en latin : on les entend couler dans chaque mesure.",
   "media": {
    "kind": "audio",
-   "src": "/media/violoncelle.wav",
-   "alt": "Phrase de violoncelle synthétisée",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0207.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -1061,18 +1093,22 @@
   "id": "musique-pop-0058",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que demande la célèbre chanson du générique de Scooby-Doo en anglais ?",
+  "type": "image",
+  "question": "Sur scène, cette musicienne frotte un archet sur une simple lame d'atelier courbée entre ses genoux, et en tire une voix presque humaine. Quel instrument détourné joue-t-elle ?",
   "choices": [
-   "« Scooby-Doo, que manges-tu ? »",
-   "« Scooby-Doo, où es-tu ? »",
-   "« Scooby-Doo, qui a peur ? »",
-   "« Scooby-Doo, où dors-tu ? »"
+   "Le violoncelle",
+   "Le thérémine",
+   "L'armonica de verre",
+   "La scie musicale"
   ],
-  "correctIndex": 1,
-  "explanation": "« Scooby-Dooby-Doo, where are you ? » : le groupe a toujours besoin de son chien détective. Généralement, il est près de la nourriture !",
+  "correctIndex": 3,
+  "explanation": "C'est la scie musicale : une banale scie de menuisier, courbée en S et frottée avec un archet, produit ce chant plaintif et fantomatique. Elle a connu son heure de gloire dans les music-halls des années 1920 !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0219.jpg",
+   "alt": "Instrument à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -1169,18 +1205,22 @@
   "id": "musique-pop-0064",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans « Luigi's Mansion », avec quoi Luigi capture-t-il les fantômes ?",
+  "type": "image",
+  "question": "Cette gravure ancienne montre des bols de verre emboîtés sur un axe, qu'on faisait chanter avec les doigts mouillés. On disait son son envoûtant capable de troubler les esprits. Quel instrument est-ce ?",
   "choices": [
-   "Un filet à papillons",
-   "Un aspirateur spécial anti-fantômes",
-   "Une tapette géante",
-   "Un piège à souris"
+   "L'harmonica de verre (armonica) de Franklin",
+   "Le thérémine",
+   "La scie musicale",
+   "Le cristal Baschet"
   ],
-  "correctIndex": 1,
-  "explanation": "L'Ectoblast aspire les fantômes comme de vulgaires poussières. Le ménage le plus héroïque des jeux vidéo !",
+  "correctIndex": 0,
+  "explanation": "C'est l'harmonica de verre, ou armonica, inventé par Benjamin Franklin en 1761 : des bols de verre tournant sur un axe, effleurés par les doigts mouillés. Sa réputation « qui rend fou » est une légende tenace — Mozart et Beethoven ont quand même composé pour lui !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0220.jpg",
+   "alt": "Instrument à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1349,18 +1389,22 @@
   "id": "musique-pop-0074",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "À quelle période de l'année a lieu l'événement Fortnitemares dans « Fortnite » ?",
+  "type": "image",
+  "question": "Regarde bien cette couverture de partition de 1873 : « Paroles de Henri Cazalis, musique de Saint-Saëns », et la Mort qui mène le bal au violon. Sous quelle forme cette œuvre a-t-elle d'abord été publiée, avant de devenir le célèbre poème symphonique pour orchestre ?",
   "choices": [
-   "À Noël",
-   "En automne, autour d'Halloween",
-   "À Pâques",
-   "Pendant les vacances d'été"
+   "Une chanson pour voix et piano",
+   "Un ballet en un acte",
+   "Une musique pour un film muet",
+   "Un opéra comique"
   ],
-  "correctIndex": 1,
-  "explanation": "Quand les feuilles tombent, les monstres débarquent sur l'île. C'est devenu un rendez-vous annuel des joueurs.",
+  "correctIndex": 0,
+  "explanation": "La Danse macabre a d'abord été une mélodie pour voix et piano (1872-1873) sur le poème de Cazalis ; Saint-Saëns l'a ensuite gonflée en poème symphonique pour orchestre, créé en 1875 — la version que tout le monde connaît.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0221.jpg",
+   "alt": "Partition ancienne à identifier",
+   "credit": "Couverture ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1457,18 +1501,22 @@
   "id": "musique-pop-0080",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Qu'est-ce qu'un flash mob zombie inspiré de « Thriller » ?",
+  "type": "video",
+  "question": "Au piano, ce thème célèbre avance à pas feutrés, puis accélère comme une poursuite de trolls dans une grotte de plus en plus étroite. Quelle pièce l'interprète joue-t-il ?",
   "choices": [
-   "Un cours de danse en ligne",
-   "Une manifestation de vrais zombies",
-   "Une foule déguisée qui se met soudain à danser la chorégraphie dans un lieu public",
-   "Un défilé de voitures anciennes"
+   "Une nuit sur le mont Chauve de Moussorgski",
+   "Gnomus de Moussorgski",
+   "Dans l'antre du roi de la montagne, de Peer Gynt de Grieg",
+   "Le Vol du bourdon de Rimski-Korsakov"
   ],
   "correctIndex": 2,
-  "explanation": "Des passants en apparence normaux deviennent d'un coup une troupe de zombies coordonnée. La surprise fait tout le spectacle !",
+  "explanation": "C'est Dans l'antre du roi de la montagne, extrait de Peer Gynt d'Edvard Grieg (1875) : Peer s'enfuit devant les trolls pendant que la musique accélère jusqu'à la panique. Ici, un seul pianiste remplace tout l'orchestre — trolls compris !",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0222.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1601,18 +1649,22 @@
   "id": "musique-pop-0088",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle chanson les sœurs Sanderson interprètent-elles pour ensorceler une fête dans « Hocus Pocus » ?",
+  "type": "video",
+  "question": "Sur cette petite scène, deux instruments insolites se répondent : l'un se joue entièrement sans contact, l'autre est un outil d'atelier frotté avec un archet. Quels sont-ils ?",
   "choices": [
-   "« Ghostbusters »",
-   "« Thriller »",
-   "« I Put a Spell on You »",
-   "« Monster Mash »"
+   "Le violon et le violoncelle",
+   "L'orgue et la harpe",
+   "Le piano et la guitare",
+   "Le thérémine et la scie musicale"
   ],
-  "correctIndex": 2,
-  "explanation": "Elles chantent littéralement un sort à tout le public, qui se met à danser sans pouvoir s'arrêter. Un karaoké avec malédiction intégrée !",
+  "correctIndex": 3,
+  "explanation": "C'est un duo de thérémine et de scie musicale : les deux instruments produisent des glissements plaintifs presque identiques, parfaits pour une ambiance de film d'horreur. L'un fonctionne à l'électricité, l'autre à l'huile de coude !",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0223.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1692,21 +1744,21 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Écoute cette basse synthwave très années 80. Quel style musical domine le générique de « Stranger Things » et son ambiance années 80 ?",
+  "question": "Un père chevauche dans la nuit, son enfant fiévreux blotti dans ses bras, pendant qu'une voix suave l'appelle depuis l'obscurité. Quel chant dramatique entends-tu ?",
   "choices": [
-   "La musique country",
-   "Les synthétiseurs rétro",
-   "Le jazz manouche",
-   "L'opéra classique"
+   "Le Roi des aulnes (Erlkönig) de Schubert",
+   "La Jeune Fille et la Mort de Schubert",
+   "Danse macabre de Saint-Saëns",
+   "Totentanz de Liszt"
   ],
-  "correctIndex": 1,
-  "explanation": "Des nappes de synthé sombres et pulsantes plongent Hawkins dans une inquiétante nostalgie. Les années 80 n'ont jamais paru si menaçantes !",
+  "correctIndex": 0,
+  "explanation": "C'est Le Roi des aulnes (Erlkönig) de Franz Schubert (1815), sur un poème de Goethe : un père galope pour sauver son fils pendant que le Roi des aulnes tente de le séduire. Le piano imite le galop du cheval du début à la fin — et l'enfant ne survit pas au voyage.",
   "media": {
    "kind": "audio",
-   "src": "/media/basse-synthwave.wav",
-   "alt": "Basse synthwave synthétisée, ambiance années 80",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0208.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1785,58 +1837,66 @@
   "id": "musique-pop-0098",
   "category": "musique-pop",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Vrai phénomène de fans : la chanson « Bloody Mary » de Lady Gaga est-elle entendue dans la scène du bal de « Mercredi » ?",
+  "type": "audio",
+  "question": "Quatre instruments à cordes ouvrent cette œuvre par un accord brutal et un thème obsessionnel, comme une chevauchée funèbre. De quoi s'agit-il ?",
   "choices": [
-   "Non, elle vient d'un autre épisode",
-   "Oui, c'est la chanson officielle de la scène",
-   "Oui, Lady Gaga y fait un caméo",
-   "Non, elle a été ajoutée par les montages de fans devenus viraux"
+   "Quatuor « La Truite » de Schubert",
+   "Quatuor « Américain » de Dvořák",
+   "Quatuor « Razumovsky » de Beethoven",
+   "Quatuor « La Jeune Fille et la Mort » de Schubert"
   ],
   "correctIndex": 3,
-  "explanation": "Internet a remplacé la bande-son et créé sa propre légende. La série dit « Goo Goo Muck », TikTok a répondu « Bloody Mary » !",
+  "explanation": "C'est le Quatuor « La Jeune Fille et la Mort » de Franz Schubert (1824), un de ses chefs-d'œuvre les plus sombres. Son deuxième mouvement varie un chant où la Mort vient chercher une jeune fille : Schubert l'a écrit en se sachant gravement malade.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0215.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
   "id": "musique-pop-0099",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Quel point commun relie « Thriller », « Ghostbusters » et « Monster Mash » ?",
+  "type": "audio",
+  "question": "Des notes cristallines et glissantes donnent l'impression de nager sous l'eau, dans un monde silencieux et bleuté. Quelle pièce entends-tu ?",
   "choices": [
-   "Elles parlent toutes de citrouilles",
-   "Elles ont été écrites pour le même film",
-   "Elles sont chantées par le même artiste",
-   "Ce sont des classiques que l'on ressort chaque Halloween"
+   "Le Cygne de Saint-Saëns",
+   "Aquarium, du Carnaval des animaux de Saint-Saëns",
+   "Clair de lune de Debussy",
+   "Gymnopédie n° 1 de Satie"
   ],
-  "correctIndex": 3,
-  "explanation": "Trois générations de playlists, mais le même trio gagnant revient chaque 31 octobre. Les monstres passent, les tubes restent !",
+  "correctIndex": 1,
+  "explanation": "C'est Aquarium, extrait du Carnaval des animaux de Camille Saint-Saëns (1886) : l'harmonica de verre et les glissandos du piano y créent une eau musicale. Le cinéma l'utilise souvent pour les scènes sous-marines ou oniriques un peu inquiétantes.",
   "media": {
-   "kind": "image",
-   "src": "/media/tourne-disque.svg",
-   "alt": "Illustration d'un tourne-disque vinyle rétro",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "audio",
+   "src": "/media/med-0209.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
   "id": "musique-pop-0100",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans les films « Halloween », de quoi est surtout fait le thème musical glaçant associé à Michael Myers ?",
+  "type": "video",
+  "question": "Caméra sur le pédalier : un organiste joue avec les seuls pieds un morceau célèbre qui bourdonne à toute vitesse. Quelle pièce reconnais-tu ?",
   "choices": [
-   "Une fanfare de cuivres joyeuse",
-   "Quelques notes de piano aiguës répétées en boucle",
-   "Un chœur d'opéra complet",
-   "Une guitare folk douce"
+   "Le Vol du bourdon, de Rimski-Korsakov",
+   "Dans l'antre du roi de la montagne de Grieg",
+   "La Toccata de Bach",
+   "Aquarium de Saint-Saëns"
   ],
-  "correctIndex": 1,
-  "explanation": "Un motif de piano simple et obsédant suffit à annoncer le danger. Comme pour le requin, moins il y a de notes, plus la peur monte !",
+  "correctIndex": 0,
+  "explanation": "C'est Le Vol du bourdon de Nikolaï Rimski-Korsakov (1900), extrait de son opéra Le Conte du tsar Saltan, joué ici entièrement aux pieds sur le pédalier d'un orgue. Un insecte virtuose et un organiste aux pieds très agiles !",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0224.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  }
 ]

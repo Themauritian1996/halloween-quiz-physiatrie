@@ -3,18 +3,22 @@
   "id": "histoire-0001",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "La fête celte de Samhain marquait principalement quel moment de l'année ?",
+  "type": "image",
+  "question": "Sur cette photo, des montagnes de papiers colorés brûlent devant un temple, dans un nuage d'étincelles. À qui ces offrandes de papier sont-elles destinées ?",
   "choices": [
-   "La fin des récoltes et le début de l'hiver",
-   "Le début du printemps",
-   "Le solstice d'été",
-   "La fête des moissons de blé"
+   "Aux dieux de la pluie",
+   "Aux jeunes mariés",
+   "Aux esprits des morts",
+   "Aux gardiens des récoltes"
   ],
-  "correctIndex": 0,
-  "explanation": "Samhain fermait la saison claire et ouvrait la saison sombre. On rentrait le bétail et on allumait de grands feux !",
+  "correctIndex": 2,
+  "explanation": "Aux esprits des morts ! Pendant le festival des fantômes affamés, en Chine et en Asie du Sud-Est, on brûle du papier-monnaie et des objets en papier pour qu'ils parviennent aux ancêtres dans l'au-delà.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0018.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -93,22 +97,22 @@
   "id": "histoire-0006",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ce glas, la sonnerie lente des cloches en l'honneur des morts. Le 2 novembre, juste après la Toussaint, est consacré dans la tradition catholique à qui ?",
+  "type": "image",
+  "question": "Que représente cette gravure du XIXe siècle, avec une accusée au centre d'une salle bondée ?",
   "choices": [
-   "Aux anges",
-   "Aux défunts",
-   "Aux enfants",
-   "Aux moines"
+   "Un marché médiéval",
+   "Un procès de sorcières",
+   "Une fête de village",
+   "Un couronnement royal"
   ],
   "correctIndex": 1,
-  "explanation": "Le Jour des Défunts est dédié à la mémoire de tous les morts. Beaucoup de familles se rendent alors au cimetière.",
+  "explanation": "C'est un procès de sorcières à Salem, dans le Massachusetts, en 1692-1693. Cette gravure de 1876 montre l'accusée Mary Walcott face à ses accusateurs — la peur collective y a envoyé des innocents à la mort.",
   "media": {
-   "kind": "audio",
-   "src": "/media/cloche-funebre.wav",
-   "alt": "Glas funèbre synthétisé, sonnerie lente de cloche pour les morts",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0001.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -134,20 +138,20 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur cette illustration, un légume creusé sert de lanterne. Avant la citrouille, dans quel légume creusait-on les premières Jack-o'-lantern en Irlande ?",
+  "question": "Sur cette photo prise pour le 31 octobre sur l'île de Man, la lanterne traditionnelle n'est pas une citrouille. Dans quoi est-elle sculptée ?",
   "choices": [
-   "Le chou",
-   "La courgette",
-   "Le navet",
-   "La betterave rouge seulement pour la couleur"
+   "Une citrouille blanche",
+   "Une betterave",
+   "Un panais",
+   "Un navet"
   ],
-  "correctIndex": 2,
-  "explanation": "On sculptait des navets, parfois terrifiants ! La citrouille américaine, plus grosse, a ensuite volé la vedette.",
+  "correctIndex": 3,
+  "explanation": "Dans un navet ! Pour Hop-tu-Naa, la fête du 31 octobre de l'île de Man, on creuse encore des navets comme autrefois en Irlande et en Écosse — la citrouille américaine n'est arrivée que plus tard.",
   "media": {
    "kind": "image",
-   "src": "/media/navet-lanterne.svg",
-   "alt": "Illustration d'un navet creusé servant de lanterne",
-   "credit": "Illustration originale du projet Quiz Halloween",
+   "src": "/media/med-0004.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
    "licence": "CC0"
   }
  },
@@ -191,18 +195,22 @@
   "id": "histoire-0011",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Lors de la tournée d'Halloween, que demandent traditionnellement les enfants de porte en porte ?",
+  "type": "audio",
+  "question": "Écoute cette sonnerie de cloche d'église, lente et solennelle. Comment appelle-t-on la sonnerie qui annonce un décès et accompagne les funérailles ?",
   "choices": [
-   "Des bonbons",
-   "Des devoirs supplémentaires",
-   "Des navets crus",
-   "Des bougies uniquement"
+   "L'angélus",
+   "Le glas",
+   "Le carillon de fête",
+   "La volée du baptême"
   ],
-  "correctIndex": 0,
-  "explanation": "Déguisés, les enfants frappent aux portes pour remplir leur sac de friandises. C'est le cœur joyeux de la fête moderne !",
+  "correctIndex": 1,
+  "explanation": "Le glas ! Ses coups espacés et graves annonçaient un décès à tout le village. Début novembre, autour de la Toussaint et du Jour des Défunts, il résonne particulièrement souvent.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0020.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -246,21 +254,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "La ville de Salem, célèbre pour ses procès de sorcières, se trouve dans quel pays ?",
+  "question": "Ces murs sont entièrement construits avec des crânes et des ossements humains empilés. Dans quel pays se trouve cet ossuaire célèbre ?",
   "choices": [
-   "Le Canada",
-   "Les États-Unis",
-   "L'Angleterre",
-   "La France"
+   "En France",
+   "En Tchéquie",
+   "En Italie",
+   "Au Mexique"
   ],
   "correctIndex": 1,
-  "explanation": "Salem est dans le Massachusetts, aux États-Unis. La ville est aujourd'hui une destination très courue à Halloween.",
+  "explanation": "C'est l'ossuaire de Sedlec, près de Kutná Hora en Tchéquie. Il contiendrait les squelettes de 40 000 à 70 000 personnes, transformés en décorations macabres au XIXe siècle.",
   "media": {
    "kind": "image",
-   "src": "/media/maison-salem.svg",
-   "alt": "Illustration d'une maison coloniale ancienne de Salem",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0005.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -322,21 +330,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cette illustration montre un autel domestique coloré, une « ofrenda ». Qu'est-ce qu'une « ofrenda » pendant le Día de los Muertos ?",
+  "question": "Ces galeries tapissées de crânes et de fémurs s'étendent sur des kilomètres sous une grande capitale. Laquelle ?",
   "choices": [
-   "Un feu d'artifice",
-   "Une danse traditionnelle",
-   "Un masque de squelette",
-   "Un autel d'offrandes pour les défunts"
+   "Rome",
+   "Londres",
+   "Paris",
+   "Vienne"
   ],
-  "correctIndex": 3,
-  "explanation": "On y dépose photos, bougies, nourriture et objets aimés des disparus. C'est une façon de les accueillir à la maison.",
+  "correctIndex": 2,
+  "explanation": "Ce sont les Catacombes de Paris, d'anciennes carrières où l'on a transféré les ossements des cimetières parisiens à partir de 1786. Six millions de Parisiens y « reposent » !",
   "media": {
    "kind": "image",
-   "src": "/media/autel-ofrenda.svg",
-   "alt": "Illustration d'une ofrenda décorée de soucis et d'une calavera",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0006.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -379,18 +387,22 @@
   "id": "histoire-0021",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Qu'est-ce que le « pan de muerto », mangé pendant le Día de los Muertos ?",
+  "type": "audio",
+  "question": "Écoute ce chœur doux et poignant en latin, extrait d'une œuvre célèbre laissée inachevée en 1791. Qui en est le compositeur ?",
   "choices": [
-   "Un bonbon en forme de crâne",
-   "Un plat de maïs épicé",
-   "Un pain sucré traditionnel",
-   "Une soupe de citrouille"
+   "Ludwig van Beethoven",
+   "Wolfgang Amadeus Mozart",
+   "Johann Sebastian Bach",
+   "Georg Friedrich Haendel"
   ],
-  "correctIndex": 2,
-  "explanation": "Ce pain rond, souvent parfumé à l'orange, est décoré de formes évoquant des os. Il se partage en famille sur les tombes et les autels.",
+  "correctIndex": 1,
+  "explanation": "Mozart ! Ce Lacrimosa (« jour de larmes ») fait partie de son Requiem en ré mineur, commandé anonymement et interrompu par sa mort à 35 ans — la légende noire parfaite pour Halloween.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0022.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -434,21 +446,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cette illustration montre un grand feu de joie allumé pour Samhain. À quoi servaient les grands feux allumés pendant Samhain ?",
+  "question": "Cet autel débordant de fleurs orange, de fruits, de pains et de bougies a été dressé à la maison pour accueillir les morts. Pour quelle fête ?",
   "choices": [
-   "À cuire les citrouilles",
-   "À éloigner les mauvais esprits et guider les bons",
-   "À signaler les navires",
-   "À faire fondre la neige"
+   "Le Día de los Muertos",
+   "Noël",
+   "Pâques",
+   "La fête des récoltes"
   ],
-  "correctIndex": 1,
-  "explanation": "La lumière du feu protégeait les vivants et réchauffait la nuit d'automne. On en ramenait parfois une braise pour rallumer son foyer.",
+  "correctIndex": 0,
+  "explanation": "C'est une ofrenda du Día de los Muertos, au Mexique, début novembre. Chaque offrande — nourriture, photos, bougies — aide les défunts de la famille à retrouver le chemin de la maison.",
   "media": {
    "kind": "image",
-   "src": "/media/feu-samhain.svg",
-   "alt": "Illustration d'un grand feu de joie nocturne sous la lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0007.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
@@ -546,39 +558,43 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Que fait-on flotter sur l'eau à la fin d'Obon au Japon ?",
+  "question": "Sur cette photo prise dans un musée de Mexico, ces crânes blancs décorés de motifs colorés ont l'air en céramique… mais ils sont comestibles ! Ils sont faits de quoi ?",
   "choices": [
-   "Des fleurs en plastique",
-   "Des citrouilles",
-   "Des bateaux en bois",
-   "Des lanternes en papier"
+   "De plâtre peint",
+   "De cire",
+   "De sucre",
+   "De papier mâché"
   ],
-  "correctIndex": 3,
-  "explanation": "Ces lanternes lumineuses guident les esprits des ancêtres vers l'autre monde. Le spectacle sur les rivières est magnifique.",
+  "correctIndex": 2,
+  "explanation": "De sucre ! Les calaveras de azúcar décorent les autels du Día de los Muertos ; on écrit souvent un prénom sur leur front, en souvenir d'un défunt… ou en blague entre amis bien vivants.",
   "media": {
    "kind": "image",
-   "src": "/media/lanterne-papier.svg",
-   "alt": "Illustration de lanternes de papier flottant sur l'eau",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0009.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
   }
  },
  {
   "id": "histoire-0031",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "En Chine, le festival des fantômes affamés repose sur quelle croyance ?",
+  "type": "video",
+  "question": "Dans cette vidéo tournée au Japon, des centaines de lanternes de papier descendent lentement la rivière au crépuscule. À qui ces lumières sont-elles destinées ?",
   "choices": [
-   "Les ancêtres envoient de la pluie",
-   "Les dragons descendent des montagnes",
-   "Les esprits des morts reviennent et reçoivent des offrandes",
-   "Les fantômes ont peur des citrouilles"
+   "Aux pêcheurs égarés",
+   "Aux enfants nés dans l'année",
+   "Aux esprits des ancêtres",
+   "Aux dieux du fleuve"
   ],
   "correctIndex": 2,
-  "explanation": "On offre nourriture et papier-monnaie aux esprits errants pour les apaiser. C'est un moment de respect envers les ancêtres oubliés.",
+  "explanation": "Aux ancêtres ! C'est le tōrō nagashi qui clôt la fête d'Obon au Japon : les lanternes flottantes guident les esprits de la famille vers l'autre monde, après leur visite parmi les vivants.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0023.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -712,39 +728,43 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Le candy corn, bonbon tricolore emblématique d'Halloween, vient de quel pays ?",
+  "question": "Cette fleur d'un orange éclatant, photographiée au Mexique, forme des chemins de pétales pour guider les âmes début novembre. Comment s'appelle-t-elle ?",
   "choices": [
-   "De l'Allemagne",
-   "Des États-Unis",
-   "Du Japon",
-   "Du Mexique"
+   "Le chrysanthème",
+   "Le souci, ou cempasúchil",
+   "Le tournesol",
+   "Le dahlia"
   ],
   "correctIndex": 1,
-  "explanation": "Créé à la fin du XIXe siècle, ce petit triangle sucré divise : on l'adore ou on le déteste. Il reste un symbole d'Halloween américain !",
+  "explanation": "C'est le souci, appelé cempasúchil au Mexique (du nahuatl « fleur aux vingt pétales »). Sa couleur soleil et son parfum musqué guideraient les esprits pendant le Día de los Muertos.",
   "media": {
    "kind": "image",
-   "src": "/media/candy-corn.svg",
-   "alt": "Illustration de bonbons candy corn tricolores",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0010.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
   "id": "histoire-0040",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelles sont les trois couleurs traditionnelles du candy corn, de la base à la pointe ?",
+  "type": "video",
+  "question": "Cette vidéo montre des festivités de rue colorées, avec autels fleuris et squelettes dansants. Dans quel pays célèbre-t-on ainsi les morts début novembre ?",
   "choices": [
-   "Rouge, rose et blanc",
-   "Noir, violet et vert",
-   "Orange, jaune et blanc",
-   "Bleu, jaune et vert"
+   "Au Mexique",
+   "En Espagne",
+   "Aux Philippines",
+   "Au Brésil"
   ],
-  "correctIndex": 2,
-  "explanation": "Ses couleurs imitent un grain de maïs, en plein dans le thème des récoltes d'automne. D'où son nom de « maïs bonbon » !",
+  "correctIndex": 0,
+  "explanation": "Au Mexique, pendant le Día de los Muertos ! Ici à Aguascalientes, la mort se fête en plein air, en musique et en couleurs — l'UNESCO a classé la tradition au patrimoine culturel immatériel.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0024.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -805,22 +825,22 @@
   "id": "histoire-0044",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ce vent nocturne inquiétant. Selon la croyance celte, que se passait-il la nuit de Samhain entre le monde des vivants et celui des morts ?",
+  "type": "image",
+  "question": "Sur cette carte postale de 1904, une jeune fille tient un miroir et une citrouille le soir d'Halloween. Selon le jeu de divination alors à la mode, que devait-elle apercevoir dans le miroir ?",
   "choices": [
-   "Le temps s'arrêtait",
-   "Les morts devenaient invisibles pour toujours",
-   "La frontière entre les deux devenait très mince",
-   "Les vivants perdaient la mémoire"
+   "Son futur mari",
+   "Un ancêtre bienveillant",
+   "Un fantôme farceur",
+   "Son propre visage vieilli"
   ],
-  "correctIndex": 2,
-  "explanation": "Cette nuit-là, les esprits pouvaient passer parmi les vivants. Voilà pourquoi Halloween garde son petit frisson surnaturel !",
+  "correctIndex": 0,
+  "explanation": "Son futur mari ! Dans le folklore américain et britannique, se regarder dans un miroir dans une pièce sombre à Halloween devait révéler le visage de son futur époux — le portrait accroché au mur donne l'indice.",
   "media": {
-   "kind": "audio",
-   "src": "/media/vent-nuit.wav",
-   "alt": "Vent nocturne synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0012.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Carte postale ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -899,18 +919,22 @@
   "id": "histoire-0049",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que symbolise la couleur orange à Halloween ?",
+  "type": "video",
+  "question": "Dans cette vidéo, une participante à un défilé de vélos porte un maquillage de squelette élégant avec des fleurs autour des yeux. Quel personnage emblématique incarne-t-elle ?",
   "choices": [
-   "Le printemps",
-   "La mer et le froid",
-   "L'automne et les récoltes",
-   "La neige"
+   "Un clown triste",
+   "La Catrina",
+   "Un mime parisien",
+   "La faucheuse"
   ],
-  "correctIndex": 2,
-  "explanation": "Feuilles rousses, citrouilles et feux de joie : l'orange, c'est l'automne en une couleur. Il se marie au noir de la nuit.",
+  "correctIndex": 1,
+  "explanation": "La Catrina ! Son maquillage de crâne fleuri est devenu LE costume du Día de los Muertos au Mexique — ici lors d'une sortie à vélo festive à Mexico.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0025.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Vidéo — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -1043,18 +1067,22 @@
   "id": "histoire-0057",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle ville américaine est célèbre pour sa grande parade d'Halloween costumée dans le quartier de Greenwich Village ?",
+  "type": "image",
+  "question": "Perché sur un rocher de Transylvanie, ce château roumain est devenu un lieu de pèlerinage pour les amateurs de vampires. À quel personnage de roman doit-il sa gloire mondiale ?",
   "choices": [
-   "La Nouvelle-Orléans",
-   "Los Angeles",
-   "Chicago",
-   "New York"
+   "Le comte Dracula",
+   "Le monstre de Frankenstein",
+   "Le Fantôme de l'Opéra",
+   "Le loup-garou"
   ],
-  "correctIndex": 3,
-  "explanation": "La Village Halloween Parade rassemble des milliers de participants déguisés. Marionnettes géantes et créatures fantastiques défilent dans les rues !",
+  "correctIndex": 0,
+  "explanation": "Le château de Bran est associé au comte Dracula du roman de 1897 — et, plus vaguement, à Vlad l'Empaleur. L'auteur ne l'a probablement jamais visité, mais le mythe, lui, y a élu domicile !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0026.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1080,21 +1108,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quel oiseau noir est associé dans le folklore à la mort et aux présages, et très présent à Halloween ?",
+  "question": "Cette procession aux torches photographiée la nuit à Édimbourg célèbre une grande fête celte du feu, au retour des beaux jours. Laquelle ?",
   "choices": [
-   "Le moineau",
-   "Le corbeau",
-   "Le canard",
-   "Le flamant rose"
+   "Samhain",
+   "Imbolc",
+   "Lughnasadh",
+   "Beltane"
   ],
-  "correctIndex": 1,
-  "explanation": "Intelligent et noir comme la nuit, le corbeau hante les contes et les cimetières. Edgar Allan Poe en a fait une star avec son célèbre poème !",
+  "correctIndex": 3,
+  "explanation": "Beltane, la fête du 1er mai ! À Édimbourg, le festival du feu de Calton Hill fait revivre cette célébration du printemps, pendant lumineux de Samhain six mois plus tôt.",
   "media": {
    "kind": "image",
-   "src": "/media/corbeau.svg",
-   "alt": "Illustration d'un corbeau au clair de lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0014.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1209,18 +1237,22 @@
   "id": "histoire-0066",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Au Québec, quelle expression les enfants utilisent-ils couramment pour parler de la tournée du 31 octobre ?",
+  "type": "image",
+  "question": "Sur ce papyrus égyptien vieux d'environ 3 000 ans, un dieu à tête de chacal pèse le cœur d'un mort contre une plume. Ce document, placé dans les tombes, servait de…",
   "choices": [
-   "Passer la Toussaint",
-   "Faire Samhain",
-   "Passer l'Halloween",
-   "Faire les soul cakes"
+   "Guide et livre de sorts pour réussir son voyage dans l'au-delà",
+   "Registre des récoltes et des impôts du pharaon",
+   "Calendrier des crues du Nil",
+   "Recueil de recettes de momification"
   ],
-  "correctIndex": 2,
-  "explanation": "« Passer l'Halloween », déguisement et sac à bonbons à la main ! Au Québec, la fête est très populaire chez les enfants.",
+  "correctIndex": 0,
+  "explanation": "C'est le Livre des morts : formules et illustrations pour guider le défunt dans l'au-delà. Si le cœur, alourdi par les fautes, dépassait le poids de la plume de Maât, une créature le dévorait !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0027.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Papyrus ancien — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1335,18 +1367,22 @@
   "id": "histoire-0073",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "La nuit de Walpurgis, autre grande nuit de sorcières en Europe, a lieu à quelle date ?",
+  "type": "image",
+  "question": "Ce frontispice de 1647 montre un homme en chapeau entouré de petits animaux aux noms étranges. Quel était son métier, très lucratif à l'époque ?",
   "choices": [
-   "Le 31 octobre",
-   "Le 30 avril",
-   "Le 21 juin",
-   "Le 1er janvier"
+   "Chasseur de sorcières",
+   "Alchimiste du roi",
+   "Conteur de fées",
+   "Médecin de la peste"
   ],
-  "correctIndex": 1,
-  "explanation": "Six mois après Halloween, les sorcières se rassembleraient sur le mont Brocken en Allemagne. C'est le pendant printanier de Samhain !",
+  "correctIndex": 0,
+  "explanation": "C'est Matthew Hopkins, le « Witch Finder General » anglais. Les petits animaux dessinés sont les « familiers » que les accusées auraient avoués ; Hopkins traquait les sorcières en Angleterre pendant la guerre civile.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0002.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1425,18 +1461,22 @@
   "id": "histoire-0078",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle hypothèse moderne est souvent citée pour expliquer les comportements étranges au cœur de l'affaire de Salem ?",
+  "type": "image",
+  "question": "Cette illustration de 1849 montre deux femmes, une grand-mère rusée et sa fille, accusées de sorcellerie en 1612. De quelle célèbre affaire anglaise s'agit-il ?",
   "choices": [
-   "Une pluie de citrouilles",
-   "Un empoisonnement par l'ergot du seigle",
-   "Une éclipse totale",
-   "Un sort de Samhain"
+   "Les sorcières de Salem",
+   "Les sorcières de North Berwick",
+   "Les sorcières de Pendle, dans le Lancashire",
+   "Les sorcières de Roermond"
   ],
-  "correctIndex": 1,
-  "explanation": "Ce champignon du seigle peut provoquer hallucinations et convulsions. L'hypothèse est célèbre, même si les historiens la discutent encore !",
+  "correctIndex": 2,
+  "explanation": "Ce sont Chattox et sa fille, parmi les « sorcières de Pendle » jugées à Lancaster en 1612. Douze accusés, dix pendus : c'est l'un des procès de sorcellerie les mieux documentés d'Angleterre.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0003.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1515,18 +1555,22 @@
   "id": "histoire-0083",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle fête celte du 1er mai, célébrant le printemps et les troupeaux, fait pendant à Samhain dans l'année ?",
+  "type": "image",
+  "question": "Un crâne, un sablier, une bougie presque éteinte : ce type de nature morte du XVIIe siècle, qui rappelle que tout est éphémère, porte un nom latin. Lequel ?",
   "choices": [
-   "Beltane",
-   "Imbolc",
-   "Lughnasadh",
-   "Yule"
+   "Memento vitae",
+   "Natura picta",
+   "Ars moriendi",
+   "Vanitas"
   ],
-  "correctIndex": 0,
-  "explanation": "Beltane et Samhain se répondent à six mois d'intervalle. Deux nuits où le voile entre les mondes passait pour très mince !",
+  "correctIndex": 3,
+  "explanation": "Une vanitas ! Ces natures mortes hollandaises alignaient crânes, sabliers et bulles de savon pour rappeler la vanité des plaisirs terrestres — un « memento mori » en peinture.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0011.jpg",
+   "alt": "Peinture à identifier",
+   "credit": "Peinture ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1587,18 +1631,22 @@
   "id": "histoire-0087",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quel encens résineux, hérité des traditions préhispaniques, brûle-t-on sur les ofrendas pour purifier l'espace ?",
+  "type": "image",
+  "question": "Cette gravure d'époque aligne les portraits d'un groupe d'hommes en chapeaux hauts. Quel complot préparaient-ils pour 1605 ?",
   "choices": [
-   "Le pin des Landes",
-   "La lavande de Provence",
-   "Le copal",
-   "La vanille"
+   "Le complot des Poudres contre le Parlement anglais",
+   "L'assassinat du roi de France",
+   "La révolte des citrouilles",
+   "Le vol de la couronne d'Écosse"
   ],
-  "correctIndex": 2,
-  "explanation": "La fumée du copal purifierait l'air des mauvais esprits et guiderait les âmes grâce à son parfum. Son usage remonte à bien avant l'arrivée des Espagnols !",
+  "correctIndex": 0,
+  "explanation": "Le complot des Poudres (Gunpowder Plot) ! Guy Fawkes et ses compagnons voulaient faire sauter le Parlement de Londres ; leur échec se fête encore chaque 5 novembre pendant la Bonfire Night.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0016.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1677,18 +1725,22 @@
   "id": "histoire-0092",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans les anciennes traditions irlandaises, quel lieu de colline était particulièrement associé aux feux et aux rassemblements de Samhain ?",
+  "type": "image",
+  "question": "Sur cette photo prise à Madagascar, une foule en fête porte à bout de bras un corps enveloppé dans un linceul neuf. Comment s'appelle cette cérémonie de « retournement des morts » ?",
   "choices": [
-   "Tlachtga",
-   "Stonehenge",
-   "Le mont Fuji",
-   "Le Vésuve"
+   "Obon",
+   "Le festival des fantômes affamés",
+   "Le Día de los Muertos",
+   "Le Famadihana"
   ],
-  "correctIndex": 0,
-  "explanation": "Sur la colline de Tlachtga, on allumait un grand feu d'où les foyers d'Irlande auraient rallumé le leur. Un véritable phare de Samhain !",
+  "correctIndex": 3,
+  "explanation": "Le Famadihana ! Tous les quelques ans, les familles malgaches sortent les ancêtres de leur tombeau, remplacent leur linceul de soie et dansent avec eux — des retrouvailles joyeuses, pas un deuil.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0017.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -1786,57 +1838,65 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Pourquoi le déguisement de fantôme classique est-il un simple drap blanc ?",
+  "question": "Que représente cette célèbre gravure sur bois de 1510, avec ses femmes nues et son chaudron fumant ?",
   "choices": [
-   "Parce qu'il imite une citrouille blanche",
-   "Parce que les draps étaient en solde en octobre",
-   "Parce qu'il brille dans le noir naturellement",
-   "Parce qu'il évoque le linceul blanc des morts"
+   "Une danse de village",
+   "Le sabbat des sorcières",
+   "Une scène de bain public",
+   "Le jugement des Parques"
   ],
-  "correctIndex": 3,
-  "explanation": "Autrefois, les morts étaient enveloppés dans un linceul blanc. Un drap, deux trous pour les yeux : le fantôme le plus simple et le plus célèbre du monde !",
+  "correctIndex": 1,
+  "explanation": "Le sabbat des sorcières, imaginé par Hans Baldung Grien vers 1510. Cette image a durablement fixé l'idée du rendez-vous nocturne des sorcières… alors que les procès battaient leur plein en Europe.",
   "media": {
    "kind": "image",
-   "src": "/media/costume-fantome.svg",
-   "alt": "Illustration d'un enfant déguisé en fantôme avec un drap blanc",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0015.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "histoire-0099",
   "category": "histoire",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Les pommes d'amour et pommes au caramel sont populaires à Halloween parce qu'elles sont liées à quelle saison ?",
+  "type": "image",
+  "question": "En Bretagne, ce squelette sculpté, faux à la main, est le serviteur de la Mort qui vient chercher les âmes dans une charrette grinçante. Comment l'appelle-t-on ?",
   "choices": [
-   "À la saison des cerises en été",
-   "À la récolte des fraises au printemps",
-   "À la récolte des pommes en automne",
-   "À la saison des oranges en hiver"
+   "L'Ankou",
+   "La Faucheuse",
+   "Thanatos",
+   "Le Croque-mitaine"
   ],
-  "correctIndex": 2,
-  "explanation": "Octobre, c'est la pleine saison des pommes ! Les enrober de caramel ou de sucre rouge les transforme en friandises de fête foraine.",
+  "correctIndex": 0,
+  "explanation": "L'Ankou, ouvrier de la mort en Bretagne : on raconte que le dernier mort de l'année, dans chaque paroisse, devient l'Ankou de l'année suivante. Charmante promotion !",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0028.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photo — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
   "id": "histoire-0100",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "La ville d'Anoka, au Minnesota, est célèbre dans l'histoire d'Halloween pour quelle raison ?",
+  "type": "audio",
+  "question": "Écoute ce chœur et cet orchestre déchaînés qui chantent en latin le « jour de colère » du Jugement dernier. Pour quel type de cérémonie cette musique a-t-elle été composée ?",
   "choices": [
-   "Elle a inventé la citrouille",
-   "Elle aurait organisé l'une des premières parades d'Halloween aux États-Unis pour canaliser les farces",
-   "Elle a accueilli les procès de Salem",
-   "Elle a créé le candy corn"
+   "Une messe des morts, un requiem",
+   "Un mariage royal",
+   "Une fête des moissons",
+   "Un couronnement impérial"
   ],
-  "correctIndex": 1,
-  "explanation": "Au début des années 1920, Anoka a misé sur une grande fête organisée plutôt que sur les farces de rue. Elle se proclame encore « capitale mondiale d'Halloween » !",
+  "correctIndex": 0,
+  "explanation": "C'est le Dies iræ du Requiem de Mozart (1791) : la séquence médiévale du « jour de colère » y devient un orage choral. Mozart est mort en laissant son Requiem inachevé — frissons garantis.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0019.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement — Wikimedia Commons",
+   "licence": "Public domain"
   }
  }
 ]

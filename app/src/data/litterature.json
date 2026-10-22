@@ -3,18 +3,22 @@
   "id": "litterature-0001",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Chez les Grecs, qui est le dieu des morts et du royaume des morts ?",
+  "type": "image",
+  "question": "Sur cette carte marine de 1539, un monstre rouge enroule ses anneaux autour d'un navire et s'apprête à dévorer un marin. De quelle créature des peurs de marins s'agit-il ?",
   "choices": [
-   "Pluton",
-   "Hadès",
-   "Charon",
-   "Thanatos"
+   "Le kraken",
+   "Un serpent de mer géant",
+   "Le Léviathan",
+   "Charybde"
   ],
   "correctIndex": 1,
-  "explanation": "Hadès règne sur les Enfers grecs. Pluton est son nom romain, Charon n'est que le passeur.",
+  "explanation": "C'est un serpent de mer géant, dessiné sur la Carta Marina d'Olaus Magnus (1539), la célèbre carte des mers du Nord constellée de monstres. Les marins juraient en croiser au large de la Norvège — fort longs, disaient-ils, en gardant l'œil sec.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0110.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -129,40 +133,44 @@
   "id": "litterature-0008",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans la mythologie nordique, quelle déesse règne sur le royaume des morts morts sans gloire ?",
+  "type": "image",
+  "question": "Sur le pont d'un navire prisonnier des glaces, l'équipage accueille avec des cris de joie un grand oiseau marin posé sur la vergue. Quel poème cette gravure illustre-t-elle ?",
   "choices": [
-   "Skadi",
-   "Freyja",
-   "Frigg",
-   "Hel"
+   "Le Corbeau",
+   "L'Albatros",
+   "Le Bateau ivre",
+   "La Complainte du vieux marin"
   ],
   "correctIndex": 3,
-  "explanation": "Hel accueille ceux qui ne sont pas morts au combat. Son royaume porte aussi le nom de Helheim.",
+  "explanation": "C'est La Complainte du vieux marin (The Rime of the Ancient Mariner) de Samuel Taylor Coleridge (1798), gravée par Gustave Doré : l'albatros, oiseau de bon augure, suit le navire dans les glaces… jusqu'à ce que le marin le tue d'un trait d'arbalète et maudisse l'équipage.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0117.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "litterature-0009",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Écoute le croassement de ce corbeau. Quelle déesse celte, associée à la guerre et à la mort, apparaît souvent sous la forme d'un corbeau ?",
+  "type": "image",
+  "question": "Ce fantôme enchaîné, l'épée au côté, vient de dégringoler l'escalier sous l'œil ravi de deux jumeaux postés en embuscade. Quelle nouvelle humoristique cette illustration accompagne-t-elle ?",
   "choices": [
-   "Épona",
-   "Brigid",
-   "Danu",
-   "La Morrigan"
+   "Un chant de Noël",
+   "Le Fantôme de l'Opéra",
+   "Le Fantôme de Canterville",
+   "Le Tour d'écrou"
   ],
-  "correctIndex": 3,
-  "explanation": "La Morrigan survole les champs de bataille en corbeau. Elle annonce le destin des guerriers.",
+  "correctIndex": 2,
+  "explanation": "C'est Le Fantôme de Canterville d'Oscar Wilde (1887), illustré par Wallace Goldsmith : Sir Simon, fantôme très sérieux, devient la risée des jumeaux Otis, qui le bombardent de projectiles et graissent les marches. Hanter, oui — mais pas dans ces conditions !",
   "media": {
-   "kind": "audio",
-   "src": "/media/croassement-corbeau.wav",
-   "alt": "Croassement de corbeau synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0107.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -187,18 +195,22 @@
   "id": "litterature-0011",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans la mythologie nordique, qui choisit les guerriers morts au combat pour les emmener au Valhalla ?",
+  "type": "image",
+  "question": "Dans cette gravure, un squelette hilare tend une fiole à un médecin médusé, pendant qu'un malade attend à la porte. Quel grand thème des arts médiévaux est illustré ?",
   "choices": [
-   "Les Nornes",
-   "Les Valkyries",
-   "Les Elfes",
-   "Les Walkyries de Hel"
+   "Le Jugement dernier",
+   "Le Dit des trois morts et des trois vifs",
+   "La Danse macabre",
+   "La Légende dorée"
   ],
-  "correctIndex": 1,
-  "explanation": "Les Valkyries servent Odin et recrutent les héros tombés. Ces élus festoient en attendant le Ragnarök.",
+  "correctIndex": 2,
+  "explanation": "C'est la Danse macabre, ici dans la série gravée d'après Hans Holbein le Jeune (publiée en 1538) : la Mort vient chercher tout le monde, du pape au médecin — qui ne peut même pas se soigner lui-même. Égalité parfaite, mais sinistre.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0111.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
@@ -260,21 +272,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quelle plante de cuisine les vampires détestent-ils traditionnellement ?",
+  "question": "Cette gravure de 1831 montre un savant qui ouvre la porte de son atelier et recule d'horreur devant le géant qui s'éveille au sol. De quel roman est-ce le frontispice ?",
   "choices": [
-   "Le persil",
-   "Le basilic",
-   "L'ail",
-   "La menthe"
+   "Dracula",
+   "Frankenstein ou le Prométhée moderne",
+   "L'Étrange Cas du docteur Jekyll et de M. Hyde",
+   "Le Golem"
   ],
-  "correctIndex": 2,
-  "explanation": "L'ail repousse les vampires dans le folklore européen. On en suspendait aux fenêtres pour se protéger.",
+  "correctIndex": 1,
+  "explanation": "C'est le frontispice de l'édition de 1831 de Frankenstein, de Mary Shelley, dessiné par Theodor von Holst : Victor Frankenstein découvre sa Créature animée. C'est la toute première image publiée du monstre — bien avant les boulons au cou du cinéma !",
   "media": {
    "kind": "image",
-   "src": "/media/vampire.svg",
-   "alt": "Illustration d'un vampire en cape devant la lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0100.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -317,18 +329,22 @@
   "id": "litterature-0018",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que risque un vampire classique exposé à la lumière du soleil ?",
+  "type": "image",
+  "question": "Sur cette gravure, un maître d'école terrifié fuit au galop devant un cavalier drapé d'un linceul, dont on ne distingue aucune tête. Quel spectre le poursuit ?",
   "choices": [
-   "Il perd la mémoire",
-   "Il s'endort profondément",
-   "Il devient humain",
-   "Il brûle et tombe en cendre"
+   "Le Dullahan",
+   "Le Hollandais volant",
+   "La Mort en personne",
+   "Le Cavalier sans tête"
   ],
   "correctIndex": 3,
-  "explanation": "La lumière du jour est mortelle pour la plupart des vampires. D'où leur vie strictement nocturne.",
+  "explanation": "C'est le Cavalier sans tête de La Légende de Sleepy Hollow, de Washington Irving (1820) : le fantôme d'un soldat hessois décapité poursuit Ichabod Crane dans la nuit. Au matin, on ne retrouve qu'une citrouille écrasée…",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0112.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -408,43 +424,43 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "À quelle phase de la lune le loup-garou se transforme-t-il traditionnellement ?",
+  "question": "Sur cette illustration de 1919, deux hommes terrifiés regardent une femme ensanglantée, échappée de son cercueil, tandis que des monstres cauchemardesques tourbillonnent autour d'eux. Quelle nouvelle illustre-t-elle ?",
   "choices": [
-   "Lors d'une éclipse",
-   "À la nouvelle lune",
-   "Au premier quartier",
-   "À la pleine lune"
+   "Le Cœur révélateur",
+   "Le Puits et le Pendule",
+   "La Chute de la maison Usher",
+   "Les Crimes de la rue Morgue"
   ],
-  "correctIndex": 3,
-  "explanation": "La pleine lune déclenche la métamorphose du loup-garou. Le reste du temps, il redevient humain.",
+  "correctIndex": 2,
+  "explanation": "Harry Clarke illustre ici La Chute de la maison Usher d'Edgar Allan Poe (édition de 1919) : Madeline Usher, enterrée vivante, revient hanter son frère Roderick. Ambiance garantie, sans une goutte de soleil.",
   "media": {
    "kind": "image",
-   "src": "/media/loup-garou.svg",
-   "alt": "Illustration d'un loup-garou hurlant à la pleine lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0101.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "litterature-0024",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ce hurlement de loup dans la nuit. Avec quel métal précieux fabrique-t-on la balle capable de tuer un loup-garou ?",
+  "type": "image",
+  "question": "La nuit, une lanterne posée sur le plancher : un homme se penche lentement au-dessus d'un vieillard endormi, obsédé par son œil voilé. Quelle nouvelle cette illustration accompagne-t-elle ?",
   "choices": [
-   "Le cuivre",
-   "L'or",
-   "L'argent",
-   "L'étain"
+   "Le Cœur révélateur",
+   "Le Chat noir",
+   "La Barrique d'amontillado",
+   "Le Masque de la Mort rouge"
   ],
-  "correctIndex": 2,
-  "explanation": "L'argent est le point faible du loup-garou dans le folklore. Une balle d'argent met fin à la malédiction.",
+  "correctIndex": 0,
+  "explanation": "C'est Le Cœur révélateur d'Edgar Allan Poe, illustré par Harry Clarke : le narrateur épie chaque nuit le vieillard à « l'œil de vautour » avant de le tuer… puis d'entendre son cœur battre sous le plancher.",
   "media": {
-   "kind": "audio",
-   "src": "/media/hurlement-loup.wav",
-   "alt": "Hurlement de loup synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0102.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -452,21 +468,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Comment appelle-t-on un corps égyptien conservé et enveloppé de bandelettes ?",
+  "question": "Minuit sonne à la grande horloge : au milieu d'un bal masqué, une figure squelettique drapée d'un linceul tient un masque grimaçant, un poignard tombé à ses pieds sur le tapis noir. Quelle nouvelle illustre-t-elle ?",
   "choices": [
-   "Une relique",
-   "Une momie",
-   "Un sarcophage",
-   "Un fossile"
+   "Hop-Frog",
+   "Le Roi Peste",
+   "La Vérité sur le cas de M. Valdemar",
+   "Le Masque de la Mort rouge"
   ],
-  "correctIndex": 1,
-  "explanation": "Les Égyptiens momifiaient leurs morts pour l'au-delà. Les bandelettes de lin protégeaient le corps.",
+  "correctIndex": 3,
+  "explanation": "Harry Clarke illustre Le Masque de la Mort rouge de Poe : la Mort rouge en personne s'invite au bal du prince Prospero, qui croyait fuir l'épidémie entre ses murs. Le poignard du prince tombe… et tout le monde danse son dernier pas.",
   "media": {
    "kind": "image",
-   "src": "/media/momie.svg",
-   "alt": "Illustration d'une momie enveloppée de bandelettes",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0103.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -528,21 +544,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans le poème « Le Corbeau » d'Edgar Allan Poe, quel mot le corbeau répète-t-il sans cesse ?",
+  "question": "Ce vieillard décharné rame avec fureur vers le rivage des damnés, dans cette célèbre gravure du XIXe siècle. Qui est ce passeur des Enfers ?",
   "choices": [
-   "Pour toujours",
-   "Nevermore",
-   "Minuit",
-   "Perdu"
+   "Charon",
+   "Virgile",
+   "Minos",
+   "Cerbère"
   ],
-  "correctIndex": 1,
-  "explanation": "Le corbeau ne répond que « Nevermore » — jamais plus. Chaque réponse enfonce le narrateur dans le désespoir.",
+  "correctIndex": 0,
+  "explanation": "C'est Charon, le nocher des Enfers, dans la gravure de Gustave Doré pour l'Enfer de Dante (chant III) : il fait traverser l'Achéron aux âmes des morts, en les accueillant à coups de rame et d'injures.",
   "media": {
    "kind": "image",
-   "src": "/media/corbeau.svg",
-   "alt": "Illustration d'un corbeau posé au clair de lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0104.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -585,18 +601,22 @@
   "id": "litterature-0032",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Comment s'appelle l'instituteur maladroit poursuivi par le Cavalier sans tête à Sleepy Hollow ?",
+  "type": "image",
+  "question": "Cheveux blancs au vent, cette vieille sorcière traverse la forêt assise dans un mortier géant, un balai à la main, dans cette illustration de 1900. Qui est-ce ?",
   "choices": [
-   "Rip Van Winkle",
-   "Brom Bones",
-   "Ichabod Crane",
-   "Tom Walker"
+   "Baba Yaga",
+   "Mélusine",
+   "La fée Morgane",
+   "La sorcière de Hansel et Gretel"
   ],
-  "correctIndex": 2,
-  "explanation": "Ichabod Crane, maître d'école superstitieux, disparaît après la poursuite. Seule une citrouille écrasée est retrouvée.",
+  "correctIndex": 0,
+  "explanation": "C'est Baba Yaga, l'ogresse des contes russes, dessinée par Ivan Bilibine en 1900 pour Vassilissa la Belle : elle voyage dans un mortier, rame avec le pilon et efface ses traces au balai. Sa cabane, elle, marche sur des pattes de poulet.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0113.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -604,21 +624,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cette illustration montre un miroir ancien. Selon la légende urbaine, que risque-t-on à répéter « Bloody Mary » devant un miroir dans le noir ?",
+  "question": "Ce seigneur sinistre confie un trousseau de clés à sa jeune épouse, un doigt levé en guise d'avertissement : tout ouvrir, sauf une petite pièce interdite. De quel conte s'agit-il ?",
   "choices": [
-   "Faire apparaître son fantôme dans le miroir",
-   "Éteindre toutes les lumières de la maison",
-   "Se voir vieillir de cent ans",
-   "Entendre frapper à la porte"
+   "Le Petit Poucet",
+   "La Barbe bleue",
+   "Le Chat botté",
+   "Cendrillon"
   ],
-  "correctIndex": 0,
-  "explanation": "Le rituel de Bloody Mary se fait miroir et bougie à l'appui. Son visage ensanglanté est censé surgir dans la glace.",
+  "correctIndex": 1,
+  "explanation": "C'est La Barbe bleue de Charles Perrault, gravée par Gustave Doré : la petite clé interdite ouvrira le cabinet où gisent les épouses précédentes… et elle se tachera d'un sang ineffaçable.",
   "media": {
    "kind": "image",
-   "src": "/media/miroir-magique.svg",
-   "alt": "Illustration d'un miroir ancien à l'aura inquiétante",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0105.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -626,21 +646,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur quoi repose la maison de la sorcière Baba Yaga dans les contes slaves ?",
+  "question": "Dans ce tableau, une fillette au capuchon écarlate se blottit dans un lit, juste à côté d'un loup coiffé d'un bonnet de dentelle et portant lunettes. Quel conte cette scène illustre-t-elle ?",
   "choices": [
-   "Sur quatre colonnes de glace",
-   "Sur un nuage",
-   "Sur des pattes de poulet",
-   "Sur le dos d'une tortue"
+   "Pierre et le Loup",
+   "Le Loup et les Sept Chevreaux",
+   "Les Trois Petits Cochons",
+   "Le Petit Chaperon rouge"
   ],
-  "correctIndex": 2,
-  "explanation": "La cabane de Baba Yaga tourne et marche sur ses pattes de poulet. Elle ne s'immobilise que si on prononce la bonne formule.",
+  "correctIndex": 3,
+  "explanation": "C'est Le Petit Chaperon rouge : le Loup, déguisé en mère-grand, attend sa proie dans le lit. Le tableau est de Gustave Doré (vers 1862) — « que vous avez de grandes dents ! », c'est pour mieux te croquer.",
   "media": {
    "kind": "image",
-   "src": "/media/baba-yaga-hutte.svg",
-   "alt": "Illustration d'une hutte perchée sur des pattes de poulet",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0106.jpg",
+   "alt": "Peinture à identifier",
+   "credit": "Peinture ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -702,21 +722,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans « Shining » de Stephen King, quel lieu isolé par la neige fait basculer Jack Torrance dans la folie ?",
+  "question": "En un bond prodigieux, ce personnage en cape s'envole par-dessus un mur en emportant sa victime, tandis qu'on lui tire dessus depuis une fenêtre. Quelle terreur londonienne des penny dreadfuls est-ce ?",
   "choices": [
-   "Le phare de Black Rock",
-   "Le manoir Hill House",
-   "L'hôtel Overlook",
-   "L'hôpital de Derry"
+   "Spring-heeled Jack",
+   "Jack l'Éventreur",
+   "Sweeney Todd",
+   "Le comte Dracula"
   ],
-  "correctIndex": 2,
-  "explanation": "L'Overlook, coupé du monde l'hiver, réveille ses propres fantômes. Jack y perd pied peu à peu.",
+  "correctIndex": 0,
+  "explanation": "C'est Spring-heeled Jack, le « Jack aux talons à ressort » : signalé à Londres dès 1837, bondissant par-dessus murs et toits, il devint une star des penny dreadfuls, ces feuilletons à un penny. Jack l'Éventreur, lui, ne sautait pas — il rôdait, un demi-siècle plus tard.",
   "media": {
    "kind": "image",
-   "src": "/media/manoir-hante.svg",
-   "alt": "Illustration d'un manoir hanté sous la lune",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0108.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -777,18 +797,22 @@
   "id": "litterature-0042",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quelle fantôme de Poudlard hante les toilettes des filles en pleurant ?",
+  "type": "image",
+  "question": "De dos, fusil à la main et tonnelet aux pieds, ce chasseur fait face à une foule de petits hommes barbus aux mines renfrognées. Quelle nouvelle cette illustration accompagne-t-elle ?",
   "choices": [
-   "Nick Quasi-Sans-Tête",
-   "Mimi Geignarde",
-   "Le Baron Sanglant",
-   "La Dame Grise"
+   "La Légende de Sleepy Hollow",
+   "Rip Van Winkle",
+   "Le Diable et Tom Walker",
+   "Le Spectre fiancé"
   ],
   "correctIndex": 1,
-  "explanation": "Mimi Geignarde a été tuée par le Basilic dans ces toilettes. Elle les hante depuis, entre sanglots et éclaboussures.",
+  "explanation": "Arthur Rackham illustre Rip Van Winkle, de Washington Irving : dans les monts Catskill, Rip tombe sur l'équipage fantôme de Henry Hudson, boit un coup de trop… et se réveille vingt ans plus tard, barbe blanche et monde renversé.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0114.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -903,18 +927,22 @@
   "id": "litterature-0049",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans quel lac d'Écosse vivrait un célèbre monstre au long cou ?",
+  "type": "image",
+  "question": "Au pied d'un vieil arbre creux, ce petit lutin aux oreilles pointues et aux cheveux de flamme s'incline devant une fée. Quel personnage de Shakespeare est-ce ?",
   "choices": [
-   "Le loch Ness",
-   "Le loch Lomond",
-   "Le loch Tay",
-   "Le loch Awe"
+   "Puck",
+   "Ariel",
+   "Caliban",
+   "Obéron"
   ],
   "correctIndex": 0,
-  "explanation": "Le loch Ness, lac profond et sombre des Highlands, abrite « Nessie ». Les signalements remontent à 1933 et avant.",
+  "explanation": "C'est Puck — Robin Bonenfant — le lutin espiègle du Songe d'une nuit d'été de Shakespeare, peint par Arthur Rackham : serviteur d'Obéron, il sème la pagaille amoureuse dans la forêt avec un jus de fleur magique.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0115.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1029,18 +1057,22 @@
   "id": "litterature-0056",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Que se passe-t-il si on croise directement le regard de Méduse ?",
+  "type": "image",
+  "question": "Gilet boutonné, ailes de chauve-souris, longues griffes et yeux exorbités : ce monstre inventé de toutes pièces se dresse devant un jeune garçon armé d'une épée. Comment s'appelle-t-il ?",
   "choices": [
-   "On est transformé en pierre",
-   "On devient aveugle",
-   "On tombe amoureux",
-   "On vieillit de cent ans"
+   "Le Bandersnatch",
+   "Le Snark",
+   "Le Jabberwock",
+   "L'oiseau Jubjub"
   ],
-  "correctIndex": 0,
-  "explanation": "Le regard de Méduse pétrifie littéralement. Persée l'affronte en utilisant son bouclier comme miroir.",
+  "correctIndex": 2,
+  "explanation": "C'est le Jabberwock, la créature du poème Jabberwocky dans De l'autre côté du miroir de Lewis Carroll (1871), gravé par John Tenniel : le fils le tue d'un coup d'épée vorpale — « un, deux, un, deux, transperçant de part en part ».",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0116.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1101,18 +1133,22 @@
   "id": "litterature-0060",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle créature affrontée par Héraclès repousse deux têtes chaque fois qu'on lui en coupe une ?",
+  "type": "image",
+  "question": "Dans la pénombre, un homme voûté et menaçant se penche au-dessus d'un bureau où trône un verre de laboratoire, tandis qu'un crâne flotte dans un coin de la pièce. Quel roman cette illustration de 1904 accompagne-t-elle ?",
   "choices": [
-   "Le lion de Némée",
-   "La Chimère",
-   "L'Hydre de Lerne",
-   "Le sanglier d'Érymanthe"
+   "L'Étrange Cas du docteur Jekyll et de M. Hyde",
+   "Frankenstein",
+   "Dracula",
+   "Le Portrait de Dorian Gray"
   ],
-  "correctIndex": 2,
-  "explanation": "L'Hydre multiplie ses têtes à chaque coup d'épée. Héraclès s'en sort en cautérisant les plaies avec le feu.",
+  "correctIndex": 0,
+  "explanation": "C'est L'Étrange Cas du docteur Jekyll et de M. Hyde, de Robert Louis Stevenson (1886), dans l'édition illustrée de 1904 par Charles Raymond Macauley : le respectable docteur y libère, par une potion, son double monstrueux.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0119.jpg",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1209,18 +1245,22 @@
   "id": "litterature-0066",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Qui a écrit « L'Étrange Cas du docteur Jekyll et de M. Hyde » ?",
+  "type": "image",
+  "question": "Trois vieilles femmes aux doigts crochus et aux profils de rapaces murmurent dans la nuit, sur cette gravure du XIXe siècle. Dans quelle pièce ces sorcières prédisent-elles l'avenir d'un thane trop ambitieux ?",
   "choices": [
-   "Arthur Conan Doyle",
-   "Bram Stoker",
-   "Robert Louis Stevenson",
-   "H. G. Wells"
+   "Hamlet",
+   "Macbeth",
+   "Othello",
+   "Le Roi Lear"
   ],
-  "correctIndex": 2,
-  "explanation": "Stevenson publie cette nouvelle en 1886. Elle explore le bien et le mal en chacun.",
+  "correctIndex": 1,
+  "explanation": "Ce sont les trois Sorcières de Macbeth, de Shakespeare : elles saluent le thane de Glamis comme futur roi et déclenchent son ambition meurtrière. « Beau est le laid, et laid est le beau » — la pièce commence dans le brouillard et le tonnerre.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0118.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1353,18 +1393,22 @@
   "id": "litterature-0074",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelle créature ailée aux yeux rouges aurait été aperçue à Point Pleasant avant l'effondrement d'un pont en 1967 ?",
+  "type": "audio",
+  "question": "Écoutez le début de cette nouvelle lue en anglais : des pilleurs de tombes volent une amulette de jade dans un cimetière des Pays-Bas, puis entendent, la nuit, un aboiement gigantesque. Quelle nouvelle est lue ?",
   "choices": [
-   "Le Jersey Devil",
-   "Le Mothman, l'homme-papillon",
-   "Le Bigfoot",
-   "Le Thunderbird"
+   "Le Chien des Baskerville",
+   "Le Molosse",
+   "Les Rats dans les murs",
+   "Le Chat noir"
   ],
   "correctIndex": 1,
-  "explanation": "Le Mothman est devenu une légende de Virginie-Occidentale. Un film avec Richard Gere a popularisé l'histoire.",
+  "explanation": "C'est Le Molosse (The Hound, 1922) de H. P. Lovecraft, lu par Colleen McMahon pour LibriVox : l'amulette volée dans la tombe attire un molosse monstrueux qui traque les deux profanateurs, de cimetière en cimetière.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0122.mp3",
+   "alt": "Extrait lu à identifier",
+   "credit": "Lecture LibriVox — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1479,18 +1523,22 @@
   "id": "litterature-0081",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quel héros grec descend aux Enfers pour tenter de ramener son épouse Eurydice ?",
+  "type": "image",
+  "question": "Barbe blanche, épée au poing et bouclier levé contre un jet de flammes : ce vieux roi affronte une dernière fois le dragon gardien d'un trésor. Qui est ce héros de poème épique ?",
   "choices": [
-   "Thésée",
-   "Achille",
-   "Jason",
-   "Orphée"
+   "Siegfried",
+   "Roland",
+   "Beowulf",
+   "Le roi Arthur"
   ],
-  "correctIndex": 3,
-  "explanation": "Orphée charme même Cerbère avec sa lyre. Une seule condition : ne pas se retourner avant la sortie.",
+  "correctIndex": 2,
+  "explanation": "C'est Beowulf, héros du plus grand poème épique en vieil anglais : devenu vieux roi, il affronte le dragon qui ravage son royaume et le tue… mais il en meurt. L'illustration est de J. R. Skelton.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0120.jpg",
+   "alt": "Peinture à identifier",
+   "credit": "Peinture ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1659,36 +1707,44 @@
   "id": "litterature-0091",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Quelles trois sœurs grecques filent, mesurent et coupent le fil de la vie de chaque mortel ?",
+  "type": "audio",
+  "question": "Écoutez ce poème lu en anglais, peuplé de goules, de cryptes et d'abîmes étoilés : son auteur y traverse les âges en coupable éternel. Quel est le titre de ce poème ?",
   "choices": [
-   "Les Furies",
-   "Les Grâces",
-   "Les Muses",
-   "Les Moires"
+   "Nemesis",
+   "Despair",
+   "The City",
+   "Sunset"
   ],
-  "correctIndex": 3,
-  "explanation": "Clotho file, Lachésis mesure, Atropos coupe. Même les dieux ne peuvent changer le fil du destin.",
+  "correctIndex": 0,
+  "explanation": "C'est Nemesis (1917), l'un des poèmes les plus célèbres de H. P. Lovecraft, lu pour LibriVox : « À travers les portes du sommeil gardées par les goules… » — le poète s'y dit réincarné de siècle en siècle sous le poids d'une faute immémoriale.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0124.mp3",
+   "alt": "Extrait lu à identifier",
+   "credit": "Lecture LibriVox — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "litterature-0092",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans « Un chant de Noël » de Dickens, qui est visité par les fantômes des Noëls passé, présent et futur ?",
+  "type": "image",
+  "question": "À bride abattue dans la nuit, deux cavaliers galopent devant un gibet : un savant envoûté et son guide diabolique. Quelle œuvre célèbre cette lithographie illustre-t-elle ?",
   "choices": [
-   "Jacob Marley",
-   "Bob Cratchit",
-   "Ebenezer Scrooge",
-   "Tiny Tim"
+   "Don Quichotte",
+   "Le Paradis perdu",
+   "Don Juan",
+   "Faust"
   ],
-  "correctIndex": 2,
-  "explanation": "Scrooge, avare solitaire, est d'abord hanté par son associé Marley enchaîné. Une nuit suffit à le transformer.",
+  "correctIndex": 3,
+  "explanation": "C'est Faust, de Goethe, dans les lithographies d'Eugène Delacroix (1828) : Méphistophélès emmène le docteur Faust au galop vers la nuit de Walpurgis, le grand sabbat des sorcières du Brocken.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0121.jpg",
+   "alt": "Lithographie à identifier",
+   "credit": "Lithographie ancienne — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1696,21 +1752,21 @@
   "category": "litterature",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Quelle créature tentaculaire endormie au fond de l'océan est au cœur des récits de H. P. Lovecraft ?",
+  "question": "Cette planche de 1642 montre des hommes sans tête, les yeux et la bouche au beau milieu du torse. Comment appelle-t-on ces créatures des bestiaires anciens ?",
   "choices": [
-   "Dagon le Rouge",
-   "Godzilla",
-   "Le kraken noir",
-   "Cthulhu"
+   "Les Cynocéphales",
+   "Les Sciapodes",
+   "Les Panotti",
+   "Les Blemmyes"
   ],
   "correctIndex": 3,
-  "explanation": "Cthulhu attend, mort mais rêvant, dans la cité engloutie de R'lyeh. Lovecraft en fait le symbole d'une horreur cosmique indifférente.",
+  "explanation": "Ce sont les Blemmyes (ou Acéphales), peuple légendaire sans tête décrit depuis Pline l'Ancien : la planche vient de la Monstrorum Historia d'Ulisse Aldrovandi (1642), la grande encyclopédie des monstres de la Renaissance.",
   "media": {
    "kind": "image",
-   "src": "/media/tentacule.svg",
-   "alt": "Illustration d'un tentacule géant émergeant de l'eau",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0109.jpg",
+   "alt": "Gravure à identifier",
+   "credit": "Gravure ancienne — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1825,18 +1881,22 @@
   "id": "litterature-0100",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Quel dieu nordique, maître des ruses et des métamorphoses, peut changer de forme et de sexe ?",
+  "type": "audio",
+  "question": "Écoutez ce court récit lu en anglais : un narrateur qui déteste la lune déambule, une nuit d'été, dans un jardin étrange baigné de clarté lunaire, jusqu'à une vision d'horreur cosmique. Qui a écrit ce texte ?",
   "choices": [
-   "Loki",
-   "Thor",
-   "Baldr",
-   "Tyr"
+   "Edgar Allan Poe",
+   "Lord Dunsany",
+   "H. P. Lovecraft",
+   "Algernon Blackwood"
   ],
-  "correctIndex": 0,
-  "explanation": "Loki, farceur imprévisible, se change en jument, en mouche ou en vieille femme. Ses tours causent autant de problèmes qu'ils en résolvent.",
+  "correctIndex": 2,
+  "explanation": "C'est H. P. Lovecraft, dans Ce que rapporte la lune (What the Moon Brings, 1922), lu pour LibriVox : un texte-poème en prose où la lune révèle un rivage d'épouvante peuplé de créatures visqueuses. L'horreur cosmique en format court !",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0123.mp3",
+   "alt": "Extrait lu à identifier",
+   "credit": "Lecture LibriVox — Wikimedia Commons",
+   "licence": "Public domain"
   }
  }
 ]

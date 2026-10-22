@@ -1,5 +1,29 @@
 # Banque de questions — structure et suivi
 
+## État Lot 9 (2026-10-21) — 150 questions à MÉDIA UTILE
+
+Les questions média décoratives du Lot 8 (illustration d'ambiance à côté d'une question texte autonome) sont **remplacées** : désormais **le média EST la question** — impossible ou très difficile d'y répondre sans regarder l'image, écouter l'extrait ou visionner la vidéo.
+
+- **150 questions média / 600 (25 par catégorie)** : identifier un film d'après son affiche ou une scène, un monstre d'après une gravure, une œuvre d'après sa trame sonore, une tradition d'après une photo.
+- **Sources : Wikimedia Commons uniquement** — domaine public et licences libres (CC0, CC BY, CC BY-SA), vérifiés fichier par fichier via l'API Commons (`LicenseShortName`). Filons : cinéma d'horreur classique domaine public (*Nosferatu* 1922, *Caligari* 1920, *Night of the Living Dead* 1968, *House on Haunted Hill* 1959, *White Zombie*, *Plan 9*, Méliès…), illustrations anciennes (frontispice *Frankenstein* 1831, Harry Clarke, Doré, Rackham, Aldrovandi, Holbein), planches d'anatomie (Vésale, Cheselden), photos libres (Krampus, ossuaire de Sedlec, tōrō nagashi…), enregistrements libres de musique classique lugubre (Toccata de Bach, *Danse macabre*, *Nuit sur le mont Chauve*, *Dies Irae*…), courts métrages du domaine public en vidéo. **Aucun contenu protégé réhébergé** : l'affiche d'un film récent, même étiquetée « PD-logo » sur Commons, a été refusée.
+- **Anti-fuite** : fichiers renommés en codes neutres (`med-0001` à `med-0274`), `alt` et légende affichés génériques (« Affiche à identifier », « Photo — Wikimedia Commons »…) ; source précise (titre Commons, auteur, licence, URL) dans `app/public/media/CREDITS.md`. Contrôle automatisé : aucun jeton interdit (réponse, titre, nom révélateur) dans le nom de fichier, l'alt ou la légende — 0 fuite.
+- **Poids** : extraits audio tronqués à ≤ 150 s et réencodés (MP3/OGG), vidéos réencodées en WebM ≤ 640 px de large — 305 Mo de fichiers bruts ramenés à ~127 Mo hébergés.
+- Équilibres conservés : 100 questions/catégorie, **450 intermédiaires / 150 difficiles** (75/25 par catégorie), textes uniques, bonnes réponses réparties.
+
+| Catégorie | Média | Images | Audio | Vidéos |
+|---|---:|---:|---:|---:|
+| Histoire & origines | 25 | 19 | 3 | 3 |
+| Cinéma & séries | 25 | 18 | 1 | 6 |
+| Littérature, légendes & monstres | 25 | 22 | 3 | 0 |
+| Science, anatomie & médecine macabre | 25 | 21 | 4 | 0 |
+| Musique & pop culture | 25 | 5 | 17 | 3 |
+| Traditions, bonbons & géographie | 25 | 20 | 4 | 1 |
+| **Total** | **150** | **105** | **32** | **13** |
+
+Écarts vs la cible indicative (~100 images / ~35 audio / ~15 vidéos) : la vidéo plafonne à 13 — les bandes-annonces et longs métrages du domaine public n'existent sur Commons qu'en fichiers de 40 Mo à 5 Go sans dérivés légers exploitables ; seuls les courts des pionniers (Méliès, Edison) et quelques captations libres passaient sous la limite. L'audio littérature repose sur des lectures LibriVox (Lovecraft, faute de Poe/Stoker en format exploitable sur Commons) et l'audio science est 100 % cardiaque (les autres sons visés n'existaient qu'en formats refusés).
+
+---
+
 ## État Lot 8 (2026-10-21) — NOUVELLE BANQUE : 600 questions culture générale
 
 **La banque v1 (1 200 questions, ci-dessous, Lots 1-7) est ARCHIVÉE** dans `questions/archive-v1-1200/` : jugée « beaucoup trop spécifique » au test réel. La banque active est entièrement neuve :

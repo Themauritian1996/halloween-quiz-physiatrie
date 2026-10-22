@@ -3,40 +3,44 @@
   "id": "cinema-series-0001",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Stranger Things, quel est le méchant principal de la saison 3 ?",
+  "type": "image",
+  "question": "Cornes, fourrure et grand sourire au milieu des racines : quel personnage le réalisateur de ce film suédois de 1922 incarne-t-il lui-même ?",
   "choices": [
-   "Le Démogorgon",
-   "Le Flagelleur mental",
-   "Vecna",
-   "Le Dr Brenner"
+   "Un inquisiteur",
+   "Satan",
+   "Un moine possédé",
+   "Le bourreau du village"
   ],
   "correctIndex": 1,
-  "explanation": "Le Flagelleur mental, ou Mind Flayer, contrôle les habitants de Hawkins comme des marionnettes. Charmant voisin !",
+  "explanation": "Dans Häxan (1922), documentaire-fable sur la sorcellerie, le réalisateur Benjamin Christensen joue lui-même Satan, hilare, qui tente les moines et les nonnes. Le diable avait rarement eu l'air de si bien s'amuser.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0062.jpg",
+   "alt": "Personnage à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {
   "id": "cinema-series-0002",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ce vent inquiétant venu d'un autre monde. Dans « Stranger Things », comment s'appelle le monde parallèle sombre et brumeux ?",
+  "type": "image",
+  "question": "Crâne chauve, oreilles pointues, doigts interminables : quel vampire légendaire du cinéma muet reconnaît-on sur ce photogramme de 1922 ?",
   "choices": [
-   "La Dimension noire",
-   "Le Royaume des ombres",
-   "Le Monde à l'envers",
-   "Le Monde du dessous"
+   "Le comte Dracula",
+   "Le comte Yorga",
+   "Le comte Orlok",
+   "Lestat de Lioncourt"
   ],
   "correctIndex": 2,
-  "explanation": "C'est la copie glaciale et monstrueuse de notre monde. Pas vraiment une destination de vacances.",
+  "explanation": "C'est le comte Orlok, joué par Max Schreck dans Nosferatu (1922) de F. W. Murnau, adaptation non autorisée de Dracula qui a failli être détruite par la justice. Son ombre aux doigts crochus est devenue l'image même du vampire.",
   "media": {
-   "kind": "audio",
-   "src": "/media/vent-nuit.wav",
-   "alt": "Vent nocturne synthétisé",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0050.jpg",
+   "alt": "Personnage de film à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -79,22 +83,22 @@
   "id": "cinema-series-0005",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoute ce son étrange de thérémine, typique des vieux films de science-fiction. Dans « Stranger Things », quelle créature inspirée de Donjons et Dragons terrorise la ville en saison 1 ?",
+  "type": "image",
+  "question": "Quel film expressionniste allemand de 1920 cette affiche américaine annonce-t-elle ?",
   "choices": [
-   "Le Kraken",
-   "Le Minotaure",
-   "Le Démogorgon",
-   "Le Balrog"
+   "Metropolis",
+   "Nosferatu",
+   "Le Cabinet du docteur Caligari",
+   "Le Golem"
   ],
   "correctIndex": 2,
-  "explanation": "Sa tête s'ouvre comme une fleur pleine de dents. On préfère les marguerites classiques.",
+  "explanation": "Le Cabinet du docteur Caligari (1920), de Robert Wiene, reconnaissable à son docteur aux lunettes rondes et à ses décors peints de travers. C'est le manifeste du cinéma expressionniste allemand.",
   "media": {
-   "kind": "audio",
-   "src": "/media/theremine.wav",
-   "alt": "Glissando de thérémine synthétisé, son typique des vieux films de science-fiction",
-   "credit": "Synthèse originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "kind": "image",
+   "src": "/media/med-0051.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -191,36 +195,44 @@
   "id": "cinema-series-0011",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans la série Mercredi, qui est la colocataire joyeuse et colorée de Mercredi, l'exact opposé d'elle ?",
+  "type": "image",
+  "question": "Une femme spectrale danse au-dessus d'un pavillon de bal désert : quel film culte à petit budget de 1962 cette affiche annonce-t-elle ?",
   "choices": [
-   "Bianca Barclay",
-   "Enid Sinclair",
-   "Larissa Weems",
-   "Morticia Addams"
+   "Carnival of Souls",
+   "Dementia 13",
+   "La Nuit des morts-vivants",
+   "La Maison du diable"
   ],
-  "correctIndex": 1,
-  "explanation": "Enid est une jeune louve-garou fan de couleurs pastel et de potins. Le duo noir et arc-en-ciel fonctionne à merveille.",
+  "correctIndex": 0,
+  "explanation": "Carnival of Souls (1962) de Herk Harvey : après un accident de voiture, une organiste est poursuivie par un homme blafard jusqu'à un pavillon de bal abandonné. Un cauchemar lent devenu film culte.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0056.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "cinema-series-0012",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans La Famille Addams, comment s'appelle la main sans corps qui se déplace toute seule ?",
+  "type": "image",
+  "question": "Yeux cernés de noir, regard halluciné : qui est ce somnambule qui, sous hypnose, commet des meurtres pour son maître ?",
   "choices": [
-   "La Main vive",
-   "La Patte",
-   "Le Doigt",
-   "La Chose"
+   "Cesare",
+   "Le Golem",
+   "Le comte Orlok",
+   "Mr Hyde"
   ],
-  "correctIndex": 3,
-  "explanation": "La Chose rend service à toute la famille sans jamais dire un mot. Il faut dire qu'elle n'a pas de bouche.",
+  "correctIndex": 0,
+  "explanation": "Cesare, le somnambule du Cabinet du docteur Caligari (1920), joué par Conrad Veidt. Exhibé dans une foire, il prédit l'avenir… et exécute, endormi, les crimes de Caligari.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0063.jpg",
+   "alt": "Personnage à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -353,18 +365,22 @@
   "id": "cinema-series-0020",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans E.T. l'extra-terrestre, quelle phrase célèbre E.T. répète-t-il en pointant le ciel ?",
+  "type": "image",
+  "question": "Moustache fine, regard perçant, statues couvertes de toiles d'araignée : quel maître de l'épouvante reconnaît-on sur ce photogramme de 1959 ?",
   "choices": [
-   "E.T. demande la lune",
-   "E.T. veut rentrer tard",
-   "E.T. appelle un taxi",
-   "E.T. téléphone maison"
+   "Boris Karloff",
+   "Christopher Lee",
+   "Vincent Price",
+   "Peter Cushing"
   ],
-  "correctIndex": 3,
-  "explanation": "E.T. veut juste appeler les siens pour rentrer chez lui. La phrase la plus touchante du cinéma familial.",
+  "correctIndex": 2,
+  "explanation": "Vincent Price dans La Maison de la colline hantée (House on Haunted Hill, 1959) : un millionnaire excentrique offre 10 000 dollars à qui survivra une nuit dans sa maison hantée. Price deviendra LA voix distinguée de l'horreur.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0064.jpg",
+   "alt": "Acteur à identifier sur un photogramme",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -516,21 +532,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans L'Étrange Noël de monsieur Jack, qui est le grand squelette, roi des citrouilles d'Halloween ?",
+  "question": "Un homme masqué en cape rouge rôde sur les toits d'un grand théâtre parisien : quel film de 1925 cette affiche annonce-t-elle ?",
   "choices": [
-   "Jack Skellington",
-   "Jack Sparrow",
-   "Le roi Citrouille éternel",
-   "Oogie Boogie"
+   "Le Bossu de Notre-Dame",
+   "Le Fantôme de l'Opéra",
+   "Les Misérables",
+   "Le Masque de fer"
   ],
-  "correctIndex": 0,
-  "explanation": "Jack est la star d'Halloween, mais il s'ennuie de faire peur chaque année. Même les rois ont leurs crises existentielles.",
+  "correctIndex": 1,
+  "explanation": "Le Fantôme de l'Opéra (1925), avec Lon Chaney, d'après le roman de Gaston Leroux. Le Fantôme y hante les dessous de l'Opéra de Paris, amoureux d'une jeune chanteuse.",
   "media": {
    "kind": "image",
-   "src": "/media/citrouille-lanterne.svg",
-   "alt": "Illustration d'une citrouille sculptée et illuminée",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0052.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -555,18 +571,22 @@
   "id": "cinema-series-0031",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans L'Étrange Noël de monsieur Jack, quelle fête Jack décide-t-il de s'approprier en enlevant son personnage principal ?",
+  "type": "video",
+  "question": "Dans cet extrait de 1899, un intrus surgit dans un couvent, fait apparaître des objets et affole les nonnes avant de disparaître en fumée. Qui est-il ?",
   "choices": [
-   "Noël",
-   "Pâques",
-   "La Saint-Valentin",
-   "Le Nouvel An"
+   "Un fantôme farceur",
+   "Un sorcier de foire",
+   "Le diable",
+   "Un moine somnambule"
   ],
-  "correctIndex": 0,
-  "explanation": "Jack kidnappe le père Noël pour prendre sa place. Résultat : des cadeaux un peu trop... effrayants.",
+  "correctIndex": 2,
+  "explanation": "C'est le diable en personne, joué par Georges Méliès dans Le Diable au couvent (1899) : trois minutes de trucages où le Malin transforme le couvent en terrain de jeu avant d'être chassé par un crucifix.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0067.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -645,18 +665,22 @@
   "id": "cinema-series-0036",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans le film Casper, comment s'appelle l'adolescente qui emménage dans le manoir et se lie d'amitié avec lui ?",
+  "type": "image",
+  "question": "Cette affiche de 1910 annonce la toute première adaptation cinématographique d'un grand roman d'horreur, produite par le studio d'Edison. De quel monstre s'agit-il ?",
   "choices": [
-   "Kat",
-   "Wendy",
-   "Christina",
-   "Lydia"
+   "Dracula",
+   "Le Golem",
+   "La créature de Frankenstein",
+   "Le loup-garou"
   ],
-  "correctIndex": 0,
-  "explanation": "Kat et son père, chasseur de fantômes malgré lui, s'installent au manoir de Whipstaff. Elle offre à Casper sa plus belle danse.",
+  "correctIndex": 2,
+  "explanation": "Frankenstein (1910), produit par les studios Edison : en seize minutes, le savant crée sa créature dans un chaudron bouillonnant. Le film, cru perdu pendant des décennies, est la première apparition du monstre à l'écran.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0060.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -736,21 +760,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Scooby-Doo, comment s'appelle le fourgon coloré de l'équipe Mystères Associés ?",
+  "question": "Collage de scènes en noir et blanc et promesse d'être « plus terrifiant que Psychose » : quel film de 1968 cette affiche annonce-t-elle ?",
   "choices": [
-   "Le Bus aux fantômes",
-   "Le Van Mystère express",
-   "La Scooby-Mobile",
-   "La Mystery Machine"
+   "La Nuit des morts-vivants",
+   "Le Carnaval des âmes",
+   "La Dernière Maison sur la gauche",
+   "Zombie"
   ],
-  "correctIndex": 3,
-  "explanation": "Avec ses fleurs et ses couleurs psychédéliques, impossible de la rater. Discrétion : zéro, style : total.",
+  "correctIndex": 0,
+  "explanation": "La Nuit des morts-vivants (1968) de George Romero, tourné avec un budget minuscule, a inventé le zombie moderne : lent, affamé et en bande. Tombé dans le domaine public par un oubli de copyright, il a été copié partout.",
   "media": {
    "kind": "image",
-   "src": "/media/television-retro.svg",
-   "alt": "Illustration d'un téléviseur rétro diffusant un dessin animé",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0053.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -811,18 +835,22 @@
   "id": "cinema-series-0045",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Scooby-Doo, quel objet Vera perd-elle sans cesse, ce qui l'empêche de voir clair ?",
+  "type": "video",
+  "question": "Dans cet extrait de 1903, un voyageur ne parvient pas à dormir tranquille dans sa chambre : quel être surnaturel vient le hanter, apparaissant et disparaissant à volonté ?",
   "choices": [
-   "Son foulard orange",
-   "Sa loupe",
-   "Son carnet",
-   "Ses lunettes"
+   "Un revenant",
+   "Un vampire",
+   "Un poltergeist de cuisine",
+   "Un double maléfique"
   ],
-  "correctIndex": 3,
-  "explanation": "« Mes lunettes ! Je ne vois rien sans mes lunettes ! » La phrase culte de Vera à chaque épisode.",
+  "correctIndex": 0,
+  "explanation": "Un revenant, dans Le Revenant (1903) de Georges Méliès : le fantôme surgit, souffle les bougies et se moque du malheureux voyageur. Les effets d'apparition étaient la spécialité de Méliès.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0068.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -920,21 +948,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Psychose d'Alfred Hitchcock, quelle scène d'horreur légendaire se déroule sous l'eau qui coule ?",
+  "question": "Des yeux hypnotiques verts sur fond vert : quel film de 1932, premier film de zombies de l'histoire, cette affiche annonce-t-elle ?",
   "choices": [
-   "La noyade dans la piscine",
-   "L'attaque dans la baignoire",
-   "L'inondation de la chambre",
-   "Le meurtre sous la douche"
+   "King of the Zombies",
+   "La Nuit des morts-vivants",
+   "J'ai marché avec un zombie",
+   "White Zombie"
   ],
   "correctIndex": 3,
-  "explanation": "Des violons stridents, un rideau qui se déchire : la scène de douche la plus célèbre de l'histoire du cinéma.",
+  "explanation": "White Zombie (1932), avec Bela Lugosi en maître vaudou d'Haïti, est considéré comme le premier film de zombies : des morts réduits en esclavage, bien avant les morts-vivants mangeurs de chair de Romero.",
   "media": {
    "kind": "image",
-   "src": "/media/clap-cinema.svg",
-   "alt": "Illustration d'un clap de cinéma",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0054.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -977,18 +1005,22 @@
   "id": "cinema-series-0054",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Shining, que signifie le mot REDRUM que le petit Danny écrit et répète ?",
+  "type": "video",
+  "question": "Au début de cet extrait de 1899, un démon hilare remue un grand chaudron dans une grotte. Que fait-il apparaître dans les flammes ?",
   "choices": [
-   "MURDER, c'est-à-dire meurtre, lu dans un miroir",
-   "Le nom d'un démon de l'hôtel",
-   "Un code secret des jumeaux fantômes",
-   "Le prénom du cuisinier de l'hôtel"
+   "Un dragon miniature",
+   "Un squelette dansant",
+   "Une sorcière sur son balai",
+   "Une danseuse"
   ],
-  "correctIndex": 0,
-  "explanation": "REDRUM lu dans le miroir donne MURDER. Un des frissons les plus simples et les plus efficaces du film.",
+  "correctIndex": 3,
+  "explanation": "Une danseuse, dans La Danse du feu (The Pillar of Fire, 1899) de Georges Méliès : sortie du chaudron du démon, elle exécute une danse serpentine au milieu des flammes, dans un film peint à la main.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0069.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1067,18 +1099,22 @@
   "id": "cinema-series-0059",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans la saga Halloween, dans quelle petite ville fictive Michael Myers commet-il ses crimes ?",
+  "type": "image",
+  "question": "Deux hommes inquiets devant un château irlandais : ce photogramme vient du tout premier film d'un futur géant d'Hollywood, tourné en 1963. Quel est ce film ?",
   "choices": [
-   "Elm Street",
-   "Crystal Lake",
-   "Haddonfield",
-   "Woodsboro"
+   "Carnival of Souls",
+   "La Maison du diable",
+   "Dementia 13",
+   "La Petite Boutique des horreurs"
   ],
   "correctIndex": 2,
-  "explanation": "Haddonfield, Illinois : la ville où l'on ne fête plus Halloween tout à fait sereinement depuis 1978.",
+  "explanation": "Dementia 13 (1963), premier film de Francis Ford Coppola, produit par Roger Corman : meurtres à la hache autour d'un château irlandais et d'un lac hanté par le souvenir d'une fillette noyée.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0065.jpg",
+   "alt": "Photogramme à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1104,21 +1140,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Vendredi 13, qui est le tueur au masque de hockey qui hante un camp de vacances ?",
+  "question": "Des soucoupes volantes attaquent Hollywood sur cette affiche de 1959 : quel film, souvent sacré « pire film de tous les temps », annonce-t-elle ?",
   "choices": [
-   "Jason Voorhees",
-   "Michael Myers",
-   "Leatherface",
-   "Chucky"
+   "La Guerre des mondes",
+   "Plan 9 from Outer Space",
+   "Le Jour où la Terre s'arrêta",
+   "Les Envahisseurs de la planète rouge"
   ],
-  "correctIndex": 0,
-  "explanation": "Jason et son masque de gardien de hockey sont devenus des icônes d'Halloween. Le camp, lui, est beaucoup moins populaire.",
+  "correctIndex": 1,
+  "explanation": "Plan 9 from Outer Space (1959) d'Ed Wood : des extraterrestres ressuscitent les morts pour conquérir la Terre. Décors en carton et soucoupes en assiettes, mais un charme culte irrésistible.",
   "media": {
    "kind": "image",
-   "src": "/media/masque-hockey.svg",
-   "alt": "Illustration d'un masque de hockey de gardien",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0055.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1162,21 +1198,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Les Griffes de la nuit, quelle est l'arme emblématique de Freddy Krueger ?",
+  "question": "Une fleur aux dents acérées sert d'enseigne à cette boutique : quel film de Roger Corman, tourné en quelques jours en 1960, cette affiche annonce-t-elle ?",
   "choices": [
-   "Une hache",
-   "Une tronçonneuse",
-   "Un gant muni de lames",
-   "Un crochet"
+   "La Tombe de Ligeia",
+   "La Créature de la mer hantée",
+   "Un baquet de sang",
+   "La Petite Boutique des horreurs"
   ],
-  "correctIndex": 2,
-  "explanation": "Son gant à lames racle les murs avant même qu'on le voie. Rien que le bruit suffit à gâcher une nuit.",
+  "correctIndex": 3,
+  "explanation": "La Petite Boutique des horreurs (1960) de Roger Corman, célèbre pour sa plante carnivore affamée et pour avoir été tourné, dit la légende, en deux jours et une nuit. Il a inspiré une comédie musicale à succès.",
   "media": {
    "kind": "image",
-   "src": "/media/gant-griffes.svg",
-   "alt": "Illustration d'un gant muni de longues lames",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0057.webp",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1220,21 +1256,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Ce masque ancien évoque ceux des tueurs de cinéma. Dans « Scream », comment s'appelle le tueur au masque blanc allongé et à la cape noire ?",
+  "question": "Cette affiche allemande de 1920, aux toits pointus comme des dents, annonce un film tiré d'une légende juive de Prague. Lequel ?",
   "choices": [
-   "Screamface",
-   "Whiteface",
-   "Ghostface",
-   "Le Faucheur"
+   "Nosferatu",
+   "Faust",
+   "Le Golem",
+   "Metropolis"
   ],
   "correctIndex": 2,
-  "explanation": "Ghostface adore téléphoner à ses victimes avant de passer. Un masque inspiré d'un célèbre tableau qui crie.",
+  "explanation": "Le Golem (1920) de Paul Wegener : un rabbin de Prague donne vie à un géant d'argile pour protéger son peuple. L'affiche stylisée de Hans Poelzig est un bijou de l'affiche expressionniste.",
   "media": {
    "kind": "image",
-   "src": "/media/masque-vintage.svg",
-   "alt": "Illustration d'un masque d'Halloween ancien",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0058.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1277,18 +1313,22 @@
   "id": "cinema-series-0070",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans Scream, dans quelle petite ville se déroulent les crimes de Ghostface ?",
+  "type": "image",
+  "question": "Cheveux en bataille, mains crispées, grimace sauvage : quel monstre de la littérature cet acteur incarne-t-il dès 1910, dans sa toute première version au cinéma ?",
   "choices": [
-   "Derry",
-   "Haddonfield",
-   "Woodsboro",
-   "Springwood"
+   "Le comte Orlok",
+   "Mr Hyde",
+   "Le Golem",
+   "La créature de Frankenstein"
   ],
-  "correctIndex": 2,
-  "explanation": "Woodsboro, Californie : une petite ville tranquille, sauf quand le téléphone sonne le soir. Là, ça se gâte.",
+  "correctIndex": 3,
+  "explanation": "Charles Ogle est la créature de Frankenstein dans le Frankenstein d'Edison (1910) : perruque sauvage et maquillage fait maison, seize ans avant que le cinéma parlant ne rende le monstre célèbre.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0066.jpg",
+   "alt": "Personnage à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1313,18 +1353,22 @@
   "id": "cinema-series-0072",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Ça, quel objet flottant annonce souvent l'arrivée du clown Pennywise ?",
+  "type": "video",
+  "question": "Dans cet extrait de Méliès, les convives n'en croient pas leurs yeux pendant le repas. Quel phénomène bizarre se produit dans cette salle à manger ?",
   "choices": [
-   "Une lanterne verte",
-   "Un cerf-volant noir",
-   "Un bateau en papier",
-   "Un ballon rouge"
+   "Les plats lévitent jusqu'au plafond",
+   "Les meubles et les objets bougent tout seuls",
+   "Les convives rapetissent",
+   "Le repas se transforme en fleurs"
   ],
-  "correctIndex": 3,
-  "explanation": "« Tu flotteras, toi aussi... » Un simple ballon rouge suffit à faire frissonner depuis la sortie du film.",
+  "correctIndex": 1,
+  "explanation": "Tables, chaises et pendule s'animent tout seuls dans la Salle à manger fantastique de Georges Méliès : le mobilier ensorcelé était l'un de ses trucages favoris, réalisé par arrêts de caméra successifs.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0070.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1457,18 +1501,22 @@
   "id": "cinema-series-0080",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans Sixième Sens, comment s'appelle le psychologue pour enfants joué par Bruce Willis ?",
+  "type": "video",
+  "question": "Cet extrait de 1895, produit pour le kinétoscope d'Edison, est célèbre pour un trucage pionnier. Lequel voit-on à la fin ?",
   "choices": [
-   "Vincent Grey",
-   "David Dunn",
-   "John McClane",
-   "Malcolm Crowe"
+   "Un fantôme en surimpression",
+   "Une décapitation simulée par un arrêt de caméra",
+   "Une tête qui parle toute seule",
+   "Un voyage dans la Lune"
   ],
-  "correctIndex": 3,
-  "explanation": "Le Dr Malcolm Crowe veut aider Cole à comprendre son don. Il ignore encore ce que le destin lui réserve.",
+  "correctIndex": 1,
+  "explanation": "Une décapitation truquée dans L'Exécution de Marie, reine des Écossais (1895) : la caméra s'arrête, l'actrice est remplacée par un mannequin, et la tête tombe. C'est l'un des tout premiers effets spéciaux de l'histoire du cinéma.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0072.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1476,21 +1524,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Le Projet Blair Witch, quelle technique de tournage donne l'impression d'images retrouvées après la disparition des personnages ?",
+  "question": "Un savant distingué se penche sur son double grimaçant : quel film de 1920, adapté d'un célèbre roman fantastique, cette affiche annonce-t-elle ?",
   "choices": [
-   "Un dessin animé en noir et blanc",
-   "Des images de caméras de surveillance uniquement",
-   "La caméra amateur tenue à la main par les acteurs",
-   "Des photos animées image par image"
+   "Dr Jekyll et Mr Hyde",
+   "Frankenstein",
+   "Le Portrait de Dorian Gray",
+   "L'Homme invisible"
   ],
-  "correctIndex": 2,
-  "explanation": "Le film a lancé la mode du « found footage ». En 1999, beaucoup de spectateurs ont cru que c'était un vrai documentaire.",
+  "correctIndex": 0,
+  "explanation": "Dr Jekyll et Mr Hyde (1920), avec John Barrymore, qui se transformait en Hyde presque sans maquillage, à force de grimaces. La transformation la plus célèbre du cinéma muet.",
   "media": {
    "kind": "image",
-   "src": "/media/projecteur-cinema.svg",
-   "alt": "Illustration d'un projecteur de cinéma ancien",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0059.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1569,18 +1617,22 @@
   "id": "cinema-series-0086",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Harry Potter, quelle maison de Poudlard est la plus associée aux sorciers de magie noire comme Voldemort ?",
+  "type": "audio",
+  "question": "Écoute ces accords solennels et menaçants, devenus le son emblématique des vieux films d'horreur gothiques. Quel instrument les joue ?",
   "choices": [
-   "Serpentard",
-   "Gryffondor",
-   "Serdaigle",
-   "Poufsouffle"
+   "Le clavecin",
+   "Le piano mécanique",
+   "Le thérémine",
+   "L'orgue"
   ],
-  "correctIndex": 0,
-  "explanation": "Serpentard valorise l'ambition et la ruse. Tous ses élèves ne sont pas mauvais... mais la réputation est tenace.",
+  "correctIndex": 3,
+  "explanation": "L'orgue, dans la Toccata et fugue en ré mineur attribuée à Bach. Ses premières notes ouvrent d'innombrables films de savants fous et de châteaux hantés : trois accords suffisent à installer l'épouvante.",
   "media": {
-   "kind": null
+   "kind": "audio",
+   "src": "/media/med-0071.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Enregistrement libre — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1714,21 +1766,21 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans Coco de Pixar, quelle fête mexicaine des morts est au cœur de l'histoire ?",
+  "question": "Visage de squelette, regard fou : quel acteur, surnommé « l'homme aux mille visages », se cache sous ce maquillage qu'il a créé lui-même en 1925 ?",
   "choices": [
-   "La fête des Lanternes",
-   "Le Día de los Muertos",
-   "Le carnaval de Rio",
-   "La nuit des âmes vagabondes"
+   "Boris Karloff",
+   "Bela Lugosi",
+   "John Barrymore",
+   "Lon Chaney"
   ],
-  "correctIndex": 1,
-  "explanation": "Les familles déposent photos et offrandes pour guider les esprits des ancêtres. Coco en fait une fête de couleurs et de musique.",
+  "correctIndex": 3,
+  "explanation": "Lon Chaney, le Fantôme de l'Opéra démasqué (1925). Il s'infligeait des maquillages douloureux — fils dans les narines, prothèses dentaires — pour devenir le premier grand monstre du cinéma.",
   "media": {
    "kind": "image",
-   "src": "/media/autel-ofrenda.svg",
-   "alt": "Illustration d'une ofrenda du Día de los Muertos",
-   "credit": "Illustration originale du projet Quiz Halloween",
-   "licence": "CC0"
+   "src": "/media/med-0061.jpg",
+   "alt": "Personnage à identifier",
+   "credit": "Photogramme d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1807,36 +1859,44 @@
   "id": "cinema-series-0099",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "texte",
-  "question": "Dans Monstres et Cie, à quoi ressemble Sulli, le monstre vedette de l'usine ?",
+  "type": "video",
+  "question": "Dans cette vidéo d'époque, un homme fait de la musique en remuant les mains dans le vide, sans jamais toucher son instrument. Lequel est-ce ?",
   "choices": [
-   "Un petit monstre vert avec un seul œil",
-   "Un grand monstre bleu turquoise à taches violettes",
-   "Un monstre orange à huit bras",
-   "Un serpent géant à rayures"
+   "Les ondes Martenot",
+   "Le violon électrique",
+   "Le thérémine",
+   "L'orgue Hammond"
   ],
-  "correctIndex": 1,
-  "explanation": "Sulli est énorme, poilu et bleu... avec le cœur le plus tendre du film. Le petit monstre vert à un œil, c'est Bob, son meilleur ami.",
+  "correctIndex": 2,
+  "explanation": "Le thérémine, inventé en 1920 par Léon Theremin — que l'on voit ici jouer : deux antennes, aucune touche, et ce son flottant qui hantera les films de science-fiction et d'épouvante des années 1950.",
   "media": {
-   "kind": null
+   "kind": "video",
+   "src": "/media/med-0073.webm",
+   "alt": "Extrait vidéo à identifier",
+   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
   "id": "cinema-series-0100",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "texte",
-  "question": "Dans Hocus Pocus, quelle chanson ensorcelante les sœurs Sanderson chantent-elles pour hypnotiser les parents pendant la fête ?",
+  "type": "image",
+  "question": "Sur cette affiche de 1928, un homme au sourire figé et démesuré, condamné à rire pour toujours. Ce personnage de Victor Hugo a inspiré un très célèbre méchant de bande dessinée. Lequel ?",
   "choices": [
-   "Thriller",
-   "Monster Mash",
-   "I Put a Spell on You",
-   "This Is Halloween"
+   "Le Joker",
+   "Le Pingouin",
+   "Double-Face",
+   "Le Riddler"
   ],
-  "correctIndex": 2,
-  "explanation": "Winifred transforme le bal en concert ensorcelé et les parents dansent sans pouvoir s'arrêter. Un sort en musique, très efficace.",
+  "correctIndex": 0,
+  "explanation": "Gwynplaine, héros de « L'Homme qui rit » de Victor Hugo, interprété par Conrad Veidt : son rictus a directement inspiré le Joker de Batman, créé en 1940.",
   "media": {
-   "kind": null
+   "kind": "image",
+   "src": "/media/med-0075.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche originale d'époque — Wikimedia Commons",
+   "licence": "Public domain"
   }
  }
 ]

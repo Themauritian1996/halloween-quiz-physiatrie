@@ -92,6 +92,16 @@ function MediaBlock({ q, isHost }) {
       </div>
     )
   }
+  if (q.type === 'video') {
+    return (
+      <div className="my-3 text-center">
+        <video controls src={url} onError={() => setFailed(true)}
+          className="mx-auto w-full max-w-md rounded-xl border border-white/20" />
+        <p className="text-xs text-white/50 mt-1 text-center">{q.media.credit} — {q.media.licence}</p>
+        {openLink}
+      </div>
+    )
+  }
   return null
 }
 
@@ -182,7 +192,7 @@ function ConfigScreen({ onCreate, onBack }) {
             <select value={cfg.mediaFilter} onChange={(e) => set('mediaFilter', e.target.value)} className="w-full mt-1 bg-white/10 rounded-lg p-2">
               <option value="mixte">Mixte</option>
               <option value="sans-media">Sans média (texte seulement)</option>
-              <option value="media">Médias seulement (image / audio)</option>
+              <option value="media">Médias seulement (image / audio / vidéo)</option>
             </select>
           </label>
           <label className="block">Répartition des catégories

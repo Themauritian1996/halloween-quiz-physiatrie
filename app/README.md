@@ -42,7 +42,7 @@ Le mode démo synchronise les onglets via `localStorage` + `BroadcastChannel` (`
   - **½ 50/50** : élimine 2 mauvaises réponses, pour toi seul
   - **☠️ MALÉDICTION** : s'applique à **tout le monde** sur la question en cours — bonne réponse = **50 % des points seulement**, mauvaise réponse ou absence de réponse = **−500 pts**. Une seule Malédiction peut être active par question (la première compte, les suivantes ne sont pas consommées), le lanceur subit aussi l'effet, et l'effet est **visible par tous avant de répondre** (bandeau rouge). Le score cumulé ne descend jamais sous 0.
 
-## ❓ Banque de questions (Lot 8 : 600 questions, toutes jouables)
+## ❓ Banque de questions (Lot 9 : 600 questions, dont 150 à média utile)
 
 **Refonte Lot 8** : la première banque (1 200 questions, niveaux intermédiaire à difficile très pointus) a été **remplacée** après le test réel du 2026-10-21 : Christophe la jugeait « beaucoup trop spécifique ». Elle est conservée pour l'historique dans `questions/archive-v1-1200/`.
 
@@ -50,15 +50,17 @@ Nouveau profil : **culture générale Halloween grand public cultivé et ludique
 
 | Catégorie | Questions | Dont média | Fichier |
 |---|---:|---:|---|
-| Histoire & origines | 100 | 10 | `src/data/histoire.json` (copie : `../questions/histoire.json`) |
-| Cinéma & séries | 100 | 10 | `src/data/cinema-series.json` |
-| Littérature, légendes & monstres | 100 | 10 | `src/data/litterature.json` |
-| Science, anatomie & médecine macabre *(clin d'œil physiatrie : nerf sciatique, membre fantôme, prothèses…)* | 100 | 10 | `src/data/science-medecine.json` |
-| Musique & pop culture | 100 | 10 | `src/data/musique-pop.json` |
-| Traditions, bonbons & géographie | 100 | 10 | `src/data/traditions.json` |
-| **Total** | **600** | **60 (10 %)** | 450 intermédiaires / 150 difficiles |
+| Histoire & origines | 100 | 25 | `src/data/histoire.json` (copie : `../questions/histoire.json`) |
+| Cinéma & séries | 100 | 25 | `src/data/cinema-series.json` |
+| Littérature, légendes & monstres | 100 | 25 | `src/data/litterature.json` |
+| Science, anatomie & médecine macabre *(clin d'œil physiatrie : nerf sciatique, membre fantôme, prothèses…)* | 100 | 25 | `src/data/science-medecine.json` |
+| Musique & pop culture | 100 | 25 | `src/data/musique-pop.json` |
+| Traditions, bonbons & géographie | 100 | 25 | `src/data/traditions.json` |
+| **Total** | **600** | **150 (25 %)** | 450 intermédiaires / 150 difficiles |
 
-**Types texte / image / audio** : lecteur média intégré (image affichée avec crédit, audio avec **replay limité à 2 écoutes** côté joueur). Tous les médias sont des **créations originales du projet sous CC0** (illustrations SVG + sons synthétisés, voir `public/media/CREDITS.md`) — aucun hotlink, aucun nouveau fichier au Lot 8 (réutilisation des médias existants).
+**Lot 9 — le média EST la question** : les 60 anciennes questions à illustration décorative ont été remplacées et 90 questions converties/ajoutées, pour **150 questions où le média est indispensable** (105 images, 32 audio, 13 vidéos) : identifier un film d'après son affiche ou une scène (cinéma d'horreur classique du domaine public : *Nosferatu*, *Caligari*, *Night of the Living Dead*…), un monstre d'après une gravure ancienne (Harry Clarke, Doré, Aldrovandi…), une pièce d'après un extrait sonore (Bach, Saint-Saëns, Moussorgski…), une tradition d'après une photo libre (Krampus, tōrō nagashi, ossuaire de Sedlec…).
+
+**Sources et licences** : uniquement **Wikimedia Commons**, fichiers **domaine public ou licences libres** (CC0, CC BY, CC BY-SA) vérifiés un par un via l'API — aucun contenu protégé réhébergé (pas d'affiche ni de scène de film récent), aucun hotlink. **Anti-fuite** : fichiers renommés en codes neutres (`med-0001.jpg`…), alt et légende génériques pendant le jeu ; la source précise (fichier Commons, auteur, licence) est consignée dans `public/media/CREDITS.md`. Certains fichiers audio/vidéo ont été réduits à un extrait et réencodés (WebM/MP3/OGG) pour garder le site léger. Lecteur intégré pour les 3 types (image affichée, audio avec **replay limité à 2 écoutes** côté joueur, vidéo en `<video controls>`), toujours avec le lien « 🔎 Ouvrir le média » en filet de sécurité. Les anciennes illustrations CC0 du projet restent dans `public/media/` mais ne sont plus utilisées par la banque.
 
 > **Bug média corrigé au Lot 8** : les JSON stockent `media.src` en `/media/…` absolu, ce qui donnait des **404 sous le sous-chemin GitHub Pages**. Tous les médias passent désormais par `src/lib/mediaUrl.js`, qui les résout par rapport à `import.meta.env.BASE_URL` (local `./`, Pages `/<repo>/`, Firebase Hosting `/`). Filet de sécurité demandé : un lien **« 🔎 Ouvrir le média »** sous chaque média, et un encadré avec ce lien si le chargement échoue.
 
@@ -135,3 +137,4 @@ halloween-quiz-physiatrie/
 
 - **Lots 1-7 (2026-10-20)** : app complète, Firestore distant, banque portée progressivement à 1 200 questions très pointues (200/catégorie), mise en ligne GitHub Pages + Firebase, test multijoueur réel réussi.
 - **Lot 8 (2026-10-21, refonte après test réel)** : médias réparés (base Vite + lien d'ouverture + repli en cas d'échec), enchaînement automatique après révélation (5/8/12 s, désactivable), affichage mobile d'abord (aucun débordement à 360-400 px, lobby empilé, réponses tactiles), et **nouvelle banque de 600 questions culture générale ludique** (ancienne archivée dans `questions/archive-v1-1200/`).
+- **Lot 9 (2026-10-21, médias utiles)** : **150 questions où le média EST la question** (25/catégorie : 105 images, 32 audio, 13 vidéos) sourcées sur Wikimedia Commons (domaine public / licences libres vérifiées une par une), fichiers codés anti-fuite `med-XXXX`, support **vidéo** ajouté à l'app (lecteur intégré + filtre « Médias seulement »), extraits audio/vidéo allégés par réencodage. Détails : `questions/BANQUE_STRUCTURE.md` et `app/public/media/CREDITS.md`.
