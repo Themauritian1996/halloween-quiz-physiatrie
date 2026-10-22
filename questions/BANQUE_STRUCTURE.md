@@ -1,6 +1,28 @@
 # Banque de questions — structure et suivi
 
-Cible : 200 questions / catégorie x 6 = 1 200 questions
+## État Lot 8 (2026-10-21) — NOUVELLE BANQUE : 600 questions culture générale
+
+**La banque v1 (1 200 questions, ci-dessous, Lots 1-7) est ARCHIVÉE** dans `questions/archive-v1-1200/` : jugée « beaucoup trop spécifique » au test réel. La banque active est entièrement neuve :
+
+- **100 questions / catégorie x 6 = 600**, ids renumérotés depuis 0001 par catégorie, miroirs `app/src/data/*.json` strictement identiques
+- **Profil : culture générale Halloween grand public cultivé, ludique** — cible ~50 % de réussite (ex. Hadès vs Pluton chez les Grecs, méchant de la saison 3 de Stranger Things) ; **450 intermédiaires / 150 difficiles** (75/25 par catégorie), aucun fait obscur, aucune statistique pointue
+- **60 questions média (10 %)** : 10 par catégorie, uniquement des fichiers CC0 déjà présents dans `app/public/media/` (aucun nouveau fichier) ; chemins résolus côté app par `lib/mediaUrl.js` (base Vite) depuis le Lot 8
+- Bonnes réponses réparties exactement **25/25/25/25** par catégorie ; unicité globale des textes vérifiée par script (600/600)
+
+| Catégorie | Fichier | Questions | Dont média |
+|---|---|---:|---:|
+| Histoire & origines | histoire.json | 100 | 10 |
+| Cinéma & séries | cinema-series.json | 100 | 10 |
+| Littérature, légendes & monstres | litterature.json | 100 | 10 |
+| Science, anatomie & médecine macabre | science-medecine.json | 100 | 10 |
+| Musique & pop culture | musique-pop.json | 100 | 10 |
+| Traditions, bonbons & géographie | traditions.json | 100 | 10 |
+
+---
+
+## Historique v1 (Lots 1-7, archivée)
+
+Cible d'alors : 200 questions / catégorie x 6 = 1 200 questions
 Niveau : intermédiaire à difficile uniquement
 Médias : 30-40 par catégorie (image ou audio), hébergés dans `/media`, crédit + licence obligatoires, aucun hotlink
 

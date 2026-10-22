@@ -8,11 +8,21 @@
   --color-blood: #dc2626;
 }
 
+html, body {
+  /* Mobile d'abord : aucun défilement horizontal, jamais (Lot 8). */
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
 body {
   background: #12081f;
   color: #f5f0e8;
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
   margin: 0;
+}
+
+img, audio, video {
+  max-width: 100%;
 }
 
 @keyframes floaty {

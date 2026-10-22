@@ -71,6 +71,9 @@ export function selectQuestions(config) {
 }
 
 export function estimateDurationMin(config, pickedCount) {
-  const perQ = config.timerSec + 12 // temps de révélation / transition
+  // Temps de révélation / transition : délai d'enchaînement auto si activé,
+  // sinon ~12 s de lecture + clic de l'hôte.
+  const revealSec = config.autoAdvance === false ? 12 : (config.autoDelaySec || 8) + 2
+  const perQ = config.timerSec + revealSec
   return Math.max(1, Math.round(((pickedCount ?? config.numQuestions) * perQ) / 60))
 }

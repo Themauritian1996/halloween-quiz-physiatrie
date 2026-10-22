@@ -121,6 +121,7 @@ export function emptyRoom(code, config) {
     questionIds: [],
     currentIndex: -1,
     questionStartedAt: null,
+    revealStartedAt: null, // horodatage de la révélation (enchaînement auto, Lot 8)
     answers: {}, // playerId -> {choice, elapsedMs, skipped}
     round: { doubleBy: [], fiftyBy: {}, cursedBy: null }, // état des pouvoirs pour la question en cours
     lastDetail: {}, // détail de scoring de la dernière révélation

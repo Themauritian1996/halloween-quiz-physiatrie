@@ -25,6 +25,7 @@ function sampleRoom() {
     questionIds: ['histoire-0001', 'histoire-0002'],
     currentIndex: 0,
     questionStartedAt: 1729000000000,
+    revealStartedAt: 1729000005000,
     answers: { p1: { choice: 1, elapsedMs: 3200 } },
     round: { doubleBy: ['p1'], fiftyBy: {}, cursedBy: null },
     lastDetail: {},
@@ -71,6 +72,7 @@ test('firestoreToRoom applique les défauts sur un document partiel/ancien', () 
   assert.deepEqual(partial.answers, {})
   assert.deepEqual(partial.round, { doubleBy: [], fiftyBy: {}, cursedBy: null })
   assert.equal(partial.currentIndex, -1)
+  assert.equal(partial.revealStartedAt, null)
   assert.equal(firestoreToRoom(null), null)
   assert.equal(firestoreToRoom('pas un objet'), null)
 })

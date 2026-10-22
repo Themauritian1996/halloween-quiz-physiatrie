@@ -2,7 +2,7 @@
 
 Quiz de culture générale **Halloween** multijoueur en temps réel, pour les **résidents en physiatrie** (pas pédiatrie). Un hôte crée une partie, les joueurs rejoignent par **lien unique / code à 6 caractères / QR code**, répondent chacun sur leur appareil, avec **pouvoirs spéciaux**, **modes solo et équipes**, et **classement en direct**.
 
-> Spec de référence : [`SPEC_v2.md`](SPEC_v2.md) à la racine du projet. État : **Lot 2** — application jouable complète, **multijoueur distant Firestore réellement branché** (repli démo local automatique), banque de **300 questions** dont **Histoire & origines au complet : 200**. Cible finale : 200 questions/catégorie = 1 200.
+> Spec de référence : [`SPEC_v2.md`](SPEC_v2.md) à la racine du projet. État : **Lot 8 (refonte après test réel)** — application jouable complète, **multijoueur distant Firestore réellement branché** (repli démo local automatique), **nouvelle banque de 600 questions de culture générale ludique** (100/catégorie). L'ancienne banque de 1 200 questions, jugée trop pointue, est archivée dans `questions/archive-v1-1200/`. Lot 8 corrige aussi : **médias réparés** (résolution par la base Vite + lien « 🔎 Ouvrir le média » sous chaque média), **enchaînement automatique des questions** après la révélation, et **affichage mobile d'abord** (Android Chrome, aucun défilement horizontal).
 
 ## 🚀 Démarrage rapide (mode démo local, sans aucun compte)
 
@@ -27,6 +27,7 @@ Le mode démo synchronise les onglets via `localStorage` + `BroadcastChannel` (`
 - **Répartition** : équilibrée entre catégories / aléatoire / manuelle (nombre par catégorie)
 - **Difficulté** : mixte / intermédiaire / difficile — **Médias** : mixte / sans média / médias seulement
 - **Timer par question** : 30 / 45 / 60 secondes
+- **Enchaînement automatique** (Lot 8) : après la révélation, la question suivante démarre toute seule après **5 / 8 / 12 s** (8 s par défaut), avec barre de compte à rebours et bouton hôte « ⏩ Passer maintenant » ; désactivable pour revenir au clic manuel. À la dernière question, passage automatique au podium.
 - **Modes** : Solo · Équipes libres (le joueur choisit, 2 à 6 équipes aux noms éditables) · Équipes aléatoires (assignation équilibrée au lancement)
 - **Option vote consensus** (modes équipes) : la réponse majoritaire de l'équipe compte ; égalité → choix du capitaine (le premier membre de l'équipe)
 - **Score d'équipe** : somme ou moyenne des membres
@@ -41,20 +42,25 @@ Le mode démo synchronise les onglets via `localStorage` + `BroadcastChannel` (`
   - **½ 50/50** : élimine 2 mauvaises réponses, pour toi seul
   - **☠️ MALÉDICTION** : s'applique à **tout le monde** sur la question en cours — bonne réponse = **50 % des points seulement**, mauvaise réponse ou absence de réponse = **−500 pts**. Une seule Malédiction peut être active par question (la première compte, les suivantes ne sont pas consommées), le lanceur subit aussi l'effet, et l'effet est **visible par tous avant de répondre** (bandeau rouge). Le score cumulé ne descend jamais sous 0.
 
-## ❓ Banque de questions (Lot 2 : 300, dont 296 jouables)
+## ❓ Banque de questions (Lot 8 : 600 questions, toutes jouables)
 
-Niveau **intermédiaire à difficile**, 4 choix, 1 seule bonne réponse, **explication vérifiable pour chaque question** :
+**Refonte Lot 8** : la première banque (1 200 questions, niveaux intermédiaire à difficile très pointus) a été **remplacée** après le test réel du 2026-10-21 : Christophe la jugeait « beaucoup trop spécifique ». Elle est conservée pour l'historique dans `questions/archive-v1-1200/`.
 
-| Catégorie | État Lot 2 | Jouables | Fichier |
-|---|---|---|---|
-| Histoire & origines | ✅ **200 / 200 — terminée** | 200 (167 texte, 21 image, 12 audio) | `src/data/histoire.json` (copie : `../questions/histoire.json`) |
-| Cinéma & séries | 20 / 200 | 19 | `src/data/cinema-series.json` |
-| Littérature, légendes & monstres | 20 / 200 | 19 | `src/data/litterature.json` |
-| Science, anatomie & médecine macabre *(clin d'œil physiatrie : nerf sciatique, membre fantôme, prothèses…)* | 20 / 200 | 20 | `src/data/science-medecine.json` |
-| Musique & pop culture | 20 / 200 | 19 | `src/data/musique-pop.json` |
-| Traditions, bonbons & géographie | 20 / 200 | 19 | `src/data/traditions.json` |
+Nouveau profil : **culture générale Halloween grand public cultivé et ludique** — faits largement partagés (Hadès chez les Grecs, le méchant de la saison 3 de Stranger Things, les grands classiques), calibrés pour qu'**environ la moitié des joueurs puissent répondre**. 4 choix plausibles, 1 seule bonne réponse, **explication courte pour chaque question**, bonnes réponses réparties exactement 25/25/25/25 par catégorie.
 
-**Types texte / image / audio** : lecteur média intégré (image affichée avec crédit, audio avec **replay limité à 2 écoutes** côté joueur). Tous les médias sont des **créations originales du projet sous CC0** (illustrations SVG + sons synthétisés, voir `public/media/CREDITS.md`) — aucun hotlink. Histoire compte **33 questions média (16,5 %)**, dans la cible de la spec. Il reste 4 questions audio marquées `media.status: "a-completer"` (cinéma, littérature, musique, traditions) qui attendent leur extrait libre de droits et sont **exclues automatiquement** des parties.
+| Catégorie | Questions | Dont média | Fichier |
+|---|---:|---:|---|
+| Histoire & origines | 100 | 10 | `src/data/histoire.json` (copie : `../questions/histoire.json`) |
+| Cinéma & séries | 100 | 10 | `src/data/cinema-series.json` |
+| Littérature, légendes & monstres | 100 | 10 | `src/data/litterature.json` |
+| Science, anatomie & médecine macabre *(clin d'œil physiatrie : nerf sciatique, membre fantôme, prothèses…)* | 100 | 10 | `src/data/science-medecine.json` |
+| Musique & pop culture | 100 | 10 | `src/data/musique-pop.json` |
+| Traditions, bonbons & géographie | 100 | 10 | `src/data/traditions.json` |
+| **Total** | **600** | **60 (10 %)** | 450 intermédiaires / 150 difficiles |
+
+**Types texte / image / audio** : lecteur média intégré (image affichée avec crédit, audio avec **replay limité à 2 écoutes** côté joueur). Tous les médias sont des **créations originales du projet sous CC0** (illustrations SVG + sons synthétisés, voir `public/media/CREDITS.md`) — aucun hotlink, aucun nouveau fichier au Lot 8 (réutilisation des médias existants).
+
+> **Bug média corrigé au Lot 8** : les JSON stockent `media.src` en `/media/…` absolu, ce qui donnait des **404 sous le sous-chemin GitHub Pages**. Tous les médias passent désormais par `src/lib/mediaUrl.js`, qui les résout par rapport à `import.meta.env.BASE_URL` (local `./`, Pages `/<repo>/`, Firebase Hosting `/`). Filet de sécurité demandé : un lien **« 🔎 Ouvrir le média »** sous chaque média, et un encadré avec ce lien si le chargement échoue.
 
 Format d'une question : voir `SPEC_v2.md` §4 (`id`, `category`, `difficulty`, `type`, `question`, `choices`, `correctIndex`, `explanation`, `media {kind, src, alt, credit, licence}`).
 
@@ -125,7 +131,7 @@ halloween-quiz-physiatrie/
             └── firebase.js     # init Firebase optionnelle via .env
 ```
 
-## 🛣️ Lots suivants
+## 🛣️ Historique des lots
 
-- **Lot 2 (fait)** : Firestore branché pour le jeu à distance, Histoire & origines portée à 200 questions (33 médias), repo prêt pour GitHub (CI Pages) et Firebase Hosting.
-- **Lots 3+** : autres catégories vers 200 chacune (cinéma, littérature, science, musique, traditions) jusqu'à 1 200, médias audio définitifs des 4 dernières questions « à compléter », équilibrage des difficultés, thèmes visuels saisonniers.
+- **Lots 1-7 (2026-10-20)** : app complète, Firestore distant, banque portée progressivement à 1 200 questions très pointues (200/catégorie), mise en ligne GitHub Pages + Firebase, test multijoueur réel réussi.
+- **Lot 8 (2026-10-21, refonte après test réel)** : médias réparés (base Vite + lien d'ouverture + repli en cas d'échec), enchaînement automatique après révélation (5/8/12 s, désactivable), affichage mobile d'abord (aucun débordement à 360-400 px, lobby empilé, réponses tactiles), et **nouvelle banque de 600 questions culture générale ludique** (ancienne archivée dans `questions/archive-v1-1200/`).

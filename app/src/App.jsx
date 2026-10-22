@@ -3,6 +3,7 @@ import { QRCodeSVG } from 'qrcode.react'
 import { ALL_QUESTIONS, CATEGORIES, categoryLabel, estimateDurationMin, selectQuestions, isPlayable } from './lib/questions'
 import { emptyRoom, genCode, loadRoom, roomBackend, saveRoom, subscribeRoom, uid } from './lib/room'
 import { scoreCurrentQuestion, teamStandings } from './lib/scoring'
+import { mediaUrl } from './lib/mediaUrl'
 
 const TEAM_PRESETS = [
   { name: '🎃 Citrouilles', color: '#f97316' },
@@ -22,6 +23,8 @@ const defaultConfig = () => ({
   difficulty: 'mixte',
   mediaFilter: 'mixte',
   timerSec: 45,
+  autoAdvance: true,
+  autoDelaySec: 8,
   mode: 'solo',
   consensus: false,
   teamScoreMethod: 'somme',
@@ -34,7 +37,7 @@ const defaultConfig = () => ({
 function Btn({ children, onClick, color = 'bg-orange-500 hover:bg-orange-400', disabled, className = '' }) {
   return (
     <button disabled={disabled} onClick={onClick}
-      className={`${color} text-white font-bold rounded-xl px-4 py-2.5 disabled:opacity-40 disabled:cursor-not-allowed transition ${className}`}>
+      className={`${color} text-white font-bold rounded-xl px-5 py-3 text-base max-w-full break-words disabled:opacity-40 disabled:cursor-not-allowed transition ${className}`}>
       {children}
     </button>
   )
@@ -42,27 +45,50 @@ function Btn({ children, onClick, color = 'bg-orange-500 hover:bg-orange-400', d
 
 function MediaBlock({ q, isHost }) {
   const [plays, setPlays] = useState(0)
+  const [failed, setFailed] = useState(false)
   const audioRef = useRef(null)
-  useEffect(() => { setPlays(0) }, [q.id])
-  if (!q.media || q.media.kind == null) return null
-  if (q.type === 'image' && q.media.src) {
+  useEffect(() => { setPlays(0); setFailed(false) }, [q.id])
+  if (!q.media || q.media.kind == null || !q.media.src) return null
+  // Tous les médias passent par mediaUrl() : les JSON stockent "/media/…"
+  // en absolu, ce qui donnait des 404 sous le sous-chemin GitHub Pages.
+  const url = mediaUrl(q.media.src)
+  const openLink = (
+    <a href={url} target="_blank" rel="noopener noreferrer"
+      className="inline-block mt-2 text-sm font-semibold text-orange-300 underline underline-offset-2 break-all">
+      🔎 Ouvrir le média
+    </a>
+  )
+  if (failed) {
     return (
-      <figure className="my-3">
-        <img src={q.media.src} alt={q.media.alt || ''} className="mx-auto max-h-64 rounded-xl border border-white/20" />
+      <div className="my-3 rounded-xl border border-red-400/50 bg-red-950/40 p-3 text-center">
+        <p className="text-sm text-red-200">⚠️ Le média n'a pas pu se charger ici — ouvre-le directement :</p>
+        {openLink}
+        <p className="text-xs text-white/50 mt-1">{q.media.credit} — {q.media.licence}</p>
+      </div>
+    )
+  }
+  if (q.type === 'image') {
+    return (
+      <figure className="my-3 text-center">
+        <img src={url} alt={q.media.alt || ''} onError={() => setFailed(true)}
+          className="mx-auto max-h-64 w-auto max-w-full rounded-xl border border-white/20" />
         <figcaption className="text-xs text-white/50 mt-1 text-center">{q.media.credit} — {q.media.licence}</figcaption>
+        {openLink}
       </figure>
     )
   }
-  if (q.type === 'audio' && q.media.src) {
+  if (q.type === 'audio') {
     const maxPlays = isHost ? Infinity : 2
     return (
       <div className="my-3 text-center">
-        <audio ref={audioRef} controls src={q.media.src} onPlay={() => setPlays((p) => p + 1)} className="mx-auto" />
+        <audio ref={audioRef} controls src={url} onError={() => setFailed(true)}
+          onPlay={() => setPlays((p) => p + 1)} className="mx-auto w-full max-w-md" />
         <p className="text-xs text-white/60 mt-1">
           {isHost ? 'Lecture hôte (illimitée)' : `Écoutes : ${plays} / ${maxPlays} (replay limité)`}
           {' · '}{q.media.credit} — {q.media.licence}
         </p>
         {!isHost && plays >= maxPlays && <p className="text-xs text-red-300">Limite d'écoutes atteinte pour cette question.</p>}
+        {openLink}
       </div>
     )
   }
@@ -73,12 +99,12 @@ function Leaderboard({ room, players }) {
   const sorted = [...players].sort((a, b) => b.score - a.score)
   const teams = teamStandings(room, players)
   return (
-    <div className="grid md:grid-cols-2 gap-4">
-      <div className="bg-[#1e1133] rounded-2xl p-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="bg-[#1e1133] rounded-2xl p-4 min-w-0">
         <h3 className="font-bold mb-2">🏆 Classement individuel</h3>
         <ol className="space-y-1">
           {sorted.map((p, i) => (
-            <li key={p.id} className="flex justify-between bg-white/5 rounded-lg px-3 py-1.5">
+            <li key={p.id} className="flex flex-wrap justify-between gap-x-3 bg-white/5 rounded-lg px-3 py-1.5">
               <span>{i + 1}. {p.name} {p.streak >= 3 ? `🔥${p.streak}` : ''}</span>
               <b>{p.score} pts</b>
             </li>
@@ -91,7 +117,7 @@ function Leaderboard({ room, players }) {
           <h3 className="font-bold mb-2">👥 Classement des équipes ({room.config.teamScoreMethod})</h3>
           <ol className="space-y-1">
             {teams.map((t, i) => (
-              <li key={t.id} className="flex justify-between bg-white/5 rounded-lg px-3 py-1.5">
+              <li key={t.id} className="flex flex-wrap justify-between gap-x-3 bg-white/5 rounded-lg px-3 py-1.5">
                 <span>{i + 1}. <span style={{ color: t.color }}>●</span> {t.name} <span className="text-white/40">({t.memberCount})</span></span>
                 <b>{t.score} pts</b>
               </li>
@@ -109,7 +135,7 @@ function ConfigScreen({ onCreate, onBack }) {
   const picked = useMemo(() => selectQuestions(cfg).length, [cfg])
   const isTeam = cfg.mode !== 'solo'
   return (
-    <div className="max-w-3xl mx-auto p-4">
+    <div className="w-full max-w-3xl mx-auto px-3 py-4 sm:p-4">
       <h2 className="text-3xl font-black mb-1">⚙️ Configurer la partie</h2>
       <p className="text-white/60 mb-4">Banque : {playableCount} questions jouables ({ALL_QUESTIONS.length} au total ; les médias « à compléter » sont exclus automatiquement).</p>
       <div className="bg-[#1e1133] rounded-2xl p-4 space-y-4">
@@ -132,6 +158,17 @@ function ConfigScreen({ onCreate, onBack }) {
               <option value={30}>30 secondes</option>
               <option value={45}>45 secondes</option>
               <option value={60}>60 secondes</option>
+            </select>
+          </label>
+          <label className="block">Enchaînement après la révélation
+            <select value={cfg.autoAdvance ? cfg.autoDelaySec : 'off'} onChange={(e) => {
+              if (e.target.value === 'off') set('autoAdvance', false)
+              else { set('autoAdvance', true); set('autoDelaySec', Number(e.target.value)) }
+            }} className="w-full mt-1 bg-white/10 rounded-lg p-2">
+              <option value="5">Automatique — question suivante après 5 s</option>
+              <option value="8">Automatique — question suivante après 8 s</option>
+              <option value="12">Automatique — question suivante après 12 s</option>
+              <option value="off">Manuel — l'hôte clique à chaque question</option>
             </select>
           </label>
           <label className="block">Difficulté
@@ -251,7 +288,7 @@ function RoomView({ code, role, setRole }) {
   }
 
   useEffect(() => {
-    if (room?.status !== 'question') return
+    if (room?.status !== 'question' && room?.status !== 'reveal') return
     const t = setInterval(() => setNow(Date.now()), 200)
     return () => clearInterval(t)
   }, [room?.status, room?.currentIndex])
@@ -269,6 +306,7 @@ function RoomView({ code, role, setRole }) {
       d.lastDetail = detail
       d.scoredIndex = d.currentIndex
       d.status = 'reveal'
+      d.revealStartedAt = Date.now()
     })
   }
 
@@ -338,6 +376,7 @@ function RoomView({ code, role, setRole }) {
       d.questionIds = qs.map((q) => q.id)
       d.currentIndex = 0
       d.status = 'question'
+      d.revealStartedAt = null
       d.questionStartedAt = Date.now()
       d.answers = {}
       d.round = { doubleBy: [], fiftyBy: {}, cursedBy: null }
@@ -346,6 +385,7 @@ function RoomView({ code, role, setRole }) {
 
   function nextQuestion() {
     update((d) => {
+      d.revealStartedAt = null
       if (d.currentIndex + 1 >= d.questionIds.length) { d.status = 'finished'; return }
       d.currentIndex += 1
       d.status = 'question'
@@ -354,6 +394,30 @@ function RoomView({ code, role, setRole }) {
       d.round = { doubleBy: [], fiftyBy: {}, cursedBy: null }
     })
   }
+
+  // --- Enchaînement automatique après la révélation (piloté par l'hôte) ---
+  const autoOn = room?.config?.autoAdvance !== false
+  const autoDelayMs = (room?.config?.autoDelaySec || 8) * 1000
+  const revealElapsed = room?.status === 'reveal' && room?.revealStartedAt ? now - room.revealStartedAt : 0
+  const revealLeftSec = Math.max(0, Math.ceil((autoDelayMs - revealElapsed) / 1000))
+  const revealPct = Math.max(0, Math.min(100, 100 - (revealElapsed / autoDelayMs) * 100))
+
+  // Parties créées avant le Lot 8 : si une révélation n'a pas d'horodatage,
+  // l'hôte le pose une fois pour démarrer le compte à rebours.
+  useEffect(() => {
+    if (!isHost || !room || room.status !== 'reveal' || room.revealStartedAt) return
+    update((d) => { if (d.status === 'reveal' && !d.revealStartedAt) d.revealStartedAt = Date.now() })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isHost, room?.status, room?.revealStartedAt])
+
+  useEffect(() => {
+    if (!isHost || !room || room.status !== 'reveal' || !autoOn) return
+    if (!room.revealStartedAt) return
+    const remaining = autoDelayMs - (Date.now() - room.revealStartedAt)
+    const t = setTimeout(() => nextQuestion(), Math.max(0, remaining))
+    return () => clearTimeout(t)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isHost, room?.status, room?.currentIndex, room?.revealStartedAt, autoOn, autoDelayMs])
 
   const myAnswer = me ? room.answers[me.id] : null
   const hiddenByFifty = me ? room.round.fiftyBy[me.id] || [] : []
@@ -386,7 +450,7 @@ function RoomView({ code, role, setRole }) {
   }
 
   return (
-    <div className="max-w-4xl mx-auto p-4">
+    <div className="w-full max-w-4xl mx-auto px-3 py-4 sm:p-4">
       <header className="flex flex-wrap items-center justify-between gap-2 mb-4">
         <h2 className="text-2xl font-black">🎃 Partie <span className="text-orange-400 tracking-widest">{room.code}</span></h2>
         <span className="text-sm bg-white/10 rounded-full px-3 py-1">
@@ -398,17 +462,17 @@ function RoomView({ code, role, setRole }) {
 
       {room.status === 'lobby' && (
         <div className="space-y-4">
-          <div className="bg-[#1e1133] rounded-2xl p-4 flex flex-wrap gap-6 items-center">
-            <div className="flex-1 min-w-64">
+          <div className="bg-[#1e1133] rounded-2xl p-4 flex flex-col md:flex-row flex-wrap gap-6 items-center">
+            <div className="flex-1 min-w-0 w-full">
               <p className="font-bold mb-1">📲 Lien de jointure (à partager / projeter) :</p>
               <code className="bg-black/40 rounded px-2 py-1 break-all text-sm">{joinUrl}</code>
-              <div className="flex gap-2 mt-2">
+              <div className="flex flex-wrap gap-2 mt-2">
                 <Btn color="bg-white/20" onClick={() => navigator.clipboard?.writeText(joinUrl)}>Copier le lien</Btn>
                 <Btn color="bg-white/20" onClick={() => window.open(joinUrl, '_blank')}>Ouvrir un onglet joueur</Btn>
               </div>
               <p className="text-sm text-white/50 mt-2">Config : {room.config.numQuestions} questions · mode {room.config.mode} · timer {room.config.timerSec}s{room.config.consensus ? ' · consensus activé' : ''}</p>
             </div>
-            <div className="bg-white p-2 rounded-xl"><QRCodeSVG value={joinUrl} size={128} /></div>
+            <div className="bg-white p-2 rounded-xl mx-auto shrink-0"><QRCodeSVG value={joinUrl} size={128} /></div>
           </div>
 
           {!me && !isHost && (
@@ -456,7 +520,7 @@ function RoomView({ code, role, setRole }) {
             </div>
           )}
 
-          <div className="bg-[#1e1133] rounded-2xl p-5">
+          <div className="bg-[#1e1133] rounded-2xl p-4 sm:p-5">
             <h3 className="text-xl font-bold">{question.question}</h3>
             <MediaBlock q={question} isHost={isHost && !me} />
             {room.config.consensus && room.teams.length > 0 && room.status === 'question' && (
@@ -472,7 +536,7 @@ function RoomView({ code, role, setRole }) {
               </div>
             )}
 
-            <div className="grid md:grid-cols-2 gap-3 mt-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-4">
               {question.choices.map((c, i) => {
                 const hidden = hiddenByFifty.includes(i)
                 const isCorrect = room.status === 'reveal' && i === question.correctIndex
@@ -481,7 +545,7 @@ function RoomView({ code, role, setRole }) {
                 return (
                   <button key={i} disabled={!me || room.status !== 'question' || Boolean(myAnswer)}
                     onClick={() => answer(i)}
-                    className={`text-left rounded-xl p-4 font-semibold transition ${isCorrect ? 'bg-emerald-600' : isMine ? 'bg-orange-600' : 'bg-white/10 hover:bg-white/20'} disabled:cursor-default`}>
+                    className={`text-left rounded-xl p-4 py-5 text-base w-full font-semibold transition ${isCorrect ? 'bg-emerald-600' : isMine ? 'bg-orange-600' : 'bg-white/10 hover:bg-white/20'} disabled:cursor-default`}>
                     {LETTERS[i]}. {c}{isMine ? ' ✓ (ta réponse)' : ''}{isCorrect ? ' ✅' : ''}
                   </button>
                 )
@@ -505,7 +569,27 @@ function RoomView({ code, role, setRole }) {
           {room.status === 'reveal' && (
             <>
               <Leaderboard room={room} players={room.players} />
-              {isHost && <Btn onClick={nextQuestion}>{room.currentIndex + 1 >= room.questionIds.length ? '🏁 Voir le podium final' : '➡️ Question suivante'}</Btn>}
+              {autoOn ? (
+                <div className="bg-[#1e1133] rounded-2xl p-4">
+                  <p className="font-bold text-center">
+                    {room.currentIndex + 1 >= room.questionIds.length
+                      ? `🏁 Podium final dans ${revealLeftSec}s…`
+                      : `➡️ Question suivante dans ${revealLeftSec}s…`}
+                  </p>
+                  <div className="w-full bg-white/10 rounded-full h-2.5 mt-2 overflow-hidden">
+                    <div className="bg-orange-500 h-2.5 rounded-full" style={{ width: `${revealPct}%` }} />
+                  </div>
+                  {isHost && (
+                    <div className="text-center mt-3">
+                      <Btn onClick={nextQuestion}>
+                        {room.currentIndex + 1 >= room.questionIds.length ? '🏁 Voir le podium maintenant' : '⏩ Passer maintenant'}
+                      </Btn>
+                    </div>
+                  )}
+                </div>
+              ) : (
+                isHost && <Btn onClick={nextQuestion}>{room.currentIndex + 1 >= room.questionIds.length ? '🏁 Voir le podium final' : '➡️ Question suivante'}</Btn>
+              )}
             </>
           )}
           {room.status === 'question' && isHost && <Btn color="bg-white/20" onClick={doReveal}>Révéler maintenant</Btn>}
@@ -552,15 +636,15 @@ export default function App() {
   if (view === 'room' && code) return <RoomView code={code} role={role} setRole={setRole} />
 
   return (
-    <div className="max-w-2xl mx-auto p-6 text-center">
+    <div className="w-full max-w-2xl mx-auto px-4 py-6 sm:p-6 text-center">
       <div className="text-7xl floaty">🎃</div>
       <h1 className="text-4xl font-black mt-2">Quiz Halloween</h1>
       <p className="text-white/70 mt-2">Culture générale d'Halloween pour résidents en <b>physiatrie</b> — multijoueur temps réel, pouvoirs spéciaux, modes solo et équipes.</p>
-      <p className="text-sm text-white/40 mt-1">{ALL_QUESTIONS.length} questions (objectif final : 1 200) · Niveau intermédiaire à difficile</p>
+      <p className="text-sm text-white/40 mt-1">{ALL_QUESTIONS.length} questions de culture générale · Niveau ludique — environ une personne sur deux connaît la réponse</p>
       <div className="bg-[#1e1133] rounded-2xl p-5 mt-6 space-y-4">
         <Btn className="w-full" onClick={() => setView('config')}>🧙 Créer une partie (hôte)</Btn>
-        <div className="flex gap-2">
-          <input value={joinCode} onChange={(e) => setJoinCode(e.target.value.toUpperCase())} placeholder="Code de partie (6 caractères)" maxLength={6} className="flex-1 bg-white/10 rounded-xl p-3 text-center tracking-widest" />
+        <div className="flex flex-col sm:flex-row gap-2">
+          <input value={joinCode} onChange={(e) => setJoinCode(e.target.value.toUpperCase())} placeholder="Code de partie (6 caractères)" maxLength={6} className="flex-1 min-w-0 w-full bg-white/10 rounded-xl p-3 text-center tracking-widest" />
           <Btn color="bg-violet-600 hover:bg-violet-500" disabled={joinCode.length !== 6}
             onClick={() => { setCode(joinCode); setRole('player'); setView('room'); window.history.replaceState(null, '', `?room=${joinCode}`) }}>
             👻 Rejoindre

@@ -1,1 +1,1842 @@
-[{"category":"traditions","choices":["Les 1er et 2 novembre","Le 31 octobre seulement","Le dernier samedi d'octobre","Du 31 octobre au 6 novembre"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le Día de los Muertos mexicain s'étend sur les 1er et 2 novembre — le 1er pour les enfants (angelitos) et le 2 pour les adultes — en écho aux fêtes catholiques de la Toussaint et des Défunts, greffées sur des traditions préhispaniques.","id":"traditions-0001","media":{"alt":"Illustration d'une ofrenda décorée de soucis (cempasúchil) et d'une calavera","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/autel-ofrenda.svg"},"question":"Cette illustration montre un autel domestique (ofrenda) décoré pour une grande fête latino-américaine. Sur quelles dates principales tombe le Día de los Muertos au Mexique ?","type":"image"},{"category":"traditions","choices":["Le souci du Mexique (cempasúchil / tagète)","La rose rouge","Le chrysanthème blanc","Le lys"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le cempasúchil (Tagetes erecta), fleur orangée au parfum puissant, couvre les ofrendas et les tombes : sa couleur et son odeur sont censées guider les âmes des défunts vers les autels de leurs familles.","id":"traditions-0002","media":{"kind":null},"question":"Quelle fleur orange vif est censée guider les âmes au Día de los Muertos ?","type":"texte"},{"category":"traditions","choices":["José Guadalupe Posada, graveur mexicain","Frida Kahlo","Diego Rivera","Un anonyme aztèque"],"correctIndex":0,"difficulty":"difficile","explanation":"La Catrina naît vers 1910 sous le burin de José Guadalupe Posada, sous le nom de « La Calavera Catrina » : satire des élites mexicaines francophiles — « les riches aussi finiront en squelettes ». Diego Rivera lui donnera plus tard son chapeau et son nom complet dans une fresque célèbre.","id":"traditions-0003","media":{"kind":null},"question":"Qui a créé vers 1910 la figure squelettique élégante de « La Catrina » ?","type":"texte"},{"category":"traditions","choices":["La Conspiration des Poudres de 1605, quand Guy Fawkes tenta de faire sauter le Parlement","Une invasion viking repoussée","La naissance d'un roi","Une éclipse de lune historique"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le 5 novembre 1605, Guy Fawkes fut arrêté sous le Parlement avec des barils de poudre : la « Nuit de Guy Fawkes » (Bonfire Night) célèbre l'échec de l'attentat par feux de joie et effigies brûlées, tout près d'Halloween dans le calendrier automnal britannique.","id":"traditions-0004","media":{"kind":null},"question":"Que commémore la Nuit de Guy Fawkes, le 5 novembre, au Royaume-Uni ?","type":"texte"},{"category":"traditions","choices":["Pangangaluluwa","Araw ng mga Patay","Undas","Bisperas"],"correctIndex":0,"difficulty":"difficile","explanation":"Le pangangaluluwa est une tradition philippine de visite et de chants (caroling pour les âmes) à la veille de la Toussaint, considérée comme l'équivalent local du souling européen et du porte-à-porte nord-américain.","id":"traditions-0005","media":{"kind":null},"question":"Comment s'appelle la tradition philippine de chants porte-à-porte pour les âmes des morts à la Toussaint ?","type":"texte"},{"category":"traditions","choices":["Le pain des morts / pan de muerto","La rosca de reyes","Le barmbrack","Le stollen"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le pan de muerto, brioche à la fleur d'oranger et à l'anis décorée de « petits os » en pâte, est l'aliment signature des ofrendas et des cimetières du Día de los Muertos. On le partage avec les vivants... et les revenants.","id":"traditions-0006","media":{"kind":null},"question":"Quelle brioche décorée de « petits os » en pâte est l'emblème comestible du Día de los Muertos ?","type":"texte"},{"category":"traditions","choices":["2003, avec extension en 2008 aux pratiques associées","1985","2020","Elle n'y figure pas"],"correctIndex":0,"difficulty":"difficile","explanation":"La fête indigène des morts du Mexique fut proclamée chef-d'œuvre du patrimoine oral et immatériel de l'humanité par l'UNESCO en 2003, puis inscrite en 2008 sur la Liste représentative du patrimoine culturel immatériel.","id":"traditions-0007","media":{"kind":null},"question":"En quelle année l'UNESCO a-t-elle reconnu la fête mexicaine des morts au patrimoine culturel immatériel ?","type":"texte"},{"category":"traditions","choices":["Les « bonbons de maïs » (candy corn), créés dans les années 1880","Les sucettes fantômes","Les chocolats en forme de cercueil, créés en 1900","Les bonbons à la citrouille épicée, créés en 2010"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le candy corn, créé dans les années 1880 à Philadelphie (on l'attribue à George Renninger, de la Wunderlee Candy Company), s'appelait d'abord « Chicken Feed ». Ses trois couleurs évoquent la récolte d'automne : jaune, orange et pointe blanche.","id":"traditions-0008","media":{"kind":null},"question":"Quel bonbon tricolore d'Halloween était d'abord vendu, dans les années 1880, sous le nom de « Chicken Feed » ?","type":"texte"},{"category":"traditions","choices":["La base du bonbon est jaune, le centre orange et la pointe blanche","La base est blanche, le centre jaune, la pointe orange","Les trois bandes sont horizontales égales sans ordre particulier","La pointe est toujours orange"],"correctIndex":0,"difficulty":"difficile","explanation":"Un grain de candy corn classique présente, de la base large vers la pointe : jaune, puis orange, puis blanc — les couleurs inversées (pointe orange) désignent souvent la variante « harvest corn » avec une base chocolatée.","id":"traditions-0009","media":{"kind":null},"question":"Dans quel ordre se disposent les couleurs d'un candy corn classique, de la base vers la pointe ?","type":"texte"},{"category":"traditions","choices":["Le barmbrack, pain aux fruits contenant une chevalière ou un autre présage","Le colcannon","Le soda bread","Le boxty"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le barmbrack irlandais d'Halloween cache de petits objets prophétiques — bague (mariage prochain), pièce (richesse), bout de tissu (pauvreté). La coutume du « cake of fate » se retrouve dans tout l'archipel britannique à cette saison.","id":"traditions-0010","media":{"kind":null},"question":"Quel pain irlandais de saison cache une bague ou une pièce qui prédirait l'année à venir ?","type":"texte"},{"category":"traditions","choices":["Le colcannon, purée de pommes de terre au chou frisé (kale) et beurre","La soupe de citrouille rousse","Le porridge d'avoine salé","Le ragoût de navets"],"correctIndex":0,"difficulty":"difficile","explanation":"Le colcannon irlandais — pommes de terre écrasées, chou frisé ou chou vert, beurre et crème — était le plat du soir d'Halloween, parfois garni lui aussi de charmes cachés (bague, pièce, dé à coudre pour la future couturière...).","id":"traditions-0011","media":{"kind":null},"question":"Quel plat traditionnel irlandais de pommes de terre et chou frisé servait-on la nuit d'Halloween, parfois avec des charmes cachés ?","type":"texte"},{"category":"traditions","choices":["À Salem, Massachusetts, avec « Haunted Happenings » tout le mois d'octobre","À La Nouvelle-Orléans, avec Mardi Gras","À Québec, avec le Carnaval","À Salem, Oregon, en décembre"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La ville des procès de 1692-1693 accueille chaque octobre le festival Haunted Happenings : défilés, visites des lieux des procès, bals costumés — près d'un million de visiteurs, dans une ville qui vit toute l'année de ce sombre patrimoine.","id":"traditions-0012","media":{"kind":null},"question":"Quelle ville américaine du XVIIe siècle, théâtre de procès en sorcellerie, est devenue la capitale touristique d'Halloween ?","type":"texte"},{"category":"traditions","choices":["Il s'y dresse au sommet d'une colline au-dessus du village, dans les Carpates de Transylvanie","C'est la résidence attestée de Vlad l'Empaleur","Bram Stoker l'a visité en 1890","Il se trouve en Moldavie"],"correctIndex":0,"difficulty":"difficile","explanation":"Le château de Bran, perché sur un rocher de Transylvanie, est vendu aux touristes comme « château de Dracula » — lien historique mince (Vlad III y aurait brièvement séjourné, Stoker ne l'a jamais visité) mais machine économique redoutable chaque octobre.","id":"traditions-0013","media":{"kind":null},"question":"Pourquoi le château de Bran, en Roumanie, attire-t-il les foules chaque Halloween ?","type":"texte"},{"category":"traditions","choices":["À Kawasaki, au Japon, avec un grand défilé costumé réputé","À Séoul, pendant le Nouvel An lunaire","À Hong Kong, uniquement dans les parcs Disney","Il n'y a aucune célébration d'Halloween en Asie"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le défilé d'Halloween de Kawasaki (depuis 1997) est l'un des plus grands du Japon : environ 4 000 participants costumés sélectionnés et plus de 100 000 spectateurs — Halloween, importé par les parcs à thème, est devenu une institution urbaine japonaise.","id":"traditions-0014","media":{"kind":null},"question":"Quelle grande ville asiatique organise fin octobre un des plus grands défilés d'Halloween au monde, avec des milliers de participants costumés ?","type":"texte"},{"category":"traditions","choices":["Le Punkin Chunkin, concours de catapultage de citrouilles","Le Pumpkin Regatta, course de bateaux-citrouilles géantes","La citrouille la plus lourde, concours mondial de pesée","Le lancer de citrouilles dans un lac gelé"],"correctIndex":0,"difficulty":"difficile","explanation":"Le Punkin Chunkin, né dans le Delaware, oppose des équipes qui propulsent des citrouilles à des centaines de mètres à coups de catapultes, trébuchets et canons à air. Des régates de citrouilles géantes évidées existent aussi, notamment en Nouvelle-Écosse et au Vermont.","id":"traditions-0015","media":{"kind":null},"question":"Quelle compétition absurde très américaine consiste à projeter des citrouilles le plus loin possible avec des catapultes et des canons à air ?","type":"texte"},{"category":"traditions","choices":["« La charité, s'il vous plaît ! »","« Des bonbons ou un sort ! » traduction officielle","« Joyeux Halloween ! » tout simplement","Rien : la tournée se faisait en silence déguisé"],"correctIndex":0,"difficulty":"difficile","explanation":"La tournée d'Halloween des enfants québécois, attestée dès le début du XXe siècle, se faisait souvent au cri de « La charité, s'il vous plaît ! », plus proche du souling et du guising que du « trick or treat » américain. La formule varie selon les régions et les générations.","id":"traditions-0016","media":{"kind":null},"question":"Selon la tradition québécoise plus ancienne, que criaient les enfants en faisant leur tournée d'Halloween ?","type":"texte"},{"category":"traditions","choices":["« Snap-apple night » en Irlande, entre autres jeux de pommes divinatoires","« Nuit des navets »","« Soirée des bougies »","« Veille des fenêtres »"],"correctIndex":0,"difficulty":"difficile","explanation":"Halloween fut longtemps surnommée « Snap-apple Night » en Irlande et en Angleterre : pommes suspendues ou à croquer dans l'eau, épluchure de pomme jetée par-dessus l'épaule pour dessiner l'initiale du futur amour — la pomme était l'outil de divination amoureuse par excellence.","id":"traditions-0017","media":{"kind":null},"question":"Quel surnom ancien d'Halloween, en Irlande, rappelle le jeu de la pomme suspendue à une ficelle ?","type":"texte"},{"category":"traditions","choices":["Les Irlandais, avec les Écossais","Les Allemands, dès l'Oktoberfest","Les Français de Louisiane, avec les cajuns","Les Mexicains, avec la Fête des Morts"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les immigrants irlandais et écossais apportent au XIXe siècle guising, lanternes de légumes, jeux de pommes et récits de Samhain. En Amérique du Nord, ces usages se recomposent et deviennent progressivement le Halloween du porte-à-porte moderne.","id":"traditions-0018","media":{"alt":"Gigue irlandaise originale synthétisée pour le projet","credit":"Synthèse originale du projet Quiz Halloween","kind":"audio","licence":"CC0","src":"/media/gigue-irlandaise.wav"},"question":"Écoutez cette gigue originale, composée et synthétisée pour le quiz dans l'esprit des danses irlandaises. Quelle communauté immigrante a implanté l'essentiel des traditions d'Halloween en Amérique du Nord au XIXe siècle ?","type":"audio"},{"category":"traditions","choices":["Les citrouilles-lanternes lumineuses, illuminant le chemin des visiteurs","Les costumes assortis des habitants","Les films d'horreur projetés en plein air","Les bonbons uniquement aux pignons sur rue"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Dans la plupart des conventions nord-américaines, une maison participe si sa véranda est allumée (et souvent une jack-o'-lantern posée) : lumière éteinte = pas de friandises cette année, merci de ne pas frapper.","id":"traditions-0019","media":{"alt":"Illustration d'une citrouille-lanterne éclairée dans la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/citrouille-lanterne.svg"},"question":"Cette illustration correspond au signal visuel conventionnel qu'une maison participe à la distribution de friandises. Quel est ce signal ?","type":"image"},{"category":"traditions","choices":["Le Día de la Raza","Le Hungry Ghost Festival (Zhongyuan), au 7e mois lunaire","Le Nouvel An lunaire","Le festival de Qingming au printemps"],"correctIndex":1,"difficulty":"difficile","explanation":"Le Hungry Ghost Festival, célébré dans plusieurs pays d'Asie de l'Est et du Sud-Est au 15e jour du 7e mois lunaire, honore les esprits errants sans famille via offrandes de nourriture, encens et opéras de rue — un « Halloween » d'été aux logiques très proches de Samhain.","id":"traditions-0020","media":{"kind":null},"question":"Quelle fête d'Asie de l'Est, au cœur de l'été, honore les fantômes affamés par des offrandes brûlées — pendant estival d'Halloween ?","type":"texte"},{"category":"traditions","choices":["Le Mexique","Le Japon","La Pologne","Le Brésil"],"correctIndex":2,"difficulty":"intermediaire","explanation":"En Pologne, la Toussaint est un grand moment de recueillement familial : les tombes sont nettoyées, fleuries et illuminées, parfois avec des veillées qui se prolongent après la tombée de la nuit.","id":"traditions-0021","media":{"kind":null},"question":"Le 1er novembre, quel pays voit ses cimetières se couvrir de milliers de bougies et de chrysanthèmes pour la Toussaint ?","type":"texte"},{"category":"traditions","choices":["Au Guatemala","Au Pérou","En Colombie","Aux Philippines"],"correctIndex":0,"difficulty":"difficile","explanation":"Au Guatemala, les barriletes gigantes peuvent mesurer plus de dix mètres : leurs motifs et messages accompagnent la fête des morts et sont censés guider ou honorer les esprits des ancêtres.","id":"traditions-0022","media":{"alt":"Illustration d'un immense cerf-volant de fête des morts","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/cerf-volant-geant.svg"},"question":"Ce cerf-volant géant et multicolore renvoie au festival célébré surtout à Sumpango et Santiago Sacatepéquez le 1er novembre. Dans quel pays ces cerfs-volants géants relient-ils les vivants aux morts ?","type":"image"},{"category":"traditions","choices":["Des masques de carnaval en bois","Des crânes humains gardés par des familles","Des lanternes de navet sculptées","Des poupées d'ancêtres en paille"],"correctIndex":1,"difficulty":"difficile","explanation":"Les ñatitas sont des crânes humains conservés comme protecteurs du foyer ou du commerce. Leurs dévots leur offrent fleurs, coca, cigarettes ou musique lors d'une fête reconnue à La Paz et El Alto.","id":"traditions-0023","media":{"kind":null},"question":"Le 8 novembre, lors du Día de las Ñatitas, quels objets décorés de fleurs et parfois de lunettes sont honorés en Bolivie ?","type":"texte"},{"category":"traditions","choices":["La guagua de pan","Le pan de muerto","Le barmbrack","Le stollen"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La guagua de pan, littéralement « enfant de pain », est façonnée et décorée comme une petite figure ; elle se trempe dans la colada morada, boisson chaude aux fruits et épices partagée en famille.","id":"traditions-0024","media":{"kind":null},"question":"En Équateur, pour le Día de los Difuntos, quel petit pain anthropomorphe accompagne la colada morada violette ?","type":"texte"},{"category":"traditions","choices":["Le Día de los Muertos","La Fiesta de la Candelaria","Le Día de la Canción Criolla","Le Carnaval de Cajamarca"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le Pérou célèbre le 31 octobre la musique criolla — valses, marineras et chants afro-péruviens — une fête culturelle instituée au XXe siècle qui concurrence joyeusement les costumes importés.","id":"traditions-0025","media":{"kind":null},"question":"Au Pérou, quelle fête musicale officielle partage la date du 31 octobre avec Halloween ?","type":"texte"},{"category":"traditions","choices":["En Indonésie","Aux Philippines","Au Vietnam","En Thaïlande"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Pendant Undas, les cimetières philippins deviennent des lieux de retrouvailles : nettoyage des tombes, repas partagés, musique et veillées collectives y prolongent le lien familial avec les défunts.","id":"traditions-0026","media":{"alt":"Illustration d'un cimetière éclairé par des bougies la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/cimetiere-nuit.svg"},"question":"Cette scène de cimetière la nuit illustre l'Undas : dans quel archipel les familles apportent-elles repas, jeux et parfois tentes pour veiller leurs morts à la Toussaint ?","type":"image"},{"category":"traditions","choices":["L'ouverture de la saison des récoltes","Le retour des esprits ancestraux vers l'autre monde","Un vœu de mariage","La purification d'une maison neuve"],"correctIndex":1,"difficulty":"difficile","explanation":"Les lanternes flottantes d'Obon guident symboliquement les ancêtres, accueillis quelques jours dans le monde des vivants, vers leur demeure spirituelle au terme de la fête.","id":"traditions-0027","media":{"alt":"Illustration d'une lanterne de papier flottant au crépuscule","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/lanterne-papier.svg"},"question":"Cette lanterne de papier évoque Toro Nagashi. Au Japon, à la fin d'Obon, que symbolise une lanterne flottante posée sur l'eau ?","type":"image"},{"category":"traditions","choices":["Éloigner les fantômes par le bruit","Accueillir et divertir les esprits des ancêtres","Célébrer uniquement la pleine lune","Ouvrir les marchés d'automne"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Le Bon Odori réunit les générations autour des temples et des places : ses gestes, souvent inspirés de travaux régionaux, accueillent les ancêtres tout en renforçant la communauté des vivants.","id":"traditions-0028","media":{"kind":null},"question":"Quel rôle joue la danse Bon Odori pendant la fête japonaise d'Obon ?","type":"texte"},{"category":"traditions","choices":["Charye","Sebae","Seongmyo","Obon"],"correctIndex":2,"difficulty":"difficile","explanation":"Seongmyo désigne la visite des sépultures familiales, leur désherbage et une révérence aux ancêtres. Charye est le rite commémoratif accompli devant une table d'offrandes, souvent au domicile.","id":"traditions-0029","media":{"kind":null},"question":"En Corée du Sud, lors de Chuseok, comment appelle-t-on la visite et le nettoyage des tombes ancestrales ?","type":"texte"},{"category":"traditions","choices":["Qingming","Zhongyuan","Le Nouvel An lunaire","La fête des bateaux-dragons"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Qingming, au début d'avril, associe balayage des tombes, offrandes alimentaires et papiers votifs. Elle se distingue de Zhongyuan, le mois des fantômes, déjà évoqué dans la banque initiale.","id":"traditions-0030","media":{"kind":null},"question":"En Chine, quelle fête printanière est consacrée au nettoyage des tombes et aux offrandes aux ancêtres ?","type":"texte"},{"category":"traditions","choices":["La personne célèbre son premier deuil","La personne est moine bouddhiste","La famille attend un enfant","La mère de la personne est encore vivante"],"correctIndex":3,"difficulty":"difficile","explanation":"Dans de nombreuses célébrations de Vu Lan, la rose rouge marque la gratitude envers une mère vivante, tandis que la blanche honore une mère décédée ; la fête célèbre la piété filiale et les esprits errants.","id":"traditions-0031","media":{"kind":null},"question":"Au Vietnam, pendant Vu Lan, que signifie traditionnellement le fait de porter une rose rouge plutôt qu'une rose blanche ?","type":"texte"},{"category":"traditions","choices":["Pour bénir les récoltes de riz","Pour effrayer les mauvais esprits du village","Pour guider l'âme du défunt dans l'au-delà","Pour demander la pluie"],"correctIndex":2,"difficulty":"difficile","explanation":"La tradition hindoue attribue à la vache un rôle de guide pour l'âme après la mort. À Bhaktapur et Katmandou, le cortège aide aussi les familles à traverser publiquement leur deuil.","id":"traditions-0032","media":{"kind":null},"question":"Au Népal, pendant Gai Jatra, pourquoi des familles endeuillées font-elles défiler une vache ou un enfant déguisé en vache ?","type":"texte"},{"category":"traditions","choices":["Brûler les vêtements du défunt après sept ans","Exhumer les ancêtres pour les envelopper dans de nouveaux linceuls","Déplacer toutes les tombes vers la côte","Peindre les ossements en rouge"],"correctIndex":1,"difficulty":"difficile","explanation":"Le Famadihana réunit la famille autour de la tombe ancestrale : les dépouilles sont ressorties, enveloppées dans des tissus neufs, portées en fête, puis replacées — un renouvellement du lien entre générations.","id":"traditions-0033","media":{"kind":null},"question":"À Madagascar, en quoi consiste le Famadihana, ou « retournement des morts » ?","type":"texte"},{"category":"traditions","choices":["Il attend d'être momifié par des prêtres","La loi impose un délai d'un an","Il doit être exposé pendant la saison sèche seulement","Le défunt est traité comme « malade » jusqu'au rite funéraire complet"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Dans la culture toraja, la mort sociale survient avec le grand rite Rambu Solo : avant cela, le défunt peut rester symboliquement présent au foyer et être servi comme une personne malade.","id":"traditions-0034","media":{"kind":null},"question":"Chez les Toraja d'Indonésie, que signifie le fait qu'une famille conserve parfois un défunt à la maison avant ses funérailles ?","type":"texte"},{"category":"traditions","choices":["En Écosse","Au Pays de Galles","En Irlande","En Bretagne"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Créé en 2019, le Púca Festival s'ancre autour d'Athboy et Trim, dans une région associée aux anciennes célébrations du feu et au passage saisonnier de Samhain.","id":"traditions-0035","media":{"alt":"Illustration d'un grand feu de joie sous un ciel nocturne","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/feu-samhain.svg"},"question":"Ce feu de joie moderne illustre le Púca Festival, lancé pour célébrer Samhain dans la vallée de la Boyne. Dans quel pays ce festival fait-il revivre la fête dans les villes de Trim et Athboy ?","type":"image"},{"category":"traditions","choices":["Qu'il récite son arbre généalogique","Qu'il présente un navet sculpté","Qu'il reste silencieux jusqu'à minuit","Qu'il offre une chanson, une blague ou un petit numéro"],"correctIndex":3,"difficulty":"intermediaire","explanation":"En Écosse, le guising n'est pas qu'un déguisement : le « guiser » gagne sa récompense par une prestation — chant, poème, tour ou plaisanterie — pratique encore vivace dans plusieurs régions.","id":"traditions-0036","media":{"alt":"Illustration d'un enfant costumé en fantôme","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/costume-fantome.svg"},"question":"Ce petit fantôme costumé renvoie au guising écossais. Qu'attend traditionnellement un enfant en guising avant de recevoir une friandise ?","type":"image"},{"category":"traditions","choices":["La sculpture collective de citrouilles sur les tombes","Le lancement de lanternes sur le Mississippi","Un concours de costumes entre paroisses","Le nettoyage, le blanchissage et la bénédiction des tombes familiales"],"correctIndex":3,"difficulty":"difficile","explanation":"Le 1er novembre, des familles nettoient et repeignent les sépultures, déposent des fleurs et participent à des bénédictions. Ces rassemblements entretiennent à la fois la mémoire et les liens des communautés cajun et créoles.","id":"traditions-0037","media":{"kind":null},"question":"Dans plusieurs paroisses catholiques de la Louisiane française, quelle pratique marque encore La Toussaint dans les cimetières ?","type":"texte"},{"category":"traditions","choices":["Un cheval blanc ailé","Yr Hwch Ddu, une truie noire sans queue","Un corbeau à trois pattes","Un chien rouge des enfers"],"correctIndex":1,"difficulty":"difficile","explanation":"Yr Hwch Ddu Gwta, truie noire sans queue accompagnée parfois d'une femme sans tête, appartient aux récits de la veille d'hiver galloise et aux dangers surnaturels de la nuit.","id":"traditions-0038","media":{"kind":null},"question":"Dans le folklore gallois de Nos Calan Gaeaf, quelle créature annonce traditionnellement la mort ou rôde autour des feux ?","type":"texte"},{"category":"traditions","choices":["Une figue séchée","Une châtaigne grillée","Une pomme d'Allan","Un navet miniature"],"correctIndex":2,"difficulty":"difficile","explanation":"Les pommes rouges d'Allan, vendues aux marchés d'Allantide, servaient de cadeaux de chance ; les jeunes filles pouvaient les placer sous l'oreiller pour rêver d'un futur époux.","id":"traditions-0039","media":{"kind":null},"question":"En Cornouailles, pendant Allantide, quel fruit poli était offert comme porte-bonheur et parfois gardé sous l'oreiller ?","type":"texte"},{"category":"traditions","choices":["Le 25 octobre","Le 1er décembre","Le 4 novembre","Le 14 février"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Mischief Night est surtout associée au 4 novembre dans le Yorkshire et les environs, veille de Bonfire Night, bien que des variantes locales la placent aussi à d'autres dates automnales.","id":"traditions-0040","media":{"kind":null},"question":"Dans certaines régions du nord de l'Angleterre, à quelle date tombe traditionnellement Mischief Night, soirée de farces distincte d'Halloween ?","type":"texte"},{"category":"traditions","choices":["« Pain ou prière »","« Feu ou pomme »","« Farce ou friandise »","« Chant ou bougie »"],"correctIndex":2,"difficulty":"intermediaire","explanation":"« Bus eller godis » signifie littéralement « farce ou bonbon ». Halloween s'est ajouté en Suède aux visites de tombes de la Toussaint, où l'on dépose aussi des lanternes sur les sépultures.","id":"traditions-0041","media":{"kind":null},"question":"En Suède, quelle pratique moderne des enfants reprend le porte-à-porte d'Halloween sous la formule « bus eller godis » ?","type":"texte"},{"category":"traditions","choices":["Juhannus","Vappu","Laskiainen","Kekri"],"correctIndex":3,"difficulty":"difficile","explanation":"Kekri clôturait l'année agraire finlandaise : travaux achevés, nourriture abondante, sauna et place symbolique pour les morts. La Toussaint chrétienne a absorbé une partie de ses usages.","id":"traditions-0042","media":{"kind":null},"question":"En Finlande, quelle ancienne fête marquait la fin des récoltes, la visite des morts et parfois un sauna ou un repas laissé aux ancêtres ?","type":"texte"},{"category":"traditions","choices":["La Saint-Nicolas","La Saint-Martin","La Fête des Rois","La Chandeleur"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Pour la Saint-Martin, les enfants défilent avec des lanternes souvent fabriquées par eux-mêmes, chantent de maison en maison et reçoivent des douceurs ; la date suit de près la saison des morts.","id":"traditions-0043","media":{"kind":null},"question":"En Allemagne et dans les pays voisins, quelle procession d'enfants avec lanternes a lieu le 11 novembre, peu après Halloween ?","type":"texte"},{"category":"traditions","choices":["Le stollen","L'Allerheiligenstriezel","Le barmbrack","La colomba"],"correctIndex":1,"difficulty":"difficile","explanation":"L'Allerheiligenstriezel est une brioche tressée associée au 1er novembre et aux filleuls. Ses formes et dates précises d'offrande varient selon les régions alpines.","id":"traditions-0044","media":{"kind":null},"question":"En Autriche, quel pain tressé un parrain ou une marraine offre-t-il traditionnellement à son filleul autour de la Toussaint ?","type":"texte"},{"category":"traditions","choices":["Une sorcière les a cachées sous l'oreiller","Les voisins les ont gagnées à un jeu","Les morts de la famille les ont apportées pendant la nuit","Le curé les distribue à l'église"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Dans la tradition sicilienne, les défunts reviennent symboliquement offrir jouets, fruits en pâte d'amande et douceurs aux enfants, qui découvrent les cadeaux le 2 novembre.","id":"traditions-0045","media":{"kind":null},"question":"En Sicile, lors de la Festa dei Morti, que racontent traditionnellement les adultes aux enfants au sujet des friandises trouvées au matin ?","type":"texte"},{"category":"traditions","choices":["Des bougies pour les tombes","Des costumes anciens","Des pommes à sculpter","Du pain, des gâteaux ou des fruits au nom de Dieu"],"correctIndex":3,"difficulty":"difficile","explanation":"Le Pão-por-Deus conserve une forme de quête alimentaire de la Toussaint : les enfants récitent ou chantent et reçoivent pain, noix, châtaignes ou petits gâteaux.","id":"traditions-0046","media":{"kind":null},"question":"Au Portugal, le matin du 1er novembre, que demandent les enfants de porte en porte lors du Pão-por-Deus ?","type":"texte"},{"category":"traditions","choices":["Il attire les abeilles dans les maisons","Il symbolise la rupture amoureuse","Il est fortement associé aux cimetières et au deuil","Il est réservé aux mariages"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Les chrysanthèmes couvrent les tombes à la Toussaint en France et sont devenus, dans l'usage social courant, des fleurs de deuil plutôt que des fleurs de bouquet festif.","id":"traditions-0047","media":{"kind":null},"question":"En France, pourquoi le chrysanthème est-il un cadeau floral risqué hors de la Toussaint ?","type":"texte"},{"category":"traditions","choices":["Saci-Pererê, le farceur à une jambe","Le Curupira","La Cuca","Le Boto"],"correctIndex":0,"difficulty":"difficile","explanation":"Le Dia do Saci met en avant Saci-Pererê — bonnet rouge, pipe et tourbillons — pour valoriser le folklore brésilien le jour même où se répand Halloween.","id":"traditions-0048","media":{"kind":null},"question":"Au Brésil, quel personnage folklorique est célébré le 31 octobre lors du Dia do Saci, pensé comme contrepoint à Halloween ?","type":"texte"},{"category":"traditions","choices":["Le carnaval de Rio de 2015","Une parade militaire du centenaire","Un défilé olympique","La scène d'ouverture du film James Bond « Spectre »"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le film « Spectre » (2015) invente une procession monumentale au cœur de Mexico ; la ville la transforme dès 2016 en Mega Desfile, désormais rendez-vous touristique majeur de la fête des morts.","id":"traditions-0049","media":{"alt":"Illustration d'une parade de squelettes décorés","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/parade-squelettes.svg"},"question":"Ces squelettes en parade renvoient au grand défilé du Día de Muertos de Mexico, institution pourtant récente. Quel événement l'a directement inspiré ?","type":"image"},{"category":"traditions","choices":["Des cortèges festifs de musique, costumes et moqueries de la mort","Des processions silencieuses de pénitents","Des concours de sculpture de citrouilles","Des ventes aux enchères d'autels"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les comparsas d'Oaxaca mêlent fanfares, costumes et satire : elles accompagnent les veillées et transforment le deuil en célébration publique, notamment autour des panthéons.","id":"traditions-0050","media":{"kind":null},"question":"À Oaxaca, pendant le Día de Muertos, que sont les comparsas qui traversent les quartiers ?","type":"texte"},{"category":"traditions","choices":["Les Orishas de la mer","Les Gede, esprits des morts associés au Baron Samedi","Les loa du feu uniquement","Les ancêtres royaux du Dahomey"],"correctIndex":1,"difficulty":"difficile","explanation":"Fèt Gede rassemble au cimetière des fidèles du vodou haïtien autour des Gede et du Baron Samedi, avec tambours, rhum pimenté, danses et humour parfois cru face à la mort.","id":"traditions-0051","media":{"alt":"Rythme de tambour de fête rituelle synthétisé pour le projet","credit":"Synthèse originale du projet Quiz Halloween","kind":"audio","licence":"CC0","src":"/media/tambour-rituel.wav"},"question":"Écoutez ce rythme de tambour synthétisé pour le quiz, du type de ceux qui ouvrent les célébrations haïtiennes de Fèt Gede. Quels esprits y sont honorés début novembre ?","type":"audio"},{"category":"traditions","choices":["Le 31 octobre","Le 25 décembre","Le 6 janvier","Le 2 novembre, jour des fidèles défunts"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Comme dans une grande partie du monde catholique, le 2 novembre structure à Cuba les visites de tombes et les hommages familiaux, plus que la soirée costumée du 31 octobre.","id":"traditions-0052","media":{"kind":null},"question":"À Cuba, quelle date de début novembre reste le principal moment de visite des cimetières pour les défunts ?","type":"texte"},{"category":"traditions","choices":["Le lancement de lanternes sur les rivières","Le dépôt massif de bougies et fleurs sur les tombes le 1er novembre","Des repas servis dans des cercueils ouverts","Des feux de joie sur chaque tombe"],"correctIndex":1,"difficulty":"difficile","explanation":"Vėlinės prolonge la Toussaint et le jour des Défunts : familles, bougies et fleurs transforment les cimetières lituaniens en paysages lumineux, dans une logique de mémoire plus que de peur.","id":"traditions-0053","media":{"kind":null},"question":"En Lituanie, pendant Vėlinės, quelles pratiques dominent encore dans les cimetières ?","type":"texte"},{"category":"traditions","choices":["Citrouilles farcies et cidre","Pain des morts et chocolat chaud","Châtaignes grillées, patates douces et panellets","Pommes d'amour et noix confites"],"correctIndex":2,"difficulty":"intermediaire","explanation":"La Castanyada associe châtaignes, patates douces, vin doux et panellets — petits gâteaux d'amande souvent enrobés de pignons — à la veillée des morts et au début du froid.","id":"traditions-0054","media":{"kind":null},"question":"En Catalogne, quels aliments sont au centre de la Castanyada autour de la Toussaint ?","type":"texte"},{"category":"traditions","choices":["Beltane","Imbolc","Lughnasa","Samaín"],"correctIndex":3,"difficulty":"difficile","explanation":"Le Samaín galicien est une reconstruction et une célébration moderne du passage saisonnier, avec citrouilles, lumières et récits ; son lien exact avec les usages anciens reste interprété avec prudence.","id":"traditions-0055","media":{"kind":null},"question":"En Galice et dans le nord-ouest espagnol, quel nom celtique est revendiqué pour la nuit du 31 octobre lors de fêtes locales contemporaines ?","type":"texte"},{"category":"traditions","choices":["La veille de Noël","La veille de la Saint-André, le 29-30 novembre","La Saint-Jean d'été","Le Mardi gras"],"correctIndex":1,"difficulty":"difficile","explanation":"La nuit de la Saint-André concentre en Roumanie des récits de strigoi, de loups et de divination ; Halloween y reste largement un produit touristique autour de Dracula.","id":"traditions-0056","media":{"kind":null},"question":"En Roumanie rurale, quelle veille est plus associée que le 31 octobre aux esprits dangereux, à l'ail et aux protections des maisons ?","type":"texte"},{"category":"traditions","choices":["Pour indiquer clairement qu'elles participent à la distribution","Pour signaler une maison hantée certifiée","Pour éloigner les chauves-souris","Pour marquer une allergie alimentaire"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Halloween n'étant pas une coutume installée partout en Australie, des signes opt-in aident les enfants à repérer les foyers participants sans déranger les autres résidents.","id":"traditions-0057","media":{"kind":null},"question":"En Australie, pourquoi certaines maisons affichent-elles un ballon ou un ruban à la boîte aux lettres pendant Halloween ?","type":"texte"},{"category":"traditions","choices":["Elles organisent des concours de déguisements dans les cimetières","Elles visitent et fleurissent les tombes familiales","Elles brûlent les costumes de l'année","Elles lancent des lanternes de papier en mer"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Le 1er novembre espagnol est d'abord une fête de mémoire : cimetières, fleurs, messes et spécialités comme les huesos de santo rythment la journée.","id":"traditions-0058","media":{"kind":null},"question":"Dans plusieurs régions d'Espagne, que font les familles le 1er novembre dans le cadre d'El Día de Todos los Santos ?","type":"texte"},{"category":"traditions","choices":["Les buñuelos de viento","Les pestiños au miel","Les huesos de santo, en pâte d'amande","Les rosquillas tontas"],"correctIndex":2,"difficulty":"difficile","explanation":"Les huesos de santo sont de petits cylindres de massepain fourrés, souvent au jaune d'œuf, dont la forme et la couleur rappellent des ossements ; ils sont typiques de la Toussaint.","id":"traditions-0059","media":{"kind":null},"question":"Quel sucré espagnol de la Toussaint porte un nom macabre signifiant « os de saint » ?","type":"texte"},{"category":"traditions","choices":["La citrouille","La châtaigne","Le coing","La pomme de pin"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Fêtes de châtaignes et marchés automnaux animent les Balkans occidentaux : marrons grillés, vin nouveau et rassemblements précèdent ou accompagnent la Toussaint.","id":"traditions-0060","media":{"kind":null},"question":"En Croatie et en Slovénie, quel fruit d'automne rôti dans les rues accompagne aussi les jours de mémoire de début novembre ?","type":"texte"},{"category":"traditions","choices":["Un type d'autel en bambou","La veillée ou la veille d'une fête, notamment avant la Toussaint","Une lanterne pour les âmes","Un chant funéraire en latin"],"correctIndex":1,"difficulty":"difficile","explanation":"Bisperas renvoie à la veille d'une fête religieuse : prières et préparatifs y précèdent les grandes visites de cimetière d'Undas, dans un calendrier où la mort se vit collectivement.","id":"traditions-0061","media":{"kind":null},"question":"Dans les traditions philippines, outre Undas, que désigne le terme « Bisperas » dans les célébrations des morts ?","type":"texte"},{"category":"traditions","choices":["Une assiette de glace","Un miroir tourné vers la porte","Une poignée de sel sur le seuil seulement","Un verre ou un récipient d'eau"],"correctIndex":3,"difficulty":"intermediaire","explanation":"L'eau figure parmi les éléments classiques de l'ofrenda : elle apaise la soif des âmes après leur trajet et peut aussi avoir une valeur purificatrice, au côté de la terre, du feu et de l'air.","id":"traditions-0062","media":{"kind":null},"question":"Quel élément les familles mexicaines placent-elles souvent sur une ofrenda pour aider symboliquement les morts à se rafraîchir après leur voyage ?","type":"texte"},{"category":"traditions","choices":["Une frontière contre les mauvais esprits","Un sentier guidant les âmes vers l'autel","Les quatre points cardinaux uniquement","Un tapis réservé aux enfants vivants"],"correctIndex":1,"difficulty":"difficile","explanation":"Les pétales orangés forment une piste visuelle et olfactive entre l'extérieur, le cimetière ou la rue et l'autel domestique, reliant les morts à leurs proches.","id":"traditions-0063","media":{"kind":null},"question":"Sur une ofrenda mexicaine, que représentent souvent les pétales de cempasúchil disposés en chemin ?","type":"texte"},{"category":"traditions","choices":["Des concours de costumes obligatoires","Pique-niques, musique et récits autour des tombes","Le silence complet imposé par la loi","Des feux d'artifice sur chaque sépulture"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Autour des tombes nettoyées et décorées, les familles partagent nourriture, boissons, musique et souvenirs : la veillée est un acte de présence auprès des morts autant qu'un deuil.","id":"traditions-0064","media":{"kind":null},"question":"Dans les cimetières du Mexique, quelle activité donne aux veillées du Día de Muertos leur caractère résolument familial et festif ?","type":"texte"},{"category":"traditions","choices":["La fête de la récolte de Michaelmas","Le festival de Beltane au printemps","La veillée de la Saint-André","Samhain, la fête du nouvel an celtique dans les traditions païennes modernes"],"correctIndex":3,"difficulty":"difficile","explanation":"Stonehenge accueille des observances pour solstices, équinoxes et fêtes du calendrier païen moderne, dont Samhain. L'accès au cercle est encadré et variable selon les années et les ententes avec les groupes.","id":"traditions-0065","media":{"alt":"Illustration de pierres levées autour d'un feu","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/pierres-levees.svg"},"question":"Ces pierres levées évoquent les rassemblements néo-païens contemporains. Pour quel événement les gestionnaires de Stonehenge ouvrent-ils parfois l'accès au cercle au lever du soleil, fin octobre ?","type":"image"},{"category":"traditions","choices":["Milton Hershey lui-même","Forrest Mars","H. B. Reese, ancien employé de la filière laitière Hershey","George Cadbury"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Harry Burnett Reese fonde sa propre entreprise et combine deux vedettes américaines, chocolat au lait et beurre d'arachide ; Hershey fournira longtemps le chocolat de ses cups.","id":"traditions-0066","media":{"kind":null},"question":"Qui a créé les Reese's Peanut Butter Cups en 1928, après avoir travaillé pour Hershey ?","type":"texte"},{"category":"traditions","choices":["Les Skittles","Les Jelly Belly","Les M&M's","Les Smarties"],"correctIndex":2,"difficulty":"intermediaire","explanation":"La marque M&M's décline l'offre de placement, souvent racontée comme une erreur légendaire ; Reese's Pieces devient la friandise d'appât d'E.T. et ses ventes bondissent après le film.","id":"traditions-0067","media":{"kind":null},"question":"Quel bonbon devait servir de friandise favorite à E.T. avant que Reese's Pieces n'en profite au cinéma en 1982 ?","type":"texte"},{"category":"traditions","choices":["Milk et Melt","Mars et Milton","Mars et Murrie, du nom de Forrest Mars et Bruce Murrie","Mini et Multicolore"],"correctIndex":2,"difficulty":"difficile","explanation":"Forrest Mars s'associe à Bruce Murrie, fils du président de Hershey, dont l'entreprise fournit le chocolat en temps de rationnement ; leurs initiales forment M&M's.","id":"traditions-0068","media":{"kind":null},"question":"Que signifient les deux « M » de M&M's, lancés en 1941 ?","type":"texte"},{"category":"traditions","choices":["Le rouge","Le beige (tan)","Le brun","Le jaune"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Après un vote très médiatisé, le bleu remplace le beige dans les sachets classiques. Le rouge avait connu une absence temporaire dans les années 1970, mais ce n'était pas le vote de 1995.","id":"traditions-0069","media":{"kind":null},"question":"Quelle couleur de M&M's a disparu en 1995 au profit du bleu, élu par le public ?","type":"texte"},{"category":"traditions","choices":["D'une ville du Minnesota","D'un cheval favori de la famille Mars","D'un employé surnommé Snick","D'un chien de garde d'usine"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Snickers était le nom d'un cheval de course apprécié des Mars. La barre combine nougat, arachides, caramel et chocolat au lait.","id":"traditions-0070","media":{"kind":null},"question":"D'après l'histoire de la société Mars, de quoi la barre Snickers, lancée en 1930, porte-t-elle le nom ?","type":"texte"},{"category":"traditions","choices":["À la Voie lactée photographiée en 1923","À une fusée expérimentale","À la couleur de son emballage","À la saveur d'un milkshake au malt très populaire"],"correctIndex":3,"difficulty":"difficile","explanation":"Frank Mars aurait voulu reproduire le goût des milkshakes au chocolat malté. La version britannique, lancée plus tard, diffère d'ailleurs de la barre américaine.","id":"traditions-0071","media":{"kind":null},"question":"À quoi la barre Milky Way doit-elle son nom, contrairement à une idée reçue galactique ?","type":"texte"},{"category":"traditions","choices":["Chocolat, café et menthe","Chocolat, caramel et noisette","Vanille, banane et cerise","Chocolat, vanille et fraise"],"correctIndex":3,"difficulty":"difficile","explanation":"Le paquet réunissait trois petites barres aromatisées. Les pénuries et coûts liés à la guerre réduisent la gamme au chocolat, devenu la mousse légère emblématique du produit.","id":"traditions-0072","media":{"kind":null},"question":"Quelles étaient les trois saveurs d'origine de la barre 3 Musketeers en 1932 ?","type":"texte"},{"category":"traditions","choices":["« Twist and mix »","« Two sticks » en gallois","« Twin biscuits », biscuits jumeaux","Les initiales de son inventeur"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le nom joue sur des biscuits jumeaux enrobés. Le produit naît au Royaume-Uni en 1967 sous le nom Twix et circule un temps en Europe continentale sous celui de Raider.","id":"traditions-0073","media":{"kind":null},"question":"Quelle contraction forme le nom Twix ?","type":"texte"},{"category":"traditions","choices":["Son emballage rouge chasse les esprits","Il était distribué dans les écoles depuis 1900","Son nom évoque « kitto katsu », « tu vas sûrement gagner »","Sa forme reproduit un talisman shinto"],"correctIndex":2,"difficulty":"difficile","explanation":"La proximité sonore entre Kit Kat et « kitto katsu » en fait un cadeau d'encouragement. Le Japon a ensuite développé une culture de saveurs locales et limitées autour de la barre.","id":"traditions-0074","media":{"kind":null},"question":"Pourquoi Kit Kat est-il devenu un porte-bonheur d'examens au Japon ?","type":"texte"},{"category":"traditions","choices":["Aux États-Unis, Smarties désigne des guimauves","Les Smarties américains sont salés","Aux États-Unis, ce sont des pastilles sucrées en rouleau, pas des chocolats colorés","Ils n'existent que pour Halloween"],"correctIndex":2,"difficulty":"difficile","explanation":"Les Smarties chocolatés de Nestlé dominent au Canada et en Europe, tandis que la marque américaine Smarties désigne depuis 1949 de petits bonbons comprimés vendus en rouleaux.","id":"traditions-0075","media":{"kind":null},"question":"Quelle confusion possible guette un Canadien qui demande des Smarties aux États-Unis ?","type":"texte"},{"category":"traditions","choices":["Pfefferkuchen, pain d'épices","Perlmutter, nacre","Pfefferminz, menthe poivrée","Pistazie, pistache"],"correctIndex":2,"difficulty":"intermediaire","explanation":"PEZ naît en Autriche en 1927 comme pastille de menthe poivrée : les lettres P, E et Z viennent du mot Pfefferminz, avant les célèbres distributeurs à tête basculante.","id":"traditions-0076","media":{"kind":null},"question":"De quel mot allemand le nom PEZ est-il abrégé ?","type":"texte"},{"category":"traditions","choices":["Hans Riegel Bonn","Harald Richter Bochum","Hamburger Riegel Bonbons","Hans Rudolf Bonn"],"correctIndex":0,"difficulty":"difficile","explanation":"Hans Riegel, confiseur de Bonn, compose la marque avec les premières lettres de son prénom, de son nom et de sa ville. Les Goldbears suivront en 1922.","id":"traditions-0077","media":{"kind":null},"question":"Que code l'acronyme HARIBO, fondé à Bonn en 1920 ?","type":"texte"},{"category":"traditions","choices":["Les ours dansants des fêtes foraines","Les ours du zoo de Bonn","Les nounours d'enfants","Les ours héraldiques allemands"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les « ours dansants » de foire inspirent les premiers gummis de Hans Riegel. Ils deviendront les Goldbears, modèle mondial du bonbon gélifié.","id":"traditions-0078","media":{"kind":null},"question":"Quelle forme animale a inspiré les premiers bonbons gélifiés de Haribo en 1922 ?","type":"texte"},{"category":"traditions","choices":["À une danseuse de Broadway","À Clara « Tootsie », fille du fondateur Leo Hirschfield","À un quartier de New York","À une marque de papier d'emballage"],"correctIndex":1,"difficulty":"difficile","explanation":"Leo Hirschfield lance son bonbon au chocolat en 1896 et le surnomme du nom de sa fille Clara. Il se vantait de produire une friandise qui ne fondait pas facilement entre les doigts.","id":"traditions-0079","media":{"kind":null},"question":"À qui le Tootsie Roll doit-il son nom, selon l'histoire de l'entreprise ?","type":"texte"},{"category":"traditions","choices":["Une cloche gravée sous chaque chocolat","Un emballage doré obligatoire","Une forme déposée à huit faces","Le petit panache de papier portant le nom, sortant du sommet"],"correctIndex":3,"difficulty":"difficile","explanation":"Le plumelet de papier devient la signature du Kiss en 1921. Le nom du produit, lancé en 1907, reste entouré d'explications concurrentes, mais le panache est bien documenté.","id":"traditions-0080","media":{"kind":null},"question":"Quelle innovation de 1921 a permis de distinguer facilement un vrai Hershey's Kiss des imitations ?","type":"texte"},{"category":"traditions","choices":["Le 1er octobre","Le 13 octobre","Le 30 octobre","Le 2 novembre"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le candy corn a sa journée nationale le 30 octobre, au sommet de sa saison. Sa forme triangulaire évoquait autrefois un grain de maïs destiné à un public largement agricole.","id":"traditions-0081","media":{"kind":null},"question":"À quelle date les États-Unis célèbrent-ils la National Candy Corn Day, juste avant Halloween ?","type":"texte"},{"category":"traditions","choices":["C'est le nombre exact audité chaque 31 octobre","Cela ne compte que les grains mangés à Halloween","C'est une estimation souvent reprise par l'industrie, pas un comptage public permanent","Cela désigne 9 milliards de sachets"],"correctIndex":2,"difficulty":"difficile","explanation":"Le chiffre d'environ 35 millions de livres, soit près de 9 milliards de grains, circule dans les communications de fabricants et d'associations. Il donne un ordre de grandeur historique, pas une statistique annuelle garantie.","id":"traditions-0082","media":{"kind":null},"question":"Que faut-il comprendre quand on lit qu'environ 9 milliards de grains de candy corn sont produits chaque année ?","type":"texte"},{"category":"traditions","choices":["Les pastilles Smarties américaines","Les bâtons de cannelle","Les Reese's Peanut Butter Cups","Les réglisses noires"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le palmarès CandyStore compile des années de ventes saisonnières et place fréquemment Reese's en tête, preuve de la force du duo chocolat-arachide ; ce n'est pas un sondage de goût officiel.","id":"traditions-0083","media":{"kind":null},"question":"Dans les palmarès annuels fondés sur les ventes par État agrégées par CandyStore, quel produit revient très souvent premier pour Halloween aux États-Unis ?","type":"texte"},{"category":"traditions","choices":["Le kiwi","Le citron vert (lime)","La poire","Le concombre"],"correctIndex":1,"difficulty":"difficile","explanation":"Le passage du lime à la green apple a divisé les amateurs en 2013. Après des éditions temporaires, le citron vert retrouve durablement sa place dans le mélange original en 2021.","id":"traditions-0084","media":{"kind":null},"question":"Quel arôme de Skittles vert a été remplacé par la pomme verte en 2013, puis restauré après une longue campagne des fans ?","type":"texte"},{"category":"traditions","choices":["Acid Aliens","Sour Soldiers","Patch Kids","Mars Men"],"correctIndex":3,"difficulty":"difficile","explanation":"Les bonbons acides en forme de petits personnages furent vendus comme Mars Men, surfant sur les soucoupes volantes, avant de devenir Sour Patch Kids et d'adopter le slogan d'abord acide, puis doux.","id":"traditions-0085","media":{"kind":null},"question":"Quel était le nom d'origine des Sour Patch Kids avant leur rebranding des années 1980 ?","type":"texte"},{"category":"traditions","choices":["Un centre liquide dans une coque dure","Deux saveurs contrastées dans deux compartiments d'une même boîte","Des cristaux qui changent de couleur","Un bonbon géant à partager en couches"],"correctIndex":1,"difficulty":"intermediaire","explanation":"La boîte Nerds classique sépare deux mini-bonbons aux saveurs différentes, que l'on peut verser ensemble ou séparément. Le contraste fait partie du jeu autant que du goût.","id":"traditions-0086","media":{"kind":null},"question":"Quel principe visuel et gustatif définit les Nerds depuis 1983 ?","type":"texte"},{"category":"traditions","choices":["L'acide chlorhydrique","L'acide malique","L'acide sulfurique","Le vinaigre pur"],"correctIndex":1,"difficulty":"difficile","explanation":"L'enrobage de Warheads mise sur l'acide malique, naturellement présent dans les pommes vertes, avant de laisser place au cœur plus doux. Les acides forts des autres options n'ont rien d'alimentaire ici.","id":"traditions-0087","media":{"kind":null},"question":"Quel acide donne surtout aux Warheads leur choc initial extrêmement acide ?","type":"texte"},{"category":"traditions","choices":["Ils emprisonnent de minuscules bulles de dioxyde de carbone sous pression","Ils contiennent de la poudre à lever sèche","Leur sucre réagit avec la salive comme un comprimé effervescent géant","Ils sont remplis d'air sec et de cristaux de menthe"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le procédé breveté de Pop Rocks dissout du CO₂ dans le bonbon durci. Quand la coque fond, le gaz s'échappe en petites explosions sonores et tactiles.","id":"traditions-0088","media":{"kind":null},"question":"Pourquoi les Pop Rocks crépitent-ils dans la bouche ?","type":"texte"},{"category":"traditions","choices":["Un confiseur aurait copié un code de couleurs naval","Une erreur aurait coloré toute une fournée","Un représentant aurait renversé son plateau et mélangé des bonbons différents","Ils auraient été créés pour un mariage royal"],"correctIndex":2,"difficulty":"difficile","explanation":"Chez Bassett's, la tradition rapporte qu'un plateau d'échantillons tombé aurait montré à un client l'attrait du mélange. La légende d'entreprise reste plaisante, même si elle tient de l'anecdote fondatrice.","id":"traditions-0089","media":{"kind":null},"question":"Quelle histoire est racontée pour la naissance des Liquorice Allsorts en 1899 ?","type":"texte"},{"category":"traditions","choices":["La cerise noire","Le beurre de cacahuète","Le cola","La myrtille (blueberry)"],"correctIndex":3,"difficulty":"difficile","explanation":"Reagan rend les jelly beans visibles à la Maison-Blanche. La saveur myrtille est développée pour permettre des compositions rouge, blanc et bleu lors de son investiture.","id":"traditions-0090","media":{"kind":null},"question":"Quelle saveur de Jelly Belly a été créée pour l'investiture de Ronald Reagan en 1981, car le président adorait les jelly beans ?","type":"texte"},{"category":"traditions","choices":["La date de fabrication du bonbon","Une prière en latin","Le nom d'un défunt — ou parfois d'un vivant, par plaisanterie","Le nom du confiseur"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Les crânes en sucre portent souvent le nom de la personne honorée, et peuvent aussi être offerts à un vivant comme clin d'œil macabre : ils décorent l'autel plus qu'ils ne se mangent systématiquement.","id":"traditions-0091","media":{"alt":"Illustration d'un crâne en sucre décoré","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/crane-sucre.svg"},"question":"Ce crâne décoré renvoie aux calaveras de sucre des ofrendas. Qu'écrit-on souvent sur leur front ?","type":"image"},{"category":"traditions","choices":["William W. Kolb, confiseur du New Jersey","Dan Walker, employé de Kraft","Milton Hershey","Hans Riegel"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Kolb expose ses pommes glacées dans la vitrine de Newark ; leur succès fait du fruit croquant enrobé de sirop rouge un classique des fêtes d'automne nord-américaines.","id":"traditions-0092","media":{"kind":null},"question":"Qui est crédité d'avoir créé la pomme d'amour moderne en 1908 en trempant des pommes dans un sirop rouge aux bonbons de cannelle ?","type":"texte"},{"category":"traditions","choices":["En trempant des pommes dans du sirop d'érable bouillant","En faisant fondre des caramels d'Halloween invendus pour y tremper des pommes","En copiant une recette de foire allemande","En ajoutant du caramel à du jus de pomme pasteurisé"],"correctIndex":1,"difficulty":"difficile","explanation":"Employé de Kraft, Dan Walker est crédité d'avoir fondu des caramels après Halloween et testé des pommes entières ; l'entreprise diffusera ensuite la recette et les bâtonnets avec ses caramels.","id":"traditions-0093","media":{"kind":null},"question":"Comment Dan Walker aurait-il inventé la pomme au caramel dans les années 1950 ?","type":"texte"},{"category":"traditions","choices":["Ils échangent tous les bonbons contre des brosses à dents uniquement","Ils paient ou récompensent les enfants pour leurs bonbons, souvent ensuite envoyés à des militaires","Ils détruisent les bonbons devant les enfants","Ils revendent les bonbons aux écoles"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Le réseau lancé par le dentiste Chris Kammer encourage les cabinets à racheter les surplus au poids ; les friandises ont souvent rejoint des colis pour les troupes via des organismes caritatifs.","id":"traditions-0094","media":{"kind":null},"question":"Que font les Halloween Candy Buybacks organisés chez des dentistes américains ?","type":"texte"},{"category":"traditions","choices":["Leur inventeur s'appelait Dudley Milk","Leurs bonbons au caramel devaient être ronds, mais les pièces sorties de production étaient imparfaites","Ils étaient vendus comme friandises ratées à moitié prix","Le mot vient d'une marque de lait en poudre"],"correctIndex":1,"difficulty":"difficile","explanation":"La société F. Hoffman visait de petites billes de caramel enrobées bien rondes ; les pièces irrégulières furent surnommées « duds », tandis que « milk » renvoie à l'enrobage au chocolat au lait.","id":"traditions-0095","media":{"kind":null},"question":"Pourquoi les Milk Duds portent-ils un nom qui signifie à peu près « ratés » ?","type":"texte"},{"category":"traditions","choices":["Des articles non alimentaires sont offerts aux enfants allergiques","Tous les bonbons sont sans sucre","La maison donne uniquement des chocolats","Les enfants doivent porter du turquoise"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Lancé par Food Allergy Research & Education (FARE) en 2014, le projet invite à proposer autocollants, petits jouets ou autres trésors sûrs pour les enfants qui ne peuvent pas accepter les friandises habituelles.","id":"traditions-0096","media":{"alt":"Illustration d'une citrouille turquoise devant une maison","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/citrouille-turquoise.svg"},"question":"Ce sac plein de friandises illustre le Teal Pumpkin Project. Que signale une citrouille turquoise devant une maison ?","type":"image"},{"category":"traditions","choices":["Ce n'est pas un code universel officiel : il faut rester patient et ne pas forcer la parole","Il garantit que l'enfant a un diagnostic","Il est exigé par les municipalités","Il signifie que l'enfant ne veut aucun bonbon"],"correctIndex":0,"difficulty":"difficile","explanation":"Le seau bleu a été popularisé par des campagnes familiales et associatives, mais il n'est ni standardisé ni reconnu partout. Son message utile est social : accueillir sans exiger un « bonbon ou un sort » verbal.","id":"traditions-0097","media":{"kind":null},"question":"Que faut-il retenir du seau citrouille bleu parfois associé à l'autisme pendant Halloween ?","type":"texte"},{"category":"traditions","choices":["Chanter l'hymne de l'Iowa","Présenter une citrouille sculptée","Faire une révérence silencieuse","Raconter une blague"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Beggars' Night, souvent placée le 30 octobre dans la région de Des Moines, transforme la tournée en échange de plaisanteries, une façon historique d'encadrer les farces.","id":"traditions-0098","media":{"kind":null},"question":"À Des Moines, lors de Beggars' Night, que doivent traditionnellement faire les enfants avant de recevoir une friandise ?","type":"texte"},{"category":"traditions","choices":["Cacher les bonbons dans une forêt","Faire la tournée en camion de pompiers","Distribuer des friandises depuis des coffres de voiture décorés dans un lieu regroupé","Échanger des costumes entre voisins"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le trunk-or-treat concentre la distribution sur un stationnement décoré, avec surveillance et décorations de coffres ; il répond à des préoccupations de circulation, de distance et de convivialité.","id":"traditions-0099","media":{"kind":null},"question":"Qu'est-ce que le « trunk-or-treat », devenu courant dans les stationnements d'églises, d'écoles et de services communautaires ?","type":"texte"},{"category":"traditions","choices":["Une amende automatique","Le début du défilé municipal","La distribution réservée aux adultes","Le signal que la maison ne distribue plus ou pas de friandises"],"correctIndex":3,"difficulty":"difficile","explanation":"Lumières du perron et décorations servent de signal social dans de nombreux quartiers : quand tout s'éteint, la maison se retire de la tournée pour la soirée.","id":"traditions-0100","media":{"alt":"Sonnette de porte synthétisée pour le projet","credit":"Synthèse originale du projet Quiz Halloween","kind":"audio","licence":"CC0","src":"/media/sonnette-porte.wav"},"question":"Écoutez cette sonnette synthétisée pour le quiz. Dans la pratique du porte-à-porte, que risque-t-on de manquer si l'on sonne après l'extinction des lumières du perron ?","type":"audio"},{"category":"traditions","choices":["Elle contourne une loi sur les mini-bonbons","Elle se distingue des mini-formats habituels et crée une réputation transmise d'enfant en enfant","Les grandes barres sont interdites ailleurs","Elle signale que le propriétaire travaille chez un chocolatier"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Les formats « full size » sont assez rares dans les distributions pour devenir un but de pèlerinage local. Aucune règle ne les impose : c'est la générosité relative qui construit la légende.","id":"traditions-0101","media":{"kind":null},"question":"Pourquoi une maison donnant des barres de chocolat grand format devient-elle parfois légendaire dans un quartier ?","type":"texte"},{"category":"traditions","choices":["Tous les signalements étaient des intoxications accidentelles domestiques","Le danger vient surtout des emballages ouverts","Le mythe a été inventé par les dentistes","Aucun cas avéré d'enfant tué par une friandise empoisonnée par un étranger au hasard n'a été documenté"],"correctIndex":3,"difficulty":"difficile","explanation":"Joel Best a passé au crible des décennies d'alertes : les histoires de « Halloween sadism » par des inconnus ne résistent pas aux dossiers, même si des vérifications ordinaires de friandises restent raisonnables.","id":"traditions-0102","media":{"kind":null},"question":"Que montrent les recherches du sociologue Joel Best sur le mythe des bonbons d'Halloween empoisonnés par des inconnus ?","type":"texte"},{"category":"traditions","choices":["Son père, Ronald Clark O'Bryan","Un voisin inconnu","Un employé de magasin","Son frère aîné"],"correctIndex":0,"difficulty":"difficile","explanation":"Le drame, lié à une fraude à l'assurance, a durablement alimenté la peur des friandises alors que le coupable était le père de l'enfant, non un étranger distribuant au hasard.","id":"traditions-0103","media":{"kind":null},"question":"Dans l'affaire texane de 1974, qui avait en réalité empoisonné le Pixy Stix mortel de Timothy O'Bryan ?","type":"texte"},{"category":"traditions","choices":["Parce que les rayons X enlevaient le sucre","Pour contrôler les allergies au lait","Parce que la loi l'exigeait dans tous les États","Pour répondre aux craintes d'objets métalliques, même si les cas confirmés étaient rarissimes"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Les séances de radiographie répondaient à l'anxiété publique et pouvaient repérer certains objets métalliques, sans détecter poisons ou drogues ; elles illustrent la force du mythe plus que son ampleur réelle.","id":"traditions-0104","media":{"kind":null},"question":"Pourquoi certains hôpitaux ont-ils proposé de radiographier les bonbons d'Halloween dans les années 1980 ?","type":"texte"},{"category":"traditions","choices":["Vider le bol si personne ne regarde","Revenir trois fois avec un autre costume","Exiger un format précis","Prendre la quantité offerte — souvent un bonbon — et remercier avant de partir"],"correctIndex":3,"difficulty":"intermediaire","explanation":"L'étiquette varie, mais la règle de base reste simple : accepter ce qui est offert, rester sur le chemin, remercier et laisser des friandises aux enfants qui suivront.","id":"traditions-0105","media":{"alt":"Illustration d'un sac débordant de bonbons d'Halloween","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/sac-bonbons.svg"},"question":"Ce grand sac de friandises évoque la générosité des distributions modernes. Selon la logique de la tournée, quel comportement fait partie de l'étiquette classique ?","type":"image"},{"category":"traditions","choices":["Le bouillon de citrouille obligatoire","Le café aux épices pour enfants","Le chocolat chaud ou le cidre chaud offert aux accompagnateurs","Le lait frappé à la guimauve"],"correctIndex":2,"difficulty":"difficile","explanation":"Des comités de rue et maisons communautaires servent parfois boissons chaudes aux parents et enfants ; ce n'est pas une tradition nationale uniforme, mais un geste d'accueil dans les soirées froides.","id":"traditions-0106","media":{"kind":null},"question":"Dans le nord des États-Unis et au Canada, quelle friandise chaude peut remplacer les bonbons lors de certaines distributions de quartier très organisées ?","type":"texte"},{"category":"traditions","choices":["Déguiser sa maison sans distribuer","Faire peur aux enfants avant de donner un bonbon","Organiser un concours de cris","Déposer anonymement un paquet de friandises chez un voisin avec une note l'invitant à poursuivre la chaîne"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le voisin « booed » reçoit un petit sac surprise et une affichette pour sa porte, puis transmet anonymement la chaîne à d'autres maisons avant Halloween.","id":"traditions-0107","media":{"kind":null},"question":"Qu'appelle-t-on une pratique de « You've Been Booed » dans certains quartiers nord-américains ?","type":"texte"},{"category":"traditions","choices":["Moncton","Edmundston","Bathurst","Miramichi"],"correctIndex":2,"difficulty":"difficile","explanation":"Le règlement de Bathurst, rapporté par les médias canadiens en 2017, combinait limite d'âge et couvre-feu pour la « chasse aux bonbons » ; il a suscité un débat national sur la place des adolescents à Halloween.","id":"traditions-0108","media":{"kind":null},"question":"Quelle ville du Nouveau-Brunswick a adopté en 2017 un règlement interdisant la tournée d'Halloween aux plus de 16 ans et après 20 h ?","type":"texte"},{"category":"traditions","choices":["Elle rend les dents noires de façon permanente","Elle contient naturellement de l'alcool","Deux onces par jour pendant deux semaines peuvent faire baisser le potassium et provoquer un rythme cardiaque irrégulier chez certains adultes","Elle doit être évitée seulement par les enfants"],"correctIndex":2,"difficulty":"difficile","explanation":"La glycyrrhizine de la vraie réglisse peut faire chuter le potassium. La FDA a diffusé cet avertissement saisonnier, particulièrement pertinent quand les bonbons d'Halloween abondent.","id":"traditions-0109","media":{"kind":null},"question":"Que dit l'avertissement de la Food and Drug Administration américaine au sujet d'une grande consommation de réglisse noire après 40 ans ?","type":"texte"},{"category":"traditions","choices":["Crispy Crunch","Aero","Big Turk","Coffee Crisp"],"correctIndex":3,"difficulty":"difficile","explanation":"Coffee Crisp naît au Canada à la fin des années 1930 et reste une friandise très canadienne, souvent citée dans les échanges de bonbons transfrontaliers pour son goût de café doux et sa gaufrette.","id":"traditions-0110","media":{"kind":null},"question":"Quelle barre chocolatée canadienne, lancée en 1938, combine gaufrette, couche aromatisée au café et enrobage chocolaté ?","type":"texte"},{"category":"traditions","choices":["L'Illinois","Le Vermont","L'Ohio","Le Texas"],"correctIndex":0,"difficulty":"intermediaire","explanation":"L'Illinois produit la grande majorité des citrouilles de transformation américaines, autour de Morton, tandis que d'autres États dominent davantage les citrouilles ornementales vendues fraîches.","id":"traditions-0111","media":{"kind":null},"question":"Quel État américain domine la production de citrouilles, notamment pour la transformation en conserve ?","type":"texte"},{"category":"traditions","choices":["Une drupe","Une baie modifiée appelée pépon ou péponide","Un akène géant","Un fruit composé"],"correctIndex":1,"difficulty":"difficile","explanation":"Comme les courges et les concombres, la citrouille est un pépon : une baie à écorce épaisse issue d'un ovaire infère, remplie de nombreuses graines.","id":"traditions-0112","media":{"kind":null},"question":"Botaniquement, à quelle catégorie de fruit appartient la citrouille Cucurbita pepo ?","type":"texte"},{"category":"traditions","choices":["Atlantic Giant","Jarrahdale","Kabocha","Howden"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Howden, sélectionnée pour sa forme régulière, sa paroi épaisse et sa tige solide, est une référence des champs de citrouilles et des lanternes d'Halloween.","id":"traditions-0113","media":{"kind":null},"question":"Quelle variété de citrouille de plein champ est devenue un standard nord-américain pour sculpter les lanternes ?","type":"texte"},{"category":"traditions","choices":["Rouge vif d'Étampes","Musquée de Provence","Blue Moon","Casper"],"correctIndex":0,"difficulty":"difficile","explanation":"Rouge vif d'Étampes, aussi vendue comme citrouille Cinderella en Amérique du Nord, possède les côtes profondes et la silhouette basse qui évoquent un carrosse de conte.","id":"traditions-0114","media":{"kind":null},"question":"Quelle variété française ancienne, rouge orangé et aplatie, est souvent associée au carrosse de Cendrillon ?","type":"texte"},{"category":"traditions","choices":["Ses graines noires","Son absence totale de tige","Son écorce blanche fantomatique","Sa floraison nocturne"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Casper est une citrouille à peau blanche prisée pour les contrastes, la peinture et les compositions « fantômes », même si sa chair reste orangée.","id":"traditions-0115","media":{"kind":null},"question":"Que distingue la variété Casper dans un champ de citrouilles d'Halloween ?","type":"texte"},{"category":"traditions","choices":["Howden","Sugar Pie","Atlantic Giant","Connecticut Field"],"correctIndex":2,"difficulty":"difficile","explanation":"Atlantic Giant, développée notamment par Howard Dill en Nouvelle-Écosse, a transformé les concours de pesée grâce à sa capacité à produire des fruits de plusieurs centaines de kilos.","id":"traditions-0116","media":{"kind":null},"question":"Quelle variété est la base génétique de la plupart des citrouilles géantes de concours modernes ?","type":"texte"},{"category":"traditions","choices":["Travis Gienger, au Minnesota","Mathias Willemijns, en Belgique","Stefano Cutrupi, en Italie","Ron Wallace, à Rhode Island"],"correctIndex":2,"difficulty":"difficile","explanation":"La citrouille de Stefano Cutrupi pesait 1 226 kg lors de sa certification en Toscane en 2021 — un record Guinness à cette date. Les records cités dans le quiz sont toujours datés, car ils peuvent tomber.","id":"traditions-0117","media":{"alt":"Illustration d'une citrouille géante de concours","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/citrouille-geante.svg"},"question":"Cette citrouille démesurée évoque le record mondial certifié en 2021. Qui l'avait cultivée et où ?","type":"image"},{"category":"traditions","choices":["Une citrouille évidée flotte mal et peut se remplir d'eau ou chavirer","La coque attire les requins","Les graines rendent l'eau glissante pour les autres bateaux","Les citrouilles explosent au soleil"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les régates transforment des fruits géants en embarcations instables : on les vide, on les stabilise comme on peut, et l'assistance reste proche en cas de voie d'eau ou de chavirage.","id":"traditions-0118","media":{"alt":"Illustration d'une régate en citrouille géante évidée","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/citrouille-bateau.svg"},"question":"Ce bateau improvisé renvoie aux régates de citrouilles géantes. Quel risque explique les gilets, les pompes et les bateaux d'escorte ?","type":"image"},{"category":"traditions","choices":["30 581 citrouilles illuminées","10 531 citrouilles illuminées","25 000 citrouilles exactement","42 195 citrouilles illuminées"],"correctIndex":0,"difficulty":"difficile","explanation":"Keene a repris le record en 2013 avec 30 581 jack-o'-lanterns allumées simultanément, chiffre certifié par Guinness World Records et souvent cité dans les bilans du Keene Pumpkin Festival.","id":"traditions-0119","media":{"kind":null},"question":"Quel nombre exact de lanternes allumées a valu à Keene, au New Hampshire, le record Guinness repris en 2013 ?","type":"texte"},{"category":"traditions","choices":["Un concours national de pesée","Un défilé de costumes pour enfants","Une exposition locale de maïs et de produits agricoles","Une foire aux maisons hantées"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Le maire George Haswell organise en 1903 une petite exposition de maïs et de citrouilles devant son magasin ; elle devient le grand festival gratuit de Circleville.","id":"traditions-0120","media":{"kind":null},"question":"Le Circleville Pumpkin Show, en Ohio, a commencé en 1903 sous quelle forme plus modeste ?","type":"texte"},{"category":"traditions","choices":["Le Safeway World Championship Pumpkin Weigh-Off","Le Keene Pumpkin Festival","Le Punkin Chunkin","La Great Pumpkin Commonwealth"],"correctIndex":0,"difficulty":"difficile","explanation":"Le weigh-off de Half Moon Bay, créé en 1974, est l'un des rendez-vous majeurs des cultivateurs et a vu passer plusieurs records nord-américains et mondiaux.","id":"traditions-0121","media":{"kind":null},"question":"À Half Moon Bay, en Californie, quel événement de pesée attire les cultivateurs de citrouilles géantes depuis les années 1970 ?","type":"texte"},{"category":"traditions","choices":["Il a sculpté la plus grande jack-o'-lantern reconnue à l'époque","Il l'a fait flotter sur l'Atlantique","Il l'a catapultée à un mile","Il en a fait une tarte entière"],"correctIndex":0,"difficulty":"difficile","explanation":"Scott Cully, sculpteur de citrouilles géantes, a transformé un fruit d'environ 1 810 livres en jack-o'-lantern record en 2010, un exploit de sculpture autant que d'agriculture.","id":"traditions-0122","media":{"kind":null},"question":"En 2010, quelle performance Scott Cully a-t-il réalisée avec une citrouille de plus de 1 800 livres ?","type":"texte"},{"category":"traditions","choices":["Environ 3 700 livres (1 680 kg)","Environ 370 livres","Environ 12 000 livres","Environ 900 livres"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La tarte de New Bremen mesurait 20 pieds de diamètre et pesait 3 699 livres en 2010, record Guinness largement médiatisé par le festival local de la citrouille.","id":"traditions-0123","media":{"alt":"Illustration d'une immense tarte à la citrouille","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/tarte-citrouille.svg"},"question":"Cette tarte géante renvoie au record établi à New Bremen, Ohio, en 2010. Combien pesait environ la plus grande tarte à la citrouille reconnue alors ?","type":"image"},{"category":"traditions","choices":["Les citrouilles fraîches sont interdites en conserve","La réglementation permet des courges d'hiver apparentées sous l'appellation pumpkin","La Dickinson est une variété de citrouille-lanterne","Le goût vient uniquement d'épices"],"correctIndex":1,"difficulty":"difficile","explanation":"La Food and Drug Administration admet depuis longtemps que les conserves dites de citrouille puissent être faites de courges d'hiver à chair dense comme la Dickinson, proche parente botanique et meilleure en purée.","id":"traditions-0124","media":{"kind":null},"question":"Pourquoi le « 100 % citrouille » de certaines conserves américaines peut-il contenir surtout une courge Dickinson ?","type":"texte"},{"category":"traditions","choices":["La cannelle","Le gingembre","La citrouille elle-même","La muscade"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Pumpkin spice désigne les épices de la tarte à la citrouille — cannelle, gingembre, muscade, piment de Jamaïque, parfois clou de girofle — pas une poudre de citrouille.","id":"traditions-0125","media":{"kind":null},"question":"Dans un mélange « pumpkin spice » classique, lequel de ces ingrédients est généralement absent malgré le nom ?","type":"texte"},{"category":"traditions","choices":["Il rend la citrouille ignifuge","Il empêche toute moisissure pendant un mois","Il attire les insectes utiles","Il ralentit la perte d'humidité et le flétrissement des coupes"],"correctIndex":3,"difficulty":"difficile","explanation":"La vaseline ou un corps gras équivalent limite l'évaporation au niveau des entailles. Cela ne stérilise pas la citrouille : moisissures et affaissement restent une question de jours.","id":"traditions-0126","media":{"alt":"Illustration d'une citrouille-lanterne éclairée dans la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/citrouille-lanterne.svg"},"question":"Cette lanterne déjà sculptée illustre un conseil de conservation. Que fait le fait d'enduire les bords coupés de vaseline ?","type":"image"},{"category":"traditions","choices":["Elles brûlent plus longtemps que les piles","Elles suppriment l'essentiel du risque d'incendie lié aux costumes et décorations sèches","Elles empêchent la citrouille de pourrir","Elles repoussent les insectes"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Les services d'incendie recommandent les LED ou bâtons lumineux dans les lanternes : costumes amples, feuilles mortes et papier crépon ne pardonnent pas une vraie flamme renversée.","id":"traditions-0127","media":{"alt":"Illustration d'une bougie allumée dans la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/bougie.svg"},"question":"Cette bougie dans une lanterne renvoie au dilemme classique d'Halloween. Quel avantage sécurité les fausses bougies LED ont-elles sur la flamme réelle ?","type":"image"},{"category":"traditions","choices":["Pepitas","Pignons","Fèves de courge","Perles d'Automne"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les pepitas sont les graines de citrouille, parfois issues de variétés à graines sans coque dure ; grillées et salées, elles garnissent sauces, salades et collations d'automne.","id":"traditions-0128","media":{"kind":null},"question":"Comment appelle-t-on les graines de citrouille consommées grillées, notamment dans la cuisine mexicaine ?","type":"texte"},{"category":"traditions","choices":["Les abeilles protègent les fruits des chevreuils","Les fleurs mâles et femelles sont séparées et exigent un transfert de pollen","Le pollen de citrouille ne voyage jamais par le vent dans aucun cas","Les fleurs femelles ne s'ouvrent qu'à minuit"],"correctIndex":1,"difficulty":"difficile","explanation":"Sur un même plant, fleurs mâles et femelles sont distinctes : les insectes pollinisateurs portent le pollen de l'une à l'autre, condition d'une bonne nouaison des fruits.","id":"traditions-0129","media":{"kind":null},"question":"Pourquoi un cultivateur de citrouilles surveille-t-il les abeilles au moment de la floraison ?","type":"texte"},{"category":"traditions","choices":["Piquer le contour à travers le papier pour tracer des points guides","Congeler le motif sur l'écorce","Dessiner à l'eau chaude","Brûler légèrement toute la surface"],"correctIndex":0,"difficulty":"intermediaire","explanation":"On fixe le patron, on perce son contour avec un poinçon, puis on relie les points à la découpe : c'est la méthode standard des sculptures de citrouilles détaillées.","id":"traditions-0130","media":{"kind":null},"question":"Quelle technique permet de transférer un motif complexe sur une citrouille avant de sculpter ?","type":"texte"},{"category":"traditions","choices":["Les transformer en bonbons","Les brûler dans des feux de joie municipaux","Les utiliser comme cibles de tir","Composter les lanternes au lieu de les envoyer à l'enfouissement"],"correctIndex":3,"difficulty":"difficile","explanation":"Les participants fracassent leurs citrouilles dans des bennes de compost : le geste ludique détourne des tonnes de matière organique des sites d'enfouissement et de leurs émissions de méthane.","id":"traditions-0131","media":{"kind":null},"question":"Après Halloween, que cherchent à faire les collectes « Pumpkin Smash » organisées dans plusieurs villes nord-américaines ?","type":"texte"},{"category":"traditions","choices":["En 2010","En 2015","En 2024","En 2020"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le squelette géant de 12 pieds lancé en 2020 se vend rapidement et devient un mème saisonnier ; les ruptures et rééditions annuelles entretiennent sa légende de voisinage.","id":"traditions-0132","media":{"alt":"Illustration d'une maison décorée d'un squelette géant","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/maison-decoration.svg"},"question":"Cette maison décorée évoque le phénomène du squelette géant de Home Depot. En quelle année ce décor de 12 pieds (3,7 m) est-il devenu viral ?","type":"image"},{"category":"traditions","choices":["NightVision, une caméra cachée","LifeEyes, des yeux LCD animés","BoneBeam, un projecteur","SkullSync, une application vocale"],"correctIndex":1,"difficulty":"difficile","explanation":"Les versions du squelette géant intègrent des yeux LCD « LifeEyes » qui clignent et roulent, renforçant l'illusion d'un gardien de pelouse bien réveillé.","id":"traditions-0133","media":{"kind":null},"question":"Quelle fonction donnait son nom marketing aux yeux du squelette géant de Home Depot dans ses versions animées ?","type":"texte"},{"category":"traditions","choices":["Ne vendre qu'en ligne après le 15 octobre","Installer des cabines dans les cimetières","Franchiser uniquement des fermes de citrouilles","Ouvrir des magasins temporaires dans des locaux commerciaux vacants"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Spirit Halloween transforme chaque automne des surfaces vacantes — anciens grands magasins ou cinémas — en temples temporaires du costume, puis disparaît presque entièrement après la fête.","id":"traditions-0134","media":{"kind":null},"question":"Quel modèle commercial a fait de Spirit Halloween une enseigne saisonnière reconnaissable dans toute l'Amérique du Nord ?","type":"texte"},{"category":"traditions","choices":["Le Queen Elizabeth 2","Le SS Rotterdam","Le RMS Queen Mary","Le RMS Queen Anne"],"correctIndex":2,"difficulty":"difficile","explanation":"Le Queen Mary, paquebot des années 1930 devenu hôtel et musée à Long Beach, sert de décor réel aux labyrinthes de Dark Harbor ; ses cabines et coursives alimentent aussi ses propres récits de hantise.","id":"traditions-0135","media":{"kind":null},"question":"Quel paquebot historique de Long Beach, en Californie, accueille l'événement d'horreur Dark Harbor ?","type":"texte"},{"category":"traditions","choices":["En 1983","En 2005","En 2018","En 1995"],"correctIndex":3,"difficulty":"difficile","explanation":"La soirée familiale à billet séparé débute en 1995 à Walt Disney World : défilé Boo-To-You, feux d'artifice et distribution de friandises y offrent un Halloween délibérément peu effrayant.","id":"traditions-0136","media":{"kind":null},"question":"En quelle année la soirée Mickey's Not-So-Scary Halloween Party a-t-elle été présentée pour la première fois au Magic Kingdom ?","type":"texte"},{"category":"traditions","choices":["5,2 milliards de dollars","11,6 milliards de dollars","18,9 milliards de dollars","30,4 milliards de dollars"],"correctIndex":1,"difficulty":"difficile","explanation":"L'enquête annuelle de la NRF avec Prosper Insights prévoyait 11,6 milliards de dollars en 2024, en baisse après le record de 2023 ; c'est une prévision d'enquête, pas une comptabilité finale.","id":"traditions-0137","media":{"kind":null},"question":"Selon la National Retail Federation, quel total de dépenses d'Halloween les consommateurs américains prévoyaient-ils en 2024 ?","type":"texte"},{"category":"traditions","choices":["12,2 milliards de dollars","10,6 milliards de dollars","12,2 millions de dollars","15,0 milliards de dollars"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Pour 2023, la NRF annonçait 12,2 milliards de dollars et 108,24 dollars par personne planifiant la fête — le sommet de sa série d'enquêtes annuelles à cette date.","id":"traditions-0138","media":{"kind":null},"question":"Quel total la National Retail Federation avait-elle annoncé pour Halloween 2023, présenté comme un record ?","type":"texte"},{"category":"traditions","choices":["55,10 dollars","103,63 dollars","87,00 dollars","140,25 dollars"],"correctIndex":1,"difficulty":"difficile","explanation":"La moyenne prévue de 103,63 dollars par personne en 2024 couvre bonbons, costumes, décorations et cartes. Elle ne concerne que les répondants prévoyant de célébrer, selon la méthodologie NRF.","id":"traditions-0139","media":{"kind":null},"question":"Dans l'enquête NRF 2024, quel montant moyen était prévu par personne célébrant Halloween ?","type":"texte"},{"category":"traditions","choices":["Le vampire","La sorcière","Le fantôme","Le chat"],"correctIndex":1,"difficulty":"intermediaire","explanation":"La sorcière demeure le costume adulte le plus cité dans les enquêtes NRF récentes, devant vampires, fantômes et chats ; le classement exact varie, mais sa première place est remarquablement stable.","id":"traditions-0140","media":{"kind":null},"question":"Quel costume arrive année après année en tête des choix adultes dans les enquêtes de la National Retail Federation ?","type":"texte"},{"category":"traditions","choices":["Le fantôme","La princesse","Le dinosaure","Spider-Man"],"correctIndex":3,"difficulty":"difficile","explanation":"Spider-Man devançait notamment le fantôme et la princesse dans les intentions d'achat 2024 compilées par la NRF, preuve de la force durable des superhéros chez les enfants.","id":"traditions-0141","media":{"kind":null},"question":"Dans l'enquête NRF 2024, quel costume d'enfant occupait la première place ?","type":"texte"},{"category":"traditions","choices":["Environ 0,7 milliard de dollars","Environ 70 millions de dollars","Environ 2,4 milliards de dollars","Environ 5 milliards de dollars"],"correctIndex":0,"difficulty":"difficile","explanation":"Les costumes pour animaux représentaient environ 0,7 milliard de dollars dans les prévisions NRF 2024, citrouilles et hot-dogs figurant parmi les déguisements favoris pour chiens et chats.","id":"traditions-0142","media":{"kind":null},"question":"Toujours selon la NRF, combien les ménages américains devaient-ils consacrer aux costumes d'animaux domestiques en 2024 ?","type":"texte"},{"category":"traditions","choices":["Les décorations","Les voyages","Les feux d'artifice","Les fleurs fraîches"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Guirlandes lumineuses, gonflables et animatroniques font d'Halloween un sommet des ventes de décoration, seulement devancé par Noël dans de nombreux bilans de détaillants.","id":"traditions-0143","media":{"kind":null},"question":"Dans le commerce saisonnier américain, Halloween est souvent présenté comme la deuxième fête pour quel type d'achats après Noël ?","type":"texte"},{"category":"traditions","choices":["Elles peuvent piéger oiseaux, chauves-souris et insectes","Elles attirent de vraies araignées venimeuses","Elles fondent sous la pluie et colorent les trottoirs","Elles brouillent les signaux des avions"],"correctIndex":0,"difficulty":"difficile","explanation":"Les fibres synthétiques tendues dans les arbres et buissons attrapent colibris, petits oiseaux, chauves-souris et pollinisateurs. Les refuges recommandent des toiles intérieures ou des décorations rigides surveillées.","id":"traditions-0144","media":{"alt":"Illustration d'une araignée dans une toile décorative","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/araignee-toile.svg"},"question":"Cette toile décorative tendue sur une haie illustre un avertissement répété par des refuges fauniques. Pourquoi déconseillent-ils les fausses toiles d'araignée extérieures lâches ?","type":"image"},{"category":"traditions","choices":["Prison Break Live","Terror Behind the Walls","The Cellblock Séance","Alcatraz East"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Terror Behind the Walls transformait les ruines du pénitencier en immense maison hantée et finançait une partie de la préservation du lieu ; Halloween Nights lui a succédé sous une forme élargie.","id":"traditions-0145","media":{"kind":null},"question":"Quelle attraction d'Halloween de l'Eastern State Penitentiary de Philadelphie a duré de 1991 à 2019 avant une refonte du site ?","type":"texte"},{"category":"traditions","choices":["C'était le cabinet d'un dentiste célèbre","C'était une caserne de pompiers","C'était une gare de triage","C'était une école publique du XIXe siècle"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Construite en 1894, l'école Charles H. Dent devient une maison hantée qui exploite couloirs, salles de classe et la légende urbaine — inventée — d'un concierge sinistre.","id":"traditions-0146","media":{"kind":null},"question":"La Dent Schoolhouse de Cincinnati tire son nom et son décor de quelle fonction réelle de son bâtiment ?","type":"texte"},{"category":"traditions","choices":["Au Fort Henry de Kingston","À Casa Loma, à Toronto","Au village de Sainte-Marie-au-pays-des-Hurons","À Upper Canada Village, près de Morrisburg"],"correctIndex":3,"difficulty":"difficile","explanation":"Pumpkinferno transforme Upper Canada Village en galerie nocturne de citrouilles artificielles composées en scènes — dinosaures, contes, créatures — au bord du fleuve Saint-Laurent.","id":"traditions-0147","media":{"kind":null},"question":"Dans quel lieu patrimonial ontarien se tient Pumpkinferno, parcours de milliers de citrouilles artificielles sculptées ?","type":"texte"},{"category":"traditions","choices":["Elle a inspiré la création de Batman","Elle se déroulait dans les bureaux de Marvel","Son organisateur Tom Fagan invitait auteurs et personnages de comics à la parade","Elle servait de lancement aux films DC"],"correctIndex":2,"difficulty":"difficile","explanation":"Tom Fagan, fan et correspondant des éditeurs, fait de Rutland un rendez-vous où superhéros costumés et créateurs de comics se mêlent à la parade dès les années 1960.","id":"traditions-0148","media":{"kind":null},"question":"Pourquoi la Halloween Parade de Rutland, au Vermont, tient-elle une place particulière dans l'histoire des comics ?","type":"texte"},{"category":"traditions","choices":["Hollywood Boulevard","Sunset Strip seulement","Rodeo Drive","Santa Monica Boulevard"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le carnaval investit Santa Monica Boulevard à West Hollywood avec scènes, costumes spectaculaires et foules immenses ; il est devenu un emblème queer et festif d'Halloween en Californie.","id":"traditions-0149","media":{"kind":null},"question":"Le West Hollywood Halloween Carnaval, lancé en 1987, se tient principalement sur quel axe fermé à la circulation ?","type":"texte"},{"category":"traditions","choices":["Des soirées et parcours sur les traditions et récits d'horreur du passé","Une pesée mondiale de citrouilles","Un congrès de sorcellerie","Un concours de maisons gonflables"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les villages pionniers nord-américains programment souvent visites nocturnes, récits d'époque et maisons anciennes à l'automne ; Fanshawe s'inscrit dans cette veine patrimoniale plutôt que dans le gore extrême.","id":"traditions-0150","media":{"kind":null},"question":"À London, en Ontario, quel type d'événement automnal familial se tient au Fanshawe Pioneer Village ?","type":"texte"},{"category":"traditions","choices":["Le Vieux-Port de Montréal","Les Plaines d'Abraham","Le Village québécois d'antan","Le Fort-Chambly"],"correctIndex":2,"difficulty":"difficile","explanation":"En octobre, le Village québécois d'antan devient Village hanté : bâtiments d'époque, personnages et parcours nocturnes attirent des visiteurs de tout le Québec.","id":"traditions-0151","media":{"kind":null},"question":"Au Québec, le Village hanté de Drummondville se déroule dans quel lieu patrimonial reconstitué ?","type":"texte"},{"category":"traditions","choices":["Le 1er octobre","Le 26 octobre","Le 15 octobre","Le 31 octobre"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Le National Pumpkin Day tombe le 26 octobre, en pleine saison des champs de citrouilles, des concours de pesée et des sculptures de lanternes.","id":"traditions-0152","media":{"kind":null},"question":"Quel jour d'octobre les États-Unis consacrent-ils au National Pumpkin Day, quelques jours avant Halloween ?","type":"texte"},{"category":"traditions","choices":["En 2004","En 1995","En 2010","En 2015"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Développée en 2003 et testée dans quelques marchés, la boisson est lancée largement à l'automne 2004 ; elle devient un marqueur commercial du retour des saveurs d'épices à tarte.","id":"traditions-0153","media":{"kind":null},"question":"En quelle année le Pumpkin Spice Latte de Starbucks a-t-il été lancé aux États-Unis et au Canada après son développement en 2003 ?","type":"texte"},{"category":"traditions","choices":["Un champ ou une ferme où les visiteurs choisissent et cueillent leurs citrouilles, souvent avec labyrinthe de maïs et promenades","Un pansement décoratif pour citrouille fendue","Un concours de sculpture nocturne","Un marché réservé aux cultivateurs professionnels"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Le pumpkin patch est devenu une sortie familiale complète : cueillette, labyrinthe de maïs, animaux, cidre et photos transforment l'achat d'une lanterne en excursion d'automne.","id":"traditions-0154","media":{"kind":null},"question":"Dans l'agrotourisme d'automne nord-américain, qu'appelle-t-on un « pumpkin patch » ?","type":"texte"},{"category":"traditions","choices":["Elles sont lancées dans le lac Ontario","Elles sont jugées pour le record du monde","Elles sont données aux animaux du zoo uniquement","Elles sont alignées et illuminées une dernière fois avant le compostage municipal"],"correctIndex":3,"difficulty":"intermediaire","explanation":"La parade torontoise prolonge la vie des lanternes après la tournée : les résidents les exposent dans le parc, puis la ville les composte — une seconde fête née en 2004 dans le quartier Roncesvalles.","id":"traditions-0155","media":{"kind":null},"question":"À Toronto, que deviennent des centaines de citrouilles sculptées le 1er novembre lors de la Pumpkin Parade de Sorauren Park ?","type":"texte"},{"category":"traditions","choices":["13 bancs, un par mois de procès","20 bancs, un pour chaque victime exécutée","50 bancs pour tous les accusés","7 bancs pour les juges repentis"],"correctIndex":1,"difficulty":"difficile","explanation":"Le mémorial inauguré en 1992 aligne 20 bancs de granit portant noms et dernières paroles des 19 pendus et de Giles Corey, pressé à mort ; plus de 200 personnes avaient été accusées, mais 20 furent exécutées.","id":"traditions-0156","media":{"alt":"Illustration d'un cimetière la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/cimetiere-nuit.svg"},"question":"Ce cimetière nocturne évoque le Salem Witch Trials Memorial. Combien de pierres-bancs y honorent les victimes exécutées des procès de 1692 ?","type":"image"},{"category":"traditions","choices":["John Hathorne","Jonathan Corwin","William Stoughton","Samuel Sewall"],"correctIndex":0,"difficulty":"difficile","explanation":"John Hathorne, juge inflexible des procès et ancêtre de l'écrivain Nathaniel Hawthorne, est enterré au Old Burying Point, l'un des plus anciens cimetières des États-Unis encore conservés.","id":"traditions-0157","media":{"kind":null},"question":"Quel juge des procès de Salem repose au Old Burying Point (Charter Street Cemetery), cimetière voisin du mémorial ?","type":"texte"},{"category":"traditions","choices":["Le Salem Witch Museum seulement en film","La Witch House","Le Peabody Essex Museum","Le Witch Dungeon Museum"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le Witch Dungeon Museum combine une reconstitution jouée d'un procès, d'après des documents de 1692, et une visite de cachot reconstitué ; il se distingue du Salem Witch Museum et de son panorama audiovisuel.","id":"traditions-0158","media":{"kind":null},"question":"À Salem, quelle attraction installée dans une ancienne église rejoue un procès en sorcellerie à partir de transcriptions d'époque ?","type":"texte"},{"category":"traditions","choices":["Tarrytown Heights","Ichabod Village","Hollow Creek","Sleepy Hollow"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Les habitants votent le changement de nom pour Sleepy Hollow, célébrant le décor de « La Légende de Sleepy Hollow » et le cavalier sans tête d'Irving.","id":"traditions-0159","media":{"kind":null},"question":"En 1996, le village de North Tarrytown, dans l'État de New York, a officiellement pris quel nom tiré de Washington Irving ?","type":"texte"},{"category":"traditions","choices":["Au cimetière de Trinity Church à Manhattan","À Sunnyside, sous sa maison","Au Green-Wood Cemetery de Brooklyn","Au Sleepy Hollow Cemetery, non loin de l'Old Dutch Church"],"correctIndex":3,"difficulty":"difficile","explanation":"La tombe d'Irving se trouve au Sleepy Hollow Cemetery, vaste cimetière paysager adjacent au petit cimetière historique de l'Old Dutch Church où se joue une partie de la légende.","id":"traditions-0160","media":{"kind":null},"question":"Où Washington Irving est-il enterré, dans le cimetière qui porte le nom de son récit le plus célèbre ?","type":"texte"},{"category":"traditions","choices":["Il est entièrement souterrain","C'est le plus ancien cimetière encore existant de la ville","Il ne contient que des musiciens","Il a servi de décor unique au premier Mardi Gras"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Ouvert en 1789 après l'incendie et l'épidémie qui saturèrent le cimetière précédent, Saint-Louis n° 1 concentre caveaux familiaux, sociétés funéraires et tombes attribuées à des figures vaudoues.","id":"traditions-0161","media":{"kind":null},"question":"Le cimetière Saint-Louis n° 1 de La Nouvelle-Orléans, fondé en 1789, est surtout célèbre pour quelle particularité ?","type":"texte"},{"category":"traditions","choices":["Elle doit être touchée uniquement le 31 octobre","Elle se trouve dans un autre cimetière depuis 1900","La tradition des X marqués a abîmé le monument et n'est ni historique ni autorisée","Elle appartient à une société secrète encore active"],"correctIndex":2,"difficulty":"difficile","explanation":"Les visiteurs ont longtemps griffé des X sur la tombe Glapion associée à Marie Laveau. Les restaurations et les règles du cimetière découragent ce vandalisme, et l'attribution même de la sépulture fait débat.","id":"traditions-0162","media":{"kind":null},"question":"Quelle précaution les guides de La Nouvelle-Orléans rappellent-ils à propos de la tombe attribuée à Marie Laveau ?","type":"texte"},{"category":"traditions","choices":["1140 Royal Street","500 Chartres Street","1100 Bourbon Street","923 Dauphine Street"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La maison LaLaurie occupe l'angle de Royal et Governor Nicholls. L'incendie de 1834 expose les mauvais traitements infligés aux personnes esclavagisées et nourrit durablement sa réputation hantée.","id":"traditions-0163","media":{"alt":"Illustration d'un manoir ancien la nuit","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/manoir-hante.svg"},"question":"Cette maison ancienne illustre le quartier français de La Nouvelle-Orléans. À quelle adresse de Royal Street se trouve la maison LaLaurie, rendue sinistre par les récits d'esclaves torturés et par l'incendie de 1834 ?","type":"image"},{"category":"traditions","choices":["La loi interdit toute inhumation plus longue","Les caveaux sont réellement chauffés chaque été","La chaleur accélère la décomposition, permettant de déplacer les restes dans un espace inférieur","Les corps sont incinérés dans le caveau"],"correctIndex":2,"difficulty":"difficile","explanation":"Dans les « oven vaults », le climat chaud favorise une décomposition rapide ; après le délai coutumier d'un an et un jour, les restes peuvent rejoindre la partie basse et libérer l'alvéole.","id":"traditions-0164","media":{"kind":null},"question":"À La Nouvelle-Orléans, pourquoi certains caveaux familiaux sont-ils surnommés des « fours » et réutilisés après un an et un jour ?","type":"texte"},{"category":"traditions","choices":["Environ six millions de Parisiens","Environ six mille","Environ six cent mille","Environ soixante millions"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Les anciennes carrières reçoivent à partir de la fin du XVIIIe siècle les ossements des cimetières parisiens saturés, notamment celui des Innocents ; l'ossuaire rassemblerait environ six millions de personnes.","id":"traditions-0165","media":{"kind":null},"question":"Environ combien de restes humains les Catacombes de Paris abritent-elles ?","type":"texte"},{"category":"traditions","choices":["De métro médiéval","De carrières de calcaire pour construire Paris","De réservoirs d'eau potable","De prisons royales"],"correctIndex":1,"difficulty":"difficile","explanation":"Le calcaire extrait sous Paris a bâti la ville en surface. Les vides souterrains consolidés deviennent ensuite le réceptacle monumental des ossements transférés des cimetières.","id":"traditions-0166","media":{"kind":null},"question":"Avant de devenir un ossuaire, à quoi servait le réseau souterrain des Catacombes de Paris ?","type":"texte"},{"category":"traditions","choices":["Une paroi de verre installée en 2011","Une grille électrifiée","Le déplacement secret de la tombe","Une copie remplacée chaque année"],"correctIndex":0,"difficulty":"difficile","explanation":"Les baisers gras abîmaient et coûtaient cher à nettoyer sur le monument de Jacob Epstein. La barrière vitrée protège la pierre tout en laissant les admirateurs approcher.","id":"traditions-0167","media":{"kind":null},"question":"Au Père-Lachaise, quelle mesure a protégé la tombe d'Oscar Wilde des baisers au rouge à lèvres des visiteurs ?","type":"texte"},{"category":"traditions","choices":["Les Magnificent Seven","Les Jardins de la Mort","Les Sept Collines vertes","Les Catacombes du Nord"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Highgate, Kensal Green, West Norwood, Abney Park, Brompton, Nunhead et Tower Hamlets forment les Magnificent Seven, ouverts au XIXe siècle pour soulager les cimetières paroissiaux saturés.","id":"traditions-0168","media":{"kind":null},"question":"Le cimetière londonien de Highgate fait partie d'un ensemble victorien de grands cimetières créés autour de la capitale. Quel surnom collectif portent-ils ?","type":"texte"},{"category":"traditions","choices":["George Mackenzie, avocat et persécuteur des Covenantaires","John Knox","Robert Louis Stevenson","Un bourreau nommé Greyfriars Bobby"],"correctIndex":0,"difficulty":"difficile","explanation":"George Mackenzie, surnommé Bloody Mackenzie pour son rôle contre les Covenantaires, est enterré dans le Black Mausoleum ; visites guidées et récits de phénomènes s'y concentrent depuis les années 1990.","id":"traditions-0169","media":{"kind":null},"question":"À Édimbourg, quel personnage historique du Greyfriars Kirkyard est au centre des récits du « Mackenzie Poltergeist » ?","type":"texte"},{"category":"traditions","choices":["Un tunnel de contrebande viking","La plus ancienne prison d'Écosse","Un cimetière de peste souterrain intact","Une ruelle du XVIIe siècle enfouie sous des bâtiments municipaux"],"correctIndex":3,"difficulty":"intermediaire","explanation":"La ruelle commerçante a été progressivement recouverte par le Royal Exchange au XVIIIe siècle. Ses pièces conservées donnent une image rare de la vie urbaine ancienne, au-delà des histoires de peste qui l'entourent.","id":"traditions-0170","media":{"kind":null},"question":"Mary King's Close, à Édimbourg, est aujourd'hui visité comme quoi ?","type":"texte"},{"category":"traditions","choices":["Un immense lustre contenant au moins un exemplaire de chaque os du corps","Une pyramide de crânes de hussites uniquement","Un trône royal complet","Une horloge qui fonctionne grâce aux os"],"correctIndex":0,"difficulty":"difficile","explanation":"À Sedlec, les arrangements attribués à František Rint en 1870 transforment des dizaines de milliers d'ossements en lustre, armoiries et guirlandes funèbres.","id":"traditions-0171","media":{"alt":"Illustration d'un ossuaire aux murs d'ossements","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/ossuaire.svg"},"question":"Cet ossuaire évoque celui de Sedlec, en Tchéquie. Quelle pièce célèbre y est composée d'ossements humains ?","type":"image"},{"category":"traditions","choices":["Une fillette morte en 1920, remarquablement conservée","Une abbesse du XVIe siècle","Une chanteuse d'opéra momifiée naturellement","Une princesse sicilienne embaumée au miel"],"correctIndex":0,"difficulty":"intermediaire","explanation":"Rosalia Lombardo, décédée à deux ans en 1920, fut embaumée par Alfredo Salafia et exposée dans une chapelle des catacombes ; son état de conservation attire chercheurs et visiteurs.","id":"traditions-0172","media":{"alt":"Illustration d'un cercueil ancien","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/cercueil.svg"},"question":"Ce cercueil renvoie aux catacombes des Capucins de Palerme. Qui est Rosalia Lombardo, leur pensionnaire la plus célèbre ?","type":"image"},{"category":"traditions","choices":["Elle sert encore de lazaret actif","Elle est abandonnée, en ruine et propriété publique sans accès touristique régulier","Elle est entièrement privée et habitée","Elle disparaît à marée haute"],"correctIndex":1,"difficulty":"difficile","explanation":"Poveglia a servi de station de quarantaine et d'hôpital psychiatrique avant l'abandon. Ses bâtiments dangereux et son statut public empêchent les visites libres, malgré un tourisme noir très demandeur.","id":"traditions-0173","media":{"alt":"Illustration d'un bateau approchant une île sombre","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/bateau-famine.svg"},"question":"Ce bateau solitaire évoque Poveglia, près de Venise. Pourquoi l'île est-elle fermée au public ordinaire ?","type":"image"},{"category":"traditions","choices":["La forêt de Białowieża","Hoia Baciu","La Forêt-Noire","La forêt de Dean"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Hoia Baciu doit une partie de sa renommée à des photographies d'ovnis présumés des années 1960 et à ses arbres courbés ; elle est devenue une destination de tourisme paranormal.","id":"traditions-0174","media":{"kind":null},"question":"Près de Cluj-Napoca, en Roumanie, quelle forêt alimente les récits de disparitions, voix et arbres tordus ?","type":"texte"},{"category":"traditions","choices":["La tour des corbeaux","La Bloody Chapel et son oubliette","La chapelle des druides","La cave aux échos"],"correctIndex":1,"difficulty":"difficile","explanation":"Leap Castle est présenté comme l'un des châteaux les plus hantés d'Irlande. Sa chapelle sanglante et l'oubliette découverte avec des ossements alimentent des récits difficiles à démêler de la promotion touristique.","id":"traditions-0175","media":{"kind":null},"question":"Au château de Leap, en Irlande, quelle pièce concentre les récits de prisonniers jetés sur des pointes ?","type":"texte"},{"category":"traditions","choices":["Lady Isabella Shaw","Mary Queen of Scots","La Dame Blanche de Belfast","Une servante sans nom"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La légende raconte qu'Isabella Shaw, enfermée par son mari après la naissance d'une fille, serait morte en tentant de s'échapper. L'hôtel actuel entretient aimablement son fantôme résident.","id":"traditions-0176","media":{"kind":null},"question":"Au Ballygally Castle, en Irlande du Nord, quel fantôme féminin est associé à la tour depuis le XVIIe siècle ?","type":"texte"},{"category":"traditions","choices":["Pour fermer un gouffre réputé être une porte de l'enfer","Pour cacher le Saint Graal","Pour surveiller une mine d'argent unique","Pour servir d'observatoire astronomique royal"],"correctIndex":0,"difficulty":"difficile","explanation":"La tradition affirme que les murs de Houska tournent leurs défenses vers l'intérieur, autour d'une faille d'où sortaient des créatures. La légende vaut surtout pour son étrangeté architecturale supposée.","id":"traditions-0177","media":{"alt":"Illustration d'un château gothique sur une colline","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/chateau.svg"},"question":"Ce château isolé illustre Houska, en Tchéquie. Selon la légende, pourquoi aurait-il été bâti à cet endroit sans intérêt stratégique ?","type":"image"},{"category":"traditions","choices":["Les appareils photo sont interdits de jour","Il faut parler uniquement en hindi","L'entrée est interdite entre le coucher et le lever du soleil","Les visites coûtent double après minuit"],"correctIndex":2,"difficulty":"intermediaire","explanation":"L'Archaeological Survey of India interdit l'accès nocturne au fort en ruine. Cette règle administrative, destinée à un site protégé, nourrit sa réputation de lieu le plus hanté d'Inde.","id":"traditions-0178","media":{"kind":null},"question":"À Bhangarh, en Inde, que signalent les panneaux officiels aux visiteurs ?","type":"texte"},{"category":"traditions","choices":["Des lanternes de papier uniquement","Des crânes en sucre géants","Des centaines de poupées abîmées","Des ex-voto en argent"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Don Julián Santana aurait accroché des poupées pour apaiser l'esprit d'une fillette noyée ; après sa propre mort en 2001, l'île est devenue une attraction macabre de Xochimilco.","id":"traditions-0179","media":{"kind":null},"question":"Dans les canaux de Xochimilco, à Mexico, que trouve-t-on suspendu aux arbres de l'Isla de las Muñecas ?","type":"texte"},{"category":"traditions","choices":["Une forêt dense poussée sur d'anciennes coulées de lave","Une forêt entièrement sans oiseaux","Un sol magnétique qui rend toutes les boussoles inutilisables","Une île forestière entourée de marais"],"correctIndex":0,"difficulty":"difficile","explanation":"Aokigahara occupe des coulées de lave de l'éruption de 864-866 ; sa densité et son silence nourrissent les mythes. Les récits de boussoles folles sont exagérés : elles fonctionnent, malgré des roches volcaniques localement magnétiques.","id":"traditions-0180","media":{"kind":null},"question":"Au pied nord-ouest du mont Fuji, quelle est la caractéristique géographique réelle d'Aokigahara ?","type":"texte"},{"category":"traditions","choices":["Centralia","Gettysburg","Ephrata","Scranton"],"correctIndex":0,"difficulty":"difficile","explanation":"Le feu brûle encore sous Centralia, dont presque tous les bâtiments ont été démolis. Le film de 2006 emprunte à la ville ses rues vides, sa fumée et son sentiment d'abandon.","id":"traditions-0181","media":{"kind":null},"question":"Quelle ville de Pennsylvanie, évacuée à cause d'un feu de mine souterrain depuis 1962, a inspiré l'ambiance du film « Silent Hill » ?","type":"texte"},{"category":"traditions","choices":["Une prison fédérale","Un sanatorium pour tuberculeux","Un studio de cinéma","Un faux hôpital du cancer dirigé par Norman Baker"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le charlatan Norman Baker y vendait des cures miracles contre le cancer. L'hôtel exploite aujourd'hui visites fantômes et pièces associées à cette période sombre.","id":"traditions-0182","media":{"kind":null},"question":"Le Crescent Hotel d'Eureka Springs, en Arkansas, doit une partie de sa réputation à son usage de 1938 à 1941 comme quoi ?","type":"texte"},{"category":"traditions","choices":["La chambre 217","La chambre 237","La chambre 1408","La chambre 545"],"correctIndex":3,"difficulty":"difficile","explanation":"La Pink Lady serait une jeune femme en rose tombée dans l'atrium de Palm Court dans les années 1920. Employés et clients associent ses apparitions à la chambre 545 et à l'aile historique de l'hôtel.","id":"traditions-0183","media":{"kind":null},"question":"À l'Omni Grove Park Inn d'Asheville, en Caroline du Nord, à quelle chambre la légende de la Pink Lady est-elle le plus souvent rattachée ?","type":"texte"},{"category":"traditions","choices":["Escaliers menant au plafond et portes ouvrant sur des murs ou le vide","Toutes ses pièces sont rondes","Elle n'a aucune fenêtre","Elle est construite uniquement en miroirs"],"correctIndex":0,"difficulty":"intermediaire","explanation":"La demeure de Sarah Winchester compte escaliers absurdes, portes piégées et pièces inachevées ; les guides les relient à sa volonté d'égarer les esprits, explication romantique d'une construction très évolutive.","id":"traditions-0184","media":{"kind":null},"question":"Quelle particularité architecturale rend la Winchester Mystery House de San José immédiatement reconnaissable ?","type":"texte"},{"category":"traditions","choices":["Y dormir dans un bed and breakfast et suivre une visite guidée","Visiter le tribunal d'origine dans la maison","Voir les pièces scellées comme en 1892 sans changement","Participer à un procès reconstitué officiel"],"correctIndex":0,"difficulty":"difficile","explanation":"La maison des meurtres de 1892, dont Lizzie Borden fut acquittée, est devenue musée et chambre d'hôtes : le tourisme y assume pleinement le macabre domestique.","id":"traditions-0185","media":{"kind":null},"question":"À Fall River, dans le Massachusetts, que peut faire un visiteur de la maison Lizzie Borden aujourd'hui ?","type":"texte"},{"category":"traditions","choices":["L'empoisonnement d'un conseil municipal","Le meurtre à la hache de la famille Moore et de leurs invités","La disparition d'un train entier","Un incendie criminel d'église"],"correctIndex":1,"difficulty":"intermediaire","explanation":"Huit personnes furent tuées dans la maison Moore en juin 1912. Le lieu se visite et se loue pour la nuit, au cœur d'une économie du frisson rural.","id":"traditions-0186","media":{"kind":null},"question":"La maison de Villisca, en Iowa, est associée à quel crime non résolu de 1912 ?","type":"texte"},{"category":"traditions","choices":["Un tunnel incliné servant à évacuer discrètement les morts","Une glissière pour le linge des malades","Un toboggan d'évacuation incendie","Un conduit de ventilation musicale"],"correctIndex":0,"difficulty":"difficile","explanation":"Le tunnel reliait l'hôpital à la voie ferrée en contrebas ; il servait aux approvisionnements et, selon l'histoire du lieu, à retirer les corps sans exposer davantage les patients à la mort quotidienne.","id":"traditions-0187","media":{"kind":null},"question":"À Waverly Hills, ancien sanatorium du Kentucky, qu'était le « body chute » ?","type":"texte"},{"category":"traditions","choices":["Il a été construit sans aucun couloir","Il flotte sur un lac artificiel","Il ne compte qu'une seule porte extérieure","C'est un immense bâtiment en pierre taillée à la main, parmi les plus grands du genre aux États-Unis"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Ouvert au XIXe siècle à Weston, l'asile suit le plan Kirkbride et revendique une maçonnerie de pierre exceptionnelle ; visites historiques et paranormales y cohabitent.","id":"traditions-0188","media":{"kind":null},"question":"Le Trans-Allegheny Lunatic Asylum de Virginie-Occidentale est remarquable par quelle caractéristique de construction ?","type":"texte"},{"category":"traditions","choices":["Un carnaval annuel sur le champ de bataille","Des reconstitutions obligatoires pour les écoles","Des visites de champs de bataille et des circuits de fantômes dans la ville","Une interdiction de visiter après minuit dans tout le comté"],"correctIndex":2,"difficulty":"difficile","explanation":"Gettysburg vit du souvenir de la bataille de la guerre de Sécession : parc national le jour, visites fantômes le soir autour des auberges, collines et ponts associés aux soldats.","id":"traditions-0189","media":{"alt":"Trois coups de glas synthétisés pour le projet","credit":"Synthèse originale du projet Quiz Halloween","kind":"audio","licence":"CC0","src":"/media/glas-trois-coups.wav"},"question":"Écoutez ce glas synthétisé pour le quiz. À Gettysburg, quel usage moderne entretient la mémoire des trois jours de bataille de 1863 ?","type":"audio"},{"category":"traditions","choices":["Ils demandent la permission d'entrer au musée","Ils participent à un concours d'écriture","Ils s'excusent de l'avoir photographié ou de s'en être moqué après des malchances attribuées à la poupée","Ils cherchent à acheter la poupée"],"correctIndex":2,"difficulty":"intermediaire","explanation":"Robert, poupée de chiffon du début du XXe siècle, reçoit des lettres d'excuses affichées près de sa vitrine : la politesse envers l'objet est devenue le rituel central de sa légende.","id":"traditions-0190","media":{"alt":"Illustration d'une lettre ancienne scellée à la cire","credit":"Illustration originale du projet Quiz Halloween","kind":"image","licence":"CC0","src":"/media/lettre-gothique.svg"},"question":"Cette lettre ancienne évoque les excuses adressées à Robert the Doll, au Fort East Martello Museum de Key West. Pourquoi des visiteurs lui écrivent-ils ?","type":"image"},{"category":"traditions","choices":["Le phare","Le bloc D","La chapelle des officiers","Les jardins des gardiens"],"correctIndex":1,"difficulty":"difficile","explanation":"Les cellules d'isolement du bloc D, notamment la 14D, sont au centre des visites nocturnes et témoignages rapportés. L'île ajoute à la peur son histoire carcérale et son isolement dans la baie.","id":"traditions-0191","media":{"kind":null},"question":"À Alcatraz, quel secteur de cages d'isolement concentre de nombreux récits de voix et de froid surnaturels ?","type":"texte"},{"category":"traditions","choices":["Un laboratoire d'alchimie royal","Une salle de dissection victorienne","Un tribunal de sorcières marin","Une chambre de torture et des cachots liés aux guerres frontalières anglo-écossaises"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Château frontalier fortifié, Chillingham met en avant cachots, marques de prisonniers et instruments de torture, tout en cultivant une réputation de château très hanté.","id":"traditions-0192","media":{"kind":null},"question":"À Chillingham Castle, dans le Northumberland, quelle ancienne fonction sinistre est montrée aux visiteurs ?","type":"texte"},{"category":"traditions","choices":["Trois fantômes seulement","Exactement sept fantômes","Aucun, le château refuse la légende","Une centaine de fantômes revendiqués"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Dragsholm aime annoncer environ cent esprits, dont la comtesse grise et une jeune femme murée selon la légende. Le chiffre relève du folklore de château-hôtel plus que d'un recensement possible.","id":"traditions-0193","media":{"kind":null},"question":"Au château danois de Dragsholm, combien de fantômes la tradition touristique revendique-t-elle, parmi lesquels une comtesse grise et une dame blanche ?","type":"texte"},{"category":"traditions","choices":["Un corbeau à deux têtes","Un chien démoniaque nommé Malcanisen","Un cheval sans cavalier","Un chat de pierre vivant"],"correctIndex":1,"difficulty":"intermediaire","explanation":"La légende d'Akershus parle d'un chien enterré près d'une porte pour la protéger éternellement ; croiser son regard porterait malheur, charme sinistre pour une forteresse médiévale devenue musée.","id":"traditions-0194","media":{"kind":null},"question":"À Akershus, forteresse d'Oslo, quel animal fantomatique est censé garder un trésor et annoncer la mort à qui le voit de face ?","type":"texte"},{"category":"traditions","choices":["Un roi y fut assassiné","Elle fut construite sur un cimetière romain prouvé","Le psychical researcher Harry Price y popularisa religieuse fantôme, bruits et apparitions dès 1929","Elle abrita le procès de sorcières le plus long"],"correctIndex":2,"difficulty":"difficile","explanation":"Harry Price loue Borley, publie ses enquêtes et fixe le surnom dans la culture populaire. Le presbytère brûle en 1939 ; la Society for Psychical Research questionnera ensuite plusieurs témoignages.","id":"traditions-0195","media":{"kind":null},"question":"Pourquoi Borley Rectory, en Angleterre, fut-il surnommé « la maison la plus hantée d'Angleterre » ?","type":"texte"},{"category":"traditions","choices":["Le corbeau de « The Birds »","La tombe de « Forrest Gump »","La statue « Bird Girl » de « Minuit dans le jardin du bien et du mal »","Le portail de « True Blood »"],"correctIndex":2,"difficulty":"intermediaire","explanation":"La couverture du livre de John Berendt et le film de Clint Eastwood ont fait de Bonaventure et de sa Bird Girl — depuis déplacée au musée pour protection — une destination littéraire.","id":"traditions-0196","media":{"kind":null},"question":"Le Bonaventure Cemetery de Savannah est devenu mondialement visible grâce à quelle couverture d'ouvrage et adaptation ?","type":"texte"},{"category":"traditions","choices":["L'Old City Jail","Le Fort Sumter","La Powder Magazine","Le Dock Street Theatre"],"correctIndex":0,"difficulty":"difficile","explanation":"L'Old City Jail a enfermé pirates, prisonniers de guerre et détenus dans des conditions dures. Lavinia Fisher, aubergiste exécutée en 1820, y est associée par la tradition, même si plusieurs détails de ses crimes sont légendaires.","id":"traditions-0197","media":{"kind":null},"question":"À Charleston, quelle ancienne institution carcérale attire les visites fantômes par son histoire de prisonniers et de la « dame en blanc » Lavinia Fisher ?","type":"texte"},{"category":"traditions","choices":["Un miroir qui ne reflète que la nuit","Un miroir offert par Marie Laveau","Un miroir brisé par un ouragan célèbre","Un miroir qui retiendrait les reflets de Sara Woodruff et de ses enfants empoisonnés"],"correctIndex":3,"difficulty":"intermediaire","explanation":"La légende affirme qu'un miroir des Myrtles conserve traces et silhouettes liées à des empoisonnements attribués à Chloé, femme esclavagisée. Historiens et sceptiques contestent de nombreux éléments du récit touristique.","id":"traditions-0198","media":{"kind":null},"question":"Aux Myrtles Plantation, en Louisiane, quel objet est au centre d'une célèbre légende de miroir ?","type":"texte"},{"category":"traditions","choices":["Des « fours de pierre » uniquement","Des « maisons de jazz »","Des « cités des morts »","Des « chapelles verticales »"],"correctIndex":2,"difficulty":"difficile","explanation":"Les alignements de tombeaux surélevés ressemblent à de petites rues blanches : La Nouvelle-Orléans parle de ses cimetières comme de cities of the dead, expression devenue emblème touristique.","id":"traditions-0199","media":{"kind":null},"question":"Dans le cimetière de St. Louis Cemetery No. 3 ou dans les visites de La Nouvelle-Orléans, quel surnom collectif donne-t-on aux rangées de caveaux blanchis ?","type":"texte"},{"category":"traditions","choices":["La Citadelle de Québec","Le Château Frontenac","La Maison de la littérature","Le Morrin Centre"],"correctIndex":3,"difficulty":"intermediaire","explanation":"Le Morrin Centre occupe l'ancienne prison commune de Québec, où des visites montrent cellules et graffitis de détenus ; le bâtiment accueille maintenant la Literary and Historical Society of Quebec.","id":"traditions-0200","media":{"kind":null},"question":"À Québec, quel bâtiment du Vieux-Québec, aujourd'hui centre culturel anglophone et bibliothèque, fut une prison commune au XIXe siècle ?","type":"texte"}]
+[
+ {
+  "id": "traditions-0001",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Écoute la sonnette d'une porte, un soir d'Halloween. Que crient les enfants en France le soir d'Halloween quand on leur ouvre la porte ?",
+  "choices": [
+   "Joyeux Halloween, merci !",
+   "Des bonbons ou un sort !",
+   "Trick ou friandise surprise !",
+   "Donnez-moi un chocolat chaud !"
+  ],
+  "correctIndex": 1,
+  "explanation": "C'est la traduction de « trick or treat » : un bonbon, sinon gare au petit sort (gentil, promis).",
+  "media": {
+   "kind": "audio",
+   "src": "/media/sonnette-porte.wav",
+   "alt": "Sonnette de porte synthétisée",
+   "credit": "Synthèse originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0002",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En anglais, que veut dire « trick or treat » mot à mot ?",
+  "choices": [
+   "Un déguisement ou un décor",
+   "Un fantôme ou une sorcière",
+   "Une citrouille ou une bougie",
+   "Un sort ou une friandise"
+  ],
+  "correctIndex": 3,
+  "explanation": "« Trick », c'est la farce, « treat », c'est la gâterie. Le marché est clair et plutôt en faveur des bonbons.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0003",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Avant le trick-or-treat moderne, les enfants écossais et irlandais pratiquaient le « guising ». Que faisaient-ils ?",
+  "choices": [
+   "Ils sculptaient des citrouilles géantes en équipe",
+   "Ils se déguisaient et offraient un petit spectacle contre une récompense",
+   "Ils allumaient des feux de joie toute la nuit",
+   "Ils échangeaient leurs costumes à minuit"
+  ],
+  "correctIndex": 1,
+  "explanation": "Chanson, blague ou poème contre une friandise : le bonbon se méritait déjà à l'époque.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0004",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans la vieille tradition du « souling », que recevaient les visiteurs qui priaient pour les âmes des morts ?",
+  "choices": [
+   "Des bougies parfumées",
+   "Des bonbons à la menthe",
+   "Des pommes caramélisées géantes",
+   "Des soul cakes, petits gâteaux ronds"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ces petits gâteaux sont un ancêtre lointain de nos tournées de bonbons. Moins de chocolat, beaucoup plus de prières.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0005",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À quelle ancienne fête celtique rattache-t-on souvent les origines d'Halloween ?",
+  "choices": [
+   "Beltane",
+   "Lughnasadh",
+   "Imbolc",
+   "Samhain"
+  ],
+  "correctIndex": 3,
+  "explanation": "Samhain marquait la fin des récoltes et un moment où le monde des esprits semblait plus proche. Ambiance parfaite pour inventer Halloween.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0006",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Selon la tradition ancienne, pourquoi se déguisait-on le soir d'Halloween ?",
+  "choices": [
+   "Pour se fondre parmi les esprits ou les effrayer",
+   "Pour gagner un concours de costumes",
+   "Pour rester au chaud en automne",
+   "Pour représenter son métier"
+  ],
+  "correctIndex": 0,
+  "explanation": "Masque de monstre contre vrais monstres : l'idée était de passer incognito. Aujourd'hui, c'est surtout pour les photos.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0007",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment appelle-t-on une citrouille sculptée et illuminée pour Halloween ?",
+  "choices": [
+   "Une ghost squash",
+   "Une pumpkin pie",
+   "Une jack-o'-lantern",
+   "Une lanterne de Samhain dorée"
+  ],
+  "correctIndex": 2,
+  "explanation": "Avec son sourire édenté, c'est LA star du perron le 31 octobre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0008",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans la légende irlandaise, qui est le fameux Jack qui aurait donné son nom à la jack-o'-lantern ?",
+  "choices": [
+   "Un forgeron radin condamné à errer avec une lanterne",
+   "Un roi qui adorait les citrouilles",
+   "Un marin perdu un soir de tempête",
+   "Un jardinier qui cultivait les plus grosses courges"
+  ],
+  "correctIndex": 0,
+  "explanation": "Stingy Jack, Jack le Radin, aurait roulé tout le monde, même le diable. Il finit avec une braise dans un légume creusé pour éclairer sa route.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0009",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Irlande, avant que la citrouille américaine ne s'impose, dans quel légume creusait-on les lanternes d'Halloween ?",
+  "choices": [
+   "Le concombre",
+   "La courgette",
+   "L'aubergine",
+   "La betterave fourragère ou le navet"
+  ],
+  "correctIndex": 3,
+  "explanation": "Petit, dur et franchement moins glamour que la citrouille. Les immigrés irlandais ont vite adopté la grosse courge orange d'Amérique.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0010",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "En ordre de grandeur, combien pesait la plus grosse citrouille jamais pesée au monde ?",
+  "choices": [
+   "Environ 120 kg",
+   "Environ 400 kg",
+   "Environ 12 kg",
+   "Plus de 1 200 kg"
+  ],
+  "correctIndex": 3,
+  "explanation": "En 2023, la citrouille de l'Américain Travis Gienger a atteint environ 1 247 kg, soit plus qu'une petite voiture. Impossible à mettre sur un perron.",
+  "media": {
+   "kind": "image",
+   "src": "/media/citrouille-geante.svg",
+   "alt": "Illustration d'une citrouille géante de concours",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0011",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que font les artistes de la sculpture sur citrouille pour Halloween ?",
+  "choices": [
+   "Ils gravent des visages et des scènes détaillées dans la chair",
+   "Ils peignent uniquement des citrouilles blanches",
+   "Ils transforment les citrouilles en bougies parfumées",
+   "Ils font pousser des citrouilles carrées"
+  ],
+  "correctIndex": 0,
+  "explanation": "Portraits, monstres ou paysages : certains chefs-d'œuvre éphémères disparaissent en quelques jours. Mieux vaut prendre la photo tout de suite.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0012",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelles épices parfument classiquement la tarte à la citrouille nord-américaine ?",
+  "choices": [
+   "Cumin, paprika et origan",
+   "Cannelle, muscade et gingembre",
+   "Vanille, café et cardamome verte uniquement",
+   "Menthe, basilic et citronnelle"
+  ],
+  "correctIndex": 1,
+  "explanation": "C'est le mélange « pumpkin spice » qu'on retrouve partout à l'automne, du latté à la bougie.",
+  "media": {
+   "kind": "image",
+   "src": "/media/tarte-citrouille.svg",
+   "alt": "Illustration d'une tarte à la citrouille",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0013",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait-on souvent des graines récupérées en sculptant une citrouille ?",
+  "choices": [
+   "On les grille au four avec un peu de sel",
+   "On les jette obligatoirement avant minuit",
+   "On les offre aux voisins en échange de bonbons",
+   "On les transforme en confettis"
+  ],
+  "correctIndex": 0,
+  "explanation": "Croustillantes et dorées, c'est le petit bonus anti-gaspillage de la séance de sculpture.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0014",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Aux États-Unis, qu'est-ce qu'un « pumpkin patch » visité en famille à l'automne ?",
+  "choices": [
+   "Un atelier de couture pour costumes",
+   "Un champ où l'on choisit sa citrouille sur place",
+   "Un marché de bonbons anciens",
+   "Un cimetière décoré de citrouilles"
+  ],
+  "correctIndex": 1,
+  "explanation": "On repart avec la citrouille parfaite, des photos plein le téléphone et souvent un beigne aux pommes en prime.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0015",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "La ville de Keene, au New Hampshire, est célèbre pour quel record festif d'Halloween ?",
+  "choices": [
+   "Le plus de maisons décorées en noir et orange",
+   "La plus longue file de sorcières à vélo",
+   "Le plus de citrouilles illuminées réunies au même endroit",
+   "Le plus grand bol de candy corn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lors de son festival, Keene a réuni plus de 30 000 citrouilles allumées en même temps, notamment en 2013. Toute la ville brillait comme un immense sourire orange.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0016",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel pays célèbre-t-on le Día de los Muertos, la fête des morts colorée et festive ?",
+  "choices": [
+   "Au Mexique",
+   "Au Japon",
+   "En Roumanie",
+   "Au Canada"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fleurs, musique et souvenirs joyeux : on y honore les proches disparus dans une ambiance de fête.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0017",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pendant le Día de los Muertos, qu'appelle-t-on une « ofrenda » ?",
+  "choices": [
+   "Une danse exécutée dans les cimetières",
+   "Un costume traditionnel de squelette",
+   "Un autel garni de photos, de fleurs et d'offrandes pour les défunts",
+   "Un pain sucré en forme de crâne"
+  ],
+  "correctIndex": 2,
+  "explanation": "On y dépose les plats et objets aimés des disparus pour les accueillir le temps de la fête.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0018",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle fleur orange vif couvre les ofrendas et les tombes pendant le Día de los Muertos ?",
+  "choices": [
+   "Le souci (cempasúchil)",
+   "La tulipe",
+   "Le tournesol",
+   "L'orchidée"
+  ],
+  "correctIndex": 0,
+  "explanation": "On dit que sa couleur éclatante et son parfum guident les âmes vers les autels. Difficile de le manquer.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0019",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que sont les « calaveras de azúcar » du Día de los Muertos ?",
+  "choices": [
+   "Des bougies en forme de fleurs",
+   "Des masques en bois sculpté",
+   "Des crânes en sucre décorés de couleurs vives",
+   "Des petits tambours de fête"
+  ],
+  "correctIndex": 2,
+  "explanation": "Souvent personnalisés d'un prénom, ils se mangent ou décorent l'ofrenda. La mort, version confiserie.",
+  "media": {
+   "kind": "image",
+   "src": "/media/crane-sucre.svg",
+   "alt": "Illustration d'un crâne en sucre décoré du Día de los Muertos",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0020",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel film d'animation Pixar se déroule pendant le Día de los Muertos ?",
+  "choices": [
+   "Luca",
+   "Soul",
+   "Coco",
+   "Vice-versa"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le jeune Miguel y traverse le Pays des Morts au son de la guitare. Préparez les mouchoirs.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0021",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle le pain sucré traditionnel du Día de los Muertos, décoré de bandes en forme d'os ?",
+  "choices": [
+   "La rosca dulce",
+   "La concha",
+   "Le churro",
+   "Le pan de muerto"
+  ],
+  "correctIndex": 3,
+  "explanation": "Moelleux, parfumé à la fleur d'oranger et saupoudré de sucre : c'est l'invité sucré des ofrendas.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0022",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quand célèbre-t-on principalement le Día de los Muertos ?",
+  "choices": [
+   "Le 31 octobre uniquement",
+   "Les 1er et 2 novembre",
+   "Le dernier dimanche d'octobre",
+   "Le 25 décembre"
+  ],
+  "correctIndex": 1,
+  "explanation": "Juste après Halloween : le 1er honore surtout les enfants disparus, le 2 les adultes.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0023",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui est « La Catrina », figure emblématique du Día de los Muertos ?",
+  "choices": [
+   "La gardienne légendaire des cimetières de Mexico",
+   "Une chanteuse célèbre des années 1920",
+   "Un squelette féminin élégant coiffé d'un grand chapeau",
+   "Une déesse aztèque des fleurs"
+  ],
+  "correctIndex": 2,
+  "explanation": "Créée comme une satire des élites, elle est devenue le visage maquillé le plus copié de la fête.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0024",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel État américain se trouve Salem, la célèbre « ville des sorcières » ?",
+  "choices": [
+   "En Louisiane",
+   "Au Massachusetts",
+   "Dans l'État de New York",
+   "En Pennsylvanie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Petite ville côtière près de Boston, énorme réputation dès que le mois d'octobre arrive.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0025",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi Salem attire-t-elle des foules monstres chaque mois d'octobre ?",
+  "choices": [
+   "Son histoire de procès de sorcières est devenue un grand festival d'Halloween",
+   "On y cultive les plus grosses citrouilles du pays",
+   "C'est là qu'a été inventé le candy corn",
+   "Tous ses habitants se déguisent en sorcières à l'année"
+  ],
+  "correctIndex": 0,
+  "explanation": "Musées, visites hantées et défilés : la ville assume son passé avec le festival Haunted Happenings.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0026",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que peut-on visiter à Salem pour découvrir son histoire des sorcières ?",
+  "choices": [
+   "Un parc d'attractions entièrement souterrain",
+   "Des musées et des lieux historiques dédiés aux procès",
+   "Le plus vieux magasin de bonbons au monde",
+   "Un château médiéval importé d'Europe"
+  ],
+  "correctIndex": 1,
+  "explanation": "Expositions et mémorial rendent aussi hommage aux victimes. On peut frissonner et réfléchir en même temps.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0027",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Où se trouve la Transylvanie, terre légendaire de Dracula ?",
+  "choices": [
+   "En Pologne",
+   "En Hongrie",
+   "En Bulgarie",
+   "En Roumanie"
+  ],
+  "correctIndex": 3,
+  "explanation": "Montagnes, forêts de sapins et villages médiévaux : le décor de carte postale, version brume du soir.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0028",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel château roumain attire les fans de Dracula du monde entier ?",
+  "choices": [
+   "Le château d'Édimbourg",
+   "Le château de Neuschwanstein",
+   "Le château de Bran",
+   "Le château de Versailles"
+  ],
+  "correctIndex": 2,
+  "explanation": "Perché sur son rocher, il organise même des soirées d'Halloween. Ambiance garantie, vampires non garantis.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0029",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que sait-on du lien entre le château de Bran et le Dracula du roman de Bram Stoker ?",
+  "choices": [
+   "C'est surtout un lien touristique : le château ressemble au décor imaginé par les lecteurs",
+   "Bram Stoker y a vécu dix ans",
+   "Le comte Dracula historique y est né",
+   "Le roman y a été imprimé pour la première fois"
+  ],
+  "correctIndex": 0,
+  "explanation": "Stoker ne serait jamais venu en Roumanie, mais Bran coche toutes les cases du château de vampire parfait.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0030",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À quel personnage historique associe-t-on souvent l'inspiration de Dracula ?",
+  "choices": [
+   "À un médecin londonien victorien",
+   "À un comte transylvain amateur de théâtre",
+   "À Vlad l'Empaleur, prince de Valachie",
+   "À un roi de Hongrie du Moyen Âge"
+  ],
+  "correctIndex": 2,
+  "explanation": "Son surnom « Dracula » et sa réputation redoutable ont nourri la légende, même si le roman reste une fiction.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0031",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que sont les Catacombes de Paris, très visitées toute l'année ?",
+  "choices": [
+   "Les cachots d'un château parisien disparu",
+   "D'anciennes caves à bonbons du XIXe siècle",
+   "Un réseau de métro abandonné décoré pour Halloween",
+   "Un immense ossuaire souterrain sous la ville"
+  ],
+  "correctIndex": 3,
+  "explanation": "Des galeries tapissées d'ossements d'anciens cimetières parisiens : frissons réels, aucun acteur nécessaire.",
+  "media": {
+   "kind": "image",
+   "src": "/media/ossuaire.svg",
+   "alt": "Illustration d'un ossuaire souterrain",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0032",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi a-t-on créé les Catacombes de Paris à l'origine ?",
+  "choices": [
+   "Pour cacher un trésor royal",
+   "Pour transférer les os des cimetières parisiens surpeuplés",
+   "Pour servir de décor de fête souterraine",
+   "Pour stocker des citrouilles l'hiver"
+  ],
+  "correctIndex": 1,
+  "explanation": "Une solution très pragmatique à un problème d'hygiène devenu, avec le temps, le lieu le plus macabre de Paris.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0033",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment décrire le vaudou de La Nouvelle-Orléans avec respect ?",
+  "choices": [
+   "Un spectacle inventé pour les touristes",
+   "Un simple déguisement d'Halloween local",
+   "Une tradition spirituelle afro-caribéenne vivante, bien loin des clichés de films",
+   "Une société secrète de magiciens de scène"
+  ],
+  "correctIndex": 2,
+  "explanation": "Musique, ancêtres et communauté en sont le cœur. Les poupées de cinéma, c'est surtout Hollywood.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0034",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle ville de Louisiane est réputée pour ses défilés et ses fêtes de rue à Halloween ?",
+  "choices": [
+   "Sleepy Hollow",
+   "Salem",
+   "La Nouvelle-Orléans",
+   "Keene"
+  ],
+  "correctIndex": 2,
+  "explanation": "Krewe of Boo, costumes extravagants et Quartier français en fête : la ville sait recevoir, même les fantômes.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0035",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui était Marie Laveau, figure légendaire de La Nouvelle-Orléans ?",
+  "choices": [
+   "La première maire de la ville",
+   "La fondatrice du carnaval de la ville",
+   "Une chanteuse de jazz des années 1920",
+   "Une célèbre praticienne vaudou du XIXe siècle, surnommée « reine du vaudou »"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sa tombe au cimetière Saint-Louis attire encore les visiteurs. Légendes et histoire s'y mélangent joyeusement.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0036",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pourquoi plusieurs tombes de La Nouvelle-Orléans sont-elles construites au-dessus du sol ?",
+  "choices": [
+   "Pour les protéger des vampires, selon la légende",
+   "Parce que la nappe phréatique est très haute dans la ville",
+   "Pour pouvoir les décorer plus facilement à Halloween",
+   "Parce que le sol est fait de roche volcanique"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ces petites « cités des morts » en pierre donnent aux cimetières leur allure unique, très photographiée en octobre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0037",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel État se trouve le village de Sleepy Hollow, rendu célèbre par le Cavalier sans tête ?",
+  "choices": [
+   "Dans l'Ohio",
+   "Au Massachusetts",
+   "En Virginie",
+   "Dans l'État de New York"
+  ],
+  "correctIndex": 3,
+  "explanation": "À moins d'une heure de Manhattan, le village joue à fond la carte de sa légende chaque automne.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0038",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui poursuit Ichabod Crane dans « La Légende de Sleepy Hollow » ?",
+  "choices": [
+   "Une sorcière de Salem",
+   "Le Cavalier sans tête",
+   "Le comte Dracula",
+   "Un loup-garou de Transylvanie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il galope la nuit avec, selon les versions, sa tête sous le bras ou une citrouille enflammée à lancer.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0039",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a écrit « La Légende de Sleepy Hollow » ?",
+  "choices": [
+   "Mary Shelley",
+   "Bram Stoker",
+   "Washington Irving",
+   "Edgar Allan Poe"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ce conte américain est devenu un classique d'automne, adapté en dessins animés et en films.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0040",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Au Japon, qu'est-ce que la fête d'Obon ?",
+  "choices": [
+   "Une fête estivale qui honore les esprits des ancêtres",
+   "Une fête des cerisiers au printemps",
+   "Un festival de costumes d'Halloween importé",
+   "Une parade de citrouilles géantes"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les familles se réunissent, visitent les tombes et dansent pour accueillir les ancêtres quelques jours.",
+  "media": {
+   "kind": "image",
+   "src": "/media/lanterne-papier.svg",
+   "alt": "Illustration de lanternes de papier pour une fête des ancêtres",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0041",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appellent les danses collectives en cercle exécutées pendant Obon au Japon ?",
+  "choices": [
+   "Le Bon Odori",
+   "Le Kabuki d'été",
+   "La danse des lanternes rouges",
+   "Le Matsuri Jump"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tout le monde peut se joindre au cercle, même avec deux pieds gauches. L'ambiance prime sur la technique.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0042",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que fait-on flotter sur l'eau à la fin d'Obon lors du Toro Nagashi ?",
+  "choices": [
+   "Des fleurs de cerisier séchées",
+   "Des citrouilles creusées avec des bougies",
+   "Des bateaux miniatures remplis de bonbons",
+   "Des lanternes en papier pour guider les esprits des ancêtres"
+  ],
+  "correctIndex": 3,
+  "explanation": "Des centaines de petites lumières dérivent doucement : c'est le moment le plus poétique de la fête.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0043",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En Chine, que fait-on traditionnellement pendant la Fête des fantômes (Zhongyuan) ?",
+  "choices": [
+   "On sculpte des lanternes en navet",
+   "On offre de la nourriture et de l'encens aux esprits et aux ancêtres",
+   "On organise des chasses aux bonbons déguisées",
+   "On allume des feux de joie sur les plages"
+  ],
+  "correctIndex": 1,
+  "explanation": "Petits autels et offrandes nourrissent symboliquement les esprits de passage. Respect et générosité sont au menu.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0044",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Selon la tradition de la Fête des fantômes en Chine, que se passe-t-il pendant le « mois des fantômes » ?",
+  "choices": [
+   "Les fantômes gardent les champs de citrouilles",
+   "Les ancêtres choisissent une nouvelle maison pour la famille",
+   "Les esprits des morts visiteraient le monde des vivants",
+   "Les esprits éteignent toutes les lanternes des villes"
+  ],
+  "correctIndex": 2,
+  "explanation": "On évite certaines activités porte-malheur ce mois-là, un peu comme un vendredi 13 qui durerait quatre semaines.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0045",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans une maison hantée commerciale, qui fait sursauter les visiteurs le long du parcours ?",
+  "choices": [
+   "Les autres visiteurs déguisés en cachette",
+   "Des comédiens maquillés qui jouent les monstres",
+   "De vrais fantômes salariés à l'heure",
+   "Uniquement des robots et des mannequins"
+  ],
+  "correctIndex": 1,
+  "explanation": "Leur règle d'or : effrayer sans jamais toucher les visiteurs. Le cri est autorisé, la fuite aussi.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0046",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que proposent les grands parcs d'attractions pendant leurs soirées spéciales d'Halloween ?",
+  "choices": [
+   "Des parades de Noël en avance",
+   "Des labyrinthes hantés et des zones de peur inspirées de films d'horreur",
+   "Des cours de sculpture de citrouilles obligatoires",
+   "Une distribution gratuite de tous les bonbons du parc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Des événements comme Halloween Horror Nights transforment les parcs en plateaux de cinéma effrayants, réservés aux cœurs solides.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0047",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle est la règle de sécurité la plus connue dans une maison hantée commerciale ?",
+  "choices": [
+   "Les monstres ne vous touchent pas, et vous ne les touchez pas non plus",
+   "Il faut courir le plus vite possible jusqu'à la sortie",
+   "Les téléphones doivent sonner en mode fantôme",
+   "Il faut fermer les yeux pendant tout le parcours"
+  ],
+  "correctIndex": 0,
+  "explanation": "Un pacte simple entre monstres et visiteurs pour que tout le monde reparte avec des frissons, pas des bobos.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0048",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que signifie une citrouille turquoise (« teal pumpkin ») déposée devant une maison à Halloween ?",
+  "choices": [
+   "Les citrouilles y sont peintes par des artistes professionnels",
+   "La maison distribue uniquement des bonbons bleus",
+   "C'est la maison du maire du quartier",
+   "On y offre des surprises non alimentaires, pensées pour les enfants allergiques"
+  ],
+  "correctIndex": 3,
+  "explanation": "Autocollants, petits jouets ou crayons : tout le monde peut remplir son seau, allergies ou pas.",
+  "media": {
+   "kind": "image",
+   "src": "/media/citrouille-turquoise.svg",
+   "alt": "Illustration d'une citrouille turquoise",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0049",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que font prudemment bien des parents au retour de la tournée d'Halloween ?",
+  "choices": [
+   "Ils échangent tout contre des légumes",
+   "Ils pèsent chaque bonbon au gramme près",
+   "Ils inspectent les bonbons et jettent ceux dont l'emballage est ouvert ou abîmé",
+   "Ils cachent le sac jusqu'à Noël"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le tri parental est un rituel en soi. Certains en profitent pour prélever une petite « taxe » en chocolat.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0050",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel accessoire lumineux aide les enfants à être vus des automobilistes pendant la tournée du soir ?",
+  "choices": [
+   "Des chaussures à semelles silencieuses",
+   "Un chapeau de sorcière à paillettes uniquement",
+   "Une citrouille en plastique non éclairée",
+   "Une lampe de poche ou des bandes réfléchissantes sur le costume"
+  ],
+  "correctIndex": 3,
+  "explanation": "Briller comme une petite luciole, c'est le vrai super-pouvoir du 31 octobre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0051",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À quelles maisons les enfants frappent-ils en priorité pendant le trick-or-treat ?",
+  "choices": [
+   "Celles avec la lumière du porche allumée et des décorations",
+   "Celles dont toutes les lumières sont éteintes",
+   "Uniquement les maisons sans décoration",
+   "Celles qui ont un chien qui aboie très fort"
+  ],
+  "correctIndex": 0,
+  "explanation": "Porche allumé = « bienvenue aux petits monstres ». Porche éteint = on passe son chemin poliment.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0052",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelles sont les trois couleurs du candy corn, le bonbon triangulaire emblématique d'Halloween aux États-Unis ?",
+  "choices": [
+   "Rouge, blanc et bleu",
+   "Blanc, orange et jaune",
+   "Noir, orange et violet",
+   "Vert, jaune et rose"
+  ],
+  "correctIndex": 1,
+  "explanation": "Empilées, ses couleurs imitent un grain de maïs d'automne. On adore ou on déteste, rarement entre les deux.",
+  "media": {
+   "kind": "image",
+   "src": "/media/candy-corn.svg",
+   "alt": "Illustration de bonbons candy corn tricolores",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0053",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que imite la forme du candy corn ?",
+  "choices": [
+   "Une dent de vampire",
+   "Un grain de maïs",
+   "Une mini-citrouille",
+   "Un chapeau de sorcière"
+  ],
+  "correctIndex": 1,
+  "explanation": "« Corn » veut dire maïs en anglais américain. Le bonbon assume son côté récolte d'automne.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0054",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel duo de saveurs rend les Reese's Peanut Butter Cups si reconnaissables ?",
+  "choices": [
+   "Fraise et crème",
+   "Caramel et café",
+   "Menthe et chocolat noir",
+   "Beurre d'arachide et chocolat au lait"
+  ],
+  "correctIndex": 3,
+  "explanation": "La petite coupe de chocolat fourrée est régulièrement citée parmi les bonbons d'Halloween préférés et les plus échangés entre enfants.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0055",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle est la particularité d'une barre Kit Kat quand on la mange « dans les règles » ?",
+  "choices": [
+   "On la mange toujours congelée",
+   "On la fait fondre dans un chocolat chaud",
+   "On casse les doigts de gaufrette un par un",
+   "On enlève le chocolat pour ne garder que la gaufrette"
+  ],
+  "correctIndex": 2,
+  "explanation": "Son slogan invite à faire une pause. À Halloween, les mini-formats partent en quelques bouchées.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0056",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans les échanges de bonbons entre enfants après la tournée, qu'est-ce qui a le plus de valeur ?",
+  "choices": [
+   "Les brochures publicitaires glissées dans les sacs",
+   "Les emballages vides collectionnés",
+   "Les bonbons à la réglisse noire pour tout le monde",
+   "Les chocolats populaires comme Reese's et Kit Kat, troqués contre les bonbons moins aimés"
+  ],
+  "correctIndex": 3,
+  "explanation": "C'est une vraie petite bourse du sucre sur le tapis du salon. Certains négocient comme des pros.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0057",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle distribution insolite, devenue une blague classique d'Halloween, certains foyers réservent-ils aux enfants ?",
+  "choices": [
+   "Une part de tarte aux épinards",
+   "Un chou de Bruxelles emballé comme un bonbon",
+   "Un devoir de mathématiques supplémentaire",
+   "Une brosse à dents ou un petit dentifrice à la place des bonbons"
+  ],
+  "correctIndex": 3,
+  "explanation": "Souvent l'œuvre d'un dentiste du quartier, mi-farce, mi-prévention. Les enfants s'en souviennent des années.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0058",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que trouve-t-on parfois dans les sacs d'Halloween à la place des bonbons, au grand désespoir des enfants ?",
+  "choices": [
+   "Des parts de tarte à la citrouille",
+   "Des barres de chocolat géantes",
+   "Des petites boîtes de raisins secs",
+   "Des pommes d'amour maison"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sains, oui. Mais dans la hiérarchie du troc, la boîte de raisins secs finit presque toujours dernière.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0059",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle maison devient légendaire dans un quartier le soir d'Halloween ?",
+  "choices": [
+   "Celle qui ne donne que des dépliants",
+   "Celle qui éteint toutes ses lumières dès 18 h",
+   "Celle qui distribue des barres de chocolat grand format",
+   "Celle qui demande un mot de passe aux enfants"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les « full-size candy bars » font courir tout le quartier. Son adresse se transmet comme un trésor.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0060",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que contient un bol laissé sur le porche avec le mot « Servez-vous, un seul par enfant, s'il vous plaît » ?",
+  "choices": [
+   "Des bonbons en libre-service pendant que les occupants sont absents ou occupés",
+   "Des citrouilles miniatures décoratives",
+   "Des invitations pour une fête de Noël",
+   "Uniquement des emballages vides pour rire"
+  ],
+  "correctIndex": 0,
+  "explanation": "C'est le test d'honnêteté le plus sucré de l'année. Les caméras de sonnette racontent souvent la suite.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0061",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Aux États-Unis, qu'est-ce que le « trunk-or-treat » organisé sur les stationnements d'écoles ou d'églises ?",
+  "choices": [
+   "Les enfants font le tour de coffres de voiture décorés pour recevoir des bonbons",
+   "Une course de voitures déguisées en citrouilles",
+   "Un échange de costumes usagés entre familles",
+   "Un concours de coffres remplis de décorations"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pratique et sécuritaire, la tournée se fait en boucle sur un stationnement transformé en village d'Halloween.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0062",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Allemagne, que disent les enfants pour l'équivalent de « des bonbons ou un sort » ?",
+  "choices": [
+   "« Geister oder Geschenke ! »",
+   "« Kürbis oder Kuchen ! »",
+   "« Süßes oder Saures ! » (du sucré ou de l'aigre)",
+   "« Hexe oder Herbst ! »"
+  ],
+  "correctIndex": 2,
+  "explanation": "La même menace mignonne, version germanophone : des douceurs, sinon gare à la grimace.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0063",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Au Japon, comment Halloween est-il surtout célébré dans les grandes villes comme Tokyo ?",
+  "choices": [
+   "Par de grands rassemblements costumés, notamment à Shibuya",
+   "Par une tournée de bonbons dans tous les villages",
+   "Par la sculpture obligatoire d'une citrouille par famille",
+   "Par une journée de silence dans les temples"
+  ],
+  "correctIndex": 0,
+  "explanation": "Moins de porte-à-porte, plus de cosplay géant dans la rue. Les costumes y sont spectaculaires.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0064",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Pour le Día de los Muertos, en quoi consiste le maquillage le plus populaire ?",
+  "choices": [
+   "Des paillettes dorées sur les joues uniquement",
+   "Un visage entièrement orange comme une citrouille",
+   "Un visage peint en crâne fleuri inspiré des calaveras",
+   "Un masque de luchador traditionnel"
+  ],
+  "correctIndex": 2,
+  "explanation": "Yeux cerclés de pétales et détails colorés : le crâne devient une œuvre d'art festive.",
+  "media": {
+   "kind": "image",
+   "src": "/media/parade-squelettes.svg",
+   "alt": "Illustration d'une parade de squelettes festifs",
+   "credit": "Illustration originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0065",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel déguisement revient presque chaque année parmi les favoris des enfants nord-américains ?",
+  "choices": [
+   "Le facteur en tournée",
+   "Le comptable en cravate",
+   "La sorcière au chapeau pointu",
+   "Le présentateur météo"
+  ],
+  "correctIndex": 2,
+  "explanation": "Avec les super-héros et les princesses, c'est le trio indémodable des perrons du 31 octobre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0066",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle tradition de famille coordonnée fait fureur sur les photos d'Halloween ?",
+  "choices": [
+   "Toute la famille déguisée sur un même thème, bébé et chien compris",
+   "Chaque membre choisit le costume d'un autre en secret total",
+   "On ressort exactement le même costume dix ans de suite",
+   "On se déguise uniquement après minuit"
+  ],
+  "correctIndex": 0,
+  "explanation": "Super-héros, pirates ou personnages de film : plus le groupe est assorti, plus la photo fait le tour de la famille.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0067",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Australie, quelle particularité rend Halloween un peu spécial ?",
+  "choices": [
+   "La fête tombe au printemps austral, quand les jours rallongent",
+   "Les citrouilles y sont remplacées par des mangues sculptées",
+   "Le trick-or-treat y est interdit dans les grandes villes",
+   "On le célèbre le 30 juin"
+  ],
+  "correctIndex": 0,
+  "explanation": "Costumes de fantômes et fleurs printanières : Halloween y pousse doucement, avec un léger décalage de saison.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0068",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle boisson chaude aux pommes accompagne souvent les fêtes d'automne et les visites de vergers en Amérique du Nord ?",
+  "choices": [
+   "Le cidre de pomme chaud",
+   "Le chocolat à la menthe poivrée",
+   "Le lait doré au curcuma",
+   "Le thé glacé à la pêche"
+  ],
+  "correctIndex": 0,
+  "explanation": "Servi avec un beigne à la cannelle après la balade en charrette, c'est le goût officiel de l'automne.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0069",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce qu'un « corn maze » visité en famille pendant la saison d'Halloween ?",
+  "choices": [
+   "Un concours de dégustation de maïs grillé",
+   "Un labyrinthe taillé dans un champ de maïs",
+   "Un musée du maïs ancien",
+   "Une course d'orientation dans une citrouilleraie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le jour, c'est familial. La nuit, avec lampe de poche et bruissements, ça devient une autre histoire.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0070",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En quoi consiste le jeu traditionnel du « bobbing for apples » ?",
+  "choices": [
+   "Éplucher une pomme en une seule spirale",
+   "Lancer des pommes dans un panier de citrouilles",
+   "Attraper avec les dents des pommes qui flottent dans un bassin d'eau",
+   "Décorer des pommes comme des monstres"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mains interdites, fous rires garantis et visage trempé assuré. Un classique des fêtes d'automne.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0071",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle décoration géante est devenue virale dans les jardins nord-américains pour Halloween ?",
+  "choices": [
+   "Une araignée mécanique qui traverse la rue",
+   "Une citrouille gonflable de la taille d'une maison",
+   "Un fantôme lumineux visible depuis l'autoroute",
+   "Un squelette géant d'environ 12 pieds de haut"
+  ],
+  "correctIndex": 3,
+  "explanation": "Star des réseaux sociaux, il trône sur les pelouses dès septembre. Les voisins ne peuvent pas le manquer.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0072",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi met-on souvent une bougie LED plutôt qu'une vraie bougie dans les citrouilles aujourd'hui ?",
+  "choices": [
+   "La LED attire davantage les bonbons",
+   "La LED parfume la citrouille à la cannelle",
+   "La vraie bougie fait fuir les enfants",
+   "C'est plus sécuritaire, surtout avec des costumes et des feuilles sèches"
+  ],
+  "correctIndex": 3,
+  "explanation": "Même lueur vacillante, zéro risque d'incendie. Les pompiers approuvent, les citrouilles aussi.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0073",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que veut dire le surnom « pumpkin spice season » à l'automne en Amérique du Nord ?",
+  "choices": [
+   "La semaine officielle de la récolte des citrouilles",
+   "La période où les saveurs cannelle-muscade envahissent cafés, bougies et pâtisseries",
+   "Le moment où les citrouilles coûtent le moins cher",
+   "La fête des épices dans les marchés fermiers"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lattés, muffins et chandelles : dès septembre, tout goûte la tarte à la citrouille.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0074",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À Salem en octobre, que font des milliers de visiteurs en plus des visites historiques ?",
+  "choices": [
+   "Ils assistent à une course de balais officielle",
+   "Ils participent à des parades, marchés et soirées costumées du festival d'Halloween",
+   "Ils plantent des citrouilles sur la place publique",
+   "Ils élisent la sorcière de l'année au suffrage universel"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le festival Haunted Happenings dure tout le mois. Réserver tôt, car même les fantômes peinent à trouver une chambre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0075",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quelles montagnes se dresse le château de Bran, en Transylvanie ?",
+  "choices": [
+   "Dans les Pyrénées",
+   "Dans les Alpes",
+   "Dans les Carpates",
+   "Dans les Appalaches"
+  ],
+  "correctIndex": 2,
+  "explanation": "Forêts brumeuses et cols de montagne : le paysage lui-même semble tiré d'un roman gothique.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0076",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que propose le château de Bran autour d'Halloween pour les visiteurs adultes ?",
+  "choices": [
+   "Un banquet médiéval quotidien ouvert toute l'année",
+   "Un marathon de sculpture de citrouilles",
+   "Des visites nocturnes et des soirées costumées sur le thème de Dracula",
+   "Des cours de cuisine roumaine effrayante"
+  ],
+  "correctIndex": 2,
+  "explanation": "Couloirs sombres, cape conseillée, ail facultatif. C'est l'Halloween le plus « dans le décor » qui soit.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0077",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle prudence toute simple recommande-t-on pour les bonbons faits maison offerts par des inconnus ?",
+  "choices": [
+   "Les congeler pendant un an avant dégustation",
+   "Les manger en premier avant le souper",
+   "Les échanger contre des bonbons d'usine porte à porte",
+   "Les éviter et s'en tenir aux friandises emballées commercialement"
+  ],
+  "correctIndex": 3,
+  "explanation": "Règle classique du tri parental : emballage scellé, esprit tranquille. Les biscuits de grand-maman, eux, ont un passe-droit.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0078",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Depuis des décennies, que collectent certains enfants nord-américains en plus des bonbons le soir d'Halloween ?",
+  "choices": [
+   "Des timbres commémoratifs d'automne",
+   "Des citrouilles miniatures de chaque maison",
+   "Des dons pour l'UNICEF dans de petites boîtes orange",
+   "Des recettes de tarte auprès des voisins"
+  ],
+  "correctIndex": 2,
+  "explanation": "La campagne « Trick-or-Treat for UNICEF » transforme une partie de la tournée en collecte pour d'autres enfants. Bonbons et bonne action dans le même sac.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0079",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Écoute cette gigue celtique entraînante. En Écosse, selon la tradition du guising, que devait faire un enfant avant de recevoir sa récompense ?",
+  "choices": [
+   "Chanter une chanson ou raconter une blague ou un poème",
+   "Deviner le prénom des occupants",
+   "Sculpter un navet sur le pas de la porte",
+   "Danser autour d'une citrouille allumée"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pas de spectacle, pas de friandise. L'ancêtre du « montre-moi ton talent » version Halloween.",
+  "media": {
+   "kind": "audio",
+   "src": "/media/gigue-irlandaise.wav",
+   "alt": "Gigue celtique originale synthétisée",
+   "credit": "Synthèse originale du projet Quiz Halloween",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-0080",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel grand rendez-vous britannique du 5 novembre, avec feux d'artifice et feux de joie, prolonge l'ambiance des fêtes d'automne juste après Halloween ?",
+  "choices": [
+   "La nuit de Guy Fawkes (Bonfire Night)",
+   "Le Boxing Day",
+   "La fête de la Saint-Patrick",
+   "Le carnaval de Notting Hill"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cinq jours après Halloween, le ciel s'illumine à nouveau. L'automne britannique aime enchaîner les soirées qui brillent.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0081",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Pologne et dans plusieurs pays d'Europe centrale, que font les familles à la Toussaint, le 1er novembre ?",
+  "choices": [
+   "Elles allument des milliers de bougies sur les tombes des cimetières",
+   "Elles organisent des concours de costumes dans les villages",
+   "Elles sculptent des betteraves géantes",
+   "Elles échangent des bonbons entre voisins"
+  ],
+  "correctIndex": 0,
+  "explanation": "La nuit venue, les cimetières scintillent comme des cités de lumière. C'est l'une des plus belles images des fêtes des morts en Europe.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0082",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que distingue le Día de los Muertos d'une fête triste, selon l'esprit de la célébration ?",
+  "choices": [
+   "On y rit, mange et raconte des anecdotes joyeuses sur les disparus",
+   "On y observe un silence complet pendant deux jours",
+   "On n'y prononce jamais le nom des défunts",
+   "On y évite toute musique et toute couleur vive"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les souvenirs heureux sont les plus belles offrandes. Les larmes existent, mais elles côtoient les mariachis.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0083",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que dépose-t-on sur une ofrenda en plus des fleurs et des bougies ?",
+  "choices": [
+   "Des citrouilles sculptées uniquement",
+   "Des costumes d'Halloween des années passées",
+   "Des lettres au père Noël en avance",
+   "Les photos des proches disparus et leurs plats préférés"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chaque objet raconte une personne. L'autel devient un album de famille en trois dimensions.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0084",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À Sleepy Hollow, quel lieu emblématique lié à la légende attire les visiteurs en octobre ?",
+  "choices": [
+   "Un château ayant appartenu à Washington Irving en personne",
+   "Le pont associé à la fuite d'Ichabod Crane devant le Cavalier sans tête",
+   "Le plus grand champ de citrouilles de l'État",
+   "Une mine abandonnée convertie en maison hantée"
+  ],
+  "correctIndex": 1,
+  "explanation": "On le traverse en regardant par-dessus son épaule, juste au cas où. La légende fait le reste.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0085",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel événement illumine les nuits d'automne près de Sleepy Hollow avec des milliers de citrouilles sculptées ?",
+  "choices": [
+   "Un marché aux bonbons ouvert toute la nuit",
+   "Une course nocturne de chevaux déguisés",
+   "Un feu d'artifice quotidien pendant un mois",
+   "Un grand spectacle de citrouilles illuminées comme le Great Jack O'Lantern Blaze"
+  ],
+  "correctIndex": 3,
+  "explanation": "Des milliers de citrouilles sculptées forment dinosaures, ponts et planètes. C'est féérique plus qu'effrayant.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0086",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pourquoi dit-on que les poupées vaudou des films donnent une fausse image du vaudou réel ?",
+  "choices": [
+   "Parce qu'elles viennent en fait d'une tradition viking",
+   "Parce que les poupées sont un symbole du carnaval de Rio",
+   "Le vaudou réel est une pratique spirituelle centrée sur les ancêtres et la communauté, pas sur la vengeance",
+   "Parce que les films ont inventé La Nouvelle-Orléans elle-même"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hollywood aime les raccourcis effrayants. La réalité, elle, parle de guérison, de mémoire et de liens.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0087",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel défilé organisé lance les festivités d'Halloween à La Nouvelle-Orléans ?",
+  "choices": [
+   "La marche silencieuse des lanternes",
+   "La parade des citrouilles géantes roulantes",
+   "Le défilé des squelettes musiciens uniquement",
+   "La parade Krewe of Boo, avec des chars décorés de monstres"
+  ],
+  "correctIndex": 3,
+  "explanation": "On y attrape des colliers et des souvenirs comme au Mardi Gras, mais en version monstres et citrouilles.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0088",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À Paris, quelle est la bonne façon de visiter les Catacombes ?",
+  "choices": [
+   "En accédant librement à toutes les galeries fermées",
+   "En entrant par n'importe quelle bouche d'égout déguisée",
+   "Uniquement la nuit d'Halloween, déguisé en squelette",
+   "Par l'entrée officielle, en visite guidée ou audioguidée sur un parcours balisé"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le parcours officiel fait environ 1,5 km d'ossuaire aménagé. Le reste du réseau souterrain est interdit, et c'est très bien ainsi.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0089",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel mot célèbre accueille les visiteurs à l'entrée de l'ossuaire des Catacombes de Paris ?",
+  "choices": [
+   "« Bienvenue aux petits monstres »",
+   "« Arrête ! C'est ici l'empire de la mort »",
+   "« Des bonbons ou un sort »",
+   "« Silence, les citrouilles dorment »"
+  ],
+  "correctIndex": 1,
+  "explanation": "Difficile de faire une entrée plus claire. La suite du parcours est à la hauteur de l'avertissement.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0090",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel bonbon gélifié en forme de vers de terre ou d'araignée est un classique des sacs d'Halloween ?",
+  "choices": [
+   "Les pastilles à la menthe forte",
+   "Les bonbons gommeux (« gummies ») aux fruits",
+   "Les sucres d'orge traditionnels",
+   "Les dragées aux amandes"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vers, araignées et yeux gélifiés : plus ça a l'air dégoûtant, plus les enfants adorent.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0091",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait une famille prudente avant de choisir le parcours de la tournée d'Halloween avec de jeunes enfants ?",
+  "choices": [
+   "Elle planifie un détour par toutes les maisons hantées commerciales",
+   "Elle choisit les rues les plus sombres pour l'ambiance",
+   "Elle laisse les enfants décider de tout sur place",
+   "Elle repère un trajet court, éclairé et connu, avec des trottoirs"
+  ],
+  "correctIndex": 3,
+  "explanation": "Petites jambes et noirceur d'automne : mieux vaut un circuit testé qu'une expédition improvisée.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0092",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi les costumes aux couleurs voyantes ou avec éléments réfléchissants sont-ils recommandés pour les enfants ?",
+  "choices": [
+   "Pour briller sur les photos uniquement",
+   "Pour effrayer davantage les voisins",
+   "Pour être bien visibles des conducteurs à la tombée de la nuit",
+   "Pour attirer les maisons qui donnent de grosses barres"
+  ],
+  "correctIndex": 2,
+  "explanation": "Un vampire fluorescent reste un vampire. La cape sombre attendra la fête à l'intérieur.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0093",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans un champ de citrouilles (« pumpkin patch »), quelle activité accompagne souvent la cueillette ?",
+  "choices": [
+   "Descente de piste de ski automnale",
+   "Balade en charrette de foin (« hayride ») et labyrinthe de maïs",
+   "Pêche sur glace hâtive",
+   "Observation des baleines"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le trio citrouille-charrette-beigne au cidre compose la sortie d'automne nord-américaine parfaite.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0094",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle citrouille décorative blanche est surnommée « citrouille fantôme » ?",
+  "choices": [
+   "La courge spaghetti bien mûre",
+   "La citrouille peinte en noir mat",
+   "La mini-citrouille orange classique",
+   "Les variétés à peau blanche comme la Casper"
+  ],
+  "correctIndex": 3,
+  "explanation": "Avec un nom pareil, elle était prédestinée aux perrons d'Halloween. Elle contraste superbement avec les oranges.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0095",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que représente souvent la toute première étape des enfants avant de sculpter leur citrouille ?",
+  "choices": [
+   "La faire tremper une nuit dans du lait",
+   "Dessiner le visage au marqueur sur la citrouille pour guider la découpe",
+   "La congeler pour la ramollir",
+   "Lui raconter une histoire effrayante"
+  ],
+  "correctIndex": 1,
+  "explanation": "Un bon croquis évite la grimace accidentelle. Quoique, à Halloween, même les erreurs ont du charme.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0096",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel petit fruit d'automne se transforme en friandise collante très populaire dans les foires d'Halloween ?",
+  "choices": [
+   "La pomme d'amour enrobée de caramel",
+   "La poire au chocolat noir amer",
+   "La prune séchée au sucre glace",
+   "Le raisin enrobé de réglisse"
+  ],
+  "correctIndex": 0,
+  "explanation": "Croquante, sucrée et impossible à manger proprement. Le déguisement s'en souvient aussi.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0097",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Au Canada, comment se déroule le trick-or-treat dans la plupart des quartiers résidentiels ?",
+  "choices": [
+   "Uniquement dans les centres commerciaux, jamais dehors",
+   "Comme aux États-Unis : tournée des maisons décorées en début de soirée, en costume",
+   "Le lendemain matin, avant l'école",
+   "Seulement dans les villages de moins de 500 habitants"
+  ],
+  "correctIndex": 1,
+  "explanation": "Avec parfois une tuque sous le chapeau de sorcière : fin octobre canadien oblige.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0098",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi certains quartiers organisent-ils la tournée d'Halloween un peu avant la noirceur complète ?",
+  "choices": [
+   "Parce que les bonbons s'épuisent toujours à 19 h",
+   "Pour la sécurité et le confort des plus petits monstres",
+   "Pour éviter de croiser les adolescents déguisés",
+   "Parce que les citrouilles s'éteignent à 20 h"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les mini-vampires ont une heure de coucher, même le 31 octobre.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0099",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel pays européen célèbre Toussaint et fêtes des morts avec des visites de cimetières fleuris de chrysanthèmes ?",
+  "choices": [
+   "La France",
+   "Le Brésil",
+   "L'Australie",
+   "Le Japon"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le 1er novembre, les cimetières français se couvrent de chrysanthèmes. La fleur y est associée au souvenir, jamais aux bouquets de fête.",
+  "media": {
+   "kind": null
+  }
+ },
+ {
+  "id": "traditions-0100",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle petite ville du Minnesota se proclame « capitale mondiale d'Halloween » pour avoir organisé l'une des premières parades d'Halloween aux États-Unis ?",
+  "choices": [
+   "Anoka",
+   "Salem",
+   "Sleepy Hollow",
+   "Keene"
+  ],
+  "correctIndex": 0,
+  "explanation": "Anoka revendique ce titre depuis sa parade lancée dans les années 1920 pour occuper joyeusement les jeunes le 31 octobre. Depuis, citrouilles et défilés y sont une affaire très sérieuse.",
+  "media": {
+   "kind": null
+  }
+ }
+]

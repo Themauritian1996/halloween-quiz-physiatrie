@@ -40,6 +40,7 @@ export function normalizeRoom(data) {
     questionIds: [],
     currentIndex: -1,
     questionStartedAt: null,
+    revealStartedAt: null,
     answers: {},
     round: { doubleBy: [], fiftyBy: {}, cursedBy: null },
     lastDetail: {},
