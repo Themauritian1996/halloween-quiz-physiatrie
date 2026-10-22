@@ -333,6 +333,33 @@ function RoomView({ code, role, setRole }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [room?.status, room?.currentIndex, isHost])
 
+  // ⚠️ RÈGLE REACT : ces useEffect DOIVENT rester AVANT le retour anticipé
+  // « if (!room) » ci-dessous — un hook après un return conditionnel change
+  // le nombre de hooks entre rendus et fait planter la page (bug Lot 8).
+  // --- Enchaînement automatique après la révélation (piloté par l'hôte) ---
+  const autoOn = room?.config?.autoAdvance !== false
+  const autoDelayMs = (room?.config?.autoDelaySec || 8) * 1000
+  const revealElapsed = room?.status === 'reveal' && room?.revealStartedAt ? now - room.revealStartedAt : 0
+  const revealLeftSec = Math.max(0, Math.ceil((autoDelayMs - revealElapsed) / 1000))
+  const revealPct = Math.max(0, Math.min(100, 100 - (revealElapsed / autoDelayMs) * 100))
+
+  // Parties créées avant le Lot 8 : si une révélation n'a pas d'horodatage,
+  // l'hôte le pose une fois pour démarrer le compte à rebours.
+  useEffect(() => {
+    if (!isHost || !room || room.status !== 'reveal' || room.revealStartedAt) return
+    update((d) => { if (d.status === 'reveal' && !d.revealStartedAt) d.revealStartedAt = Date.now() })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isHost, room?.status, room?.revealStartedAt])
+
+  useEffect(() => {
+    if (!isHost || !room || room.status !== 'reveal' || !autoOn) return
+    if (!room.revealStartedAt) return
+    const remaining = autoDelayMs - (Date.now() - room.revealStartedAt)
+    const t = setTimeout(() => nextQuestion(), Math.max(0, remaining))
+    return () => clearTimeout(t)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isHost, room?.status, room?.currentIndex, room?.revealStartedAt, autoOn, autoDelayMs])
+
   if (!room) {
     if (!loaded) return <div className="p-8 text-center">⏳ Chargement de la partie « {code} »…</div>
     return <div className="p-8 text-center">Partie « {code} » introuvable{roomBackend === 'firestore' ? ' — vérifie le code ou demande un nouveau lien à l\'hôte.' : ' sur cet appareil (mode démo local : la partie vit dans le navigateur qui l\'a créée).'} <a className="underline" href="./">Retour à l'accueil</a></div>
@@ -395,29 +422,6 @@ function RoomView({ code, role, setRole }) {
     })
   }
 
-  // --- Enchaînement automatique après la révélation (piloté par l'hôte) ---
-  const autoOn = room?.config?.autoAdvance !== false
-  const autoDelayMs = (room?.config?.autoDelaySec || 8) * 1000
-  const revealElapsed = room?.status === 'reveal' && room?.revealStartedAt ? now - room.revealStartedAt : 0
-  const revealLeftSec = Math.max(0, Math.ceil((autoDelayMs - revealElapsed) / 1000))
-  const revealPct = Math.max(0, Math.min(100, 100 - (revealElapsed / autoDelayMs) * 100))
-
-  // Parties créées avant le Lot 8 : si une révélation n'a pas d'horodatage,
-  // l'hôte le pose une fois pour démarrer le compte à rebours.
-  useEffect(() => {
-    if (!isHost || !room || room.status !== 'reveal' || room.revealStartedAt) return
-    update((d) => { if (d.status === 'reveal' && !d.revealStartedAt) d.revealStartedAt = Date.now() })
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [isHost, room?.status, room?.revealStartedAt])
-
-  useEffect(() => {
-    if (!isHost || !room || room.status !== 'reveal' || !autoOn) return
-    if (!room.revealStartedAt) return
-    const remaining = autoDelayMs - (Date.now() - room.revealStartedAt)
-    const t = setTimeout(() => nextQuestion(), Math.max(0, remaining))
-    return () => clearTimeout(t)
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [isHost, room?.status, room?.currentIndex, room?.revealStartedAt, autoOn, autoDelayMs])
 
   const myAnswer = me ? room.answers[me.id] : null
   const hiddenByFifty = me ? room.round.fiftyBy[me.id] || [] : []
