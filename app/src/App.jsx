@@ -70,7 +70,7 @@ function MediaBlock({ q, isHost }) {
   if (q.type === 'image') {
     return (
       <figure className="my-3 text-center">
-        <img src={url} alt={q.media.alt || ''} onError={() => setFailed(true)}
+        <img src={url} alt={q.media.alt || ''} referrerPolicy="no-referrer" onError={() => setFailed(true)}
           className="mx-auto max-h-64 w-auto max-w-full rounded-xl border border-white/20" />
         <figcaption className="text-xs text-white/50 mt-1 text-center">{q.media.credit} — {q.media.licence}</figcaption>
         {openLink}
@@ -81,7 +81,7 @@ function MediaBlock({ q, isHost }) {
     const maxPlays = isHost ? Infinity : 2
     return (
       <div className="my-3 text-center">
-        <audio ref={audioRef} controls src={url} onError={() => setFailed(true)}
+        <audio ref={audioRef} controls src={url} referrerPolicy="no-referrer" onError={() => setFailed(true)}
           onPlay={() => setPlays((p) => p + 1)} className="mx-auto w-full max-w-md" />
         <p className="text-xs text-white/60 mt-1">
           {isHost ? 'Lecture hôte (illimitée)' : `Écoutes : ${plays} / ${maxPlays} (replay limité)`}
@@ -95,7 +95,7 @@ function MediaBlock({ q, isHost }) {
   if (q.type === 'video') {
     return (
       <div className="my-3 text-center">
-        <video controls src={url} onError={() => setFailed(true)}
+        <video controls src={url} referrerPolicy="no-referrer" onError={() => setFailed(true)}
           className="mx-auto w-full max-w-md rounded-xl border border-white/20" />
         <p className="text-xs text-white/50 mt-1 text-center">{q.media.credit} — {q.media.licence}</p>
         {openLink}

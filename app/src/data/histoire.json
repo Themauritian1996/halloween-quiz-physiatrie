@@ -4,21 +4,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur cette photo, des montagnes de papiers colorés brûlent devant un temple, dans un nuage d'étincelles. À qui ces offrandes de papier sont-elles destinées ?",
+  "question": "Sur cette photographie, la bâtisse de Salem (Massachusetts) à l'allure d'église gothique abrite un musée consacré à un épisode sombre de 1692. Lequel ?",
   "choices": [
-   "Aux dieux de la pluie",
-   "Aux jeunes mariés",
-   "Aux esprits des morts",
-   "Aux gardiens des récoltes"
+   "La guerre d'Indépendance américaine",
+   "Le procès des Templiers",
+   "Les procès des sorcières de Salem",
+   "La peste noire de 1348"
   ],
   "correctIndex": 2,
-  "explanation": "Aux esprits des morts ! Pendant le festival des fantômes affamés, en Chine et en Asie du Sud-Est, on brûle du papier-monnaie et des objets en papier pour qu'ils parviennent aux ancêtres dans l'au-delà.",
+  "explanation": "Le Salem Witch Museum retrace les procès de 1692-1693, où 20 personnes furent exécutées pour sorcellerie dans le Massachusetts colonial, sur la foi de dénonciations d'adolescentes.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0018.jpg",
+   "src": "/media/med-0302.jpg",
    "alt": "Photographie à identifier",
-   "credit": "Photo — Wikimedia Commons",
-   "licence": "CC BY-SA 4.0"
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -728,20 +728,20 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cette fleur d'un orange éclatant, photographiée au Mexique, forme des chemins de pétales pour guider les âmes début novembre. Comment s'appelle-t-elle ?",
+  "question": "Sur cette photographie, des milliers de « Catrinas » défilent dans les rues de Mexico lors d'une méga-processions créée en 2016. À quelle fête ce défilé récent appartient-il ?",
   "choices": [
-   "Le chrysanthème",
-   "Le souci, ou cempasúchil",
-   "Le tournesol",
-   "Le dahlia"
+   "Le carnaval de Rio",
+   "La fête de l'Indépendance du Mexique",
+   "Le Día de los Muertos",
+   "La Semaine sainte"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est le souci, appelé cempasúchil au Mexique (du nahuatl « fleur aux vingt pétales »). Sa couleur soleil et son parfum musqué guideraient les esprits pendant le Día de los Muertos.",
+  "correctIndex": 2,
+  "explanation": "Le défilé géant de Mexico n'existe que depuis 2016 : il a été créé après le film Spectre (James Bond), dont la scène d'ouverture imaginait un tel cortège… que la ville a décidé de le rendre réel.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0010.jpg",
+   "src": "/media/med-0303.jpg",
    "alt": "Photographie à identifier",
-   "credit": "Photo — Wikimedia Commons",
+   "credit": "Photographie — Wikimedia Commons",
    "licence": "CC BY-SA 4.0"
   }
  },
@@ -826,21 +826,21 @@
   "category": "histoire",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur cette carte postale de 1904, une jeune fille tient un miroir et une citrouille le soir d'Halloween. Selon le jeu de divination alors à la mode, que devait-elle apercevoir dans le miroir ?",
+  "question": "Sur cette photographie, une tour entière est faite de citrouilles sculptées et allumées. La petite ville de Keene (New Hampshire) détient grâce à elles un record du monde homologué. Lequel ?",
   "choices": [
-   "Son futur mari",
-   "Un ancêtre bienveillant",
-   "Un fantôme farceur",
-   "Son propre visage vieilli"
+   "La plus grosse citrouille jamais cultivée",
+   "La plus longue guirlande de citrouilles au monde",
+   "Le plus grand nombre de jack-o'-lanterns allumées en un même endroit",
+   "Le plus de citrouilles mangées en une heure"
   ],
-  "correctIndex": 0,
-  "explanation": "Son futur mari ! Dans le folklore américain et britannique, se regarder dans un miroir dans une pièce sombre à Halloween devait révéler le visage de son futur époux — le portrait accroché au mur donne l'indice.",
+  "correctIndex": 2,
+  "explanation": "Keene a repris le record en 2013 avec 30 581 citrouilles allumées simultanément. La tradition est née en 1992 pour promouvoir le centre-ville — et attirer les touristes d'Halloween.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0012.jpg",
-   "alt": "Illustration à identifier",
-   "credit": "Carte postale ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0304.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 4.0"
   }
  },
  {
@@ -1368,21 +1368,21 @@
   "category": "histoire",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Ce frontispice de 1647 montre un homme en chapeau entouré de petits animaux aux noms étranges. Quel était son métier, très lucratif à l'époque ?",
+  "question": "Sur cette photographie, des bancs de granit portent chacun un nom et une date de 1692. Ce mémorial, inauguré à Salem trois siècles plus tard, rend hommage à qui ?",
   "choices": [
-   "Chasseur de sorcières",
-   "Alchimiste du roi",
-   "Conteur de fées",
-   "Médecin de la peste"
+   "Aux soldats tombés pendant la guerre civile",
+   "Aux juges qui ont présidé les procès",
+   "Aux victimes exécutées des procès de sorcières",
+   "Aux premiers colons arrivés sur le Mayflower"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est Matthew Hopkins, le « Witch Finder General » anglais. Les petits animaux dessinés sont les « familiers » que les accusées auraient avoués ; Hopkins traquait les sorcières en Angleterre pendant la guerre civile.",
+  "correctIndex": 2,
+  "explanation": "Inauguré en 1992, 300 ans après les procès, le mémorial de Salem compte 20 bancs de granit — un par victime — gravés de leurs protestations d'innocence, interrompues net au bord de la pierre.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0002.jpg",
-   "alt": "Gravure à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0306.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -1462,21 +1462,21 @@
   "category": "histoire",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Cette illustration de 1849 montre deux femmes, une grand-mère rusée et sa fille, accusées de sorcellerie en 1612. De quelle célèbre affaire anglaise s'agit-il ?",
+  "question": "Sur cette photographie prise à Manhattan un 31 octobre, des milliers de personnes costumées défilent derrière des marionnettes géantes. De quel événement annuel, créé en 1974 à Greenwich Village, s'agit-il ?",
   "choices": [
-   "Les sorcières de Salem",
-   "Les sorcières de North Berwick",
-   "Les sorcières de Pendle, dans le Lancashire",
-   "Les sorcières de Roermond"
+   "La parade de Mardi Gras de La Nouvelle-Orléans",
+   "La Village Halloween Parade de New York",
+   "La Zombie Walk de Paris",
+   "Le carnaval de Venise"
   ],
-  "correctIndex": 2,
-  "explanation": "Ce sont Chattox et sa fille, parmi les « sorcières de Pendle » jugées à Lancaster en 1612. Douze accusés, dix pendus : c'est l'un des procès de sorcellerie les mieux documentés d'Angleterre.",
+  "correctIndex": 1,
+  "explanation": "Créée en 1974 par le marionnettiste Ralph Lee pour les enfants de son quartier, la Village Halloween Parade rassemble aujourd'hui des dizaines de milliers de costumés et des marionnettes géantes.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0003.jpg",
-   "alt": "Illustration à identifier",
-   "credit": "Illustration ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0307.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -1632,21 +1632,21 @@
   "category": "histoire",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Cette gravure d'époque aligne les portraits d'un groupe d'hommes en chapeaux hauts. Quel complot préparaient-ils pour 1605 ?",
+  "question": "Sur cette photographie, un cimetière philippin déborde de familles, de fleurs et de bougies pour la Toussaint : on y veille, on y mange et parfois on y dort auprès des tombes. Comment s'appelle cette tradition ?",
   "choices": [
-   "Le complot des Poudres contre le Parlement anglais",
-   "L'assassinat du roi de France",
-   "La révolte des citrouilles",
-   "Le vol de la couronne d'Écosse"
+   "Le Día de los Muertos",
+   "Le Qingming (fête des tombes, Chine)",
+   "L'Undas",
+   "L'Obon (Japon)"
   ],
-  "correctIndex": 0,
-  "explanation": "Le complot des Poudres (Gunpowder Plot) ! Guy Fawkes et ses compagnons voulaient faire sauter le Parlement de Londres ; leur échec se fête encore chaque 5 novembre pendant la Bonfire Night.",
+  "correctIndex": 2,
+  "explanation": "Pendant l'Undas (du mot espagnol « honras »), les cimetières philippins deviennent des lieux de fête familiale : on y apporte des repas, des guitares, parfois des tentes pour dormir auprès des tombes.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0016.jpg",
-   "alt": "Gravure à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0308.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1881,22 +1881,22 @@
   "id": "histoire-0100",
   "category": "histoire",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Écoute ce chœur et cet orchestre déchaînés qui chantent en latin le « jour de colère » du Jugement dernier. Pour quel type de cérémonie cette musique a-t-elle été composée ?",
+  "type": "image",
+  "question": "Sur cette photographie, des corps desséchés sont exposés debout derrière des vitrines, au musée de Guanajuato (Mexique). Ils n'ont jamais été embaumés : comment sont-ils devenus des momies ?",
   "choices": [
-   "Une messe des morts, un requiem",
-   "Un mariage royal",
-   "Une fête des moissons",
-   "Un couronnement impérial"
+   "Un embaumement rituel préhispanique",
+   "Une momification naturelle, dans un sol sec aux sels minéraux",
+   "Une congélation lente en haute montagne",
+   "Un traitement au formol au XIXe siècle"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est le Dies iræ du Requiem de Mozart (1791) : la séquence médiévale du « jour de colère » y devient un orage choral. Mozart est mort en laissant son Requiem inachevé — frissons garantis.",
+  "correctIndex": 1,
+  "explanation": "Exhumés entre 1860 et 1958 parce que leurs familles ne payaient plus la taxe d'inhumation, ces corps s'étaient momifiés tout seuls dans le sol sec et minéral de Guanajuato. Le musée actuel en expose une centaine.",
   "media": {
-   "kind": "audio",
-   "src": "/media/med-0019.mp3",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "/media/med-0305.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  }
 ]

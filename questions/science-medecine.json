@@ -66,21 +66,21 @@
   "category": "science-medecine",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Planche XXXVI d'un atlas londonien de 1733 : un squelette agenouillé joint les mains comme en prière. À quelle partie du corps cet ouvrage somptueux était-il entièrement consacré ?",
+  "question": "Sur cette photographie : petit museau retroussé, oreilles rondes et air de rongeur ailé. Quelle chauve-souris d'Amérique latine se nourrit du sang des mammifères endormis ?",
   "choices": [
-   "Aux os du squelette",
-   "Au cerveau et aux nerfs",
-   "Au cœur et aux vaisseaux",
-   "Aux muscles"
+   "La roussette d'Égypte",
+   "Le grand rhinolophe fer à cheval",
+   "La pipistrelle commune",
+   "Le vampire commun (Desmodus rotundus)"
   ],
-  "correctIndex": 0,
-  "explanation": "Il s'agit de l'Osteographia de William Cheselden (1733), premier atlas complet du squelette humain, célèbre pour la beauté presque artistique de ses planches — dont ce squelette en prière, devenu iconique.",
+  "correctIndex": 3,
+  "explanation": "Le vampire commun ne suce pas le sang : il fait une minuscule incision avec ses incisives tranchantes et lape le sang qui s'écoule, comme un chat. Sa salive contient un anticoagulant étudié en médecine, la draculine.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0154.jpg",
-   "alt": "Planche anatomique ancienne à identifier",
-   "credit": "Planche ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0313.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -254,21 +254,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Dans cet herbier médiéval, la racine prend la forme d'un petit bonhomme — on disait qu'elle criait quand on l'arrachait, au point de tuer l'imprudent. Quelle plante magique et toxique est-ce ?",
+  "question": "Sur cette photographie, une fourmi morte reste accrochée à sa feuille, un champignon filamenteux jaillissant de sa tête. Quel parasite l'a contrôlée puis tuée ?",
   "choices": [
-   "La mandragore",
-   "La belladone",
-   "L'aconit tue-loup",
-   "La ciguë"
+   "Ophiocordyceps, le champignon « zombie »",
+   "Une guêpe parasitoïde",
+   "Le virus de la rage",
+   "Une amibe mangeuse de cerveau"
   ],
   "correctIndex": 0,
-  "explanation": "La mandragore, dessinée dans une copie médiévale du traité de Dioscoride : sa racine fourchue évoque un corps humain. Sédative mais toxique, elle traîne une réputation magique — la légende recommandait de la faire arracher par un chien plutôt qu'à mains nues.",
+  "explanation": "Ophiocordyceps unilateralis pousse dans le corps de la fourmi, la force à grimper et à mordre une feuille, puis fructifie hors de sa tête. C'est le parasite qui a inspiré les infectés de The Last of Us.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0165.jpg",
-   "alt": "Illustration ancienne à identifier",
-   "credit": "Illustration ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0309.png",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.5"
   }
  },
  {
@@ -504,21 +504,21 @@
   "category": "science-medecine",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Au microscope électronique, de minuscules bâtonnets en forme de balle de fusil pullulent dans ce tissu infecté. Ils appartiennent à un virus redouté, transmis par morsure. Lequel ?",
+  "question": "Sur cette photographie, ce papillon rouge dans une boîte de Petri n'est ni peint ni imprimé : il a poussé, vivant, pendant une incubation. Avec quoi a-t-il été « dessiné » ?",
   "choices": [
-   "Le virus de la rage",
-   "Le virus Ebola",
-   "Le virus de la variole",
-   "Le virus de la grippe"
+   "Des levures rendues fluorescentes par génie génétique",
+   "Des colonies de bactéries cultivées en dessin (l'agar art)",
+   "Des moisissures teintées à l'encre",
+   "Des cristaux de sels colorés"
   ],
-  "correctIndex": 0,
-  "explanation": "Le virus de la rage, reconnaissable à sa forme de balle caractéristique sur cette micrographie du CDC. Transmis par la salive d'un animal mordeur, il remonte lentement le long des nerfs jusqu'au cerveau.",
+  "correctIndex": 1,
+  "explanation": "L'agar art consiste à « peindre » avec des bactéries naturellement colorées (comme Serratia marcescens, rouge) sur de la gélose ; le dessin n'apparaît qu'après incubation, quand les colonies ont poussé. Un concours annuel, organisé par la société américaine de microbiologie, récompense ces œuvres vivantes.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0161.jpg",
-   "alt": "Micrographie à identifier",
-   "credit": "Micrographie — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0314.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -638,21 +638,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Figure 3 de cette planche ancienne : des cuisses de grenouille préparées, reliées à des fils, des aimants en fer à cheval et des arcs métalliques. Quelle découverte ces expériences bricolées ont-elles inspirée ?",
+  "question": "Sur cette photographie, des massues orange vif dressent leurs têtes hors du sol : elles ont poussé sur une chrysalide enterrée, momifiée de l'intérieur. De quel champignon parasite s'agit-il ?",
   "choices": [
-   "Les grenouilles fabriquent des piles naturelles",
-   "L'électricité peut faire contracter les muscles",
-   "Le magnétisme guérit les nerfs",
-   "Les muscles fonctionnent à la vapeur"
+   "L'amanite tue-mouches",
+   "La trompette de la mort",
+   "Cordyceps militaris",
+   "Le polypore versicolore"
   ],
-  "correctIndex": 1,
-  "explanation": "Les expériences de Luigi Galvani (fin du XVIIIe siècle) : au contact de métaux, les cuisses de grenouille morte tressautent. Son idée d'« électricité animale » — le galvanisme — inspirera directement le Frankenstein de Mary Shelley.",
+  "correctIndex": 2,
+  "explanation": "Cordyceps militaris infecte les larves et chrysalides enterrées, les momifie de l'intérieur, puis dresse ses massues orange hors du sol. Son cousin Ophiocordyceps fait la même chose aux fourmis.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0156.jpg",
-   "alt": "Gravure scientifique ancienne à identifier",
-   "credit": "Planche ancienne — Wikimedia Commons",
-   "licence": "CC BY 4.0"
+   "src": "/media/med-0310.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  },
  {
@@ -906,21 +906,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Deux trous aux bords nets percent ce crâne ancien exposé en musée — et les petits disques d'os retirés sont posés juste à côté. De quoi ces ouvertures témoignent-elles ?",
+  "question": "Sur cette illustration devenue célèbre en 2020 : une sphère grise hérissée de massues rouges, version officielle des CDC américains. Quel virus représente-t-elle ?",
   "choices": [
-   "D'impacts de flèches de guerre",
-   "D'une maladie qui perfore l'os",
-   "D'un rituel de suspension par crochets",
-   "D'une très ancienne opération chirurgicale"
+   "Le virus de la grippe H1N1",
+   "Le virus Ebola",
+   "Le VIH",
+   "Le SARS-CoV-2, responsable de la COVID-19"
   ],
   "correctIndex": 3,
-  "explanation": "Une double trépanation, l'une des plus anciennes chirurgies du monde, pratiquée dès le Néolithique : on perçait le crâne, souvent pour soigner un traumatisme. Ici, sur un crâne celte, les bords montrent que le patient a survécu à l'intervention.",
+  "explanation": "Cette illustration des CDC (janvier 2020) est devenue l'image officielle de la pandémie : les pointes rouges sont les protéines Spike, qui forment la « couronne » donnant leur nom aux coronavirus.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0158.jpg",
-   "alt": "Photographie à identifier",
-   "credit": "Photo de musée — Wikimedia Commons",
-   "licence": "CC BY-SA 4.0"
+   "src": "/media/med-0311.png",
+   "alt": "Illustration à identifier",
+   "credit": "Illustration — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1166,21 +1166,21 @@
   "category": "science-medecine",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cheveux défaits, collier de perles, allongée sous vitrine comme une belle endormie : cette dame du XVIIIe siècle se démonte en réalité en des centaines de pièces. À quoi servait-elle ?",
+  "question": "Sur cette photographie : chapeau rouge vif parsemé de flocons blancs, tout droit sorti d'un conte de fées ou d'un jeu de plombier. Ce champignon vénéneux est…",
   "choices": [
-   "De décoration pour un cabinet de curiosités mondain",
-   "À enseigner l'anatomie sans vrai cadavre",
-   "De mannequin pour les couturières",
-   "De relique miraculeuse dans une église"
+   "L'amanite tue-mouches",
+   "Le cèpe de Bordeaux",
+   "La girolle (chanterelle)",
+   "Le coprin chevelu"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est une Vénus anatomique en cire du musée La Specola, à Florence : son corps s'ouvre et ses organes amovibles servaient aux cours d'anatomie, à une époque où les cadavres frais manquaient cruellement.",
+  "correctIndex": 0,
+  "explanation": "L'amanite tue-mouches servait autrefois, émiettée dans du lait, à tuer les mouches — d'où son nom. Toxique et hallucinogène, elle est devenue l'archétype du champignon des contes… et des jeux vidéo.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0159.jpg",
+   "src": "/media/med-0312.jpg",
    "alt": "Photographie à identifier",
-   "credit": "Photo de musée — Wikimedia Commons",
-   "licence": "CC BY 4.0"
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "Public domain"
   }
  },
  {
@@ -1188,21 +1188,21 @@
   "category": "science-medecine",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Sur ce frottis sanguin, deux formes violettes en croissant de lune se prélassent parmi les globules rouges. Ce sont les formes sexuées d'un parasite que les moustiques transportent. Quelle maladie annonce-t-il ?",
+  "question": "Sur cette photographie d'un spécimen de musée, une araignée grande comme une assiette : c'est la plus massive des mygales du monde, capable de manger de petits oiseaux. Son nom ?",
   "choices": [
-   "La dengue",
-   "Le choléra",
-   "La fièvre jaune",
-   "Le paludisme"
+   "La veuve noire",
+   "La mygale de Leblond (Theraphosa blondi)",
+   "L'araignée-loup (lycosidae)",
+   "La mygale à genoux rouges du Mexique"
   ],
-  "correctIndex": 3,
-  "explanation": "Le paludisme (malaria) : ces croissants sont les gamétocytes de Plasmodium falciparum, sa forme la plus dangereuse, photographiés par le CDC. Le moustique viendra les chercher lors de son prochain repas de sang.",
+  "correctIndex": 1,
+  "explanation": "Theraphosa blondi, dite « mangeuse d'oiseaux » de Leblond, peut atteindre 28 cm d'envergure et 170 g. Quand elle se sent menacée, elle frotte ses pattes pour projeter des poils urticants.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0162.png",
-   "alt": "Micrographie à identifier",
-   "credit": "Micrographie — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0315.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -1618,21 +1618,21 @@
   "category": "science-medecine",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Gros plan charmant : une couronne de crochets et quatre ventouses ornent la tête de ce parasite, prête à s'ancrer dans un intestin. Qui est ce squatteur ?",
+  "question": "Sur cette photographie prise dans le noir d'une forêt tropicale, de minuscules champignons émettent leur propre lumière verdâtre, sans aucune source externe. Comment appelle-t-on ce phénomène ?",
   "choices": [
-   "L'ascaris",
-   "Le ténia, ou ver solitaire",
-   "La douve du foie",
-   "Le ver de Guinée"
+   "La fluorescence sous ultraviolets",
+   "La phosphorescence des minéraux du sol",
+   "La bioluminescence",
+   "Un reflet de clair de lune"
   ],
-  "correctIndex": 1,
-  "explanation": "Le scolex du ténia Taenia solium, photographié par le CDC : ventouses et crochets lui servent d'ancre dans l'intestin, pendant que son corps en ruban peut atteindre plusieurs mètres. Le porc mal cuit est son taxi habituel.",
+  "correctIndex": 2,
+  "explanation": "Certaines Mycena produisent leur lumière grâce à une réaction chimique (luciférine + luciférase), comme les lucioles. Le rôle supposé : attirer les insectes qui disperseront leurs spores dans la nuit.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0163.jpg",
-   "alt": "Micrographie à identifier",
-   "credit": "Micrographie — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0316.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 3.0"
   }
  },
  {
@@ -1788,21 +1788,21 @@
   "category": "science-medecine",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Sur cette planche de 1543, un organe bosselé trône tout en haut, puis un écheveau de cordons s'en échappe et descend dans tout le corps, jusqu'aux jambes. Quel système cette figure cartographie-t-elle ?",
+  "question": "Sur cette photographie : un corps noir brillant comme une bille de jais et, sous l'abdomen, la fameuse marque rouge en sablier. Quelle araignée venimeuse est-ce ?",
   "choices": [
-   "Le système lymphatique",
-   "Les veines superficielles",
-   "Le système nerveux",
-   "Le tube digestif"
+   "La recluse brune",
+   "L'épeire diadème",
+   "La fausse veuve (Steatoda)",
+   "La veuve noire"
   ],
-  "correctIndex": 2,
-  "explanation": "Le système nerveux, cartographié par Vésale dans le livre IV de la Fabrica : le cerveau, la moelle épinière et les paires de nerfs qui s'en échappent. Une des premières vues d'ensemble de notre câblage interne.",
+  "correctIndex": 3,
+  "explanation": "La veuve noire femelle porte sous l'abdomen une marque rouge en forme de sablier. Son venin contient une neurotoxine puissante, mais elle ne mord en général que coincée contre la peau — et le mâle, beaucoup plus petit, risque surtout… la femelle.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0168.jpg",
-   "alt": "Planche anatomique ancienne à identifier",
-   "credit": "Planche ancienne — Wikimedia Commons",
-   "licence": "CC BY 4.0"
+   "src": "/media/med-0317.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC0"
   }
  },
  {

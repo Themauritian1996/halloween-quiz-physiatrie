@@ -4,21 +4,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cornes, fourrure et grand sourire au milieu des racines : quel personnage le réalisateur de ce film suédois de 1922 incarne-t-il lui-même ?",
+  "question": "Un enfant en imperméable jaune fixe un égout pluvieux, un ballon rouge à la main : quel film d'horreur de 2017, adapté de Stephen King, cette affiche annonce-t-elle ?",
   "choices": [
-   "Un inquisiteur",
-   "Satan",
-   "Un moine possédé",
-   "Le bourreau du village"
+   "Sinister",
+   "Annabelle",
+   "Ça (It)",
+   "The Boy"
   ],
-  "correctIndex": 1,
-  "explanation": "Dans Häxan (1922), documentaire-fable sur la sorcellerie, le réalisateur Benjamin Christensen joue lui-même Satan, hilare, qui tente les moines et les nonnes. Le diable avait rarement eu l'air de si bien s'amuser.",
+  "correctIndex": 2,
+  "explanation": "Sorti en 2017, Ça met en scène Pennywise, le clown dansant qui hante la petite ville de Derry depuis ses égouts et réapparaît tous les 27 ans.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0062.jpg",
-   "alt": "Personnage à identifier",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "CC0"
+   "src": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -84,21 +85,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Quel film expressionniste allemand de 1920 cette affiche américaine annonce-t-elle ?",
+  "question": "Une tasse de thé, une petite cuillère qui tinte et un regard pétrifié : quel thriller de Jordan Peele (2017) cette affiche annonce-t-elle ?",
   "choices": [
-   "Metropolis",
-   "Nosferatu",
-   "Le Cabinet du docteur Caligari",
-   "Le Golem"
+   "Us",
+   "Parasite",
+   "Don't Breathe",
+   "Get Out"
   ],
-  "correctIndex": 2,
-  "explanation": "Le Cabinet du docteur Caligari (1920), de Robert Wiene, reconnaissable à son docteur aux lunettes rondes et à ses décors peints de travers. C'est le manifeste du cinéma expressionniste allemand.",
+  "correctIndex": 3,
+  "explanation": "Get Out (2017) suit Chris, invité dans la famille de sa copine, où l'hypnose par le tintement d'une cuillère dans une tasse cache un secret monstrueux. Oscar du meilleur scénario original.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0051.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -196,21 +198,22 @@
   "category": "cinema-series",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Une femme spectrale danse au-dessus d'un pavillon de bal désert : quel film culte à petit budget de 1962 cette affiche annonce-t-elle ?",
+  "question": "Une maison de poupée miniature, une famille en deuil et une présence qui rôde : quel film d'Ari Aster (2018), souvent cité comme le plus terrifiant de sa décennie, cette affiche annonce-t-elle ?",
   "choices": [
-   "Carnival of Souls",
-   "Dementia 13",
-   "La Nuit des morts-vivants",
-   "La Maison du diable"
+   "Midsommar",
+   "Hérédité (Hereditary)",
+   "The Witch",
+   "It Follows"
   ],
-  "correctIndex": 0,
-  "explanation": "Carnival of Souls (1962) de Herk Harvey : après un accident de voiture, une organiste est poursuivie par un homme blafard jusqu'à un pavillon de bal abandonné. Un cauchemar lent devenu film culte.",
+  "correctIndex": 1,
+  "explanation": "Hérédité (2018) suit la famille Graham, frappée par la mort de sa grand-mère. Sa maison de poupée, réplique de la vraie, est au cœur de la mise en scène d'Ari Aster.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0056.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -218,21 +221,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Yeux cernés de noir, regard halluciné : qui est ce somnambule qui, sous hypnose, commet des meurtres pour son maître ?",
+  "question": "Une corde pendant d'un arbre devant une maison isolée du Rhode Island : quel film de James Wan (2013), inspiré d'une enquête réelle d'Ed et Lorraine, chasseurs de fantômes, a lancé une immense franchise d'horreur ?",
   "choices": [
-   "Cesare",
-   "Le Golem",
-   "Le comte Orlok",
-   "Mr Hyde"
+   "Insidious",
+   "Sinister",
+   "Conjuring : Les Dossiers Warren",
+   "Amityville : La Maison du diable"
   ],
-  "correctIndex": 0,
-  "explanation": "Cesare, le somnambule du Cabinet du docteur Caligari (1920), joué par Conrad Veidt. Exhibé dans une foire, il prédit l'avenir… et exécute, endormi, les crimes de Caligari.",
+  "correctIndex": 2,
+  "explanation": "Conjuring (2013) raconte l'enquête d'Ed et Lorraine Warren auprès de la famille Perron, en 1971. Le film a donné naissance à tout un univers partagé (Annabelle, La Nonne…).",
   "media": {
    "kind": "image",
-   "src": "/media/med-0063.jpg",
-   "alt": "Personnage à identifier",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -366,21 +370,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Moustache fine, regard perçant, statues couvertes de toiles d'araignée : quel maître de l'épouvante reconnaît-on sur ce photogramme de 1959 ?",
+  "question": "« Si elles vous entendent, elles vous chassent » : quel film de John Krasinski (2018), presque sans dialogues, cette affiche annonce-t-elle ?",
   "choices": [
-   "Boris Karloff",
-   "Christopher Lee",
-   "Vincent Price",
-   "Peter Cushing"
+   "Bird Box",
+   "Don't Breathe",
+   "Hush",
+   "Sans un bruit (A Quiet Place)"
   ],
-  "correctIndex": 2,
-  "explanation": "Vincent Price dans La Maison de la colline hantée (House on Haunted Hill, 1959) : un millionnaire excentrique offre 10 000 dollars à qui survivra une nuit dans sa maison hantée. Price deviendra LA voix distinguée de l'horreur.",
+  "correctIndex": 3,
+  "explanation": "Dans Sans un bruit, une famille survit en silence absolu : les créatures qui ont envahi la Terre chassent au moindre son. La famille communique en langue des signes.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0064.jpg",
-   "alt": "Acteur à identifier sur un photogramme",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -532,21 +537,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Un homme masqué en cape rouge rôde sur les toits d'un grand théâtre parisien : quel film de 1925 cette affiche annonce-t-elle ?",
+  "question": "Un masque blanc allongé, bouche ouverte, devenu l'icône absolue de l'horreur : quel slasher de Wes Craven (1996) a relancé le genre en se moquant de ses propres règles ?",
   "choices": [
-   "Le Bossu de Notre-Dame",
-   "Le Fantôme de l'Opéra",
-   "Les Misérables",
-   "Le Masque de fer"
+   "Halloween : La Nuit des masques",
+   "Scream",
+   "Vendredi 13",
+   "Je sais ce que vous avez fait l'été dernier"
   ],
   "correctIndex": 1,
-  "explanation": "Le Fantôme de l'Opéra (1925), avec Lon Chaney, d'après le roman de Gaston Leroux. Le Fantôme y hante les dessous de l'Opéra de Paris, amoureux d'une jeune chanteuse.",
+  "explanation": "Scream (1996) et son tueur Ghostface ont ressuscité le slasher : les personnages y connaissent les règles des films d'horreur… et meurent quand même.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0052.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -571,22 +577,23 @@
   "id": "cinema-series-0031",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Dans cet extrait de 1899, un intrus surgit dans un couvent, fait apparaître des objets et affole les nonnes avant de disparaître en fumée. Qui est-il ?",
+  "type": "image",
+  "question": "Des ciseaux dorés, une combinaison rouge et un double maléfique qui vous ressemble trait pour trait : quel film de Jordan Peele (2019) cette affiche annonce-t-elle ?",
   "choices": [
-   "Un fantôme farceur",
-   "Un sorcier de foire",
-   "Le diable",
-   "Un moine somnambule"
+   "Get Out",
+   "Nope",
+   "Us",
+   "Candyman"
   ],
   "correctIndex": 2,
-  "explanation": "C'est le diable en personne, joué par Georges Méliès dans Le Diable au couvent (1899) : trois minutes de trucages où le Malin transforme le couvent en terrain de jeu avant d'être chassé par un crucifix.",
+  "explanation": "Dans Us (2019), la famille Wilson est attaquée par ses propres doubles, les « Reliés », surgis des tunnels souterrains des États-Unis.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0067.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -666,21 +673,22 @@
   "category": "cinema-series",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Cette affiche de 1910 annonce la toute première adaptation cinématographique d'un grand roman d'horreur, produite par le studio d'Edison. De quel monstre s'agit-il ?",
+  "question": "Fleurs partout, soleil qui ne se couche jamais et sourire qui se fissure : quel film d'horreur en pleine lumière d'Ari Aster (2019) se déroule pendant une fête de la Saint-Jean suédoise ?",
   "choices": [
-   "Dracula",
-   "Le Golem",
-   "La créature de Frankenstein",
-   "Le loup-garou"
+   "Hérédité (Hereditary)",
+   "The Wicker Man",
+   "Suspiria",
+   "Midsommar"
   ],
-  "correctIndex": 2,
-  "explanation": "Frankenstein (1910), produit par les studios Edison : en seize minutes, le savant crée sa créature dans un chaudron bouillonnant. Le film, cru perdu pendant des décennies, est la première apparition du monstre à l'écran.",
+  "correctIndex": 3,
+  "explanation": "Midsommar (2019) prouve qu'on peut terrifier en plein jour : un groupe d'amis assiste aux rituels d'une communauté suédoise isolée, sous un soleil de minuit permanent.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0060.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -835,22 +843,23 @@
   "id": "cinema-series-0045",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Dans cet extrait de 1903, un voyageur ne parvient pas à dormir tranquille dans sa chambre : quel être surnaturel vient le hanter, apparaissant et disparaissant à volonté ?",
+  "type": "image",
+  "question": "Le masque blanc, jauni et fissuré par 40 ans d'attente : quel film de 2018 fait revenir Michael Myers face à Laurie Strode, en ignorant toutes les suites précédentes ?",
   "choices": [
-   "Un revenant",
-   "Un vampire",
-   "Un poltergeist de cuisine",
-   "Un double maléfique"
+   "Halloween Kills",
+   "Halloween (2018)",
+   "Vendredi 13 (2009)",
+   "Leatherface (2017)"
   ],
-  "correctIndex": 0,
-  "explanation": "Un revenant, dans Le Revenant (1903) de Georges Méliès : le fantôme surgit, souffle les bougies et se moque du malheureux voyageur. Les effets d'apparition étaient la spécialité de Méliès.",
+  "correctIndex": 1,
+  "explanation": "Halloween (2018) est la suite directe du film de 1978 : Jamie Lee Curtis y reprend son rôle de Laurie Strode, qui s'est préparée pendant 40 ans au retour de Michael Myers.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0068.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -948,21 +957,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Des yeux hypnotiques verts sur fond vert : quel film de 1932, premier film de zombies de l'histoire, cette affiche annonce-t-elle ?",
+  "question": "Des animatroniques aux yeux brillants dans une pizzeria abandonnée la nuit : quel film de 2023 adapte la célèbre série de jeux vidéo d'horreur de Scott Cawthon ?",
   "choices": [
-   "King of the Zombies",
-   "La Nuit des morts-vivants",
-   "J'ai marché avec un zombie",
-   "White Zombie"
+   "Willy's Wonderland",
+   "M3GAN",
+   "Five Nights at Freddy's",
+   "The Banana Splits Movie"
   ],
-  "correctIndex": 3,
-  "explanation": "White Zombie (1932), avec Bela Lugosi en maître vaudou d'Haïti, est considéré comme le premier film de zombies : des morts réduits en esclavage, bien avant les morts-vivants mangeurs de chair de Romero.",
+  "correctIndex": 2,
+  "explanation": "Five Nights at Freddy's adapte le jeu de 2014 : un gardien de nuit survit cinq nuits dans la pizzeria Freddy Fazbear, dont les mascottes robotisées s'animent après minuit.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0054.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Five_Nights_At_Freddy%27s_poster.jpeg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1005,22 +1015,23 @@
   "id": "cinema-series-0054",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Au début de cet extrait de 1899, un démon hilare remue un grand chaudron dans une grotte. Que fait-il apparaître dans les flammes ?",
+  "type": "image",
+  "question": "Un garçon plongé dans un coma inexpliqué et des silhouettes qui rôdent autour de son lit : quel film de James Wan (2010) explore la projection astrale et « l'Au-delà » ?",
   "choices": [
-   "Un dragon miniature",
-   "Un squelette dansant",
-   "Une sorcière sur son balai",
-   "Une danseuse"
+   "Conjuring : Les Dossiers Warren",
+   "Sinister",
+   "Dead Silence",
+   "Insidious"
   ],
   "correctIndex": 3,
-  "explanation": "Une danseuse, dans La Danse du feu (The Pillar of Fire, 1899) de Georges Méliès : sortie du chaudron du démon, elle exécute une danse serpentine au milieu des flammes, dans un film peint à la main.",
+  "explanation": "Dans Insidious (2010), le petit Dalton n'est pas hanté : c'est lui qui est perdu, en projection astrale, dans une dimension peuplée d'esprits qui veulent son corps.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0069.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1100,21 +1111,22 @@
   "category": "cinema-series",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Deux hommes inquiets devant un château irlandais : ce photogramme vient du tout premier film d'un futur géant d'Hollywood, tourné en 1963. Quel est ce film ?",
+  "question": "Un livre pop-up mystérieux, un chapeau haut-de-forme et un monstre né du deuil d'une mère : quel film australien de Jennifer Kent (2014) est devenu un classique moderne ?",
   "choices": [
-   "Carnival of Souls",
-   "La Maison du diable",
-   "Dementia 13",
-   "La Petite Boutique des horreurs"
+   "Goodnight Mommy",
+   "Mister Babadook (The Babadook)",
+   "L'Orphelinat (El Orfanato)",
+   "Dark Water"
   ],
-  "correctIndex": 2,
-  "explanation": "Dementia 13 (1963), premier film de Francis Ford Coppola, produit par Roger Corman : meurtres à la hache autour d'un château irlandais et d'un lac hanté par le souvenir d'une fillette noyée.",
+  "correctIndex": 1,
+  "explanation": "Mister Babadook (2014) : une veuve et son fils trouvent un livre pour enfants, « Mister Babadook », dont le monstre griffu refuse de repartir une fois invité.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0065.jpg",
-   "alt": "Photogramme à identifier",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1140,21 +1152,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Des soucoupes volantes attaquent Hollywood sur cette affiche de 1959 : quel film, souvent sacré « pire film de tous les temps », annonce-t-elle ?",
+  "question": "Une poupée androïde aux grands yeux, qui chante, danse (et devient virale) : quel film de 2023 met en scène cette compagne robotique un peu trop protectrice ?",
   "choices": [
-   "La Guerre des mondes",
-   "Plan 9 from Outer Space",
-   "Le Jour où la Terre s'arrêta",
-   "Les Envahisseurs de la planète rouge"
+   "Annabelle",
+   "Chucky",
+   "M3GAN",
+   "The Boy"
   ],
-  "correctIndex": 1,
-  "explanation": "Plan 9 from Outer Space (1959) d'Ed Wood : des extraterrestres ressuscitent les morts pour conquérir la Terre. Décors en carton et soucoupes en assiettes, mais un charme culte irrésistible.",
+  "correctIndex": 2,
+  "explanation": "M3GAN (2023) : une ingénieure en robotique confie sa nièce orpheline à son prototype, une poupée IA qui prend sa mission de protection très, très au sérieux. Sa danse du couloir est devenue virale.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0055.jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/en/0/03/M3GAN_Poster.jpeg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1198,21 +1211,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Une fleur aux dents acérées sert d'enseigne à cette boutique : quel film de Roger Corman, tourné en quelques jours en 1960, cette affiche annonce-t-elle ?",
+  "question": "Des ados à vélo, une forêt la nuit et une typographie lumineuse très années 80 : quelle série Netflix lancée en 2016 cette affiche annonce-t-elle ?",
   "choices": [
-   "La Tombe de Ligeia",
-   "La Créature de la mer hantée",
-   "Un baquet de sang",
-   "La Petite Boutique des horreurs"
+   "Dark",
+   "Locke & Key",
+   "The OA",
+   "Stranger Things"
   ],
   "correctIndex": 3,
-  "explanation": "La Petite Boutique des horreurs (1960) de Roger Corman, célèbre pour sa plante carnivore affamée et pour avoir été tourné, dit la légende, en deux jours et une nuit. Il a inspiré une comédie musicale à succès.",
+  "explanation": "Créée par les frères Duffer, Stranger Things (2016) se déroule à Hawkins, où l'ouverture d'un laboratoire secret libère le Monde à l'Envers et fait apparaître la mystérieuse Onze.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0057.webp",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489169.jpg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1256,21 +1270,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Cette affiche allemande de 1920, aux toits pointus comme des dents, annonce un film tiré d'une légende juive de Prague. Lequel ?",
+  "question": "Tresses noires, violoncelle et une main qui se balade toute seule : quelle série de Tim Burton (2022) suit la fille de la famille Addams à l'académie Nevermore ?",
   "choices": [
-   "Nosferatu",
-   "Faust",
-   "Le Golem",
-   "Metropolis"
+   "Les Nouvelles Aventures de Sabrina",
+   "Mercredi (Wednesday)",
+   "Riverdale",
+   "Shadow and Bone"
   ],
-  "correctIndex": 2,
-  "explanation": "Le Golem (1920) de Paul Wegener : un rabbin de Prague donne vie à un géant d'argile pour protéger son peuple. L'affiche stylisée de Hans Poelzig est un bijou de l'affiche expressionniste.",
+  "correctIndex": 1,
+  "explanation": "Mercredi (2022) : Jenna Ortega y incarne Mercredi Addams, enquêtant sur un monstre qui terrorise son école pour marginaux. C'est l'un des plus gros succès de l'histoire de Netflix.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0058.jpg",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466410.jpg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1314,21 +1329,22 @@
   "category": "cinema-series",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Cheveux en bataille, mains crispées, grimace sauvage : quel monstre de la littérature cet acteur incarne-t-il dès 1910, dans sa toute première version au cinéma ?",
+  "question": "Chaque saison, une nouvelle histoire : maison hantée, asile, sabbat de sorcières, cirque de monstres… Quelle anthologie d'horreur de Ryan Murphy, lancée en 2011, recycle sa troupe d'acteurs d'une saison à l'autre ?",
   "choices": [
-   "Le comte Orlok",
-   "Mr Hyde",
-   "Le Golem",
-   "La créature de Frankenstein"
+   "American Crime Story",
+   "Channel Zero",
+   "American Horror Story",
+   "Castle Rock"
   ],
-  "correctIndex": 3,
-  "explanation": "Charles Ogle est la créature de Frankenstein dans le Frankenstein d'Edison (1910) : perruque sauvage et maquillage fait maison, seize ans avant que le cinéma parlant ne rende le monstre célèbre.",
+  "correctIndex": 2,
+  "explanation": "American Horror Story (2011) a popularisé le format anthologie saisonnière : les mêmes acteurs (Sarah Paulson, Evan Peters…) y jouent des rôles différents chaque année.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0066.jpg",
-   "alt": "Personnage à identifier",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607475.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1353,22 +1369,23 @@
   "id": "cinema-series-0072",
   "category": "cinema-series",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Dans cet extrait de Méliès, les convives n'en croient pas leurs yeux pendant le repas. Quel phénomène bizarre se produit dans cette salle à manger ?",
+  "type": "image",
+  "question": "Survêtements verts numérotés, gardes masqués en combinaison rose et jeux d'enfants où perdre signifie mourir : quelle série coréenne a explosé tous les records de Netflix en 2021 ?",
   "choices": [
-   "Les plats lévitent jusqu'au plafond",
-   "Les meubles et les objets bougent tout seuls",
-   "Les convives rapetissent",
-   "Le repas se transforme en fleurs"
+   "Alice in Borderland",
+   "All of Us Are Dead",
+   "La Casa de Papel",
+   "Squid Game"
   ],
-  "correctIndex": 1,
-  "explanation": "Tables, chaises et pendule s'animent tout seuls dans la Salle à manger fantastique de Georges Méliès : le mobilier ensorcelé était l'un de ses trucages favoris, réalisé par arrêts de caméra successifs.",
+  "correctIndex": 3,
+  "explanation": "Squid Game (2021) : 456 personnes endettées risquent leur vie dans des jeux d'enfants pour 45,6 milliards de wons. La série est devenue le plus gros lancement de Netflix à l'époque.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0070.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440521.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1501,22 +1518,23 @@
   "id": "cinema-series-0080",
   "category": "cinema-series",
   "difficulty": "difficile",
-  "type": "video",
-  "question": "Cet extrait de 1895, produit pour le kinétoscope d'Edison, est célèbre pour un trucage pionnier. Lequel voit-on à la fin ?",
+  "type": "audio",
+  "question": "Écoute : ce piano obsédant, à la métrique bancale, composé par le réalisateur lui-même en quelques jours, est le thème de quel film de 1978 ?",
   "choices": [
-   "Un fantôme en surimpression",
-   "Une décapitation simulée par un arrêt de caméra",
-   "Une tête qui parle toute seule",
-   "Un voyage dans la Lune"
+   "Psychose",
+   "Halloween : La Nuit des masques",
+   "L'Exorciste",
+   "Suspiria"
   ],
   "correctIndex": 1,
-  "explanation": "Une décapitation truquée dans L'Exécution de Marie, reine des Écossais (1895) : la caméra s'arrête, l'actrice est remplacée par un mannequin, et la tête tombe. C'est l'un des tout premiers effets spéciaux de l'histoire du cinéma.",
+  "explanation": "John Carpenter a composé le thème d'Halloween en 5/4, inspiré par des exercices de bongos appris de son père. Quelques notes de piano ont suffi à créer l'un des thèmes les plus reconnaissables du cinéma.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0072.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Extrait vidéo d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/76/5e/43765e97-ad21-c645-51b1-3a8a547263d9/mzaf_10428659719463428925.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1524,21 +1542,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Un savant distingué se penche sur son double grimaçant : quel film de 1920, adapté d'un célèbre roman fantastique, cette affiche annonce-t-elle ?",
+  "question": "Un homme bourru et une ado traversent une Amérique en ruines, ravagée par un champignon parasite : quelle série HBO de 2023 adapte le jeu vidéo acclamé de Naughty Dog ?",
   "choices": [
-   "Dr Jekyll et Mr Hyde",
-   "Frankenstein",
-   "Le Portrait de Dorian Gray",
-   "L'Homme invisible"
+   "The Walking Dead",
+   "Fallout",
+   "The Last of Us",
+   "Station Eleven"
   ],
-  "correctIndex": 0,
-  "explanation": "Dr Jekyll et Mr Hyde (1920), avec John Barrymore, qui se transformait en Hyde presque sans maquillage, à force de grimaces. La transformation la plus célèbre du cinéma muet.",
+  "correctIndex": 2,
+  "explanation": "The Last of Us (2023) adapte fidèlement le jeu de 2013 : Joel doit escorter Ellie, peut-être immunisée contre le cordyceps qui a transformé l'humanité en infectés.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0059.jpg",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/563/1409008.jpg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1618,21 +1637,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Écoute ces accords solennels et menaçants, devenus le son emblématique des vieux films d'horreur gothiques. Quel instrument les joue ?",
+  "question": "Écoute : ces nappes de synthétiseurs rétro et cette pulsation hypnotique ouvrent quelle série Netflix située dans la petite ville de Hawkins ?",
   "choices": [
-   "Le clavecin",
-   "Le piano mécanique",
-   "Le thérémine",
-   "L'orgue"
+   "Dark",
+   "Mercredi (Wednesday)",
+   "The Last of Us",
+   "Stranger Things"
   ],
   "correctIndex": 3,
-  "explanation": "L'orgue, dans la Toccata et fugue en ré mineur attribuée à Bach. Ses premières notes ouvrent d'innombrables films de savants fous et de châteaux hantés : trois accords suffisent à installer l'épouvante.",
+  "explanation": "Le thème de Stranger Things, composé par Kyle Dixon et Michael Stein du groupe S U R V I V E, est joué sur des synthétiseurs analogiques vintage, en hommage à John Carpenter et Tangerine Dream.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0071.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement libre — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/6f/ed/926fed10-ec76-2790-4b24-7fa4af34cea0/mzaf_10795859141048042074.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1766,21 +1786,22 @@
   "category": "cinema-series",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Visage de squelette, regard fou : quel acteur, surnommé « l'homme aux mille visages », se cache sous ce maquillage qu'il a créé lui-même en 1925 ?",
+  "question": "Un shérif se réveille dans un hôpital désert : le monde appartient désormais aux rôdeurs. Quelle série lancée en 2010 a duré 11 saisons et engendré tout un univers de spin-offs ?",
   "choices": [
-   "Boris Karloff",
-   "Bela Lugosi",
-   "John Barrymore",
-   "Lon Chaney"
+   "Fear the Walking Dead",
+   "The Walking Dead",
+   "Z Nation",
+   "iZombie"
   ],
-  "correctIndex": 3,
-  "explanation": "Lon Chaney, le Fantôme de l'Opéra démasqué (1925). Il s'infligeait des maquillages douloureux — fils dans les narines, prothèses dentaires — pour devenir le premier grand monstre du cinéma.",
+  "correctIndex": 1,
+  "explanation": "The Walking Dead (2010-2022), adaptée du comic de Robert Kirkman, suit Rick Grimes et son groupe. Son premier épisode a été diffusé un 31 octobre, jour d'Halloween.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0061.jpg",
-   "alt": "Personnage à identifier",
-   "credit": "Photogramme d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/424/1061900.jpg",
+   "alt": "Affiche à identifier",
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1882,21 +1903,22 @@
   "category": "cinema-series",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Sur cette affiche de 1928, un homme au sourire figé et démesuré, condamné à rire pour toujours. Ce personnage de Victor Hugo a inspiré un très célèbre méchant de bande dessinée. Lequel ?",
+  "question": "Une fratrie adulte, brisée par une enfance passée dans un manoir hanté : quelle mini-série Netflix de Mike Flanagan (2018), adaptée de Shirley Jackson, est saluée comme un chef-d'œuvre d'horreur et de drame familial ?",
   "choices": [
-   "Le Joker",
-   "Le Pingouin",
-   "Double-Face",
-   "Le Riddler"
+   "The Haunting of Bly Manor",
+   "Midnight Mass",
+   "The Haunting of Hill House",
+   "La Chute de la maison Usher (2023)"
   ],
-  "correctIndex": 0,
-  "explanation": "Gwynplaine, héros de « L'Homme qui rit » de Victor Hugo, interprété par Conrad Veidt : son rictus a directement inspiré le Joker de Batman, créé en 1940.",
+  "correctIndex": 2,
+  "explanation": "The Haunting of Hill House (2018) alterne enfance et vie adulte des Crain. Son sixième épisode, tourné en longs plans-séquences, est considéré comme un tour de force.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0075.jpg",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246083.jpg",
    "alt": "Affiche à identifier",
-   "credit": "Affiche originale d'époque — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Affiche — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  }
 ]

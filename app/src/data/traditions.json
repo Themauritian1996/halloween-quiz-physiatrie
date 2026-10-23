@@ -410,21 +410,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Grand feu de joie et gerbe d'étincelles dans la nuit : en Allemagne et en Suède, on allume ces brasiers au printemps, le soir du 30 avril, pour une nuit où les sorcières sont censées se rassembler. Quelle nuit est-ce ?",
+  "question": "Sur cette photographie prise en convention : tresses noires, robe noire à col blanc et regard blasé caractéristique. Quel personnage cette cosplayeuse incarne-t-elle ?",
   "choices": [
-   "La nuit de Guy Fawkes",
-   "Samhain, le nouvel an celtique",
-   "La nuit de Walpurgis",
-   "La nuit de la Saint-Jean"
+   "Morticia Addams",
+   "Mercredi Addams",
+   "Enid Sinclair",
+   "Sabrina Spellman"
   ],
-  "correctIndex": 2,
-  "explanation": "C'est la nuit de Walpurgis (Walpurgisnacht), du 30 avril au 1er mai : de grands feux chassent l'hiver — et les sorcières que la légende réunissait ce soir-là sur le mont Brocken, en Allemagne. En Suède, on y chante aussi le printemps autour du brasier (Valborg).",
+  "correctIndex": 1,
+  "explanation": "Depuis la série Netflix de 2022, le cosplay de Mercredi Addams — tresses, robe noire à col blanc, teint pâle et air blasé — est devenu LE déguisement le plus reproduit en convention et à Halloween.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0264.jpg",
+   "src": "/media/med-0318.jpg",
    "alt": "Photographie à identifier",
-   "credit": "Photo — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -750,21 +750,21 @@
   "category": "traditions",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur cette carte postale américaine du début du XXe siècle, la sorcière traverse le ciel sur son balai. Quel animal domestique noir, compagnon classique des sorcières, voyage avec elle sur le balai (et réapparaît en bas à droite) ?",
+  "question": "Sur cette photographie prise devant un centre de congrès : perruque orange, ballons rouges et costume de clown aux pompons rouges. Quel monstre ce cosplay rend-il hommage ?",
   "choices": [
-   "Le chat noir",
-   "Le corbeau apprivoisé",
-   "Le rat noir",
-   "Le petit chien noir"
+   "Art le clown (Terrifier)",
+   "Le Joker",
+   "Pennywise, le clown de « Ça »",
+   "Captain Spaulding"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est le chat noir, compagnon traditionnel des sorcières dans l'imaginaire d'Halloween : il est accroché au balai, queue en l'air avec un ruban rouge, et on le retrouve en bas de la carte, dos rond face aux citrouilles. Hibou et chauves-souris complètent le bestiaire.",
+  "correctIndex": 2,
+  "explanation": "Depuis les films Ça de 2017 et 2019, le cosplay de Pennywise — perruque orange, ballons rouges, sourire peint jusqu'aux yeux — est un des plus populaires des Comic Con et des soirées d'Halloween.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0258.jpg",
+   "src": "/media/med-0319.jpg",
    "alt": "Photographie à identifier",
-   "credit": "Photo — Wikimedia Commons",
-   "licence": "Public domain"
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
   }
  },
  {
@@ -1881,22 +1881,22 @@
   "id": "traditions-0100",
   "category": "traditions",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Son souffle rauque, presque venteux, et ses notes espacées viennent d'une flûte de bambou à cinq trous que jouaient autrefois des moines zen japonais. De quel instrument s'agit-il ?",
+  "type": "image",
+  "question": "Sur cette photographie en noir et blanc, des fantômes géants tout gonflés, une citrouille énorme et un crâne gardent le porche d'une maison. Comment appelle-t-on ce type de décoration de pelouse, très populaire en Amérique du Nord ?",
   "choices": [
-   "Du dizi chinois",
-   "Du daegeum coréen",
-   "Du shakuhachi",
-   "De la flûte de Pan"
+   "Les animatroniques de magasin",
+   "Les projections holographiques",
+   "Les sculptures de glace",
+   "Les décorations gonflables"
   ],
-  "correctIndex": 2,
-  "explanation": "C'est le shakuhachi, flûte japonaise en bambou au son profondément soufflé, instrument de méditation des moines zen devenu un symbole sonore du Japon — on l'entend dans les musiques de fête traditionnelles comme au cinéma.",
+  "correctIndex": 3,
+  "explanation": "Les gonflables d'Halloween, apparus dans les années 2000, fonctionnent avec un petit ventilateur permanent : fantômes, citrouilles géantes et squelettes se dressent le soir venu et s'affaissent le matin, comme des monstres en veille.",
   "media": {
-   "kind": "audio",
-   "src": "/media/med-0273.mp3",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Audio — Wikimedia Commons",
-   "licence": "CC BY 3.0"
+   "kind": "image",
+   "src": "/media/med-0320.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY 2.0"
   }
  }
 ]

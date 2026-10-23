@@ -22,7 +22,11 @@ const noMedia = (q) => q.type === 'texte'
 
 test('la banque contient des questions vidéo jouables', () => {
   const videos = bank.filter((q) => q.type === 'video')
-  assert.ok(videos.length >= 10, `au moins 10 questions vidéo attendues, reçu ${videos.length}`)
+  // Lot 10 : les vidéos (extraits du domaine public, hébergés) sont passées
+  // de 13 à 6 — le rééquilibrage « ère moderne » privilégie affiches et
+  // aperçus audio externes, sans canal vidéo moderne propre (YouTube exclu :
+  // le titre s'y affiche). Seuil abaissé en conséquence, plancher : 5.
+  assert.ok(videos.length >= 5, `au moins 5 questions vidéo attendues, reçu ${videos.length}`)
   for (const q of videos) assert.ok(isPlayable(q), `${q.id} doit être jouable`)
 })
 

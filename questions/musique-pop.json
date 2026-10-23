@@ -4,21 +4,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Trompettes terrifiantes, chœur déchaîné et coups de grosse caisse comme un tonnerre de fin du monde : quel passage célèbre entends-tu ?",
+  "question": "Écoute : porte qui grince, pas lourds, loup qui hurle et bientôt la voix de Vincent Price… Quel tube de Michael Jackson se transforme en court-métrage d'horreur ?",
   "choices": [
-   "Le Lacrimosa de Mozart",
-   "Le Dies Irae grégorien",
-   "Le chœur des esclaves de Verdi",
-   "Le Dies Irae du Requiem de Verdi"
+   "Thriller",
+   "Ghosts",
+   "Beat It",
+   "Smooth Criminal"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est le Dies Irae du Requiem de Giuseppe Verdi (1874) : le Jour du Jugement y éclate en pleine tempête orchestrale. C'est l'un des passages les plus utilisés au cinéma et dans les publicités dès qu'il faut annoncer une catastrophe épique !",
+  "correctIndex": 0,
+  "explanation": "Sorti en 1982, Thriller doit sa légende à son clip de 14 minutes signé John Landis — un véritable court-métrage d'horreur — et à la narration de Vincent Price, légende du cinéma d'épouvante.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0211.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 4.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -116,21 +117,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Une créature boitillante et menaçante avance par saccades, grogne un moment, puis se fige d'un coup. De quelle pièce de cette galerie musicale s'agit-il ?",
+  "question": "Écoute : ces notes de piano en boucle, enfantines et glaçantes à la fois, ont traumatisé des générations de spectateurs depuis 1973. À quel film d'horreur sont-elles à jamais associées ?",
   "choices": [
-   "Dans l'antre du roi de la montagne de Grieg",
-   "La Cabane sur des pattes de poulet de Moussorgski",
-   "Gnomus, des Tableaux d'une exposition de Moussorgski",
-   "Une nuit sur le mont Chauve de Moussorgski"
+   "Halloween : La Nuit des masques",
+   "L'Exorciste",
+   "Psychose",
+   "Rosemary's Baby"
   ],
-  "correctIndex": 2,
-  "explanation": "C'est Gnomus, premier tableau des Tableaux d'une exposition de Modeste Moussorgski (1874) : un gnome difforme, dessiné par son ami Viktor Hartmann, qui avance en boitant. Chaque saccade de la musique est un de ses pas tordus !",
+  "correctIndex": 1,
+  "explanation": "Tubular Bells (1973) de Mike Oldfield est devenu le thème officieux de L'Exorciste : son piano répétitif et cristallin accompagne l'arrivée du père Merrin et la descente aux enfers de Regan.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0210.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/ad/9f/d0ad9ffc-9b15-847c-857f-c82546f4fe31/mzaf_5838067582588501290.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -138,21 +140,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Trois notes répétées, calmes et hypnotiques, comme un ruisseau qui coule dans la nuit : quelle sonate célèbre commence ainsi ?",
+  "question": "Écoute : « Who you gonna call? » Quel est le titre du thème chanté par Ray Parker Jr. pour le film SOS Fantômes (1984) ?",
   "choices": [
-   "Sonate « Clair de lune » de Beethoven",
-   "Nocturne posthume de Chopin",
-   "Clair de lune de Debussy",
-   "Rêverie de Schumann"
+   "Ghosts (Michael Jackson)",
+   "Ghost Town (The Specials)",
+   "Ghostbusters",
+   "Ghost (Ella Henderson)"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est la Sonate « Clair de lune » de Ludwig van Beethoven (1801), dont le premier mouvement baigne dans une tristesse lunaire. Son surnom lui vient d'un critique qui y voyait un bateau glissant de nuit sur le lac des Quatre-Cantons.",
+  "correctIndex": 2,
+  "explanation": "Ghostbusters (1984) : Ray Parker Jr. a composé le thème en quelques jours après avoir vu une fausse publicité des chasseurs de fantômes dans le film. « Who you gonna call? » est devenu un slogan planétaire.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0212.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8b/e3/638be3a1-2f5e-5cff-9b58-085e3b793cbd/mzaf_10733010531783613784.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -286,21 +289,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Une marche à la fois grotesque et triomphale avance vers l'échafaud, jusqu'au coup sec qui fait tomber la tête du condamné. Quelle pièce entends-tu ?",
+  "question": "Écoute cette paranoïa funk des années 80 : le chanteur est persuadé qu'on l'observe jusque sous la douche. Quelle chanson de Rockwell, avec Michael Jackson aux chœurs ?",
   "choices": [
-   "Danse macabre de Saint-Saëns",
-   "Une nuit sur le mont Chauve de Moussorgski",
-   "Marche au supplice, de la Symphonie fantastique de Berlioz",
-   "Marche funèbre d'une marionnette de Gounod"
+   "Every Breath You Take (The Police)",
+   "Private Eyes (Hall & Oates)",
+   "Eyes Without a Face (Billy Idol)",
+   "Somebody's Watching Me"
   ],
-  "correctIndex": 2,
-  "explanation": "C'est la Marche au supplice, quatrième mouvement de la Symphonie fantastique d'Hector Berlioz (1830) : le héros rêve qu'il a tué sa bien-aimée et qu'on le conduit à l'échafaud. On entend même le couperet tomber, puis la foule applaudir !",
+  "correctIndex": 3,
+  "explanation": "Somebody's Watching Me (1984) : Rockwell, fils du fondateur de Motown, y chante sa paranoïa, avec Michael Jackson (non crédité) au refrain. Le titre cite le roman 1984 de George Orwell.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0214.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/0b/81/6f0b8124-b0e2-98b3-e517-493718197b02/mzaf_15444166212583157475.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -416,21 +420,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Des accords énormes, lents et lourds comme des cloches de cathédrale ouvrent ce court prélude pour piano. Lequel est-ce ?",
+  "question": "Écoute : relancée au sommet des palmarès mondiaux en 2022 grâce à une scène culte de Stranger Things, cette chanson de 1985 est signée… ?",
   "choices": [
-   "Prélude n° 20 en ut mineur de Chopin",
-   "Marche funèbre de Chopin",
-   "Prélude à l'après-midi d'un faune de Debussy",
-   "Sonate « Pathétique » de Beethoven"
+   "Running Up That Hill — Kate Bush",
+   "Running Up That Hill — Placebo",
+   "Hounds of Love — Kate Bush",
+   "Master of Puppets — Metallica"
   ],
   "correctIndex": 0,
-  "explanation": "C'est le Prélude n° 20 en ut mineur de Frédéric Chopin (1839), surnommé « prélude aux accords » : treize mesures seulement, mais d'un poids de cathédrale. Il a été joué aux funérailles de Chopin, avec sa Marche funèbre.",
+  "explanation": "En 2022, la scène où la chanson sauve Max des griffes de Vecna dans Stranger Things a propulsé Running Up That Hill (1985) en tête des palmarès, 37 ans après sa sortie.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0216.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/c0/a8/21c0a8a9-dadf-55e5-aeba-50dcc704a736/mzaf_5583157979505295580.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -585,22 +590,23 @@
   "id": "musique-pop-0032",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Ces tuyaux géants dominent l'intérieur d'une cathédrale. Quel instrument, roi des bandes-son de châteaux hantés, vois-tu ici ?",
+  "type": "audio",
+  "question": "Écoute : « What's wrong with me? » Quel tube sombre de Rihanna (2008), au clip rempli de cages, de tarentules et de regards possédés, portes-tu en tête ?",
   "choices": [
-   "Un carillon d'église",
-   "L'orgue à tuyaux",
-   "Un harmonium",
-   "Un célesta"
+   "Umbrella",
+   "Disturbia",
+   "S&M",
+   "Unfaithful"
   ],
   "correctIndex": 1,
-  "explanation": "C'est l'orgue à tuyaux, ici celui de la cathédrale de Hereford, en Angleterre : ses plus grands tuyaux peuvent dépasser dix mètres. Avec un son pareil, pas étonnant que le cinéma d'horreur l'ait couronné instrument des lieux hantés !",
+  "explanation": "Disturbia (2008), écrite notamment par Chris Brown, décrit une descente dans l'angoisse et la folie. Son clip, sombre et claustrophobe, emprunte beaucoup à l'esthétique des films d'horreur.",
   "media": {
-   "kind": "image",
-   "src": "/media/med-0217.jpg",
-   "alt": "Instrument à identifier",
-   "credit": "Photographie — Wikimedia Commons",
-   "licence": "CC BY-SA 2.0"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/10/48/a510486f-6ae2-63be-86cb-25e1be8125b2/mzaf_16451062589614299862.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -662,21 +668,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Des voix d'hommes chantent à l'unisson, sans aucun instrument, une mélodie médiévale sombre comme un avertissement venu du fond des âges. Que chantent-elles ?",
+  "question": "Écoute : marche synthétique, froide et militaire, entendue quand des gardes en combinaison rose entrent en scène. De quelle série Netflix ce morceau de Jung Jae-il est-il extrait ?",
   "choices": [
-   "Le Lacrimosa du Requiem de Mozart",
-   "Le Dies Irae grégorien",
-   "L'Aquarium de Saint-Saëns",
-   "Le chœur des esclaves de Verdi"
+   "Alice in Borderland",
+   "Mercredi (Wednesday)",
+   "Squid Game",
+   "Stranger Things"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est le Dies Irae, la séquence grégorienne médiévale du « jour de colère » chantée dans la messe des morts. Sa mélodie a été citée par des générations de compositeurs, de Berlioz à Saint-Saëns : vous l'avez déjà entendue sans le savoir !",
+  "correctIndex": 2,
+  "explanation": "Pink Soldiers de Jung Jae-il accompagne les déplacements des gardes masqués de Squid Game. Le compositeur a aussi signé la musique oscarisée de Parasite.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0204.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/a5/43/d0a54377-c428-2a06-dbd6-78821bcf818f/mzaf_16082330645748515523.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -742,21 +749,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Sorcières et démons se rassemblent au sommet d'une montagne sinistre pour une nuit de sabbat endiablée. Quelle pièce tourbillonnante entends-tu ?",
+  "question": "Écoute : chuchotements, pas feutrés et bruits d'agrafeuse… Quelle chanson de Billie Eilish est racontée par le monstre qui dort sous son lit ?",
   "choices": [
-   "Dans l'antre du roi de la montagne de Grieg",
-   "Marche au supplice de Berlioz",
-   "Une nuit sur le mont Chauve de Moussorgski",
-   "Le Vol du bourdon de Rimski-Korsakov"
+   "bad guy",
+   "when the party's over",
+   "everything i wanted",
+   "bury a friend"
   ],
-  "correctIndex": 2,
-  "explanation": "C'est Une nuit sur le mont Chauve de Modeste Moussorgski : un sabbat de sorcières qui ne prend fin qu'à l'aube, quand les cloches du village chassent les démons. Disney en a fait le segment le plus effrayant de Fantasia !",
+  "correctIndex": 3,
+  "explanation": "bury a friend (2019) est chantée du point de vue du monstre caché sous le lit de Billie Eilish — elle y pose la question : que rêve de faire le monstre, la nuit ?",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0202.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/f8/14/34f81471-60c1-03fd-8612-4c69989b2b80/mzaf_6498312954680902777.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -800,21 +808,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Quel cortège imagines-tu en entendant cette marche lente et solennelle au piano, devenue LA musique des enterrements dans l'imaginaire collectif ?",
+  "question": "Écoute : chœurs quasi grégoriens et nom d'une légende urbaine qu'on invoque trois fois devant le miroir. Quelle chanson de Lady Gaga, devenue virale grâce à une danse gothique en 2022 ?",
   "choices": [
-   "Sonate « Clair de lune » de Beethoven",
-   "Prélude en mi mineur de Chopin",
-   "Funérailles de Liszt",
-   "Marche funèbre de la Sonate n° 2 de Chopin"
+   "Bloody Mary",
+   "Judas",
+   "Alejandro",
+   "Bad Romance"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est la Marche funèbre de Frédéric Chopin, troisième mouvement de sa Sonate pour piano n° 2 (1839). Elle a même été jouée lors des funérailles de Chopin lui-même, en 1849 !",
+  "correctIndex": 0,
+  "explanation": "Bloody Mary (2011) dormait dans l'album Born This Way avant que TikTok ne la ressuscite en 2022, synchronisée sur la fameuse scène de danse de la série Mercredi.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0203.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d9/fd/a9d9fdbe-0718-8d5e-fd2a-91bf05bbcc4c/mzaf_6014557621905797616.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -822,21 +831,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Un bal de sorcières déchaîné, des cloches lointaines et une parodie grinçante d'un chant d'église : quel finale de symphonie entends-tu ?",
+  "question": "Écoute : cette reprise feutrée et hantée d'un classique de Donovan a été enregistrée pour le film Scary Stories (2019). Quelle chanteuse à la voix de spectre la interprète ?",
   "choices": [
-   "Songe d'une nuit du sabbat (Symphonie fantastique) de Berlioz",
-   "Une nuit sur le mont Chauve de Moussorgski",
-   "Danse macabre de Saint-Saëns",
-   "Totentanz de Liszt"
+   "Billie Eilish",
+   "Lana Del Rey",
+   "Florence + The Machine",
+   "Lorde"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est le Songe d'une nuit du sabbat, finale de la Symphonie fantastique d'Hector Berlioz (1830). Berlioz y parodie le Dies Irae pendant que les sorcières dansent autour du héros : le premier grand sabbat de la musique romantique !",
+  "correctIndex": 1,
+  "explanation": "Pour Scary Stories to Tell in the Dark (2019), produit par Guillermo del Toro, Lana Del Rey reprend le standard de Donovan de 1966 dans une version spectrale, taillée pour les contes d'horreur d'Alvin Schwartz.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0205.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/c8/75/c5c8753f-6b29-7802-5c6f-980808b75b53/mzaf_7972898662245842660.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -862,21 +872,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Cette petite marche boitillante et malicieuse est devenue le générique d'une célèbre série télévisée présentée par le maître du suspense. Quelle est cette pièce ?",
+  "question": "Écoute : « This is Halloween! » chantent en chœur les citoyens d'une ville peuplée de monstres. De quel film de Tim Burton, produit en 1993, ce morceau d'ouverture est-il tiré ?",
   "choices": [
-   "Marche funèbre de Chopin",
-   "Gnomus de Moussorgski",
-   "Marche funèbre d'une marionnette de Gounod",
-   "Marche au supplice de Berlioz"
+   "Les Noces funèbres",
+   "Edward aux mains d'argent",
+   "L'Étrange Noël de monsieur Jack",
+   "Sleepy Hollow : La Légende du cavalier sans tête"
   ],
   "correctIndex": 2,
-  "explanation": "C'est la Marche funèbre d'une marionnette de Charles Gounod (1872), écrite pour le piano. Près d'un siècle plus tard, elle devient le générique d'« Alfred Hitchcock présente » : impossible de l'entendre sans voir la silhouette du maître apparaître !",
+  "explanation": "This Is Halloween ouvre L'Étrange Noël de monsieur Jack (1993) : les habitants de la ville d'Halloween s'y présentent un par un, sous la musique de Danny Elfman, collaborateur attitré de Tim Burton.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0206.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/cf/e4/9acfe482-1eee-1697-e4b4-277033b9f86e/mzaf_9977418176212827026.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -960,21 +971,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Un orchestre immense porte le deuil d'un héros tombé, dans une marche lente, noble et écrasante. De quel opéra monumental ce passage vient-il ?",
+  "question": "Écoute : huit minutes de thrash metal ressuscitées en 2022 par une scène culte de Stranger Things, où un certain Eddie joue « le concert le plus metal de l'histoire ». Quel morceau de Metallica ?",
   "choices": [
-   "Marche funèbre de Chopin",
-   "Marche funèbre de Siegfried, du Crépuscule des dieux de Wagner",
-   "Marche au supplice de Berlioz",
-   "Funérailles de Liszt"
+   "Enter Sandman — Metallica",
+   "One — Metallica",
+   "Fade to Black — Metallica",
+   "Master of Puppets — Metallica"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est la Marche funèbre de Siegfried, dans Le Crépuscule des dieux de Richard Wagner (1876) : l'orchestre y raconte toute la vie du héros pendant que son corps est porté en procession. Dix minutes de deuil en format XXL !",
+  "correctIndex": 3,
+  "explanation": "Master of Puppets (1986) parle d'addiction et de manipulation. En 2022, Eddie Munson la joue à la guitare dans le Monde à l'Envers pour attirer les démocreatures — « le concert le plus metal de l'histoire ».",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0213.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/41/b8/fc41b8d9-1946-643c-34b8-d48d99adb93a/mzaf_11376883454063654277.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -982,21 +994,22 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Des larmes coulent dans ce chœur poignant, extrait d'une messe pour les morts restée inachevée. Quel passage entends-tu ?",
+  "question": "Écoute : des squelettes qui claquent des os en rythme… Ce morceau de 1996, devenu le son d'Halloween de toute une génération sur TikTok, s'intitule ?",
   "choices": [
-   "Le Dies Irae de Verdi",
-   "Le Dies Irae grégorien",
-   "La Marche funèbre de Siegfried de Wagner",
-   "Le Lacrimosa du Requiem de Mozart"
+   "Spooky, Scary Skeletons",
+   "Monster Mash (Bobby Pickett)",
+   "Grim Grinning Ghosts",
+   "The Purple People Eater"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est le Lacrimosa du Requiem de Wolfgang Amadeus Mozart (1791), l'œuvre qu'il composait sur son lit de mort et qui est restée inachevée. « Lacrimosa » signifie « pleine de larmes » en latin : on les entend couler dans chaque mesure.",
+  "correctIndex": 0,
+  "explanation": "Spooky, Scary Skeletons d'Andrew Gold (1996), chanson pour enfants à l'origine, est devenue grâce à un remix et à TikTok LE son officiel d'Halloween sur Internet, avec ses squelettes qui dansent.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0207.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/52/58/10525878-2563-4101-305a-f192587450ae/mzaf_10635519091469965799.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1093,22 +1106,23 @@
   "id": "musique-pop-0058",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Sur scène, cette musicienne frotte un archet sur une simple lame d'atelier courbée entre ses genoux, et en tire une voix presque humaine. Quel instrument détourné joue-t-elle ?",
+  "type": "audio",
+  "question": "Écoute : « Off with your head! » Quel tube des Yeah Yeah Yeahs (2009), au clip peuplé d'un loup-garou danseur, est devenu un hymne des soirées d'Halloween ?",
   "choices": [
-   "Le violoncelle",
-   "Le thérémine",
-   "L'armonica de verre",
-   "La scie musicale"
+   "Maps",
+   "Heads Will Roll",
+   "Zero",
+   "Sacrilege"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est la scie musicale : une banale scie de menuisier, courbée en S et frottée avec un archet, produit ce chant plaintif et fantomatique. Elle a connu son heure de gloire dans les music-halls des années 1920 !",
+  "correctIndex": 1,
+  "explanation": "Heads Will Roll (2009) : son clip met en scène un loup-garou danseur en pleine soirée mondaine, qui finit par arracher des têtes — la Reine de cœur d'Alice n'aurait pas renié le refrain « Off with your head! ».",
   "media": {
-   "kind": "image",
-   "src": "/media/med-0219.jpg",
-   "alt": "Instrument à identifier",
-   "credit": "Photographie — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/d5/50/2ad55038-9df9-8cd9-3266-fce3e78b9f66/mzaf_13589230364797896384.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1205,22 +1219,23 @@
   "id": "musique-pop-0064",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Cette gravure ancienne montre des bols de verre emboîtés sur un axe, qu'on faisait chanter avec les doigts mouillés. On disait son son envoûtant capable de troubler les esprits. Quel instrument est-ce ?",
+  "type": "audio",
+  "question": "Écoute : c'est « Sweet Dreams » d'Eurythmics, mais ralenti, sale et menaçant comme dans un film d'horreur. Qui signe cette reprise cauchemardesque de 1995 ?",
   "choices": [
-   "L'harmonica de verre (armonica) de Franklin",
-   "Le thérémine",
-   "La scie musicale",
-   "Le cristal Baschet"
+   "Rob Zombie",
+   "Nine Inch Nails",
+   "Marilyn Manson",
+   "Alice Cooper"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est l'harmonica de verre, ou armonica, inventé par Benjamin Franklin en 1761 : des bols de verre tournant sur un axe, effleurés par les doigts mouillés. Sa réputation « qui rend fou » est une légende tenace — Mozart et Beethoven ont quand même composé pour lui !",
+  "correctIndex": 2,
+  "explanation": "Marilyn Manson a transformé le tube synthpop d'Eurythmics (1983) en cauchemar industriel en 1995. Sa version accompagne depuis d'innombrables bandes-annonces de films d'horreur.",
   "media": {
-   "kind": "image",
-   "src": "/media/med-0220.jpg",
-   "alt": "Instrument à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/c1/ca/03c1ca0a-01af-d0aa-d5fd-2a058089627c/mzaf_6760163481643834218.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1389,22 +1404,23 @@
   "id": "musique-pop-0074",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "image",
-  "question": "Regarde bien cette couverture de partition de 1873 : « Paroles de Henri Cazalis, musique de Saint-Saëns », et la Mort qui mène le bal au violon. Sous quelle forme cette œuvre a-t-elle d'abord été publiée, avant de devenir le célèbre poème symphonique pour orchestre ?",
+  "type": "audio",
+  "question": "Écoute : dans le clip de ce tube de 1997, les cinq chanteurs se transforment en monstres de cinéma dans un manoir hanté. Quel titre des Backstreet Boys ?",
   "choices": [
-   "Une chanson pour voix et piano",
-   "Un ballet en un acte",
-   "Une musique pour un film muet",
-   "Un opéra comique"
+   "Larger Than Life",
+   "I Want It That Way",
+   "Quit Playing Games (With My Heart)",
+   "Everybody (Backstreet's Back)"
   ],
-  "correctIndex": 0,
-  "explanation": "La Danse macabre a d'abord été une mélodie pour voix et piano (1872-1873) sur le poème de Cazalis ; Saint-Saëns l'a ensuite gonflée en poème symphonique pour orchestre, créé en 1875 — la version que tout le monde connaît.",
+  "correctIndex": 3,
+  "explanation": "Everybody (Backstreet's Back) (1997) : dans le clip, les Backstreet Boys passent la nuit dans un manoir et se transforment en monstres classiques — loup-garou, vampire, momie, fantôme et Jekyll/Hyde.",
   "media": {
-   "kind": "image",
-   "src": "/media/med-0221.jpg",
-   "alt": "Partition ancienne à identifier",
-   "credit": "Couverture ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/30/b7/bf30b77d-80db-f418-47ea-0f455e980f08/mzaf_733937835429193874.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1649,22 +1665,23 @@
   "id": "musique-pop-0088",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Sur cette petite scène, deux instruments insolites se répondent : l'un se joue entièrement sans contact, l'autre est un outil d'atelier frotté avec un archet. Quels sont-ils ?",
+  "type": "audio",
+  "question": "Écoute : ce générique signé Danny Elfman, avec son clavecin gothique et ses cordes espiègles, ouvre quelle série Netflix de 2022 située à l'académie Nevermore ?",
   "choices": [
-   "Le violon et le violoncelle",
-   "L'orgue et la harpe",
-   "Le piano et la guitare",
-   "Le thérémine et la scie musicale"
+   "Mercredi (Wednesday)",
+   "Stranger Things",
+   "Les Nouvelles Aventures de Sabrina",
+   "La Famille Addams (1991)"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est un duo de thérémine et de scie musicale : les deux instruments produisent des glissements plaintifs presque identiques, parfaits pour une ambiance de film d'horreur. L'un fonctionne à l'électricité, l'autre à l'huile de coude !",
+  "correctIndex": 0,
+  "explanation": "Le générique de Mercredi (2022), dessiné par Tim Burton lui-même, est mis en musique par Danny Elfman, son compositeur fétiche depuis Pee-wee et Beetlejuice.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0223.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Vidéo — Wikimedia Commons",
-   "licence": "CC BY 3.0"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/6c/f9/a36cf9d4-cef8-ce63-1f3f-6827b018c7ac/mzaf_15528022977642301390.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1744,21 +1761,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Un père chevauche dans la nuit, son enfant fiévreux blotti dans ses bras, pendant qu'une voix suave l'appelle depuis l'obscurité. Quel chant dramatique entends-tu ?",
+  "question": "Écoute : cri primal, grognements, saxophone déchaîné et sortilège amoureux… Qui a créé, en 1956, ce standard ensorcelé repris ensuite par Nina Simone, Annie Lennox et tant d'autres ?",
   "choices": [
-   "Le Roi des aulnes (Erlkönig) de Schubert",
-   "La Jeune Fille et la Mort de Schubert",
-   "Danse macabre de Saint-Saëns",
-   "Totentanz de Liszt"
+   "Little Richard",
+   "Screamin' Jay Hawkins",
+   "Chuck Berry",
+   "Howlin' Wolf"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est Le Roi des aulnes (Erlkönig) de Franz Schubert (1815), sur un poème de Goethe : un père galope pour sauver son fils pendant que le Roi des aulnes tente de le séduire. Le piano imite le galop du cheval du début à la fin — et l'enfant ne survit pas au voyage.",
+  "correctIndex": 1,
+  "explanation": "I Put a Spell on You (1956) : Screamin' Jay Hawkins, arrivé ivre en studio, en a fait un rituel vaudou hurlé — il se produisait ensuite sur scène en sortant d'un cercueil, un crâne nommé Henry au bout d'une canne.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0208.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/2b/15/7f2b1527-5410-af6f-aece-a2121dd850a4/mzaf_18414303548297508305.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1838,21 +1856,22 @@
   "category": "musique-pop",
   "difficulty": "difficile",
   "type": "audio",
-  "question": "Quatre instruments à cordes ouvrent cette œuvre par un accord brutal et un thème obsessionnel, comme une chevauchée funèbre. De quoi s'agit-il ?",
+  "question": "Écoute : « When the days are cold and the cards all fold… » Quel tube d'Imagine Dragons parle de la part d'ombre que chacun cache au fond de soi ?",
   "choices": [
-   "Quatuor « La Truite » de Schubert",
-   "Quatuor « Américain » de Dvořák",
-   "Quatuor « Razumovsky » de Beethoven",
-   "Quatuor « La Jeune Fille et la Mort » de Schubert"
+   "Radioactive",
+   "Believer",
+   "Demons",
+   "Monster"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est le Quatuor « La Jeune Fille et la Mort » de Franz Schubert (1824), un de ses chefs-d'œuvre les plus sombres. Son deuxième mouvement varie un chant où la Mort vient chercher une jeune fille : Schubert l'a écrit en se sachant gravement malade.",
+  "correctIndex": 2,
+  "explanation": "Demons (2013) d'Imagine Dragons parle des démons intérieurs qu'on cache à ceux qu'on aime. Le clip rend hommage à un fan du groupe décédé d'un cancer.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0215.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY 3.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/d4/e8/fcd4e814-39f4-19e8-f421-c2d269698025/mzaf_1039703479531920971.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1860,43 +1879,45 @@
   "category": "musique-pop",
   "difficulty": "intermediaire",
   "type": "audio",
-  "question": "Des notes cristallines et glissantes donnent l'impression de nager sous l'eau, dans un monde silencieux et bleuté. Quelle pièce entends-tu ?",
+  "question": "Écoute : « You made a fool of everyone »… Dans quelle chanson Olivia Rodrigo (2023) traite-t-elle son ex de buveur de sang qui l'a laissée exsangue, vidée d'elle-même ?",
   "choices": [
-   "Le Cygne de Saint-Saëns",
-   "Aquarium, du Carnaval des animaux de Saint-Saëns",
-   "Clair de lune de Debussy",
-   "Gymnopédie n° 1 de Satie"
+   "drivers license",
+   "good 4 u",
+   "traitor",
+   "vampire"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est Aquarium, extrait du Carnaval des animaux de Camille Saint-Saëns (1886) : l'harmonica de verre et les glissandos du piano y créent une eau musicale. Le cinéma l'utilise souvent pour les scènes sous-marines ou oniriques un peu inquiétantes.",
+  "correctIndex": 3,
+  "explanation": "vampire (2023) : Olivia Rodrigo y compare un ex manipulateur à un vampire qui l'a « saignée à blanc ». Le morceau démarre en ballade piano et explose en rock gothique.",
   "media": {
    "kind": "audio",
-   "src": "/media/med-0209.ogg",
-   "alt": "Extrait sonore à identifier",
-   "credit": "Enregistrement — Wikimedia Commons",
-   "licence": "CC BY-SA 2.0"
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/09/5e/83095ea1-83bf-ecdc-3b75-358c350fca51/mzaf_15560849688086702972.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
   "id": "musique-pop-0100",
   "category": "musique-pop",
   "difficulty": "intermediaire",
-  "type": "video",
-  "question": "Caméra sur le pédalier : un organiste joue avec les seuls pieds un morceau célèbre qui bourdonne à toute vitesse. Quelle pièce reconnais-tu ?",
+  "type": "audio",
+  "question": "Écoute : ce rock garage de 1981 est devenu viral en 2022 grâce à LA scène de danse d'une certaine Mercredi au bal de son école. Quel titre des Cramps ?",
   "choices": [
-   "Le Vol du bourdon, de Rimski-Korsakov",
-   "Dans l'antre du roi de la montagne de Grieg",
-   "La Toccata de Bach",
-   "Aquarium de Saint-Saëns"
+   "Goo Goo Muck",
+   "Human Fly",
+   "Bikini Girls with Machine Guns",
+   "I Was a Teenage Werewolf"
   ],
   "correctIndex": 0,
-  "explanation": "C'est Le Vol du bourdon de Nikolaï Rimski-Korsakov (1900), extrait de son opéra Le Conte du tsar Saltan, joué ici entièrement aux pieds sur le pédalier d'un orgue. Un insecte virtuose et un organiste aux pieds très agiles !",
+  "explanation": "Goo Goo Muck des Cramps (1981) a attendu 2022 pour devenir virale : c'est la chanson sur laquelle Mercredi Addams danse, de façon inoubliable, au bal de son école dans la série Netflix.",
   "media": {
-   "kind": "video",
-   "src": "/media/med-0224.webm",
-   "alt": "Extrait vidéo à identifier",
-   "credit": "Vidéo — Wikimedia Commons",
-   "licence": "CC BY-SA 3.0"
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8e/b6/268eb63d-b228-a040-3934-61840bd07c84/mzaf_12426396297438116241.plus.aac.p.m4a",
+   "alt": "Extrait audio à identifier",
+   "credit": "Extrait audio — aperçu officiel",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  }
 ]

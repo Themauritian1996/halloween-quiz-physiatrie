@@ -134,21 +134,22 @@
   "category": "litterature",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Sur le pont d'un navire prisonnier des glaces, l'équipage accueille avec des cris de joie un grand oiseau marin posé sur la vergue. Quel poème cette gravure illustre-t-elle ?",
+  "question": "Cette couverture appartient à un roman construit comme une histoire orale : des survivants racontent, dix ans après, la guerre mondiale contre les zombies. Quel livre de Max Brooks (2006) ?",
   "choices": [
-   "Le Corbeau",
-   "L'Albatros",
-   "Le Bateau ivre",
-   "La Complainte du vieux marin"
+   "Guide de survie en territoire zombie",
+   "Cellulaire (Stephen King)",
+   "Apocalypse Z",
+   "World War Z"
   ],
   "correctIndex": 3,
-  "explanation": "C'est La Complainte du vieux marin (The Rime of the Ancient Mariner) de Samuel Taylor Coleridge (1798), gravée par Gustave Doré : l'albatros, oiseau de bon augure, suit le navire dans les glaces… jusqu'à ce que le marin le tue d'un trait d'arbalète et maudisse l'équipage.",
+  "explanation": "World War Z (2006) de Max Brooks — fils du cinéaste Mel Brooks — prend la forme d'entretiens recueillis après la victoire sur les zombies. Le film de 2013 n'en garde presque que le titre.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0117.jpg",
-   "alt": "Gravure à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/7/76/World_War_Z_book_cover.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -424,21 +425,21 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Sur cette illustration de 1919, deux hommes terrifiés regardent une femme ensanglantée, échappée de son cercueil, tandis que des monstres cauchemardesques tourbillonnent autour d'eux. Quelle nouvelle illustre-t-elle ?",
+  "question": "Sur cette photographie récente, barbe grisonnante et regard doux — trompeur, vu le nombre de lecteurs qu'il a empêchés de dormir. Quel écrivain américain, maître de l'horreur moderne ?",
   "choices": [
-   "Le Cœur révélateur",
-   "Le Puits et le Pendule",
-   "La Chute de la maison Usher",
-   "Les Crimes de la rue Morgue"
+   "Dean Koontz",
+   "Stephen King",
+   "Clive Barker",
+   "Peter Straub"
   ],
-  "correctIndex": 2,
-  "explanation": "Harry Clarke illustre ici La Chute de la maison Usher d'Edgar Allan Poe (édition de 1919) : Madeline Usher, enterrée vivante, revient hanter son frère Roderick. Ambiance garantie, sans une goutte de soleil.",
+  "correctIndex": 1,
+  "explanation": "Stephen King a publié plus de 60 romans — Ça, Shining, Misery, Le Fléau… — vendus à plus de 400 millions d'exemplaires. Il a survécu en 1999 à un accident qui a failli lui coûter la vie, comme à son personnage de Misery.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0101.jpg",
-   "alt": "Illustration à identifier",
-   "credit": "Illustration ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "/media/med-0301.jpg",
+   "alt": "Photographie à identifier",
+   "credit": "Photographie — Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
   }
  },
  {
@@ -722,21 +723,22 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "En un bond prodigieux, ce personnage en cape s'envole par-dessus un mur en emportant sa victime, tandis qu'on lui tire dessus depuis une fenêtre. Quelle terreur londonienne des penny dreadfuls est-ce ?",
+  "question": "Une fillette, une porte trop petite dans un mur et un gros bouton noir : cette couverture est celle de quel roman jeunesse sombre de Neil Gaiman, publié en 2002 ?",
   "choices": [
-   "Spring-heeled Jack",
-   "Jack l'Éventreur",
-   "Sweeney Todd",
-   "Le comte Dracula"
+   "Le Livre du cimetière (The Graveyard Book)",
+   "Miss Peregrine et les enfants particuliers",
+   "Coraline",
+   "Les Désastreuses Aventures des orphelins Baudelaire"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est Spring-heeled Jack, le « Jack aux talons à ressort » : signalé à Londres dès 1837, bondissant par-dessus murs et toits, il devint une star des penny dreadfuls, ces feuilletons à un penny. Jack l'Éventreur, lui, ne sautait pas — il rôdait, un demi-siècle plus tard.",
+  "correctIndex": 2,
+  "explanation": "Coraline (2002) : derrière une petite porte de son appartement, Coraline découvre l'Autre Mère, qui veut coudre des boutons à la place de ses yeux. Le roman a été adapté en film d'animation en 2009.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0108.jpg",
-   "alt": "Gravure à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/6/61/Coraline.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -798,21 +800,22 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "De dos, fusil à la main et tonnelet aux pieds, ce chasseur fait face à une foule de petits hommes barbus aux mines renfrognées. Quelle nouvelle cette illustration accompagne-t-elle ?",
+  "question": "Un garçon à lunettes et cicatrice en éclair, une chouette blanche, un train rouge à King's Cross : cette couverture est celle de quel premier tome, publié en 1997 ?",
   "choices": [
-   "La Légende de Sleepy Hollow",
-   "Rip Van Winkle",
-   "Le Diable et Tom Walker",
-   "Le Spectre fiancé"
+   "Harry Potter et la Chambre des secrets",
+   "Le Hobbit",
+   "Les Chroniques de Narnia : Le Lion, la sorcière blanche et l'armoire magique",
+   "Harry Potter à l'école des sorciers"
   ],
-  "correctIndex": 1,
-  "explanation": "Arthur Rackham illustre Rip Van Winkle, de Washington Irving : dans les monts Catskill, Rip tombe sur l'équipage fantôme de Henry Hudson, boit un coup de trop… et se réveille vingt ans plus tard, barbe blanche et monde renversé.",
+  "correctIndex": 3,
+  "explanation": "Publié en 1997 après une douzaine de refus d'éditeurs, ce premier tome lance la saga littéraire la plus vendue de l'histoire : plus de 120 millions d'exemplaires pour ce seul volume.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0114.jpg",
-   "alt": "Illustration à identifier",
-   "credit": "Illustration ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -928,21 +931,22 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "Au pied d'un vieil arbre creux, ce petit lutin aux oreilles pointues et aux cheveux de flamme s'incline devant une fée. Quel personnage de Shakespeare est-ce ?",
+  "question": "Ce clown au sourire bien trop large illustre la première édition (1986) d'un roman-fleuve de Stephen King, devenu deux films à succès. Lequel ?",
   "choices": [
-   "Puck",
-   "Ariel",
-   "Caliban",
-   "Obéron"
+   "Shining",
+   "Ça (It)",
+   "Misery",
+   "Le Fléau"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est Puck — Robin Bonenfant — le lutin espiègle du Songe d'une nuit d'été de Shakespeare, peint par Arthur Rackham : serviteur d'Obéron, il sème la pagaille amoureuse dans la forêt avec un jus de fleur magique.",
+  "correctIndex": 1,
+  "explanation": "Ça (1986) dépasse les 1 100 pages : le roman alterne entre 1958 et 1985, quand le Club des Ratés revient affronter à Derry la créature qui prend la forme de leurs pires peurs.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0115.jpg",
-   "alt": "Illustration à identifier",
-   "credit": "Illustration ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1393,22 +1397,23 @@
   "id": "litterature-0074",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Écoutez le début de cette nouvelle lue en anglais : des pilleurs de tombes volent une amulette de jade dans un cimetière des Pays-Bas, puis entendent, la nuit, un aboiement gigantesque. Quelle nouvelle est lue ?",
+  "type": "image",
+  "question": "Cette couverture est celle du tout premier numéro (2003) d'un comic en noir et blanc de Robert Kirkman, devenu un empire zombiesque. Quelle série lance-t-il ?",
   "choices": [
-   "Le Chien des Baskerville",
-   "Le Molosse",
-   "Les Rats dans les murs",
-   "Le Chat noir"
+   "Marvel Zombies",
+   "Crossed",
+   "The Walking Dead",
+   "Black Summer"
   ],
-  "correctIndex": 1,
-  "explanation": "C'est Le Molosse (The Hound, 1922) de H. P. Lovecraft, lu par Colleen McMahon pour LibriVox : l'amulette volée dans la tombe attire un molosse monstrueux qui traque les deux profanateurs, de cimetière en cimetière.",
+  "correctIndex": 2,
+  "explanation": "Le premier numéro de The Walking Dead paraît en octobre 2003, entièrement en noir et blanc. La série de comics durera 193 numéros, jusqu'en 2019 — la série télé a suivi en 2010.",
   "media": {
-   "kind": "audio",
-   "src": "/media/med-0122.mp3",
-   "alt": "Extrait lu à identifier",
-   "credit": "Lecture LibriVox — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/c/cf/WalkingDead1.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1707,22 +1712,23 @@
   "id": "litterature-0091",
   "category": "litterature",
   "difficulty": "difficile",
-  "type": "audio",
-  "question": "Écoutez ce poème lu en anglais, peuplé de goules, de cryptes et d'abîmes étoilés : son auteur y traverse les âges en coupable éternel. Quel est le titre de ce poème ?",
+  "type": "image",
+  "question": "Une fillette d'autrefois qui lévite au-dessus du sol, photographie d'époque authentique : quel roman de Ransom Riggs (2011) construit tout son récit autour de photos anciennes bizarre ?",
   "choices": [
-   "Nemesis",
-   "Despair",
-   "The City",
-   "Sunset"
+   "Coraline",
+   "Le Livre du cimetière (The Graveyard Book)",
+   "La Maison des feuilles",
+   "Miss Peregrine et les enfants particuliers"
   ],
-  "correctIndex": 0,
-  "explanation": "C'est Nemesis (1917), l'un des poèmes les plus célèbres de H. P. Lovecraft, lu pour LibriVox : « À travers les portes du sommeil gardées par les goules… » — le poète s'y dit réincarné de siècle en siècle sous le poids d'une faute immémoriale.",
+  "correctIndex": 3,
+  "explanation": "Ransom Riggs a bâti Miss Peregrine (2011) autour de vieilles photographies étranges chinées aux puces — dont celle de la fillette qui lévite sur la couverture, authentique et sans retouche connue.",
   "media": {
-   "kind": "audio",
-   "src": "/media/med-0124.mp3",
-   "alt": "Extrait lu à identifier",
-   "credit": "Lecture LibriVox — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/e/e1/MissPeregrineCover.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1730,21 +1736,22 @@
   "category": "litterature",
   "difficulty": "intermediaire",
   "type": "image",
-  "question": "À bride abattue dans la nuit, deux cavaliers galopent devant un gibet : un savant envoûté et son guide diabolique. Quelle œuvre célèbre cette lithographie illustre-t-elle ?",
+  "question": "Ces lettres vertes qui dégoulinent comme du slime ont terrorisé les cours d'école des années 90. De quelle collection de livres d'horreur pour enfants de R. L. Stine s'agit-il ?",
   "choices": [
-   "Don Quichotte",
-   "Le Paradis perdu",
-   "Don Juan",
-   "Faust"
+   "Chair de poule (Goosebumps)",
+   "Fais-moi peur ! (Are You Afraid of the Dark?)",
+   "Le Club des Cinq",
+   "Le Petit Nicolas"
   ],
-  "correctIndex": 3,
-  "explanation": "C'est Faust, de Goethe, dans les lithographies d'Eugène Delacroix (1828) : Méphistophélès emmène le docteur Faust au galop vers la nuit de Walpurgis, le grand sabbat des sorcières du Brocken.",
+  "correctIndex": 0,
+  "explanation": "Chair de poule de R. L. Stine, lancée en 1992, a dépassé les 400 millions d'exemplaires : c'est la deuxième collection jeunesse la plus vendue au monde, derrière Harry Potter.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0121.jpg",
-   "alt": "Lithographie à identifier",
-   "credit": "Lithographie ancienne — Wikimedia Commons",
-   "licence": "Public domain"
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Goosebumps_%28book_series%29_logo.svg/960px-Goosebumps_%28book_series%29_logo.svg.png",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1752,21 +1759,22 @@
   "category": "litterature",
   "difficulty": "difficile",
   "type": "image",
-  "question": "Cette planche de 1642 montre des hommes sans tête, les yeux et la bouche au beau milieu du torse. Comment appelle-t-on ces créatures des bestiaires anciens ?",
+  "question": "Cette couverture appartient à un roman de Neil Gaiman (2008) qui réécrit Le Livre de la jungle dans un cimetière : un garçon y est élevé par des fantômes. Lequel ?",
   "choices": [
-   "Les Cynocéphales",
-   "Les Sciapodes",
-   "Les Panotti",
-   "Les Blemmyes"
+   "Coraline",
+   "Le Livre du cimetière (The Graveyard Book)",
+   "Neverwhere",
+   "American Gods"
   ],
-  "correctIndex": 3,
-  "explanation": "Ce sont les Blemmyes (ou Acéphales), peuple légendaire sans tête décrit depuis Pline l'Ancien : la planche vient de la Monstrorum Historia d'Ulisse Aldrovandi (1642), la grande encyclopédie des monstres de la Renaissance.",
+  "correctIndex": 1,
+  "explanation": "Le Livre du cimetière (2008) suit Personne Owens, dit « Bod », élevé par les morts d'un cimetière. C'est le seul livre à avoir remporté à la fois les médailles Newbery et Carnegie.",
   "media": {
    "kind": "image",
-   "src": "/media/med-0109.jpg",
-   "alt": "Gravure à identifier",
-   "credit": "Gravure ancienne — Wikimedia Commons",
-   "licence": "CC BY 3.0"
+   "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/TheGraveyardBook_Hardcover.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  },
  {
@@ -1881,22 +1889,23 @@
   "id": "litterature-0100",
   "category": "litterature",
   "difficulty": "intermediaire",
-  "type": "audio",
-  "question": "Écoutez ce court récit lu en anglais : un narrateur qui déteste la lune déambule, une nuit d'été, dans un jardin étrange baigné de clarté lunaire, jusqu'à une vision d'horreur cosmique. Qui a écrit ce texte ?",
+  "type": "image",
+  "question": "Une ville entière maudite par une forme géométrique : des spirales qui rendent fous ses habitants. Cette couverture est celle de quel manga culte de Junji Ito, publié à partir de 1998 ?",
   "choices": [
-   "Edgar Allan Poe",
-   "Lord Dunsany",
-   "H. P. Lovecraft",
-   "Algernon Blackwood"
+   "Tomie",
+   "Gyo",
+   "Uzumaki (Spirale)",
+   "Parasyte"
   ],
   "correctIndex": 2,
-  "explanation": "C'est H. P. Lovecraft, dans Ce que rapporte la lune (What the Moon Brings, 1922), lu pour LibriVox : un texte-poème en prose où la lune révèle un rivage d'épouvante peuplé de créatures visqueuses. L'horreur cosmique en format court !",
+  "explanation": "Uzumaki (1998-1999) de Junji Ito : la ville de Kurouzu est maudite par les spirales, qui déforment les corps et les esprits. Ito dit s'être inspiré de la forme… d'un tire-bouchon et des motifs des moustiques.",
   "media": {
-   "kind": "audio",
-   "src": "/media/med-0123.mp3",
-   "alt": "Extrait lu à identifier",
-   "credit": "Lecture LibriVox — Wikimedia Commons",
-   "licence": "Public domain"
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Uzumaki.jpg",
+   "alt": "Couverture à identifier",
+   "credit": "Couverture — source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
   }
  }
 ]

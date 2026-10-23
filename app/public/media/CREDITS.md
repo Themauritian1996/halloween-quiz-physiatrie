@@ -318,3 +318,90 @@ User:Erinaceus (uploader) | CC BY-SA 3.0 |
 | med-0272.mp3 | audio | [File:Mariachi Snooze (ISRC USUAN1100166).mp3](https://commons.wikimedia.org/wiki/File:Mariachi_Snooze_(ISRC_USUAN1100166).mp3) | Kevin MacLeod | CC BY 3.0 |
 | med-0273.mp3 | audio | [File:Do you Shakuhachi (Antti Luode).mp3](https://commons.wikimedia.org/wiki/File:Do_you_Shakuhachi_(Antti_Luode).mp3) | Antti Luode | CC BY 3.0 |
 | med-0274.webm | video | [File:Pumpkin Carving.webm](https://commons.wikimedia.org/wiki/File:Pumpkin_Carving.webm) | Saramarieplew | CC BY-SA 3.0 |
+
+## Lot 10 — médias modernes hébergés, Wikimedia Commons (2026-10-22)
+
+Photos libres récentes ajoutées au rééquilibrage « ère moderne », mêmes règles que le Lot 9 : licence vérifiée via l'API Commons, fichier renommé en code neutre, vignette 900 px.
+
+| Fichier | Type | Source Commons | Auteur | Licence |
+|---|---|---|---|---|
+| med-0301.jpg | image | [File:Stephen King at the 2024 Toronto International Film Festival 2 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg) | Kevin Payravi | CC BY-SA 4.0 |
+| med-0302.jpg | image | [File:Salem Witch Museum, January 2021.jpg](https://commons.wikimedia.org/wiki/File:Salem_Witch_Museum,_January_2021.jpg) | Fletcher | CC BY 4.0 |
+| med-0303.jpg | image | [File:Desfile de la mega procesión de las catrinas.jpg](https://commons.wikimedia.org/wiki/File:Desfile_de_la_mega_procesi%C3%B3n_de_las_catrinas.jpg) | InésTan | CC BY-SA 4.0 |
+| med-0304.jpg | image | [File:Pumpkin tower at the Keene Pumpkin Festival, Keene NH.jpg](https://commons.wikimedia.org/wiki/File:Pumpkin_tower_at_the_Keene_Pumpkin_Festival,_Keene_NH.jpg) | John Phelan | CC BY 4.0 |
+| med-0305.jpg | image | [File:Las Momias, Guanajuato.jpg](https://commons.wikimedia.org/wiki/File:Las_Momias,_Guanajuato.jpg) | Russ Bowling | CC BY 2.0 |
+| med-0306.jpg | image | [File:Salem Witch Trials Memorial.jpg](https://commons.wikimedia.org/wiki/File:Salem_Witch_Trials_Memorial.jpg) | Christine Zenino | CC BY 2.0 |
+| med-0307.jpg | image | [File:2019 Village Halloween Parade - 49376052626.jpg](https://commons.wikimedia.org/wiki/File:2019_Village_Halloween_Parade_-_49376052626.jpg) | Steven Pisano | CC BY 2.0 |
+| med-0308.jpg | image | [File:Philippine graveyard, All Souls' Day.jpg](https://commons.wikimedia.org/wiki/File:Philippine_graveyard,_All_Souls%27_Day.jpg) | Bagoto | CC BY-SA 4.0 |
+| med-0309.png | image | [File:Ant infected by Ophiocordyceps unilateralis.png](https://commons.wikimedia.org/wiki/File:Ant_infected_by_Ophiocordyceps_unilateralis.png) | David P. Hughes, Maj-Britt Pontoppidan | CC BY 2.5 |
+| med-0310.jpg | image | [File:Cordyceps Militaris.jpg](https://commons.wikimedia.org/wiki/File:Cordyceps_Militaris.jpg) | mushroomclinicaltrials.com | CC BY 2.0 |
+| med-0311.png | image | [File:SARS-CoV-2 (CDC-23311).png](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_(CDC-23311).png) | CDC/ Alissa Eckert, MS; Dan Higgins, MAM | Public domain |
+| med-0312.jpg | image | [File:AD2009Sep20 Amanita muscaria 02.jpg](https://commons.wikimedia.org/wiki/File:AD2009Sep20_Amanita_muscaria_02.jpg) | Bernie | Public domain |
+| med-0313.jpg | image | [File:Common vampire bat (Desmodus rotundus) Rio Negro.jpg](https://commons.wikimedia.org/wiki/File:Common_vampire_bat_(Desmodus_rotundus)_Rio_Negro.jpg) | Charles J. Sharp | CC BY-SA 4.0 |
+| med-0314.jpg | image | [File:Agar Art with Microbes.jpg](https://commons.wikimedia.org/wiki/File:Agar_Art_with_Microbes.jpg) | Ajay Kumar Chaurasiya | CC BY-SA 4.0 |
+| med-0315.jpg | image | [File:Theraphosa blondi MHNT.jpg](https://commons.wikimedia.org/wiki/File:Theraphosa_blondi_MHNT.jpg) | Didier Descouens | CC BY-SA 4.0 |
+| med-0316.jpg | image | [File:Mycenaluxaeterna.jpg](https://commons.wikimedia.org/wiki/File:Mycenaluxaeterna.jpg) | Cassius V. Stevani, IQ-USP, Brazil | CC BY 3.0 |
+| med-0317.jpg | image | [File:Black widow female.jpg](https://commons.wikimedia.org/wiki/File:Black_widow_female.jpg) | Arlo James Barnes | CC0 |
+| med-0318.jpg | image | [File:Cosplay of Wednesday Addams at Brussels Comic Con 2022 (51988830357).jpg](https://commons.wikimedia.org/wiki/File:Cosplay_of_Wednesday_Addams_at_Brussels_Comic_Con_2022_(51988830357).jpg) | Kiri Karma | CC BY-SA 2.0 |
+| med-0319.jpg | image | [File:Cosplay of Pennywise at the 2021 New York Comic Con (51574129185).jpg](https://commons.wikimedia.org/wiki/File:Cosplay_of_Pennywise_at_the_2021_New_York_Comic_Con_(51574129185).jpg) | Romer Jed Medina from Newark, NJ, United States | CC BY-SA 2.0 |
+| med-0320.jpg | image | [File:Halloween Decorations (15493322098).jpg](https://commons.wikimedia.org/wiki/File:Halloween_Decorations_(15493322098).jpg) | Celine Marsolais | CC BY 2.0 |
+
+## Lot 10 — sources EXTERNES (fichiers distants, NON hébergés)
+
+Principe : le média servi au joueur est toujours le **fichier lui-même** (aperçu audio officiel, affiche), jamais une page — l'adresse ne contient ni le titre de l'œuvre ni sa réponse, et aucun champ affiché par l'app (question, alt, légende) ne les contient non plus. Seule exception, documentée : le nom de fichier des affiches/couvertures Wikipédia contient le titre — visible uniquement en inspectant l'URL du lien « Ouvrir le média », jamais dans le jeu. Chaque URL a été vérifiée vivante (HTTP 200 + type MIME cohérent) au sourcing et à l'audit final. Dans la banque, ces médias portent `"external": true`.
+
+| Question | Canal | Œuvre (traçabilité — non affiché dans le jeu) | Fichier distant |
+|---|---|---|---|
+| cinema-series-0001 | wikipedia-pageimages | Ça (It, 2017) — affiche | https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg |
+| cinema-series-0005 | wikipedia-pageimages | Get Out (2017) — affiche | https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png |
+| cinema-series-0011 | wikipedia-pageimages | Hereditary (2018) — affiche | https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png |
+| cinema-series-0012 | wikipedia-pageimages | Conjuring (2013) — affiche | https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg |
+| cinema-series-0020 | wikipedia-pageimages | Sans un bruit (A Quiet Place, 2018) — affiche | https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png |
+| cinema-series-0029 | wikipedia-pageimages | Scream (1996) — affiche | https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg |
+| cinema-series-0031 | wikipedia-pageimages | Us (2019) — affiche | https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png |
+| cinema-series-0036 | wikipedia-pageimages | Midsommar (2019) — affiche | https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png |
+| cinema-series-0045 | wikipedia-pageimages | Halloween (2018) — affiche | https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg |
+| cinema-series-0051 | wikipedia-pageimages | Five Nights at Freddy's (2023) — affiche | https://upload.wikimedia.org/wikipedia/en/d/d6/Five_Nights_At_Freddy%27s_poster.jpeg |
+| cinema-series-0054 | wikipedia-pageimages | Insidious (2010) — affiche | https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg |
+| cinema-series-0059 | wikipedia-pageimages | The Babadook (2014) — affiche | https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg |
+| cinema-series-0061 | wikipedia-pageimages | M3GAN (2023) — affiche | https://upload.wikimedia.org/wikipedia/en/0/03/M3GAN_Poster.jpeg |
+| cinema-series-0064 | tvmaze | Stranger Things — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/595/1489169.jpg |
+| cinema-series-0067 | tvmaze | Mercredi (Wednesday) — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/586/1466410.jpg |
+| cinema-series-0070 | tvmaze | American Horror Story — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/642/1607475.jpg |
+| cinema-series-0072 | tvmaze | Squid Game — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/576/1440521.jpg |
+| cinema-series-0080 | itunes-preview | Halloween Theme — John Carpenter | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/76/5e/43765e97-ad21-c645-51b1-3a8a547263d9/mzaf_10428659719463428925.plus.aac.p.m4a |
+| cinema-series-0081 | tvmaze | The Last of Us — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/563/1409008.jpg |
+| cinema-series-0086 | itunes-preview | Stranger Things — thème (Kyle Dixon & Michael Stein) | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/6f/ed/926fed10-ec76-2790-4b24-7fa4af34cea0/mzaf_10795859141048042074.plus.aac.p.m4a |
+| cinema-series-0094 | tvmaze | The Walking Dead — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/424/1061900.jpg |
+| cinema-series-0100 | tvmaze | The Haunting of Hill House — affiche série | https://static.tvmaze.com/uploads/images/original_untouched/498/1246083.jpg |
+| litterature-0008 | wikipedia-pageimages | World War Z (Max Brooks, 2006) — couverture | https://upload.wikimedia.org/wikipedia/en/7/76/World_War_Z_book_cover.jpg |
+| litterature-0038 | wikipedia-pageimages | Coraline (Neil Gaiman, 2002) — couverture | https://upload.wikimedia.org/wikipedia/en/6/61/Coraline.jpg |
+| litterature-0042 | wikipedia-pageimages | Harry Potter à l'école des sorciers — couverture | https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg |
+| litterature-0049 | wikipedia-pageimages | Ça (Stephen King, 1986) — couverture de la 1re édition | https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg |
+| litterature-0074 | wikipedia-pageimages | The Walking Dead (comic, n° 1, 2003) — couverture | https://upload.wikimedia.org/wikipedia/en/c/cf/WalkingDead1.jpg |
+| litterature-0091 | wikipedia-pageimages | Miss Peregrine et les enfants particuliers (2011) — couverture | https://upload.wikimedia.org/wikipedia/en/e/e1/MissPeregrineCover.jpg |
+| litterature-0092 | wikipedia-pageimages | Chair de poule (Goosebumps) — logo de la collection | https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Goosebumps_%28book_series%29_logo.svg/960px-Goosebumps_%28book_series%29_logo.svg.png |
+| litterature-0093 | wikipedia-pageimages | Le Livre du cimetière (Neil Gaiman, 2008) — couverture | https://upload.wikimedia.org/wikipedia/en/3/3e/TheGraveyardBook_Hardcover.jpg |
+| litterature-0100 | wikipedia-pageimages | Uzumaki (Junji Ito, 1998) — couverture | https://upload.wikimedia.org/wikipedia/en/8/88/Uzumaki.jpg |
+| musique-pop-0001 | itunes-preview | Thriller — Michael Jackson | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a |
+| musique-pop-0007 | itunes-preview | Tubular Bells (Pt. I) — Mike Oldfield | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/ad/9f/d0ad9ffc-9b15-847c-857f-c82546f4fe31/mzaf_5838067582588501290.plus.aac.p.m4a |
+| musique-pop-0008 | itunes-preview | Ghostbusters — Ray Parker Jr. | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8b/e3/638be3a1-2f5e-5cff-9b58-085e3b793cbd/mzaf_10733010531783613784.plus.aac.p.m4a |
+| musique-pop-0016 | itunes-preview | Somebody's Watching Me — Rockwell | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/0b/81/6f0b8124-b0e2-98b3-e517-493718197b02/mzaf_15444166212583157475.plus.aac.p.m4a |
+| musique-pop-0023 | itunes-preview | Running Up That Hill — Kate Bush | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/c0/a8/21c0a8a9-dadf-55e5-aeba-50dcc704a736/mzaf_5583157979505295580.plus.aac.p.m4a |
+| musique-pop-0032 | itunes-preview | Disturbia — Rihanna | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/10/48/a510486f-6ae2-63be-86cb-25e1be8125b2/mzaf_16451062589614299862.plus.aac.p.m4a |
+| musique-pop-0036 | itunes-preview | Pink Soldiers — Jung Jae Il (BO de Squid Game) | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/a5/43/d0a54377-c428-2a06-dbd6-78821bcf818f/mzaf_16082330645748515523.plus.aac.p.m4a |
+| musique-pop-0040 | itunes-preview | bury a friend — Billie Eilish | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/f8/14/34f81471-60c1-03fd-8612-4c69989b2b80/mzaf_6498312954680902777.plus.aac.p.m4a |
+| musique-pop-0043 | itunes-preview | Bloody Mary — Lady Gaga | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d9/fd/a9d9fdbe-0718-8d5e-fd2a-91bf05bbcc4c/mzaf_6014557621905797616.plus.aac.p.m4a |
+| musique-pop-0044 | itunes-preview | Season of the Witch — Lana Del Rey (film Scary Stories, 2019) | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/c8/75/c5c8753f-6b29-7802-5c6f-980808b75b53/mzaf_7972898662245842660.plus.aac.p.m4a |
+| musique-pop-0046 | itunes-preview | This Is Halloween (BO de L'Étrange Noël de monsieur Jack) | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/cf/e4/9acfe482-1eee-1697-e4b4-277033b9f86e/mzaf_9977418176212827026.plus.aac.p.m4a |
+| musique-pop-0051 | itunes-preview | Master of Puppets — Metallica | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/41/b8/fc41b8d9-1946-643c-34b8-d48d99adb93a/mzaf_11376883454063654277.plus.aac.p.m4a |
+| musique-pop-0052 | itunes-preview | Spooky, Scary Skeletons — Andrew Gold | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/52/58/10525878-2563-4101-305a-f192587450ae/mzaf_10635519091469965799.plus.aac.p.m4a |
+| musique-pop-0058 | itunes-preview | Heads Will Roll — Yeah Yeah Yeahs | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/d5/50/2ad55038-9df9-8cd9-3266-fce3e78b9f66/mzaf_13589230364797896384.plus.aac.p.m4a |
+| musique-pop-0064 | itunes-preview | Sweet Dreams (Are Made of This) — Marilyn Manson | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/c1/ca/03c1ca0a-01af-d0aa-d5fd-2a058089627c/mzaf_6760163481643834218.plus.aac.p.m4a |
+| musique-pop-0074 | itunes-preview | Everybody (Backstreet's Back) — Backstreet Boys | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/30/b7/bf30b77d-80db-f418-47ea-0f455e980f08/mzaf_733937835429193874.plus.aac.p.m4a |
+| musique-pop-0088 | itunes-preview | Wednesday Main Titles — Danny Elfman | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/6c/f9/a36cf9d4-cef8-ce63-1f3f-6827b018c7ac/mzaf_15528022977642301390.plus.aac.p.m4a |
+| musique-pop-0093 | itunes-preview | I Put a Spell on You — Screamin' Jay Hawkins | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/2b/15/7f2b1527-5410-af6f-aece-a2121dd850a4/mzaf_18414303548297508305.plus.aac.p.m4a |
+| musique-pop-0098 | itunes-preview | Demons — Imagine Dragons | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/d4/e8/fcd4e814-39f4-19e8-f421-c2d269698025/mzaf_1039703479531920971.plus.aac.p.m4a |
+| musique-pop-0099 | itunes-preview | vampire — Olivia Rodrigo | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/09/5e/83095ea1-83bf-ecdc-3b75-358c350fca51/mzaf_15560849688086702972.plus.aac.p.m4a |
+| musique-pop-0100 | itunes-preview | Goo Goo Muck — The Cramps | https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8e/b6/268eb63d-b228-a040-3934-61840bd07c84/mzaf_12426396297438116241.plus.aac.p.m4a |
+

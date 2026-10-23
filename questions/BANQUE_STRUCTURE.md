@@ -1,5 +1,32 @@
 # Banque de questions — structure et suivi
 
+## État Lot 10 (2026-10-22) — RÉÉQUILIBRAGE « ÈRE MODERNE » (public 25-35 ans)
+
+Le Lot 9 était trop « classique » (Nosferatu, Méliès…) pour les joueurs visés (25-35 ans). Le Lot 10 garde le principe « le média EST la question » et les 150 emplacements média (25/catégorie), mais réécrit **72 questions** et en conserve 78 : **81 médias de l'ère moderne (1990+, surtout 2010+), 10 tubes intemporels, 59 classiques** (les plus connus des 25-35 ans : Orlok, Frankenstein, Vésale, catacombes, Danse macabre…).
+
+- **Canaux externes (52 médias, `media.external: true`)** — toujours le **fichier lui-même, jamais une page** ; l'arrivée sur le lien n'affiche ni titre ni réponse :
+  - **Aperçus audio iTunes** (23) : URL opaques `audio-ssl.itunes.apple.com` (hexadécimal) — thème de *Stranger Things* et d'*Halloween*, *Thriller*, *Running Up That Hill*, *Master of Puppets*, *Bloody Mary*, *bury a friend*, *Pink Soldiers* (BO *Squid Game*)…
+  - **Affiches de séries TVmaze** (7) : URL numériques `static.tvmaze.com` — *Stranger Things*, *Mercredi*, *Squid Game*, *The Last of Us*, *The Walking Dead*, *American Horror Story*, *Hill House*.
+  - **Affiches de films + couvertures Wikipédia, fichier direct** (22) : *Ça*, *Get Out*, *Conjuring*, *Sans un bruit*, *Scream*, *Hereditary*, *Midsommar*, *M3GAN*, *Five Nights at Freddy's*… ; couvertures *Coraline*, *Harry Potter*, *Uzumaki*, *World War Z*, *Chair de poule*… **Limite documentée** : le nom de fichier contient le titre (jamais affiché dans l'app ; visible seulement en inspectant l'URL du lien plein écran).
+- **Nouveaux hébergés Commons (20, `med-0301` à `med-0320`)** : photos libres récentes vérifiées via l'API (licences CC/PD) — fourmi zombie à l'*Ophiocordyceps* et *Cordyceps militaris* (clin d'œil *The Last of Us*), illustration CDC du SARS-CoV-2, amanite, chauve-souris vampire, agar art, mygale de Leblond, champignon bioluminescent, veuve noire ; Salem Witch Museum, défilé des Catrinas de Mexico, tour de citrouilles de Keene, momies de Guanajuato, Village Halloween Parade ; Stephen King (2024) ; cosplays Mercredi et Pennywise, décorations gonflables.
+- **Anti-fuite ré-audité par script** : texte de question, `alt` et légende ne contiennent ni la réponse ni ses jetons significatifs (3 reformulations faites après alerte : *Conjuring*, *Demons*, *vampire*) ; URL iTunes/TVmaze contrôlées opaques ; 22 exceptions Wikipédia/Commons documentées ci-dessus. Les 20 alertes résiduelles sont des mots descriptifs de l'image (style Lot 9 : « lanternes », « pomme »…), revues une à une.
+- **App** : `referrerPolicy="no-referrer"` sur `<img>`, `<audio>`, `<video>` (limite les blocages d'hébergeurs) ; `mediaUrl()` laisse passer les URL absolues (inchangé). **Vidéo : 13 → 6** — pas de canal vidéo moderne propre (YouTube affiche le titre dans le lecteur, refusé par la consigne) ; le test du support vidéo a été ajusté (plancher 5).
+- **Équilibres conservés** : 600 questions, 100/catégorie, **450 intermédiaires / 150 difficiles**, unicité des textes et des ids, bonnes réponses rééquilibrées à **150/150/150/150** sur l'ensemble de la banque. Chaque URL externe a été **vérifiée vivante** (HTTP 200 + type MIME) au sourcing puis à l'audit final. Rejetés au sourcing : *Twilight* (aucun fichier image direct sur Wikipédia), un remix de *Tubular Bells* et une reprise karaoké d'*I Put a Spell on You* (remplacés par les versions studio/originale), la reprise « Epic Version » de *Pink Soldiers* (remplacée par la piste officielle de Jung Jae-il).
+
+| Catégorie | Média | Images | Audio | Vidéos | Moderne* | Classique |
+|---|---:|---:|---:|---:|---:|---:|
+| Histoire & origines | 25 | 20 | 2 | 3 | 11 | 14 |
+| Cinéma & séries | 25 | 22 | 2 | 1 | 21 (+1 intemporel) | 3 |
+| Littérature, légendes & monstres | 25 | 25 | 0 | 0 | 9 (+1 intemporel) | 15 |
+| Science, anatomie & médecine macabre | 25 | 21 | 4 | 0 | 10 | 15 |
+| Musique & pop culture | 25 | 1 | 23 | 1 | 13 (+8 intemporels) | 4 |
+| Traditions, bonbons & géographie | 25 | 21 | 3 | 1 | 17 | 8 |
+| **Total** | **150** | **110** | **34** | **6** | **81 (+10 intemporels)** | **59** |
+
+\* « Moderne » = œuvre/contenu 1990+ ou photographie de la vie contemporaine ; « intemporel » = tube pré-1990 que la génération 25-35 associe directement à Halloween ou aux séries Netflix (*Thriller* 1982, *Tubular Bells* 1973, *Master of Puppets* 1986, *Running Up That Hill* 1985…).
+
+---
+
 ## État Lot 9 (2026-10-21) — 150 questions à MÉDIA UTILE
 
 Les questions média décoratives du Lot 8 (illustration d'ambiance à côté d'une question texte autonome) sont **remplacées** : désormais **le média EST la question** — impossible ou très difficile d'y répondre sans regarder l'image, écouter l'extrait ou visionner la vidéo.
