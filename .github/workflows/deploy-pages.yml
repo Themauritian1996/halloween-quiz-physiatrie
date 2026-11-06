@@ -89,3 +89,5 @@ jobs:
       - name: Déployer sur GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000 # 30 min : le run #12 a dépassé le délai par défaut de 10 min
