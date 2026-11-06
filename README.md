@@ -141,3 +141,15 @@ halloween-quiz-physiatrie/
 - **Lot 8 (2026-10-21, refonte après test réel)** : médias réparés (base Vite + lien d'ouverture + repli en cas d'échec), enchaînement automatique après révélation (5/8/12 s, désactivable), affichage mobile d'abord (aucun débordement à 360-400 px, lobby empilé, réponses tactiles), et **nouvelle banque de 600 questions culture générale ludique** (ancienne archivée dans `questions/archive-v1-1200/`).
 - **Lot 9 (2026-10-21, médias utiles)** : **150 questions où le média EST la question** (25/catégorie : 105 images, 32 audio, 13 vidéos) sourcées sur Wikimedia Commons (domaine public / licences libres vérifiées une par une), fichiers codés anti-fuite `med-XXXX`, support **vidéo** ajouté à l'app (lecteur intégré + filtre « Médias seulement »), extraits audio/vidéo allégés par réencodage. Détails : `questions/BANQUE_STRUCTURE.md` et `app/public/media/CREDITS.md`.
 - **Lot 10 (2026-10-22, ère moderne)** : rééquilibrage des 150 questions média pour un public de 25-35 ans — **81 modernes (1990+) + 10 intemporels, 59 classiques conservés** (110 images, 34 audio, 6 vidéos) ; 52 médias **externes** servis en fichier direct (aperçus iTunes opaques, affiches TVmaze et Wikipédia) vérifiés vivants un par un, 20 nouvelles photos libres Commons hébergées (cordyceps, SARS-CoV-2 CDC, cosplays…) ; anti-fuite ré-audité (0 erreur), `referrerPolicy="no-referrer"` sur les lecteurs. Détails : `questions/BANQUE_STRUCTURE.md` et `app/public/media/CREDITS.md`.
+
+---
+
+## v3 — « La Nuit des Physiatres » (2026-11-05)
+
+Nouveau site, déployé à côté de l'ancien : **https://themauritian1996.github.io/halloween-quiz-physiatrie/v3/**
+
+- Code : `app-v3/` (même pile React + Vite + Tailwind + Firestore, même projet Firebase).
+- Banque : 480 questions (6 × 80), 144 avec média (30 %), 48 clins d'œil physiatrie (10 %).
+  Sources rédigées dans `banque-v3/src/*.py`, assemblées et validées par
+  `python3 banque-v3/build_bank.py` (écrit `app-v3/src/data/*.json` et copie les médias utilisés).
+- Règles et simulation : `banque-v3/SIMULATION.md`.

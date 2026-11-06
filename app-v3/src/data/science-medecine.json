@@ -1,0 +1,1450 @@
+[
+ {
+  "id": "science-medecine-v3-001",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "De quel célèbre atlas d'anatomie de 1543 vient ce squelette pensif ?",
+  "choices": [
+   "De humani corporis fabrica, de Vésale",
+   "Gray's Anatomy",
+   "Les carnets de Léonard de Vinci",
+   "Le Traité de l'homme, de Descartes"
+  ],
+  "correctIndex": 0,
+  "explanation": "André Vésale a corrigé des siècles d'erreurs héritées de Galien en disséquant lui-même des corps humains.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0150.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-002",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle substance utile sécrètent ces animaux, encore utilisés en médecine ?",
+  "choices": [
+   "De l'adrénaline",
+   "De l'insuline",
+   "Un antibiotique",
+   "Un anticoagulant"
+  ],
+  "correctIndex": 3,
+  "explanation": "La salive des sangsues contient de l'hirudine, qui empêche le sang de coaguler.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0164.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-003",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment cette chauve-souris d'Amérique latine se nourrit-elle de sang ?",
+  "choices": [
+   "Elle entaille la peau et lape le sang",
+   "Elle pique comme un moustique",
+   "Elle avale de petites proies entières",
+   "Elle suce le sang par des crocs creux"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le vampire commun pratique une petite incision avec ses incisives ; un anticoagulant dans sa salive, la draculine, fait couler le sang.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0313.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-004",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel système du corps cette planche anatomique « écorchée » met-elle en évidence ?",
+  "choices": [
+   "Les muscles",
+   "Les vaisseaux sanguins",
+   "Les ganglions lymphatiques",
+   "Les nerfs"
+  ],
+  "correctIndex": 0,
+  "explanation": "L'écorché montre plus de 600 muscles squelettiques une fois la peau retirée.",
+  "physiatrie": true,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0151.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-005",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel organisme a pris le contrôle de cette fourmi ?",
+  "choices": [
+   "Une bactérie",
+   "Un virus",
+   "Un champignon",
+   "Un ver parasite"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ophiocordyceps pousse la fourmi à grimper et à mordre une feuille, puis jaillit de sa tête pour répandre ses spores.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0309.png",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.5"
+  }
+ },
+ {
+  "id": "science-medecine-v3-006",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "À qui appartient la main de cette première radiographie célèbre, prise en 1895 ?",
+  "choices": [
+   "À Marie Curie",
+   "À l'épouse de Wilhelm Röntgen",
+   "À Wilhelm Röntgen lui-même",
+   "À un patient blessé par balle"
+  ],
+  "correctIndex": 1,
+  "explanation": "On distingue l'alliance d'Anna Bertha Röntgen. En voyant l'image, elle aurait dit : « J'ai vu ma mort. »",
+  "physiatrie": true,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0152.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-007",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel objet a traversé le crâne de cet homme en 1848 ?",
+  "choices": [
+   "Une flèche",
+   "Un pic à glace",
+   "Une balle de mousquet",
+   "Une barre de fer"
+  ],
+  "correctIndex": 3,
+  "explanation": "Phineas Gage a survécu, mais sa personnalité a changé : c'est un cas fondateur sur le lobe frontal… et sur la réadaptation.",
+  "physiatrie": true,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0153.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-008",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle structure, visible en bas à l'arrière, coordonne l'équilibre et la précision des mouvements ?",
+  "choices": [
+   "L'hypophyse",
+   "L'hippocampe",
+   "Le cervelet",
+   "Le thalamus"
+  ],
+  "correctIndex": 2,
+  "explanation": "Une atteinte du cervelet donne une ataxie : démarche élargie, titubante… d'allure assez « zombie ».",
+  "physiatrie": true,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0166.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-009",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Avec quoi a-t-on « peint » cette œuvre d'art ?",
+  "choices": [
+   "Avec du sang",
+   "Avec de la peinture fluorescente",
+   "Avec des moisissures de pain",
+   "Avec des bactéries vivantes"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'« agar art » utilise des bactéries naturellement colorées, qui poussent dans une boîte de Petri.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0314.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-010",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel peintre a représenté cette leçon d'anatomie publique ?",
+  "choices": [
+   "Vermeer",
+   "Rubens",
+   "Rembrandt",
+   "Frans Hals"
+  ],
+  "correctIndex": 2,
+  "explanation": "La Leçon d'anatomie du docteur Tulp (1632) montre la dissection de l'avant-bras d'un criminel pendu.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0155.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-011",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "De quoi se nourrit ce champignon orangé ?",
+  "choices": [
+   "De larves d'insectes",
+   "D'excréments d'animaux",
+   "De bois mort",
+   "De racines d'arbres"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cordyceps militaris momifie ses hôtes enterrés, puis dresse ses massues orange hors du sol.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0310.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-012",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Combien d'os compte environ ce segment du corps ?",
+  "choices": [
+   "12",
+   "52",
+   "26",
+   "33"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le pied compte 26 os ; les deux pieds réunis en comptent 52, soit environ le quart des os du squelette.",
+  "physiatrie": true,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0167.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-013",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quelle pseudoscience illustre ce buste aux zones numérotées ?",
+  "choices": [
+   "La craniométrie",
+   "La phrénologie",
+   "La physiognomonie",
+   "La chiromancie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Gall prétendait lire les talents et les vices sur les bosses du crâne.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0157.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-014",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel parasite voit-on sur cette gravure de 1665 ?",
+  "choices": [
+   "Un pou",
+   "Une tique",
+   "Une punaise de lit",
+   "Une puce"
+  ],
+  "correctIndex": 3,
+  "explanation": "Robert Hooke l'a dessinée dans Micrographia, le premier grand livre de microscopie.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0169.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-015",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel virus montre cette illustration ?",
+  "choices": [
+   "Le virus Ebola",
+   "Le VIH",
+   "Le SARS-CoV-2",
+   "Le virus de la grippe"
+  ],
+  "correctIndex": 2,
+  "explanation": "L'image des CDC (2020) est devenue l'icône de la pandémie de COVID-19 ; les pointes rouges sont les protéines de spicule.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0311.png",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-016",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "D'où viennent ces deux bruits qu'on entend en boucle ?",
+  "choices": [
+   "Du sang dans les grosses veines",
+   "De l'air dans les bronches",
+   "De la contraction des oreillettes",
+   "De la fermeture des valves du cœur"
+  ],
+  "correctIndex": 3,
+  "explanation": "« Poum-tak » : B1, fermeture des valves mitrale et tricuspide ; B2, des valves aortique et pulmonaire.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0170.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-017",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle ce champignon de conte de fées ?",
+  "choices": [
+   "L'amanite phalloïde",
+   "L'amanite tue-mouches",
+   "Le bolet de Satan",
+   "La girolle"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rouge à points blancs, toxique et hallucinogène ; l'amanite phalloïde, elle, est la plus mortelle.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0312.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-018",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quelle est cette araignée, l'une des plus grosses du monde ?",
+  "choices": [
+   "La recluse brune",
+   "La mygale de Leblond",
+   "L'araignée-loup",
+   "La veuve noire"
+  ],
+  "correctIndex": 1,
+  "explanation": "Theraphosa blondi peut dépasser 25 cm d'envergure. Malgré son surnom de « mangeuse d'oiseaux », elle mange surtout des insectes.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0315.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-019",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que plaçait-on dans le bec de ce masque de médecin de peste ?",
+  "choices": [
+   "De l'eau bénite",
+   "Des herbes aromatiques",
+   "De la glace pilée",
+   "Du charbon ardent"
+  ],
+  "correctIndex": 1,
+  "explanation": "On croyait la peste transmise par les « mauvais airs » (miasmes) ; les parfums devaient les filtrer.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0160.png",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "science-medecine-v3-020",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Ce cœur bat nettement plus vite qu'au repos. Quel terme décrit ce rythme ?",
+  "choices": [
+   "La tachycardie",
+   "La bradycardie",
+   "La fibrillation",
+   "L'asystolie"
+  ],
+  "correctIndex": 0,
+  "explanation": "Au-delà de 100 battements par minute chez l'adulte ; ici, simplement après un effort physique.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0172.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-021",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel phénomène fait briller ces champignons dans le noir ?",
+  "choices": [
+   "La bioluminescence",
+   "La radioactivité",
+   "La fluorescence",
+   "La phosphorescence"
+  ],
+  "correctIndex": 0,
+  "explanation": "Une réaction chimique (luciférine et luciférase) produit la lumière, comme chez les lucioles.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0316.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-022",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quels organes forment les grandes zones sombres de cette radiographie ?",
+  "choices": [
+   "Le cœur",
+   "L'estomac",
+   "Le foie",
+   "Les poumons"
+  ],
+  "correctIndex": 3,
+  "explanation": "Remplis d'air, les poumons laissent passer les rayons X et paraissent noirs ; les os, denses, sont blancs.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0174.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-023",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle cette araignée à la marque rouge en sablier ?",
+  "choices": [
+   "L'épeire diadème",
+   "La recluse brune",
+   "La veuve noire",
+   "La tarentule"
+  ],
+  "correctIndex": 2,
+  "explanation": "Son venin est neurotoxique : douleurs et contractures musculaires intenses, rarement mortelles.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0317.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-024",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Comment appelle-t-on ce bruit anormal qui s'ajoute aux battements ?",
+  "choices": [
+   "Un sibilant",
+   "Un frottement péricardique",
+   "Un bruit de galop",
+   "Un souffle cardiaque"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le souffle naît d'un flux sanguin turbulent ; ici, une communication entre les deux ventricules.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0171.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "science-medecine-v3-025",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien d'os compte le squelette d'un adulte ?",
+  "choices": [
+   "206",
+   "186",
+   "250",
+   "300"
+  ],
+  "correctIndex": 0,
+  "explanation": "Un nouveau-né en a environ 300 : beaucoup fusionnent pendant la croissance.",
+  "physiatrie": true
+ },
+ {
+  "id": "science-medecine-v3-026",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pourquoi les morts deviennent-ils raides quelques heures après le décès (rigor mortis) ?",
+  "choices": [
+   "Le manque d'ATP dans les muscles",
+   "Le froid qui fige les articulations",
+   "Le dessèchement des tendons",
+   "La coagulation dans les muscles"
+  ],
+  "correctIndex": 0,
+  "explanation": "Sans ATP, les têtes de myosine ne se détachent plus de l'actine. La raideur disparaît après 1 à 3 jours, quand les fibres se dégradent.",
+  "physiatrie": true
+ },
+ {
+  "id": "science-medecine-v3-027",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En médecine moderne, à quoi servent les asticots stériles ?",
+  "choices": [
+   "À nettoyer les plaies chroniques",
+   "À soigner les migraines",
+   "À remplacer les antibiotiques par voie orale",
+   "À traiter l'anémie"
+  ],
+  "correctIndex": 0,
+  "explanation": "La larvothérapie déterge les ulcères diabétiques et de pression en mangeant seulement les tissus morts.",
+  "physiatrie": true
+ },
+ {
+  "id": "science-medecine-v3-028",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Environ combien de muscles squelettiques compte le corps humain ?",
+  "choices": [
+   "Environ 150",
+   "Plus de 600",
+   "Environ 300",
+   "Plus de 2 000"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le plus gros est le grand fessier ; le plus petit, le muscle stapédien de l'oreille.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-029",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel est l'os le plus long du corps humain ?",
+  "choices": [
+   "L'humérus",
+   "Le fémur",
+   "La colonne vertébrale",
+   "Le tibia"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il représente environ le quart de la taille d'une personne.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-030",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel est le plus petit os du corps humain ?",
+  "choices": [
+   "L'os hyoïde, au cou",
+   "Le pisiforme, au poignet",
+   "L'étrier, dans l'oreille",
+   "Le coccyx"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il mesure environ 3 mm ; il transmet les vibrations du son à l'oreille interne.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-031",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quels muscles provoquent la chair de poule ?",
+  "choices": [
+   "Les muscles peauciers du cou",
+   "Les muscles arrecteurs des poils",
+   "Les muscles lisses des vaisseaux",
+   "Les muscles intercostaux"
+  ],
+  "correctIndex": 1,
+  "explanation": "Un réflexe hérité des mammifères à fourrure : hérisser le poil pour paraître plus gros… ou garder la chaleur.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-032",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle hormone libérée en cas de peur accélère le cœur et prépare le corps à fuir ?",
+  "choices": [
+   "L'ocytocine",
+   "L'insuline",
+   "L'adrénaline",
+   "La mélatonine"
+  ],
+  "correctIndex": 2,
+  "explanation": "La réponse « combat-fuite » : pupilles dilatées, muscles irrigués, digestion en pause.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-033",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle structure du cerveau joue un rôle central dans la peur ?",
+  "choices": [
+   "L'amygdale",
+   "Le cervelet",
+   "L'hypophyse",
+   "Le corps calleux"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les personnes dont les amygdales sont détruites peuvent ne plus ressentir la peur.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-034",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi ne peut-on plus bouger pendant une paralysie du sommeil ?",
+  "choices": [
+   "Une chute du taux de sucre",
+   "Un mini-AVC passager",
+   "Une crise d'épilepsie",
+   "L'atonie du rêve se prolonge"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le cerveau se réveille, mais pas le corps ; les hallucinations de présence ont nourri les mythes de démons assis sur la poitrine.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-035",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi les ongles et les cheveux semblent-ils pousser après la mort ?",
+  "choices": [
+   "Le sang y afflue une dernière fois",
+   "Ils poussent réellement pendant quelques jours",
+   "La peau se dessèche et se rétracte",
+   "Les bactéries les allongent"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est une illusion : la peau qui se rétracte découvre davantage d'ongle et de poil.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-036",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Environ combien de temps le cerveau tolère-t-il un arrêt de l'oxygène avant des lésions graves ?",
+  "choices": [
+   "30 secondes",
+   "4 à 6 minutes",
+   "1 heure",
+   "20 minutes"
+  ],
+  "correctIndex": 1,
+  "explanation": "D'où l'importance de commencer le massage cardiaque tout de suite.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-037",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pourquoi la rage était-elle surnommée « hydrophobie » ?",
+  "choices": [
+   "L'eau perd tout goût",
+   "Le virus vit dans l'eau",
+   "Avaler cause des spasmes",
+   "L'eau brûle la peau"
+  ],
+  "correctIndex": 2,
+  "explanation": "La seule vue de l'eau peut déclencher des spasmes ; transmise par morsure, la rage a nourri les mythes de vampires et de loups-garous.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-038",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle maladie rare du sang est parfois avancée pour expliquer le mythe du vampire ?",
+  "choices": [
+   "La drépanocytose",
+   "La leucémie",
+   "La porphyrie",
+   "L'hémophilie"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sensibilité au soleil, dents parfois rougies : une hypothèse populaire, mais très discutée par les historiens.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-039",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle condition est parfois appelée « syndrome du loup-garou » ?",
+  "choices": [
+   "L'hypertrichose",
+   "Le vitiligo",
+   "L'albinisme",
+   "La lycanthropie clinique"
+  ],
+  "correctIndex": 0,
+  "explanation": "Une pousse excessive de poils sur le corps et le visage. La lycanthropie clinique, elle, est un délire de transformation.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-040",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle le trouble où une personne est convaincue d'être morte ?",
+  "choices": [
+   "Le syndrome de Fregoli",
+   "Le syndrome de Cotard",
+   "Le syndrome de Korsakoff",
+   "Le syndrome de Capgras"
+  ],
+  "correctIndex": 1,
+  "explanation": "Décrit par Jules Cotard en 1880 ; dans le Capgras, on croit qu'un proche a été remplacé par un sosie.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-041",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle toxine du poisson-globe a été associée aux récits de « zombies » haïtiens ?",
+  "choices": [
+   "La toxine botulique",
+   "La tétrodotoxine",
+   "La strychnine",
+   "Le curare"
+  ],
+  "correctIndex": 1,
+  "explanation": "Elle bloque les canaux sodiques des nerfs : paralysie et respiration très faible pouvant faire croire à la mort.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-042",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment appelle-t-on la peur des clowns ?",
+  "choices": [
+   "La nyctophobie",
+   "L'arachnophobie",
+   "La clinophobie",
+   "La coulrophobie"
+  ],
+  "correctIndex": 3,
+  "explanation": "La nyctophobie est la peur du noir ; la clinophobie, celle d'aller au lit.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-043",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment appelle-t-on la peur d'Halloween ?",
+  "choices": [
+   "La nécrophobie",
+   "La phasmophobie",
+   "L'hallophobie",
+   "La samhainophobie"
+  ],
+  "correctIndex": 3,
+  "explanation": "Son nom vient de Samhain ; la phasmophobie est la peur des fantômes.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-044",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment appelle-t-on la peur du nombre 13 ?",
+  "choices": [
+   "La tétraphobie",
+   "La triskaïdékaphobie",
+   "L'hexakosioihexekontahexaphobie",
+   "La paraskevidékatriaphobie"
+  ],
+  "correctIndex": 1,
+  "explanation": "La peur du vendredi 13 a un nom encore plus long : paraskevidékatriaphobie. Celle du 666 est l'hexakosioihexekontahexaphobie.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-045",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel pigment donne sa couleur orange à la citrouille ?",
+  "choices": [
+   "Le lycopène",
+   "L'anthocyane",
+   "Le bêta-carotène",
+   "La chlorophylle"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le même que dans la carotte, précurseur de la vitamine A ; le lycopène colore la tomate.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-046",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Botaniquement, qu'est-ce qu'une citrouille ?",
+  "choices": [
+   "Un légume-racine",
+   "Une tige gonflée",
+   "Un tubercule",
+   "Un fruit"
+  ],
+  "correctIndex": 3,
+  "explanation": "C'est une baie de la famille des cucurbitacées, comme le concombre et le melon.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-047",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel est le seul mammifère capable de vol actif ?",
+  "choices": [
+   "La chauve-souris",
+   "Le phalanger volant",
+   "L'écureuil volant",
+   "Le colugo"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les écureuils volants et les colugos ne font que planer.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-048",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment les chauves-souris se repèrent-elles dans le noir ?",
+  "choices": [
+   "Grâce au champ magnétique",
+   "À l'odorat seulement",
+   "Par écholocalisation",
+   "Grâce à leurs yeux infrarouges"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elles émettent des ultrasons et analysent les échos. Elles ne sont pas aveugles pour autant.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-049",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Jusqu'à combien de degrés une chouette peut-elle tourner la tête ?",
+  "choices": [
+   "180°",
+   "360°",
+   "90°",
+   "270°"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ses vaisseaux du cou possèdent des réserves de sang pour ne pas couper la circulation du cerveau.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-050",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi les yeux des chats brillent-ils dans le noir ?",
+  "choices": [
+   "Leurs yeux produisent de la lumière",
+   "Leurs larmes reflètent la lune",
+   "Une couche réfléchissante dans l'œil",
+   "Leurs pupilles sont phosphorescentes"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le tapetum lucidum double la lumière captée : c'est pourquoi les chats voient si bien la nuit.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-051",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Les corbeaux sont-ils capables de reconnaître un visage humain ?",
+  "choices": [
+   "Oui, et ils s'en souviennent pendant des années",
+   "Seulement celui de leur éleveur",
+   "Non, ils ne distinguent que les couleurs",
+   "Seulement les visages d'enfants"
+  ],
+  "correctIndex": 0,
+  "explanation": "Une étude de l'Université de Washington a montré qu'ils transmettent même à leurs petits la « menace » d'un visage.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-052",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment dit-on « un groupe de corbeaux » en anglais ?",
+  "choices": [
+   "A murder of crows",
+   "A haunt of crows",
+   "A shadow of crows",
+   "A coven of crows"
+  ],
+  "correctIndex": 0,
+  "explanation": "Un nom médiéval lié à leur réputation de messagers de la mort ; coven désigne un groupe de sorcières.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-053",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel champignon cause la majorité des intoxications mortelles en Europe ?",
+  "choices": [
+   "Le cèpe de Bordeaux",
+   "L'amanite phalloïde",
+   "L'amanite tue-mouches",
+   "La morille"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ses toxines détruisent le foie ; les symptômes n'apparaissent qu'après 6 à 24 heures, quand le mal est fait.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-054",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle guêpe transforme les blattes en « zombies » qu'elle mène par l'antenne ?",
+  "choices": [
+   "La guêpe émeraude",
+   "La guêpe-araignée",
+   "La guêpe germanique",
+   "Le frelon asiatique"
+  ],
+  "correctIndex": 0,
+  "explanation": "Elle injecte son venin directement dans le cerveau de la blatte, puis la guide jusqu'à son nid comme un chien en laisse.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-055",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que fait le parasite Toxoplasma gondii aux rats qu'il infecte ?",
+  "choices": [
+   "Il les rend agressifs entre eux",
+   "Il les fait grossir",
+   "Il les rend aveugles",
+   "Il les rend attirés par l'odeur des chats"
+  ],
+  "correctIndex": 3,
+  "explanation": "Mangés par un chat, les rats permettent au parasite de se reproduire dans son hôte final.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-056",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel organe les embaumeurs égyptiens laissaient-ils dans le corps de la momie ?",
+  "choices": [
+   "Les poumons",
+   "Le cerveau",
+   "Le cœur",
+   "Le foie"
+  ],
+  "correctIndex": 2,
+  "explanation": "Siège de l'esprit, il devait être pesé lors du jugement ; le cerveau, jugé inutile, était jeté.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-057",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment les embaumeurs égyptiens retiraient-ils le cerveau ?",
+  "choices": [
+   "Par une incision derrière l'oreille",
+   "Par le nez, avec un crochet",
+   "Par la bouche",
+   "En ouvrant le crâne à la scie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ils perçaient l'ethmoïde et extrayaient la matière cérébrale en morceaux.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-058",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À quoi servait le natron dans la momification égyptienne ?",
+  "choices": [
+   "À sceller le sarcophage",
+   "À dessécher le corps",
+   "À parfumer les bandelettes",
+   "À colorer la peau en doré"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ce sel naturel absorbait l'eau du corps pendant environ 40 jours.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-059",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelles molécules aux noms évocateurs donnent son odeur à la décomposition ?",
+  "choices": [
+   "La sépulcrine et la cryptine",
+   "La mortine et la nécrosine",
+   "La tanatine et la funérine",
+   "La putrescine et la cadavérine"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ces amines sont produites quand les bactéries dégradent les protéines.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-060",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle explication scientifique donne-t-on aux feux follets des marais ?",
+  "choices": [
+   "Des lucioles en essaim",
+   "Des champignons lumineux",
+   "Des gaz qui s'enflamment",
+   "Des reflets de la lune"
+  ],
+  "correctIndex": 2,
+  "explanation": "Méthane et phosphine issus de la matière organique pourraient s'enflammer à l'air libre.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-061",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pourquoi la Lune devient-elle rouge pendant une éclipse totale ?",
+  "choices": [
+   "Sa poussière est rouge",
+   "Elle reflète les déserts terrestres",
+   "L'atmosphère dévie le rouge vers elle",
+   "Elle s'échauffe dans l'ombre"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est la même diffusion de Rayleigh qui rend nos couchers de soleil orangés.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-062",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment appelle-t-on traditionnellement la pleine lune d'octobre ?",
+  "choices": [
+   "La lune des moissons",
+   "La lune de sang",
+   "La lune bleue",
+   "La lune du chasseur"
+  ],
+  "correctIndex": 3,
+  "explanation": "La lune des moissons est la plus proche de l'équinoxe d'automne, souvent en septembre.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-063",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Environ combien de litres de sang circulent dans le corps d'un adulte ?",
+  "choices": [
+   "10 litres",
+   "5 litres",
+   "2 litres",
+   "15 litres"
+  ],
+  "correctIndex": 1,
+  "explanation": "Environ 7 % du poids corporel.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-064",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel groupe sanguin est le « donneur universel » de globules rouges ?",
+  "choices": [
+   "B positif",
+   "AB positif",
+   "A négatif",
+   "O négatif"
+  ],
+  "correctIndex": 3,
+  "explanation": "AB positif est le receveur universel.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-065",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Combien de temps vit en moyenne un globule rouge ?",
+  "choices": [
+   "Environ 10 ans",
+   "Environ 1 an",
+   "Environ 120 jours",
+   "Environ 3 jours"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ils sont ensuite recyclés par la rate et le foie.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-066",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a découvert les groupes sanguins A, B et O en 1901 ?",
+  "choices": [
+   "Louis Pasteur",
+   "Karl Landsteiner",
+   "Robert Koch",
+   "Alexander Fleming"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cette découverte a rendu les transfusions sûres ; elle lui a valu le prix Nobel en 1930.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-067",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Environ quel âge a Ötzi, la momie retrouvée dans un glacier des Alpes ?",
+  "choices": [
+   "2 000 ans",
+   "800 ans",
+   "12 000 ans",
+   "5 300 ans"
+  ],
+  "correctIndex": 3,
+  "explanation": "Découvert en 1991 à la frontière austro-italienne, il porte même 61 tatouages, peut-être thérapeutiques.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-068",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quoi Ötzi est-il probablement mort ?",
+  "choices": [
+   "D'une morsure d'ours",
+   "De froid pendant son sommeil",
+   "D'une avalanche",
+   "D'une flèche reçue dans l'épaule"
+  ],
+  "correctIndex": 3,
+  "explanation": "La pointe de flèche a sectionné une artère sous la clavicule, découverte par radiographie en 2001.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-069",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qu'est-ce qui a si bien conservé les « hommes des tourbières » du nord de l'Europe ?",
+  "choices": [
+   "Le sel de la mer du Nord",
+   "L'eau acide des tourbières",
+   "Un embaumement rituel",
+   "Le froid du permafrost"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'homme de Tollund, au Danemark, a encore les traits de son visage après plus de 2 000 ans.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-070",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Environ combien de fois le cœur bat-il par jour ?",
+  "choices": [
+   "100 000 fois",
+   "10 000 fois",
+   "1 million de fois",
+   "25 000 fois"
+  ],
+  "correctIndex": 0,
+  "explanation": "Soit environ 2,5 milliards de battements au cours d'une vie.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-071",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel organe humain peut repousser après en avoir perdu une partie ?",
+  "choices": [
+   "Le foie",
+   "Le cœur",
+   "Les reins",
+   "Le pancréas"
+  ],
+  "correctIndex": 0,
+  "explanation": "Il peut se régénérer à partir d'environ 25 % de son volume.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-072",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Est-il vrai que nous n'utilisons que 10 % de notre cerveau ?",
+  "choices": [
+   "Oui, sauf pendant le sommeil",
+   "Non, toutes les régions servent",
+   "Non, nous n'en utilisons que 1 %",
+   "Oui, c'est prouvé par l'IRM"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'imagerie montre que toutes les zones sont actives selon les tâches ; un mythe tenace du cinéma.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-073",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment se transmet le plus souvent la rage à l'humain ?",
+  "choices": [
+   "Par une piqûre de moustique",
+   "Par la toux",
+   "Par l'eau contaminée",
+   "Par la morsure d'un animal infecté"
+  ],
+  "correctIndex": 3,
+  "explanation": "Au Canada, la chauve-souris est la principale source de rage humaine. Une fois les symptômes apparus, elle est presque toujours mortelle.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-074",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Pour quel usage la FDA a-t-elle autorisé les sangsues médicinales en 2004 ?",
+  "choices": [
+   "Pour les morsures de serpent",
+   "Pour retirer des tatouages",
+   "Pour traiter l'hypertension",
+   "Pour sauver des greffes"
+  ],
+  "correctIndex": 3,
+  "explanation": "Elles décongestionnent les tissus où le sang veineux stagne, en microchirurgie reconstructive.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-075",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi crie-t-on quand on a très peur ?",
+  "choices": [
+   "Pour réchauffer la gorge",
+   "Pour alerter les autres",
+   "Sans raison connue",
+   "Pour vider ses poumons"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les cris de peur ont une « rugosité » acoustique particulière qui active fortement l'amygdale de ceux qui les entendent.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-076",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel animal fabrique la soie la plus résistante connue, plus solide que l'acier à poids égal ?",
+  "choices": [
+   "Le ver à soie",
+   "La mygale",
+   "L'araignée de Darwin",
+   "La veuve noire"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle tisse des toiles géantes au-dessus des rivières de Madagascar.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-077",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi les araignées ne sont-elles pas des insectes ?",
+  "choices": [
+   "Elles pondent sous l'eau",
+   "Elles ont des poumons comme nous",
+   "Elles ont 8 pattes et 2 parties du corps",
+   "Elles n'ont pas de squelette"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les araignées sont des arachnides, comme les scorpions et les acariens.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-078",
+  "category": "science-medecine",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle substance, découverte dans la salive de la chauve-souris vampire, porte un nom de film d'horreur ?",
+  "choices": [
+   "La draculine",
+   "La vampyrine",
+   "La nosférine",
+   "La lestatine"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cette protéine anticoagulante a été étudiée pour prévenir les AVC.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-079",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle la peur d'être enterré vivant ?",
+  "choices": [
+   "La taphophobie",
+   "La nécrophobie",
+   "La claustrophobie",
+   "La thanatophobie"
+  ],
+  "correctIndex": 0,
+  "explanation": "La thanatophobie est la peur de la mort en général.",
+  "physiatrie": false
+ },
+ {
+  "id": "science-medecine-v3-080",
+  "category": "science-medecine",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel nom donne-t-on à l'étude scientifique des insectes trouvés sur un cadavre pour dater la mort ?",
+  "choices": [
+   "L'entomologie médico-légale",
+   "La paléopathologie",
+   "La thanatologie botanique",
+   "L'archéozoologie"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les mouches arrivent dans les minutes qui suivent le décès : leurs larves servent d'horloge biologique.",
+  "physiatrie": false
+ }
+]

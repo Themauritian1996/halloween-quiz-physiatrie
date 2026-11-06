@@ -1,0 +1,1458 @@
+[
+ {
+  "id": "litterature-v3-001",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle créature menace ce navire, sur cette carte marine de 1539 ?",
+  "choices": [
+   "Une baleine blanche",
+   "Un kraken",
+   "Un serpent de mer géant",
+   "Un léviathan à cornes"
+  ],
+  "correctIndex": 2,
+  "explanation": "La Carta Marina d'Olaus Magnus peuplait les mers du Nord de monstres ; le serpent de mer y étouffe un navire entier.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0110.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-002",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel auteur, fils du cinéaste Mel Brooks, a écrit ce roman ?",
+  "choices": [
+   "Robert Kirkman",
+   "Joe Hill",
+   "Max Brooks",
+   "Seth Grahame-Smith"
+  ],
+  "correctIndex": 2,
+  "explanation": "World War Z (2006) prend la forme d'entretiens avec des survivants d'une guerre mondiale contre les zombies. Joe Hill, lui, est le fils de Stephen King.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/7/76/World_War_Z_book_cover.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-003",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel fantôme littéraire, tourmenté par une famille américaine, voit-on ici ?",
+  "choices": [
+   "Le Hollandais volant",
+   "Le fantôme de Banquo",
+   "Le spectre d'Hamlet",
+   "Le fantôme de Canterville"
+  ],
+  "correctIndex": 3,
+  "explanation": "Dans la nouvelle d'Oscar Wilde (1887), c'est le fantôme, Sir Simon, qui finit terrorisé par la famille Otis.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0107.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-004",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle ce thème artistique médiéval, où la Mort vient chercher chacun ?",
+  "choices": [
+   "Le Triomphe de la Mort",
+   "La danse macabre",
+   "Le Jugement dernier",
+   "La Roue de Fortune"
+  ],
+  "correctIndex": 1,
+  "explanation": "Riches ou pauvres, pape ou laboureur, la Mort entraîne tout le monde : ici, les gravures d'après Holbein (1538).",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0111.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "litterature-v3-005",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel roman illustre ce frontispice de 1831 ?",
+  "choices": [
+   "Frankenstein",
+   "Dracula",
+   "Le Moine",
+   "Melmoth l'homme errant"
+  ],
+  "correctIndex": 0,
+  "explanation": "Theodor von Holst montre Victor fuyant sa créature qui s'éveille : c'est l'édition révisée par Mary Shelley.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0100.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-006",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "De quel récit vient ce cavalier spectral ?",
+  "choices": [
+   "La Chute de la maison Usher",
+   "Rip Van Winkle",
+   "Le Corbeau",
+   "La Légende de Sleepy Hollow"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le Cavalier sans tête de Washington Irving (1820) serait un soldat hessois décapité par un boulet de canon.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0112.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-007",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qui est cet auteur ?",
+  "choices": [
+   "Clive Barker",
+   "Stephen King",
+   "Dean Koontz",
+   "R. L. Stine"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le « maître de l'horreur » a publié plus de 60 romans vendus à des centaines de millions d'exemplaires.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0301.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "litterature-v3-008",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel écrivain du XIXe siècle a écrit l'histoire illustrée ici ?",
+  "choices": [
+   "Edgar Allan Poe",
+   "Nathaniel Hawthorne",
+   "Washington Irving",
+   "H. P. Lovecraft"
+  ],
+  "correctIndex": 0,
+  "explanation": "C'est Le Cœur révélateur (1843), vu par l'illustrateur irlandais Harry Clarke : le narrateur entend battre le cœur de sa victime.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0102.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-009",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel personnage s'invite à ce bal masqué ?",
+  "choices": [
+   "La Mort rouge",
+   "Le Joueur de flûte",
+   "Le Fantôme de l'Opéra",
+   "Méphistophélès"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dans Le Masque de la Mort rouge de Poe, le prince croit fuir l'épidémie ; elle entre au bal sous un déguisement.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0103.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-010",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qui est ce passeur des Enfers ?",
+  "choices": [
+   "Cerbère",
+   "Hadès",
+   "Minos",
+   "Charon"
+  ],
+  "correctIndex": 3,
+  "explanation": "Gustave Doré illustre L'Enfer de Dante : Charon fait traverser l'Achéron aux âmes. On plaçait une obole dans la bouche des morts pour le payer.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0104.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-011",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle sorcière des contes russes voit-on ici ?",
+  "choices": [
+   "Circé",
+   "Morgane",
+   "La Befana",
+   "Baba Yaga"
+  ],
+  "correctIndex": 3,
+  "explanation": "Elle vit dans une isba montée sur des pattes de poulet et voyage dans un mortier. Illustration d'Ivan Bilibine (1900).",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0113.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-012",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel conte de Perrault illustre cette gravure de Gustave Doré ?",
+  "choices": [
+   "Peau d'âne",
+   "La Barbe bleue",
+   "Le Petit Poucet",
+   "Riquet à la houppe"
+  ],
+  "correctIndex": 1,
+  "explanation": "La jeune épouse tient la petite clé du cabinet interdit, où gisent les femmes précédentes.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0105.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-013",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel conte reconnaît-on sur ce tableau ?",
+  "choices": [
+   "Le Petit Chaperon rouge",
+   "Boucle d'or",
+   "Hansel et Gretel",
+   "Les Trois Petits Cochons"
+  ],
+  "correctIndex": 0,
+  "explanation": "Chez Perrault (1697), le conte finit mal : pas de chasseur, le loup mange la fillette.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0106.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-014",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qui a écrit ce roman ?",
+  "choices": [
+   "Tim Burton",
+   "Roald Dahl",
+   "Neil Gaiman",
+   "Lemony Snicket"
+  ],
+  "correctIndex": 2,
+  "explanation": "Coraline (2002) a été adapté en stop-motion par Henry Selick en 2009.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/6/61/Coraline.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-015",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "En quelle année ce premier tome est-il paru au Royaume-Uni ?",
+  "choices": [
+   "2000",
+   "2001",
+   "1997",
+   "1995"
+  ],
+  "correctIndex": 2,
+  "explanation": "Harry Potter à l'école des sorciers a été refusé par une douzaine d'éditeurs avant d'être accepté par Bloomsbury.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-016",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans ce roman de 1986, en quelle année se déroule l'enfance du Club des Ratés ?",
+  "choices": [
+   "1975",
+   "1966",
+   "1958",
+   "1989"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ça alterne entre 1958 et 1985. Les films de 2017-2019 ont déplacé l'enfance en 1989.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-017",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Comment s'appelle cette créature de Lewis Carroll ?",
+  "choices": [
+   "Le Bandersnatch",
+   "Le Jabberwock",
+   "Le Snark",
+   "Le Griffon"
+  ],
+  "correctIndex": 1,
+  "explanation": "Gravé par John Tenniel pour De l'autre côté du miroir (1871), le Jabberwock est terrassé par une épée « vorpale ».",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0116.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-018",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel auteur écossais a créé ce célèbre double maléfique ?",
+  "choices": [
+   "H. G. Wells",
+   "Arthur Conan Doyle",
+   "Oscar Wilde",
+   "Robert Louis Stevenson"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'Étrange Cas du docteur Jekyll et de M. Hyde (1886) aurait été écrit en quelques jours seulement.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0119.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-019",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quelle pièce de Shakespeare ces trois sorcières prophétisent-elles ?",
+  "choices": [
+   "Macbeth",
+   "Le Roi Lear",
+   "La Tempête",
+   "Hamlet"
+  ],
+  "correctIndex": 0,
+  "explanation": "« Double, double, peine et trouble » : leur prophétie pousse Macbeth au meurtre du roi.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0118.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-020",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Qui est le scénariste de ce comic, devenu une série télé à succès ?",
+  "choices": [
+   "Robert Kirkman",
+   "Neil Gaiman",
+   "Frank Miller",
+   "Alan Moore"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Walking Dead paraît en 2003 en noir et blanc ; la série de comics a duré 193 numéros.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/c/cf/WalkingDead1.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-021",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel héros affronte ce dragon, dans un poème épique en vieil anglais ?",
+  "choices": [
+   "Saint Georges",
+   "Siegfried",
+   "Thor",
+   "Beowulf"
+  ],
+  "correctIndex": 3,
+  "explanation": "Devenu vieux roi, Beowulf tue le dragon mais meurt de ses blessures. Tolkien était un grand spécialiste du poème.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0120.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "litterature-v3-022",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel réalisateur a adapté ce roman au cinéma en 2016 ?",
+  "choices": [
+   "Steven Spielberg",
+   "Wes Anderson",
+   "Tim Burton",
+   "Guillermo del Toro"
+  ],
+  "correctIndex": 2,
+  "explanation": "Miss Peregrine et les enfants particuliers est né de vraies photographies anciennes et étranges, chinées par Ransom Riggs.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/e/e1/MissPeregrineCover.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-023",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Par qui le héros de ce roman est-il élevé ?",
+  "choices": [
+   "Par les fantômes d'un cimetière",
+   "Par une meute de loups",
+   "Par une famille de vampires",
+   "Par trois sorcières"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le Livre du cimetière (2008) de Neil Gaiman, inspiré du Livre de la jungle ; un vampire, Silas, est toutefois son tuteur.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/3/3e/TheGraveyardBook_Hardcover.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-024",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle forme maudit la ville de ce manga d'horreur ?",
+  "choices": [
+   "L'étoile",
+   "La spirale",
+   "Le cercle",
+   "Le triangle"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dans Uzumaki (« spirale ») de Junji Ito, les spirales envahissent les corps et les esprits des habitants.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/88/Uzumaki.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "litterature-v3-025",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment le capitaine Crochet a-t-il perdu sa main ?",
+  "choices": [
+   "Un crocodile la lui a dévorée",
+   "Un requin la lui a arrachée",
+   "Il l'a perdue au combat contre des Indiens",
+   "Une sorcière la lui a maudite"
+  ],
+  "correctIndex": 0,
+  "explanation": "Peter Pan la lui a tranchée et l'a jetée à un crocodile, qui l'a tellement aimée qu'il suit Crochet depuis (tic-tac compris).",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-026",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Moby Dick, en quoi est faite la jambe artificielle du capitaine Achab ?",
+  "choices": [
+   "En bois de chêne",
+   "En fer forgé",
+   "En os de cachalot",
+   "En os humain"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sa jambe a été arrachée par Moby Dick ; il la remplace par une prothèse taillée dans une mâchoire de cachalot.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-027",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans L'Île au trésor, quel handicap a le pirate Long John Silver ?",
+  "choices": [
+   "Il est borgne",
+   "Il est sourd",
+   "Il est amputé d'un bras",
+   "Il est amputé d'une jambe"
+  ],
+  "correctIndex": 3,
+  "explanation": "Il se déplace avec une béquille, très habilement, et porte son perroquet Capitaine Flint sur l'épaule.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-028",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi Quasimodo, dans Notre-Dame de Paris, est-il devenu sourd ?",
+  "choices": [
+   "Il est né sourd",
+   "À force de sonner les cloches de la cathédrale",
+   "À la suite d'une fièvre dans l'enfance",
+   "Après un coup reçu en prison"
+  ],
+  "correctIndex": 1,
+  "explanation": "Bossu, borgne et boiteux, il perd l'ouïe à cause des cloches — une surdité professionnelle avant l'heure.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-029",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle expérience de Galvani, où des muscles de grenouille se contractent sous l'électricité, a inspiré Frankenstein ?",
+  "choices": [
+   "La greffe d'organes",
+   "La transfusion sanguine",
+   "La stimulation électrique",
+   "La vaccination"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le « galvanisme » fascinait l'Europe : on faisait même grimacer des cadavres de pendus. C'est l'ancêtre lointain de l'ÉMG et de la stimulation électrique.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-030",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans le roman Misery de Stephen King, qu'inflige Annie à Paul, plus terrible que dans le film ?",
+  "choices": [
+   "Elle lui coupe les tendons d'Achille",
+   "Elle lui ampute un pied à la hache",
+   "Elle lui brise les deux poignets",
+   "Elle lui retire sa machine à écrire pour toujours"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dans le livre, Annie lui coupe le pied à la hache et cautérise au chalumeau ; le film l'a remplacé par la scène des chevilles brisées.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-031",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel écrivain français a écrit La Main (1883), l'histoire d'une main coupée qui semble vivante ?",
+  "choices": [
+   "Guy de Maupassant",
+   "Alexandre Dumas",
+   "Théophile Gautier",
+   "Victor Hugo"
+  ],
+  "correctIndex": 0,
+  "explanation": "La main d'un écorché finit par étrangler son ancien propriétaire. Maupassant avait déjà écrit une première version en 1875.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-032",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Le Magicien d'Oz, de quoi l'Homme de fer-blanc a-t-il besoin pour bouger ?",
+  "choices": [
+   "D'une clé à remonter",
+   "D'huile",
+   "De la lumière du soleil",
+   "D'un cœur qui bat"
+  ],
+  "correctIndex": 1,
+  "explanation": "Figé par la rouille, il réclame sa burette d'huile — de quoi rêver d'une infiltration intra-articulaire.",
+  "physiatrie": true
+ },
+ {
+  "id": "litterature-v3-033",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quelle nationalité était Bram Stoker, l'auteur de Dracula ?",
+  "choices": [
+   "Roumaine",
+   "Irlandaise",
+   "Anglaise",
+   "Écossaise"
+  ],
+  "correctIndex": 1,
+  "explanation": "Né à Dublin, il était gérant de théâtre à Londres ; Dracula paraît en 1897.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-034",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Sous quelle forme Dracula est-il écrit ?",
+  "choices": [
+   "Des lettres et des journaux intimes",
+   "Les mémoires du comte",
+   "Un long poème en vers",
+   "Une pièce de théâtre en 5 actes"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ce roman épistolaire donne la parole à Jonathan, Mina, le Dr Seward… mais jamais directement au comte.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-035",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel âge avait Mary Shelley quand elle a commencé à écrire Frankenstein ?",
+  "choices": [
+   "25 ans",
+   "45 ans",
+   "30 ans",
+   "18 ans"
+  ],
+  "correctIndex": 3,
+  "explanation": "Elle a eu l'idée pendant l'été 1816 ; le roman paraît anonymement en 1818.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-036",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Où est née l'idée de Frankenstein, lors d'un concours d'histoires de fantômes ?",
+  "choices": [
+   "Dans une auberge des Alpes bavaroises",
+   "Dans un manoir écossais",
+   "Dans un palais vénitien",
+   "À la villa Diodati, au bord du lac Léman"
+  ],
+  "correctIndex": 3,
+  "explanation": "Byron avait lancé le défi à ses invités, coincés à l'intérieur par l'été pluvieux de 1816, « l'année sans été ».",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-037",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Le même été 1816 a donné naissance à Le Vampire, premier récit de vampire moderne. Qui l'a écrit ?",
+  "choices": [
+   "John Polidori",
+   "John Keats",
+   "Lord Byron",
+   "Percy Shelley"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le médecin de Byron s'est inspiré d'une ébauche de son patron ; le vampire aristocrate séducteur était né.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-038",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans le roman de Mary Shelley, comment s'appelle la créature ?",
+  "choices": [
+   "Igor",
+   "Aucun nom",
+   "Adam",
+   "Frankenstein"
+  ],
+  "correctIndex": 1,
+  "explanation": "Frankenstein est le nom du savant, Victor. La créature se compare à Adam, mais n'est jamais nommée.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-039",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel mot le corbeau d'Edgar Allan Poe répète-t-il ?",
+  "choices": [
+   "« Jamais plus » (Nevermore)",
+   "« Toujours » (Evermore)",
+   "« Lenore »",
+   "« Rien » (Nothing)"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le Corbeau (1845) a rendu Poe célèbre ; il aurait touché seulement neuf dollars pour le poème.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-040",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Le Chat noir de Poe, où le narrateur cache-t-il le corps de sa femme ?",
+  "choices": [
+   "Dans le puits du jardin",
+   "Sous le plancher du salon",
+   "Dans un mur de la cave",
+   "Dans la cheminée"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les miaulements du chat, emmuré par erreur avec le corps, trahissent le meurtrier.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-041",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle créature de Lovecraft dort au fond de l'océan, dans la cité engloutie de R'lyeh ?",
+  "choices": [
+   "Yog-Sothoth",
+   "Cthulhu",
+   "Azathoth",
+   "Nyarlathotep"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'Appel de Cthulhu (1928) a fondé tout un « mythe » repris par des centaines d'auteurs et de jeux.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-042",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui a écrit Le Fantôme de l'Opéra (1910) ?",
+  "choices": [
+   "Alexandre Dumas",
+   "Victor Hugo",
+   "Gaston Leroux",
+   "Jules Verne"
+  ],
+  "correctIndex": 2,
+  "explanation": "Leroux s'est inspiré du vrai Palais Garnier, de son lac souterrain et d'un accident de lustre en 1896.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-043",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui a écrit L'Homme invisible (1897) ?",
+  "choices": [
+   "Robert Louis Stevenson",
+   "Jules Verne",
+   "Mary Shelley",
+   "H. G. Wells"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le chimiste Griffin devient invisible… et incapable de revenir en arrière.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-044",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel État américain se déroulent la plupart des romans de Stephen King ?",
+  "choices": [
+   "Le Massachusetts",
+   "Le Colorado",
+   "Le Vermont",
+   "Le Maine"
+  ],
+  "correctIndex": 3,
+  "explanation": "King vit à Bangor, dans le Maine, qui a inspiré sa ville maudite de Derry.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-045",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans quel État se trouve l'hôtel Overlook du roman Shining ?",
+  "choices": [
+   "Le Montana",
+   "L'Oregon",
+   "Le Maine",
+   "Le Colorado"
+  ],
+  "correctIndex": 3,
+  "explanation": "King s'est inspiré du Stanley Hotel d'Estes Park, où il a séjourné hors saison en 1974.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-046",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel est le premier roman publié de Stephen King ?",
+  "choices": [
+   "Shining",
+   "Carrie",
+   "Ça",
+   "Salem"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il avait jeté le manuscrit à la poubelle ; sa femme Tabitha l'a récupéré et l'a convaincu de le terminer.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-047",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quelle race est le chien enragé Cujo, dans le roman de Stephen King ?",
+  "choices": [
+   "Un saint-bernard",
+   "Un rottweiler",
+   "Un doberman",
+   "Un berger allemand"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mordu par une chauve-souris enragée, le gentil Cujo devient un monstre.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-048",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Simetierre, qu'arrive-t-il à ce qu'on enterre dans l'ancien cimetière au-delà du cimetière des animaux ?",
+  "choices": [
+   "Ça hante la famille pour toujours",
+   "Ça se transforme en pierre",
+   "Ça revient à la vie, mais changé",
+   "Ça disparaît sans laisser de trace"
+  ],
+  "correctIndex": 2,
+  "explanation": "« Parfois, mieux vaut mort » : le chat Church revient, puis bien pire.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-049",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Entretien avec un vampire d'Anne Rice, quel vampire raconte sa vie à un journaliste ?",
+  "choices": [
+   "Claudia",
+   "Louis",
+   "Armand",
+   "Lestat"
+  ],
+  "correctIndex": 1,
+  "explanation": "Louis de Pointe du Lac raconte sa transformation par Lestat dans la Louisiane du XVIIIe siècle.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-050",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quelle petite ville de l'État de Washington se déroule Twilight ?",
+  "choices": [
+   "Mystic Falls",
+   "Salem",
+   "Sunnydale",
+   "Forks"
+  ],
+  "correctIndex": 3,
+  "explanation": "Choisie par Stephenie Meyer parce que c'était l'endroit le plus pluvieux des États-Unis.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-051",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que retire le « baiser » d'un Détraqueur dans Harry Potter ?",
+  "choices": [
+   "La magie",
+   "La voix",
+   "La mémoire",
+   "L'âme"
+  ],
+  "correctIndex": 3,
+  "explanation": "J. K. Rowling a dit avoir imaginé les Détraqueurs comme une métaphore de la dépression.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-052",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle formule permet de faire apparaître un Patronus ?",
+  "choices": [
+   "Wingardium Leviosa",
+   "Expecto Patronum",
+   "Avada Kedavra",
+   "Expelliarmus"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le Patronus, nourri d'un souvenir heureux, repousse les Détraqueurs.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-053",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Sacrées Sorcières de Roald Dahl, en quoi les sorcières transforment-elles les enfants ?",
+  "choices": [
+   "En souris",
+   "En chats",
+   "En limaces",
+   "En crapauds"
+  ],
+  "correctIndex": 0,
+  "explanation": "Grâce à leur potion « Formule 86 » ; les sorcières détestent l'odeur des enfants.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-054",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Hansel et Gretel, de quoi est faite la maison de la sorcière ?",
+  "choices": [
+   "De pain d'épices et de sucreries",
+   "De sucre d'orge et de glace",
+   "De meringue et de guimauve",
+   "De chocolat seulement"
+  ],
+  "correctIndex": 0,
+  "explanation": "La sorcière attire les enfants pour les engraisser et les manger ; Gretel la pousse dans le four.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-055",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans la version des frères Grimm de Blanche-Neige, quel châtiment subit la reine ?",
+  "choices": [
+   "Être bannie dans la forêt",
+   "Être changée en pierre",
+   "Danser dans des souliers brûlants",
+   "Être brûlée sur un bûcher"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle danse jusqu'à la mort au mariage de Blanche-Neige : les contes originaux étaient bien plus cruels.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-056",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quelle matière est fait le Golem de Prague, selon la légende ?",
+  "choices": [
+   "De bois",
+   "De fer",
+   "De pierre",
+   "D'argile"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le rabbin Loew l'aurait façonné avec la boue de la Vltava pour protéger le ghetto.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-057",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel mot hébreu, inscrit sur son front, anime le Golem ?",
+  "choices": [
+   "Chaï (« vie »)",
+   "Shalom (« paix »)",
+   "Amen",
+   "Emet (« vérité »)"
+  ],
+  "correctIndex": 3,
+  "explanation": "On efface la première lettre pour obtenir « met » (« mort ») et le Golem redevient argile.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-058",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait la banshee du folklore irlandais ?",
+  "choices": [
+   "Elle annonce une mort par ses cris",
+   "Elle garde les trésors des fées",
+   "Elle noie les voyageurs",
+   "Elle vole les nouveau-nés"
+  ],
+  "correctIndex": 0,
+  "explanation": "Son gémissement nocturne prévient une famille qu'un de ses membres va mourir.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-059",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Selon le folklore, qu'est-ce qu'un vampire ne peut pas faire sans y être invité ?",
+  "choices": [
+   "Sortir de son cercueil",
+   "Entrer dans une maison",
+   "Traverser un pont",
+   "Boire du sang humain"
+  ],
+  "correctIndex": 1,
+  "explanation": "Une règle respectée par Dracula comme par les vampires de Laisse-moi entrer.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-060",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "De quel folklore autochtone vient le Wendigo, esprit cannibale des forêts glacées ?",
+  "choices": [
+   "Des Aztèques",
+   "Des Mayas",
+   "Des Inuits du Groenland",
+   "Des peuples algonquiens"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cris, Ojibwés, Innus… Le Wendigo incarne la faim insatiable de l'hiver.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-061",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans la légende québécoise de la Chasse-galerie, comment les bûcherons rentrent-ils voir leurs blondes ?",
+  "choices": [
+   "À dos de cheval noir",
+   "Sur un traîneau tiré par des loups",
+   "Dans un canot volant",
+   "Sur un radeau magique"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ils pactisent avec le Diable : ne pas jurer ni toucher de clocher pendant le vol, sinon leur âme est perdue.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-062",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Où le corps de la Corriveau a-t-il été exposé après sa pendaison en 1763, près de Québec ?",
+  "choices": [
+   "Dans un cercueil de verre",
+   "Au sommet du cap Diamant",
+   "Dans une cage de fer",
+   "Sur le parvis d'une église"
+  ],
+  "correctIndex": 2,
+  "explanation": "Marie-Josephte Corriveau, condamnée pour le meurtre de son mari, est devenue une légende de revenante.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-063",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui est le Bonhomme Sept-Heures, au Québec ?",
+  "choices": [
+   "Le fantôme d'un horloger",
+   "Un lutin qui apporte des cadeaux",
+   "Un feu follet des marais",
+   "Un croque-mitaine"
+  ],
+  "correctIndex": 3,
+  "explanation": "Son nom viendrait de l'anglais bone-setter, le « ramancheur » itinérant qui faisait peur aux enfants — un ancêtre de la thérapie manuelle !",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-064",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Selon les légendes, que sont les feux follets ?",
+  "choices": [
+   "Des âmes errantes",
+   "Des yeux de loups-garous",
+   "Des fées qui dansent",
+   "Des étoiles tombées"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ces lueurs des marais égaraient les voyageurs ; la science y voit des gaz qui s'enflamment.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-065",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel héros grec a tranché la tête de Méduse ?",
+  "choices": [
+   "Thésée",
+   "Jason",
+   "Persée",
+   "Héraclès"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il la regarde dans le reflet de son bouclier pour ne pas être pétrifié.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-066",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de têtes a Cerbère, le chien gardien des Enfers ?",
+  "choices": [
+   "2",
+   "3",
+   "9",
+   "7"
+  ],
+  "correctIndex": 1,
+  "explanation": "Héraclès le ramène à la surface lors de son douzième travail.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-067",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que se passe-t-il quand on coupe une tête de l'Hydre de Lerne ?",
+  "choices": [
+   "Le corps entier meurt",
+   "Elle se change en pierre",
+   "Deux têtes repoussent",
+   "Elle crache du feu"
+  ],
+  "correctIndex": 2,
+  "explanation": "Héraclès vient à bout de l'Hydre en cautérisant chaque cou avec une torche.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-068",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce que le Hollandais volant ?",
+  "choices": [
+   "Un phare hanté",
+   "Un pirate immortel",
+   "Un démon des tempêtes",
+   "Un vaisseau fantôme"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le croiser serait un présage de malheur ; Pirates des Caraïbes en a fait le navire de Davy Jones.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-069",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que cherche la Llorona, la « pleureuse » des légendes mexicaines ?",
+  "choices": [
+   "Son trésor perdu",
+   "Sa tête coupée",
+   "Ses enfants noyés",
+   "Son mari disparu"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle erre près des rivières en gémissant « ¡Ay, mis hijos! ».",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-070",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans le folklore japonais, combien de queues a le renard (kitsune) le plus puissant ?",
+  "choices": [
+   "3",
+   "7",
+   "9",
+   "12"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il gagne une queue tous les 100 ans environ ; à neuf queues, il devient presque divin.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-071",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle créature du folklore japonais porte un creux rempli d'eau sur le crâne ?",
+  "choices": [
+   "Le kappa",
+   "Le tengu",
+   "L'oni",
+   "Le tanuki"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pour le vaincre, on le salue : il s'incline poliment et renverse l'eau qui lui donne sa force.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-072",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Selon la légende, de quoi se nourrit le chupacabra ?",
+  "choices": [
+   "Du sang des chèvres",
+   "De cœurs humains",
+   "De poissons des rivières",
+   "De citrouilles"
+  ],
+  "correctIndex": 0,
+  "explanation": "Son nom signifie « suceur de chèvres » ; la légende est née à Porto Rico en 1995.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-073",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle créature terrorise la lande dans Le Chien des Baskerville ?",
+  "choices": [
+   "Un chien démoniaque",
+   "Une sorcière",
+   "Un loup-garou",
+   "Un fantôme sans tête"
+  ],
+  "correctIndex": 0,
+  "explanation": "Sherlock Holmes prouve que la « malédiction » cache un chien bien réel, enduit de phosphore.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-074",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce qui vieillit à la place de Dorian Gray ?",
+  "choices": [
+   "Son frère jumeau",
+   "Son portrait",
+   "Son reflet dans le miroir",
+   "Son ombre"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le roman d'Oscar Wilde (1890) : le tableau porte les traces de ses vices, caché dans le grenier.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-075",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En quoi Gregor Samsa se réveille-t-il transformé, dans La Métamorphose de Kafka ?",
+  "choices": [
+   "En rat d'égout",
+   "En oiseau noir",
+   "En insecte géant",
+   "En chien errant"
+  ],
+  "correctIndex": 2,
+  "explanation": "Kafka a interdit que l'insecte soit dessiné sur la couverture de la première édition.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-076",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qu'est-ce que le Horla, dans la nouvelle de Maupassant ?",
+  "choices": [
+   "Un loup-garou normand",
+   "Une présence invisible",
+   "Un fantôme de marin noyé",
+   "Un vampire venu d'Égypte"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le narrateur sombre peu à peu dans la folie face à cet être qu'il ne peut voir.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-077",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui a écrit la série Chair de poule (Goosebumps) ?",
+  "choices": [
+   "Stephen King",
+   "R. L. Stine",
+   "Lemony Snicket",
+   "Christopher Pike"
+  ],
+  "correctIndex": 1,
+  "explanation": "Chair de poule, lancée en 1992, s'est vendue à plus de 400 millions d'exemplaires.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-078",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Je suis une légende (1954) de Richard Matheson, qui est Robert Neville ?",
+  "choices": [
+   "Un médecin qui crée les zombies",
+   "Le premier vampire de l'histoire",
+   "Un chasseur de loups-garous",
+   "Le dernier humain dans un monde de vampires"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le roman a inspiré La Nuit des morts-vivants et trois adaptations, dont celle avec Will Smith.",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-079",
+  "category": "litterature",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Le Tour d'écrou d'Henry James, de qui la gouvernante veut-elle protéger les enfants ?",
+  "choices": [
+   "De leur oncle vampire",
+   "De deux fantômes",
+   "D'une sorcière du village",
+   "D'un loup des bois"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'ambiguïté du roman est célèbre : les fantômes existent-ils ou est-ce la folie de la gouvernante ?",
+  "physiatrie": false
+ },
+ {
+  "id": "litterature-v3-080",
+  "category": "litterature",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que demande l'Épouvantail au magicien d'Oz ?",
+  "choices": [
+   "Du courage",
+   "Des jambes solides",
+   "Un cerveau",
+   "Un cœur"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le Lion veut du courage, l'Homme de fer-blanc un cœur, l'Épouvantail un cerveau.",
+  "physiatrie": false
+ }
+]

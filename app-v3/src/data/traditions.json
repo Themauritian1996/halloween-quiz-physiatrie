@@ -1,0 +1,1450 @@
+[
+ {
+  "id": "traditions-v3-001",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel est ce démon cornu qui accompagne saint Nicolas dans les Alpes ?",
+  "choices": [
+   "Belsnickel",
+   "Le Père Fouettard",
+   "Perchta",
+   "Krampus"
+  ],
+  "correctIndex": 3,
+  "explanation": "Il punit les enfants désobéissants avec des branches de bouleau ; ses défilés ont lieu autour du 5 décembre.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0250.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-002",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle cette friandise tricolore, star des tournées américaines ?",
+  "choices": [
+   "Les Dragibus",
+   "Les jelly beans",
+   "Les Smarties",
+   "Le candy corn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Créé dans les années 1880, il imite un grain de maïs ; adoré ou détesté, il divise chaque année.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0262.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-003",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Lors de quelle fête nourrit-on ainsi les esprits errants en Asie ?",
+  "choices": [
+   "Le Diwali",
+   "Le Festival des fantômes affamés",
+   "Le Nouvel An lunaire",
+   "La fête de la Mi-Automne"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pendant le 7e mois lunaire, les portes des enfers s'ouvrent : on offre nourriture et faux billets aux âmes sans descendants.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0253.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-004",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que sont censées guider ces lanternes posées sur l'eau ?",
+  "choices": [
+   "Les dieux de la pluie",
+   "Les amoureux séparés",
+   "Les âmes des ancêtres",
+   "Les bateaux de pêche"
+  ],
+  "correctIndex": 2,
+  "explanation": "À la fin d'Obon, au Japon, les lanternes raccompagnent les esprits des défunts vers l'au-delà.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0252.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-005",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "De quoi sont faits ces crânes décorés ?",
+  "choices": [
+   "De pâte d'amande",
+   "De sucre",
+   "De papier mâché",
+   "De céramique"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les calaveras de azúcar portent souvent le prénom d'un défunt… ou d'un vivant, par humour.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0254.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-006",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle cette friandise de fête foraine ?",
+  "choices": [
+   "La tarte tatin",
+   "Le beignet aux pommes",
+   "La pomme d'amour",
+   "La pomme au four"
+  ],
+  "correctIndex": 2,
+  "explanation": "Une pomme entière piquée sur un bâton, enrobée d'un sucre cuit coloré en rouge vif.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0263.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-007",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle fleur orange guide les défunts jusqu'à l'autel familial au Mexique ?",
+  "choices": [
+   "Le chrysanthème",
+   "Le souci (cempasúchil)",
+   "Le dahlia",
+   "Le tournesol"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sa couleur vive et son parfum fort traceraient le chemin des âmes. En France, le chrysanthème est la fleur de la Toussaint.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0256.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-008",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel personnage incarne ce cosplay ?",
+  "choices": [
+   "Coraline Jones",
+   "Morticia Addams",
+   "Lydia Deetz",
+   "Mercredi Addams"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tresses, robe noire à col blanc : un des costumes les plus populaires depuis la série de 2022.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0318.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-009",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle attraction d'automne voit-on ?",
+  "choices": [
+   "Un verger de pommiers",
+   "Une ferme de sapins",
+   "Un champ de citrouilles",
+   "Un labyrinthe de maïs"
+  ],
+  "correctIndex": 3,
+  "explanation": "Taillé chaque année dans un champ, souvent selon un dessin visible seulement du ciel.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0265.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-010",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel graveur mexicain a créé cette Catrina vers 1910 ?",
+  "choices": [
+   "José Guadalupe Posada",
+   "Frida Kahlo",
+   "Francisco Goya",
+   "Diego Rivera"
+  ],
+  "correctIndex": 0,
+  "explanation": "À l'origine, une satire des Mexicains qui imitaient la mode européenne ; Diego Rivera l'a popularisée dans une fresque.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0255.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "traditions-v3-011",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel clown maléfique ce cosplay représente-t-il ?",
+  "choices": [
+   "Art le Clown",
+   "Le Joker",
+   "Pennywise",
+   "Krusty le clown"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ballon rouge, collerette et sourire peint : le clown de Ça est devenu un classique depuis 2017.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0319.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-012",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que signifie le plus souvent une maison décorée ainsi le soir d'Halloween ?",
+  "choices": [
+   "Qu'elle est à vendre",
+   "Qu'une fête privée a lieu",
+   "Qu'on y distribue des bonbons",
+   "Qu'on ne veut pas être dérangé"
+  ],
+  "correctIndex": 2,
+  "explanation": "Règle tacite : lumière allumée et décor = bienvenue ; lumière éteinte = on passe son chemin.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0266.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "traditions-v3-013",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel jeu traditionnel d'Halloween voit-on ?",
+  "choices": [
+   "La pêche aux canards en bois",
+   "La course en sac de jute",
+   "Le colin-maillard",
+   "Attraper une pomme avec les dents"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le bobbing for apples viendrait d'anciens jeux de divination amoureuse pratiqués à Samhain.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0259.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-014",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment appelle-t-on cette activité du soir du 31 octobre ?",
+  "choices": [
+   "Le chant de porte-à-porte de Noël",
+   "La guignolée",
+   "La tournée de bonbons",
+   "La chasse aux œufs"
+  ],
+  "correctIndex": 2,
+  "explanation": "Au Québec, la guignolée est une collecte de dons du temps des Fêtes.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0260.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "traditions-v3-015",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans quel pays les tombes s'illuminent-elles ainsi de milliers de lanternes à la Toussaint ?",
+  "choices": [
+   "En Irlande",
+   "Au Japon",
+   "En Pologne",
+   "Au Mexique"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le 1er novembre (Wszystkich Świętych), les cimetières polonais brillent de bougies dans des lanternes de verre.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0268.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-016",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quel pays est née la tradition de ces lanternes creusées dans un légume ?",
+  "choices": [
+   "En France",
+   "En Allemagne",
+   "En Irlande",
+   "Aux États-Unis"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les navets creusés éloignaient les esprits ; les immigrants ont adopté la citrouille en Amérique.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0267.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-017",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel concours d'automne montre cette photo ?",
+  "choices": [
+   "Une course de citrouilles-bateaux",
+   "Une pesée de citrouilles géantes",
+   "Un lancer de citrouilles",
+   "Un concours de sculpture de citrouilles"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les géantes de la variété Atlantic Giant dépassent désormais la tonne lors des « weigh-offs ».",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0261.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-018",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel instrument entend-on ?",
+  "choices": [
+   "L'accordéon",
+   "Le violon",
+   "L'harmonica",
+   "La cornemuse écossaise"
+  ],
+  "correctIndex": 3,
+  "explanation": "La grande cornemuse des Highlands, ici sur l'air de Scotland the Brave.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0270.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "traditions-v3-019",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quelle danse traditionnelle irlandaise entend-on ?",
+  "choices": [
+   "La valse",
+   "Le tango",
+   "La gigue",
+   "La polka"
+  ],
+  "correctIndex": 2,
+  "explanation": "Une danse vive menée au violon, au cœur des veillées celtiques… et des fêtes de Samhain.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0271.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-020",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qui est cet homme dont on brûle l'effigie chaque 5 novembre au Royaume-Uni ?",
+  "choices": [
+   "Henri VIII",
+   "Oliver Cromwell",
+   "Robin des bois",
+   "Guy Fawkes"
+  ],
+  "correctIndex": 3,
+  "explanation": "Il a été arrêté en 1605 sous le Parlement, à côté de barils de poudre : c'est la Conspiration des poudres.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0251.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-021",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle ce pain sucré du Día de los Muertos ?",
+  "choices": [
+   "La rosca de reyes",
+   "La challah",
+   "Le panettone",
+   "Le pan de muerto"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ses décorations en forme d'os représentent les défunts ; la rosca se mange à l'Épiphanie.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0269.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "traditions-v3-022",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "De quel pays vient cette musique, qui anime aussi le Día de los Muertos ?",
+  "choices": [
+   "Du Mexique",
+   "De l'Argentine",
+   "De l'Espagne",
+   "De Cuba"
+  ],
+  "correctIndex": 0,
+  "explanation": "Trompettes, violons, vihuela et guitarrón : le mariachi est inscrit au patrimoine de l'UNESCO.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0272.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-023",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "video",
+  "question": "Quelle étape de la préparation d'une citrouille-lanterne montre cette vidéo ?",
+  "choices": [
+   "Le découpage du visage",
+   "Le choix au champ",
+   "La peinture à l'acrylique",
+   "La cuisson des graines"
+  ],
+  "correctIndex": 0,
+  "explanation": "On dessine, on découpe, puis on y place une bougie ou, plus sûr, une lumière DEL.",
+  "physiatrie": false,
+  "media": {
+   "kind": "video",
+   "src": "/media/med-0274.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "traditions-v3-024",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment ces décorations gonflables restent-elles debout ?",
+  "choices": [
+   "Grâce à une armature",
+   "Grâce à un ventilateur",
+   "Grâce à de l'hélium",
+   "Grâce à de l'eau lestée"
+  ],
+  "correctIndex": 1,
+  "explanation": "Débranchées, elles s'effondrent : une scène que les réseaux sociaux adorent filmer.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0320.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "traditions-v3-025",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Autour d'Halloween, quelle blessure envoie le plus souvent des adultes aux urgences ?",
+  "choices": [
+   "Une coupure de la main en sculptant une citrouille",
+   "Une morsure de chien pendant la tournée",
+   "Une brûlure par une bougie",
+   "Une chute d'une échelle de décoration"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les plaies de la main, parfois avec atteinte des tendons fléchisseurs, sont un classique de la saison… et de la clinique de la main.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-026",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel outil limite le risque de blessure quand on sculpte une citrouille ?",
+  "choices": [
+   "Un exacto à lame longue",
+   "Une petite scie dentelée conçue pour citrouille",
+   "Un grand couteau de chef bien aiguisé",
+   "Un couteau à steak"
+  ],
+  "correctIndex": 1,
+  "explanation": "La scie avance par petits mouvements et risque moins de glisser qu'une lame lisse coincée dans la chair.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-027",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fabrique l'organisme américain Magic Wheelchair ?",
+  "choices": [
+   "Des fauteuils roulants hantés pour les maisons hantées",
+   "Des costumes de momie avec bandages médicaux",
+   "Des costumes d'Halloween qui intègrent le fauteuil roulant",
+   "Des citrouilles adaptées aux personnes aveugles"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le fauteuil devient un vaisseau spatial, un carrosse ou un dragon : l'aide technique se transforme en vedette du costume.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-028",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que demande la campagne « Treat Accessibly », lancée au Royaume-Uni ?",
+  "choices": [
+   "Servir les bonbons au bas des marches",
+   "Fournir des costumes gratuits",
+   "Offrir des bonbons sans sucre",
+   "Éteindre les lumières stroboscopiques"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les maisons accessibles affichent une affiche et servent au bout de l'allée pour que tout le monde puisse participer.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-029",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a inventé en 1912 le crochet de prothèse à deux branches, ancêtre de l'accessoire des costumes de pirate ?",
+  "choices": [
+   "Thomas Edison",
+   "David Dorrance",
+   "Ambroise Paré",
+   "Le capitaine Kidd"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le « split hook » à élastique, actionné par un harnais d'épaule, est encore fabriqué aujourd'hui.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-030",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de vertèbres cervicales a un squelette humain… comme celui d'une girafe ?",
+  "choices": [
+   "5",
+   "12",
+   "7",
+   "9"
+  ],
+  "correctIndex": 2,
+  "explanation": "Presque tous les mammifères en ont sept, même la girafe : chez elle, chaque vertèbre est simplement très longue.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-031",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment appelle-t-on une fracture où l'os perce la peau, un maquillage d'Halloween très populaire ?",
+  "choices": [
+   "Une fracture de stress",
+   "Une fracture comminutive",
+   "Une fracture ouverte",
+   "Une fracture en bois vert"
+  ],
+  "correctIndex": 2,
+  "explanation": "La vraie est une urgence chirurgicale à cause du risque d'infection ; la fausse, une affaire de latex et de faux sang.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-032",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Frida Kahlo, costume populaire du Día de los Muertos, a porté de nombreux corsets orthopédiques. Pourquoi ?",
+  "choices": [
+   "À cause d'un grave accident d'autobus",
+   "À cause d'une chute de cheval",
+   "À cause d'une blessure de guerre",
+   "À cause d'une scoliose de naissance"
+  ],
+  "correctIndex": 0,
+  "explanation": "À 18 ans, une barre de métal l'a transpercée : colonne et bassin fracturés. Elle avait aussi eu la polio enfant, d'où une jambe droite plus mince.",
+  "physiatrie": true
+ },
+ {
+  "id": "traditions-v3-033",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que crient les enfants québécois en sonnant aux portes le 31 octobre ?",
+  "choices": [
+   "« Halloween ! »",
+   "« Des bonbons ou un sort ! »",
+   "« La charité, s'il vous plaît ! »",
+   "« Trick or treat ! »"
+  ],
+  "correctIndex": 0,
+  "explanation": "Une particularité québécoise : on crie simplement le nom de la fête.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-034",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que signifie l'expression anglaise « trick or treat » ?",
+  "choices": [
+   "« Une farce ou une friandise »",
+   "« Un tour de magie ou un cadeau »",
+   "« Un costume ou un bonbon »",
+   "« Un fantôme ou une sorcière »"
+  ],
+  "correctIndex": 0,
+  "explanation": "En français de France, on dit souvent « des bonbons ou un sort ».",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-035",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que contient le mélange d'épices « pumpkin spice » ?",
+  "choices": [
+   "De la citrouille séchée",
+   "Du sucre de citrouille",
+   "Des graines de citrouille",
+   "Des épices, sans citrouille"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ce sont les épices de la tarte à la citrouille, pas la citrouille elle-même.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-036",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle chaîne de cafés a lancé le Pumpkin Spice Latte en 2003 ?",
+  "choices": [
+   "Tim Hortons",
+   "Dunkin'",
+   "Starbucks",
+   "McCafé"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il est devenu le symbole de l'automne, au point qu'on parle de « saison PSL ».",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-037",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans le barmbrack irlandais d'Halloween, que prédit le fait de trouver l'anneau caché dans sa tranche ?",
+  "choices": [
+   "Un mariage dans l'année",
+   "Une année de richesse",
+   "Un voyage lointain",
+   "Une naissance"
+  ],
+  "correctIndex": 0,
+  "explanation": "On y cachait aussi un pois (pas de mariage), un bâton (dispute) ou une pièce (fortune).",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-038",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qu'est-ce que le colcannon, servi en Irlande à Halloween ?",
+  "choices": [
+   "Un gâteau aux fruits secs",
+   "Une purée au chou",
+   "Un pain d'épices",
+   "Une soupe de navets"
+  ],
+  "correctIndex": 1,
+  "explanation": "On y cachait aussi de petits objets porte-bonheur, comme dans le barmbrack.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-039",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel parc d'attractions organise les célèbres « Halloween Horror Nights » ?",
+  "choices": [
+   "Disneyland",
+   "Six Flags",
+   "Europa-Park",
+   "Universal Studios"
+  ],
+  "correctIndex": 3,
+  "explanation": "Depuis 1991 en Floride, avec des maisons hantées tirées des films d'horreur.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-040",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Au Mexique, à qui est surtout consacré le 1er novembre ?",
+  "choices": [
+   "Aux ancêtres aztèques",
+   "Aux enfants défunts (los angelitos)",
+   "Aux soldats morts au combat",
+   "Aux saints du calendrier"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le 1er novembre accueille les âmes des enfants ; le 2, celles des adultes.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-041",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Espagne, quelle friandise de massepain mange-t-on à la Toussaint ?",
+  "choices": [
+   "Les huesos de santo",
+   "Les churros de muertos",
+   "Les turrones de calavera",
+   "Les buñuelos de bruja"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ces rouleaux blancs fourrés de jaune d'œuf sucré imitent des os.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-042",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En France, quelle fleur dépose-t-on traditionnellement sur les tombes à la Toussaint ?",
+  "choices": [
+   "L'œillet",
+   "La rose blanche",
+   "Le chrysanthème",
+   "Le lys"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il fleurit naturellement à l'automne et résiste au froid ; offrir des chrysanthèmes en cadeau est donc mal vu.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-043",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En quelle saison a lieu la fête chinoise de Qingming, où l'on nettoie les tombes des ancêtres ?",
+  "choices": [
+   "En hiver",
+   "En automne",
+   "En été",
+   "Au printemps"
+  ],
+  "correctIndex": 3,
+  "explanation": "Début avril : on balaie les tombes, on brûle de l'encens et de faux billets.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-044",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Au Guatemala, que fait-on voler au-dessus des cimetières à la Toussaint ?",
+  "choices": [
+   "Des montgolfières",
+   "Des cerfs-volants géants",
+   "Des colombes blanches",
+   "Des lanternes célestes"
+  ],
+  "correctIndex": 1,
+  "explanation": "À Santiago Sacatepéquez et Sumpango, les barriletes peuvent dépasser 15 mètres de diamètre.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-045",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En Haïti, quel esprit en haut-de-forme est honoré lors de la Fête Gede, début novembre ?",
+  "choices": [
+   "Erzulie",
+   "Damballah",
+   "Papa Legba",
+   "Baron Samedi"
+  ],
+  "correctIndex": 3,
+  "explanation": "Maître des cimetières dans le vaudou, avec lunettes noires et cigare.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-046",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À quelle date a lieu la Krampusnacht, la « nuit de Krampus » ?",
+  "choices": [
+   "Le 31 octobre",
+   "Le 5 décembre",
+   "Le 6 janvier",
+   "Le 24 décembre"
+  ],
+  "correctIndex": 1,
+  "explanation": "La veille de la Saint-Nicolas : le saint récompense, Krampus punit.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-047",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle date célèbre la Bonfire Night (nuit des feux de joie) au Royaume-Uni ?",
+  "choices": [
+   "Le 5 novembre",
+   "Le 1er mai",
+   "Le 21 décembre",
+   "Le 31 octobre"
+  ],
+  "correctIndex": 0,
+  "explanation": "« Remember, remember the fifth of November » : feux d'artifice et effigies de Guy Fawkes.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-048",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment surnommait-on à Détroit la nuit du 30 octobre, marquée par des incendies volontaires dans les années 1980 ?",
+  "choices": [
+   "Devil's Night",
+   "Fire Night",
+   "Black Night",
+   "Hell Night"
+  ],
+  "correctIndex": 0,
+  "explanation": "La ville l'a transformée en « Angels' Night », avec des milliers de bénévoles qui patrouillent.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-049",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que signale une citrouille peinte en bleu sarcelle devant une maison ?",
+  "choices": [
+   "Qu'on n'y distribue pas de bonbons",
+   "Qu'on y offre des friandises sans allergènes",
+   "Qu'on y fait une fête pour adultes",
+   "Qu'un enfant autiste y habite"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le Teal Pumpkin Project propose des jouets et autocollants pour les enfants allergiques.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-050",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En quoi consiste la tradition américaine du « You've been Booed » ?",
+  "choices": [
+   "Décorer la voiture d'un ami",
+   "Déposer en secret un panier de friandises chez un voisin",
+   "Lancer des œufs sur les maisons sans décor",
+   "Crier « Bouh ! » aux passants"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le voisin « booé » affiche un fantôme sur sa porte et doit à son tour « booer » deux autres maisons.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-051",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelles sont les deux couleurs traditionnelles d'Halloween ?",
+  "choices": [
+   "Jaune et bleu",
+   "Rouge et blanc",
+   "Violet et vert",
+   "Orange et noir"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'orange des récoltes et de la citrouille, le noir de la nuit et de la mort.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-052",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle l'événement d'Halloween de La Ronde, à Montréal ?",
+  "choices": [
+   "Frayeurs",
+   "La Nuit des morts-vivants",
+   "Boo-ville",
+   "Halloween Horror Nights"
+  ],
+  "correctIndex": 0,
+  "explanation": "La version québécoise du Fright Fest de Six Flags, propriétaire du parc.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-053",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel événement d'automne du Jardin botanique de Montréal expose lanternes et citrouilles décorées ?",
+  "choices": [
+   "Les Mosaïcultures",
+   "Igloofest",
+   "La Fête des neiges",
+   "Les Jardins de lumière"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le jardin de Chine, le jardin japonais et le jardin des Premières Nations s'y illuminent chaque automne.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-054",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À quelle fête américaine sert-on surtout la tarte à la citrouille ?",
+  "choices": [
+   "Au 4 juillet",
+   "À l'Action de grâce",
+   "À Noël",
+   "À Pâques"
+  ],
+  "correctIndex": 1,
+  "explanation": "Aux États-Unis, fin novembre ; au Canada, l'Action de grâce a lieu le deuxième lundi d'octobre.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-055",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quand le Canada célèbre-t-il l'Action de grâce ?",
+  "choices": [
+   "Le premier lundi de septembre",
+   "Le quatrième jeudi de novembre",
+   "Le deuxième lundi d'octobre",
+   "Le dernier lundi d'octobre"
+  ],
+  "correctIndex": 2,
+  "explanation": "Plus tôt qu'aux États-Unis, parce que les récoltes se terminent plus tôt au nord.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-056",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle fête du 11 novembre voit les enfants allemands défiler avec des lanternes ?",
+  "choices": [
+   "La nuit de Walpurgis",
+   "La Saint-Martin",
+   "La Saint-Nicolas",
+   "La Toussaint"
+  ],
+  "correctIndex": 1,
+  "explanation": "On chante en mémoire de saint Martin, qui partagea son manteau avec un mendiant.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-057",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle nuit est appelée « la nuit des sorcières » en Europe centrale et du Nord ?",
+  "choices": [
+   "La nuit de la Chandeleur",
+   "La nuit de Walpurgis",
+   "La nuit du solstice d'hiver",
+   "La nuit de la Saint-Jean"
+  ],
+  "correctIndex": 1,
+  "explanation": "On allume de grands feux pour chasser les sorcières qui se rassemblent ce soir-là.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-058",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Sur quelle montagne les sorcières se réuniraient-elles pour la nuit de Walpurgis ?",
+  "choices": [
+   "Le Vésuve",
+   "Le Mont-Blanc",
+   "Le mont Ararat",
+   "Le Brocken"
+  ],
+  "correctIndex": 3,
+  "explanation": "Goethe y place la scène du sabbat dans Faust.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-059",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quand la Befana, sorcière italienne, apporte-t-elle des cadeaux aux enfants ?",
+  "choices": [
+   "Le 25 décembre",
+   "Le 2 novembre",
+   "Le 6 janvier",
+   "Le 31 octobre"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle arrive sur son balai la nuit de l'Épiphanie ; les enfants sages ont des bonbons, les autres du charbon.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-060",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment appelle-t-on les mini-barres chocolatées distribuées à Halloween ?",
+  "choices": [
+   "Le format « party pack »",
+   "Le format « snack box »",
+   "Le format « king size »",
+   "Le format « fun size »"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lancé dans les années 1960, il a rendu la tournée de bonbons beaucoup plus abordable.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-061",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "À quelle famille de plantes appartient la citrouille ?",
+  "choices": [
+   "Les solanacées",
+   "Les rosacées",
+   "Les brassicacées",
+   "Les cucurbitacées"
+  ],
+  "correctIndex": 3,
+  "explanation": "Avec les courgettes, concombres et melons ; la tomate est une solanacée.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-062",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle variété de citrouille produit les géantes des concours ?",
+  "choices": [
+   "L'Atlantic Giant",
+   "La Rouge vif d'Étampes",
+   "La Jack-o'-lantern",
+   "La Butternut"
+  ],
+  "correctIndex": 0,
+  "explanation": "Développée par le Néo-Écossais Howard Dill dans les années 1970-1980.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-063",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À quelle époque Halloween a-t-il connu un boom commercial en France ?",
+  "choices": [
+   "Dans les années 2010",
+   "Dans les années 1970",
+   "Dans les années 1950",
+   "À la fin des années 1990"
+  ],
+  "correctIndex": 3,
+  "explanation": "Poussé par le marketing vers 1997-2000, l'engouement a ensuite beaucoup reculé.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-064",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait-on traditionnellement avec les graines de la citrouille creusée ?",
+  "choices": [
+   "On les plante immédiatement",
+   "On les rôtit au four pour les grignoter",
+   "On les jette au feu de Samhain",
+   "On les offre aux esprits"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rincées, salées et grillées : une collation riche en magnésium.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-065",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quelle ville du Massachusetts le mois d'octobre attire-t-il des centaines de milliers de visiteurs pour Halloween ?",
+  "choices": [
+   "Cape Cod",
+   "Salem",
+   "Plymouth",
+   "Boston"
+  ],
+  "correctIndex": 1,
+  "explanation": "La « Witch City » organise un mois complet de festivités, les Haunted Happenings.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-066",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel est le costume d'Halloween le plus classique, avec un simple drap blanc ?",
+  "choices": [
+   "Le fantôme",
+   "La momie",
+   "Le squelette",
+   "Le zombie"
+  ],
+  "correctIndex": 0,
+  "explanation": "Deux trous pour les yeux et le tour est joué ; Charlie Brown en a fait un costume troué célèbre.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-067",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Que devait faire la jeune fille qui pelait une pomme d'un seul ruban, le soir d'Halloween ?",
+  "choices": [
+   "Le jeter par-dessus son épaule",
+   "Le manger d'une seule bouchée",
+   "Le brûler pour chasser les esprits",
+   "Le pendre à sa fenêtre"
+  ],
+  "correctIndex": 0,
+  "explanation": "Un vieux jeu de divination amoureuse des îles britanniques, comme le miroir à minuit.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-068",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans les traditions irlandaises, quelle superstition concerne les mûres après Halloween ?",
+  "choices": [
+   "Il ne faut plus les cueillir : le púca les a gâtées",
+   "Elles éloignent les vampires",
+   "On les offre aux fées",
+   "Elles portent chance si on les mange la nuit"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le púca, esprit farceur, aurait craché (ou pire) sur les mûres le soir de Samhain.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-069",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que met-on traditionnellement sur l'ofrenda pour un défunt qui aimait fumer ou boire ?",
+  "choices": [
+   "Ses cigarettes ou sa boisson préférée",
+   "Des fleurs blanches seulement",
+   "Rien de tel : c'est interdit",
+   "Seulement de l'eau bénite"
+  ],
+  "correctIndex": 0,
+  "explanation": "L'autel offre aux défunts ce qu'ils aimaient de leur vivant, pour les accueillir chez eux.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-070",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi place-t-on un verre d'eau sur l'ofrenda du Día de los Muertos ?",
+  "choices": [
+   "Pour désaltérer les âmes après leur long voyage",
+   "Pour refléter l'âme du défunt",
+   "Pour éteindre les bougies en cas de feu",
+   "Pour bénir la maison"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le sel, lui, sert à purifier ; le copal (encens) guide les esprits.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-071",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Où se tient l'un des plus grands défilés de zombies du monde, la Zombie Walk de Mexico ?",
+  "choices": [
+   "En Espagne",
+   "Aux États-Unis",
+   "Au Mexique",
+   "Au Brésil"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mexico a réuni près de 10 000 « zombies » certaines années.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-072",
+  "category": "traditions",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle la fête bolivienne du 8 novembre où l'on offre fleurs et cigarettes à des crânes ?",
+  "choices": [
+   "L'Inti Raymi",
+   "La Diablada",
+   "La fête des Ñatitas",
+   "Les Alasitas"
+  ],
+  "correctIndex": 2,
+  "explanation": "À La Paz, des crânes coiffés de bonnets sont portés au cimetière ; on leur prête des pouvoirs protecteurs.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-073",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel est l'objectif des « maisons hantées » commerciales qui ouvrent chaque automne ?",
+  "choices": [
+   "Vendre des maisons anciennes",
+   "Exposer de vrais fantômes",
+   "Collecter des dons pour les cimetières",
+   "Faire peur à des visiteurs payants avec des acteurs"
+  ],
+  "correctIndex": 3,
+  "explanation": "Certaines proposent même de signer une décharge et un mot d'arrêt (« safe word »).",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-074",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce que le « Punkin Chunkin » ?",
+  "choices": [
+   "Une course de citrouilles",
+   "Une sculpture géante",
+   "Un concours de tartes",
+   "Un lancer de citrouilles"
+  ],
+  "correctIndex": 3,
+  "explanation": "Les meilleurs canons à air propulsent une citrouille à plus d'un kilomètre.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-075",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait-on des citrouilles géantes évidées dans certaines fêtes de Nouvelle-Angleterre et des Maritimes ?",
+  "choices": [
+   "On les remplit de soupe",
+   "On en fait des cabanes",
+   "On en fait des bateaux",
+   "On les lance d'une tour"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les régates de citrouilles géantes existent notamment à Damariscotta (Maine) et à Windsor (Nouvelle-Écosse).",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-076",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle légende entoure les miroirs à minuit le soir d'Halloween ?",
+  "choices": [
+   "On y verrait sa propre mort",
+   "On y deviendrait invisible",
+   "On y verrait son futur conjoint",
+   "On y verrait un ancêtre"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il fallait se brosser les cheveux ou manger une pomme devant le miroir, à la lueur d'une bougie.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-077",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel animal de compagnie certains refuges refusent-ils de faire adopter autour d'Halloween ?",
+  "choices": [
+   "Le chien noir",
+   "Le chat noir",
+   "La chauve-souris",
+   "Le corbeau"
+  ],
+  "correctIndex": 1,
+  "explanation": "Par crainte de mauvais traitements ou d'adoptions « pour un costume » ; d'autres refuges ont abandonné cette règle.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-078",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que distribue-t-on traditionnellement à la Toussaint en Sicile aux enfants, de la part des défunts ?",
+  "choices": [
+   "Des crânes en chocolat seulement",
+   "Du charbon",
+   "Des cadeaux et des fruits en massepain",
+   "Des cierges"
+  ],
+  "correctIndex": 2,
+  "explanation": "La nuit du 1er au 2 novembre, les morts « rapportent » des cadeaux aux enfants sages.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-079",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que représente un épouvantail dans les décors d'automne ?",
+  "choices": [
+   "Un ancêtre veillant sur la ferme",
+   "Un gardien des champs contre les oiseaux",
+   "Un soldat de la guerre de Sécession",
+   "Un sorcier transformé en paille"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il est devenu un personnage d'horreur dans de nombreux films et dans Le Magicien d'Oz.",
+  "physiatrie": false
+ },
+ {
+  "id": "traditions-v3-080",
+  "category": "traditions",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel déguisement de groupe 25-35 ans a explosé en 2023 grâce à deux films sortis le même jour ?",
+  "choices": [
+   "Barbie et Oppenheimer",
+   "Ken et Barbie de Toy Story",
+   "Mario et Luigi",
+   "Mercredi et Enid"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les deux films sont sortis le 21 juillet 2023 ; le mème a inspiré d'innombrables costumes en duo.",
+  "physiatrie": false
+ }
+]

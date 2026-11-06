@@ -1,0 +1,1450 @@
+[
+ {
+  "id": "histoire-v3-001",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans quelle ville du Massachusetts se trouve ce musée consacré à la sorcellerie ?",
+  "choices": [
+   "Plymouth",
+   "Boston",
+   "Sleepy Hollow",
+   "Salem"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le Salem Witch Museum retrace les procès de 1692-1693. Sleepy Hollow est dans l'État de New York.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0302.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-002",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle scène représente cette gravure de 1876 ?",
+  "choices": [
+   "Un sermon du dimanche",
+   "Un mariage puritain",
+   "Un procès pour sorcellerie",
+   "Une vente aux esclaves"
+  ],
+  "correctIndex": 2,
+  "explanation": "La gravure illustre une accusée de Salem devant ses juges, alors que l'accusatrice s'effondre au sol.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0001.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-003",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quel légume a été creusée cette lanterne traditionnelle ?",
+  "choices": [
+   "Une pomme de terre",
+   "Une courge musquée",
+   "Un chou-rave",
+   "Un navet"
+  ],
+  "correctIndex": 3,
+  "explanation": "Avant la citrouille américaine, Irlandais, Écossais et Mannois creusaient des navets ou des betteraves.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0004.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC0"
+  }
+ },
+ {
+  "id": "histoire-v3-004",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Que signalaient autrefois ces coups de cloche lents et graves ?",
+  "choices": [
+   "La fin de la messe",
+   "Un incendie",
+   "Un décès",
+   "Un mariage"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est le glas. Autour de la Toussaint, on sonnait aussi les cloches pour les défunts.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0020.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-005",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans quel pays se trouve cet ossuaire décoré de dizaines de milliers d'ossements ?",
+  "choices": [
+   "En Italie",
+   "Au Portugal",
+   "En Pologne",
+   "En Tchéquie"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'ossuaire de Sedlec, près de Kutná Hora, contiendrait de 40 000 à 70 000 squelettes ; son lustre utilise presque tous les os du corps.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0005.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "histoire-v3-006",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Sous quelle capitale s'étendent ces galeries tapissées d'ossements ?",
+  "choices": [
+   "Vienne",
+   "Rome",
+   "Lisbonne",
+   "Paris"
+  ],
+  "correctIndex": 3,
+  "explanation": "Les Catacombes de Paris, d'anciennes carrières, abritent les restes d'environ six millions de Parisiens transférés à partir de 1785.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0006.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-007",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel compositeur est mort avant d'avoir terminé cette œuvre funèbre ?",
+  "choices": [
+   "Fauré",
+   "Berlioz",
+   "Verdi",
+   "Mozart"
+  ],
+  "correctIndex": 3,
+  "explanation": "C'est le Lacrimosa du Requiem de Mozart, mort en 1791 ; l'œuvre a été complétée par son élève Süssmayr.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0022.mp3",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-008",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Pour quelle fête dresse-t-on ce type d'autel garni de photos, de bougies et de fleurs ?",
+  "choices": [
+   "La Pâque orthodoxe",
+   "Le Día de los Muertos",
+   "Le Diwali",
+   "Hanoukka"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'ofrenda accueille les défunts, qui reviennent visiter les vivants les 1er et 2 novembre au Mexique.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0007.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 3.0"
+  }
+ },
+ {
+  "id": "histoire-v3-009",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "video",
+  "question": "Dans quel pays assiste-t-on à cette cérémonie de lanternes posées sur l'eau ?",
+  "choices": [
+   "En Thaïlande",
+   "En Chine",
+   "Au Viêt Nam",
+   "Au Japon"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le tōrō nagashi clôt la fête d'Obon. Piège : la Thaïlande a aussi une fête des lanternes flottantes, le Loy Krathong.",
+  "physiatrie": false,
+  "media": {
+   "kind": "video",
+   "src": "/media/med-0023.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "histoire-v3-010",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Ce grand défilé de Mexico, lancé en 2016, a été inspiré par quel film ?",
+  "choices": [
+   "Mission impossible",
+   "La Légende de Manolo",
+   "Coco (Pixar)",
+   "Spectre (James Bond)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le défilé imaginé pour l'ouverture de Spectre n'existait pas : la ville l'a ensuite créé pour de vrai.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0303.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-011",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "video",
+  "question": "Dans quel pays a été filmée cette fête de rue ?",
+  "choices": [
+   "En Espagne",
+   "Au Mexique",
+   "En Colombie",
+   "Au Brésil"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ce sont des festivités du Día de los Muertos à Aguascalientes, la ville natale du graveur José Guadalupe Posada.",
+  "physiatrie": false,
+  "media": {
+   "kind": "video",
+   "src": "/media/med-0024.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-012",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel record mondial cette ville du New Hampshire a-t-elle détenu ?",
+  "choices": [
+   "Le plus long défilé d'Halloween",
+   "Le plus de citrouilles allumées à la fois",
+   "La plus grosse citrouille pesée",
+   "Le plus de zombies déguisés"
+  ],
+  "correctIndex": 1,
+  "explanation": "Keene a battu le record en 2013 avec plus de 30 000 jack-o'-lanterns allumées en même temps.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0304.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-013",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "video",
+  "question": "Comment s'appelle ce personnage au crâne maquillé et fleuri ?",
+  "choices": [
+   "La Santa Muerte",
+   "La Malinche",
+   "La Llorona",
+   "La Catrina"
+  ],
+  "correctIndex": 3,
+  "explanation": "La Catrina, dame squelette élégante, est née d'une gravure satirique de Posada vers 1910.",
+  "physiatrie": false,
+  "media": {
+   "kind": "video",
+   "src": "/media/med-0025.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-014",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "À quel personnage de roman associe-t-on ce château ?",
+  "choices": [
+   "Dracula",
+   "Le Fantôme de l'Opéra",
+   "Frankenstein",
+   "Barbe bleue"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le château de Bran, en Roumanie, est vendu comme le « château de Dracula », même si Bram Stoker ne l'a jamais visité.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0026.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-015",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quelle fête celtique du feu, à l'opposé de Samhain dans le calendrier, voit-on ici ?",
+  "choices": [
+   "Lughnasadh",
+   "Beltane",
+   "Yule",
+   "Imbolc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Beltane, le 1er mai, ouvre la saison claire ; Samhain, le 1er novembre, ouvre la saison sombre. Ici, le festival de Calton Hill à Édimbourg.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0014.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-016",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "À quoi servait ce papyrus déposé dans les tombes égyptiennes ?",
+  "choices": [
+   "À établir l'héritage du défunt",
+   "À décrire les étapes de la momification",
+   "À guider le défunt dans l'au-delà",
+   "À maudire les pilleurs"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est le Livre des morts : des formules pour franchir les épreuves, dont la pesée du cœur contre la plume de Maât.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0027.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-017",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Que commémore ce mémorial aux bancs de granit ?",
+  "choices": [
+   "Les victimes des procès de sorcières de Salem",
+   "Les Pères pèlerins du Mayflower",
+   "Les naufragés d'un baleinier",
+   "Les soldats de la guerre d'Indépendance"
+  ],
+  "correctIndex": 0,
+  "explanation": "Inauguré en 1992, il compte un banc par personne exécutée, gravé de son nom et de la date de sa mort.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0306.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "histoire-v3-018",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quelle ville se déroule ce grand défilé nocturne d'Halloween ?",
+  "choices": [
+   "Salem",
+   "New York",
+   "La Nouvelle-Orléans",
+   "Toronto"
+  ],
+  "correctIndex": 1,
+  "explanation": "La Village Halloween Parade, née en 1974 à Greenwich Village, rassemble chaque année des dizaines de milliers de participants.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0307.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "histoire-v3-019",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment appelle-t-on ce genre de nature morte où trône un crâne ?",
+  "choices": [
+   "Un ex-voto",
+   "Une pietà",
+   "Un retable",
+   "Une vanité"
+  ],
+  "correctIndex": 3,
+  "explanation": "Les vanités rappellent que tout passe : crâne, sablier, bougie éteinte et fleurs fanées.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0011.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-020",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans quel pays les cimetières se transforment-ils ainsi en lieux de fête familiale à la Toussaint ?",
+  "choices": [
+   "Aux Philippines",
+   "Au Mexique",
+   "En Pologne",
+   "En Indonésie"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pendant l'Undas, les familles philippines passent la nuit au cimetière, avec repas, musique et bougies.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0308.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-021",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans quel pays pratique-t-on ce « retournement des morts », où l'on danse avec les défunts ?",
+  "choices": [
+   "À Madagascar",
+   "En Indonésie",
+   "Au Ghana",
+   "Au Pérou"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lors du Famadihana, on change les linceuls des ancêtres. En Indonésie, les Toraja ont un rituel voisin, le Ma'nene.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0017.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "histoire-v3-022",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qui sont les personnages de cette gravure du début du XVIe siècle ?",
+  "choices": [
+   "Des sages-femmes au travail",
+   "Des sorcières préparant un sabbat",
+   "Des religieuses en prière",
+   "Des alchimistes"
+  ],
+  "correctIndex": 1,
+  "explanation": "La gravure de Hans Baldung Grien (1510) a fixé l'image de la sorcière : chaudron, fumées et chevauchée sur une chèvre.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0015.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "histoire-v3-023",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel est ce personnage de la mort du folklore breton ?",
+  "choices": [
+   "Le Croque-mort",
+   "Le Korrigan",
+   "L'Ankou",
+   "La Dame blanche"
+  ],
+  "correctIndex": 2,
+  "explanation": "L'Ankou collecte les âmes avec sa charrette grinçante ; c'est le dernier mort de l'année qui devient l'Ankou de la paroisse.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0028.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 4.0"
+  }
+ },
+ {
+  "id": "histoire-v3-024",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment ces corps du musée de Guanajuato, au Mexique, se sont-ils conservés ?",
+  "choices": [
+   "Grâce au froid des montagnes",
+   "Dans du goudron naturel",
+   "Par embaumement à l'égyptienne",
+   "Par momification naturelle"
+  ],
+  "correctIndex": 3,
+  "explanation": "Exhumés quand leurs familles ne payaient plus la taxe d'inhumation, ces corps s'étaient desséchés tout seuls.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0305.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 2.0"
+  }
+ },
+ {
+  "id": "histoire-v3-025",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Ambroise Paré, chirurgien des champs de bataille du XVIe siècle, est réputé pour avoir…",
+  "choices": [
+   "Conçu des prothèses articulées",
+   "Mis au point le premier vaccin",
+   "Inventé l'anesthésie à l'éther",
+   "Découvert la circulation sanguine"
+  ],
+  "correctIndex": 0,
+  "explanation": "Paré a remplacé la cautérisation à l'huile bouillante par la ligature des artères et dessiné des mains et jambes mécaniques.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-026",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Le chevalier Götz von Berlichingen, amputé au combat en 1504, a continué à se battre grâce à…",
+  "choices": [
+   "Une main de fer articulée",
+   "Une épée fixée au coude",
+   "Une jambe de bois ferrée",
+   "Un bouclier-crochet"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ses doigts métalliques se fléchissaient grâce à des ressorts et un bouton de déverrouillage : une prothèse remarquable pour l'époque.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-027",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Sur une momie égyptienne de Thèbes, on a retrouvé l'une des plus anciennes prothèses fonctionnelles connues. Laquelle ?",
+  "choices": [
+   "Un œil en pierre polie",
+   "Un gros orteil en bois",
+   "Une mâchoire en or",
+   "Un doigt en ivoire"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'orteil de Thèbes, vieux d'environ 3 000 ans, montre des traces d'usure : il servait à marcher, pas seulement à embellir le corps.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-028",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Toutânkhamon a été inhumé avec plus de 130 cannes. Quel problème de pied l'analyse de sa momie a-t-elle mis en évidence ?",
+  "choices": [
+   "Un hallux valgus",
+   "Des pieds plats",
+   "Une crise de goutte",
+   "Un pied bot"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'étude de 2010 a décrit un pied bot gauche et une nécrose osseuse, ce qui expliquerait ses nombreuses cannes usées.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-029",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Après la bataille de Waterloo (1815), à quoi a eu droit la jambe amputée de Lord Uxbridge ?",
+  "choices": [
+   "À une place dans un musée de cire",
+   "À sa propre pierre tombale",
+   "À un reliquaire en or",
+   "À une statue équestre"
+  ],
+  "correctIndex": 1,
+  "explanation": "Enterrée dans un jardin belge, elle est devenue une attraction touristique ; Uxbridge, lui, a porté une des premières jambes articulées.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-030",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "L'ergot du seigle, champignon soupçonné dans l'affaire de Salem, pouvait provoquer…",
+  "choices": [
+   "Paralysie du visage",
+   "Cécité et surdité",
+   "Hallucinations et gangrène",
+   "Fièvre et jaunisse"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le « mal des ardents » : vasoconstriction jusqu'à la perte des extrémités, convulsions et délires.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-031",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En 1518, à Strasbourg, des centaines de personnes ont été prises pendant des semaines…",
+  "choices": [
+   "D'un fou rire collectif",
+   "D'une épidémie de danse",
+   "D'une cécité soudaine",
+   "D'un sommeil sans fin"
+  ],
+  "correctIndex": 1,
+  "explanation": "La « peste dansante » : on parlait de danse de Saint-Guy, un nom qui désigne encore la chorée.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-032",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Le squelette du roi Richard III, retrouvé sous un stationnement en 2012, montre une colonne déformée par…",
+  "choices": [
+   "Une cyphose de Scheuermann",
+   "Un spina bifida",
+   "Une scoliose",
+   "Une spondylolyse"
+  ],
+  "correctIndex": 2,
+  "explanation": "Une scoliose marquée apparue à l'adolescence : pas de « bossu », contrairement à la légende entretenue par Shakespeare.",
+  "physiatrie": true
+ },
+ {
+  "id": "histoire-v3-033",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quelle fête celtique Halloween descend-il ?",
+  "choices": [
+   "Samhain",
+   "Beltane",
+   "Yule",
+   "Imbolc"
+  ],
+  "correctIndex": 0,
+  "explanation": "Samhain marquait la fin des récoltes et le début de l'hiver, la nuit du 31 octobre au 1er novembre.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-034",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Le mot « Halloween » est la contraction de…",
+  "choices": [
+   "Hallow Wine, le vin sacré",
+   "All Hell's Evening, la nuit de l'enfer",
+   "All Hallows' Eve, la veille de la Toussaint",
+   "Hollow Evening, la soirée creuse"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hallow signifie « saint » en vieil anglais : Halloween est la veille de la Toussaint.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-035",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel pape aurait fixé la fête de tous les saints au 1er novembre, au VIIIe siècle ?",
+  "choices": [
+   "Grégoire III",
+   "Grégoire le Grand",
+   "Urbain II",
+   "Léon III"
+  ],
+  "correctIndex": 0,
+  "explanation": "Grégoire III dédie une chapelle à tous les saints un 1er novembre ; Grégoire IV étend la fête à toute l'Église vers 835.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-036",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que commémore-t-on le 2 novembre ?",
+  "choices": [
+   "Tous les saints",
+   "Les défunts (jour des Morts)",
+   "Les âmes des enfants seulement",
+   "Les martyrs chrétiens"
+  ],
+  "correctIndex": 1,
+  "explanation": "La Toussaint, le 1er novembre, honore les saints ; le 2 novembre est consacré à tous les défunts.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-037",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quel pays Halloween est-il principalement originaire ?",
+  "choices": [
+   "La France",
+   "Les États-Unis",
+   "L'Angleterre",
+   "L'Irlande"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ses racines sont celtiques, surtout irlandaises et écossaises ; les États-Unis en ont fait une fête commerciale mondiale.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-038",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle vague d'immigration a popularisé Halloween aux États-Unis au XIXe siècle ?",
+  "choices": [
+   "L'immigration irlandaise",
+   "L'immigration polonaise",
+   "L'immigration italienne",
+   "L'immigration allemande"
+  ],
+  "correctIndex": 0,
+  "explanation": "Plus d'un million d'Irlandais émigrent pendant la Grande Famine (1845-1852) et apportent leurs traditions.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-039",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Selon la légende irlandaise, qui Stingy Jack a-t-il réussi à piéger ?",
+  "choices": [
+   "Le Diable",
+   "La Mort",
+   "Un leprechaun",
+   "Une banshee"
+  ],
+  "correctIndex": 0,
+  "explanation": "Jack piège le Diable dans un arbre grâce à une croix et lui fait promettre de ne jamais prendre son âme.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-040",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi Stingy Jack erre-t-il pour l'éternité avec une lanterne ?",
+  "choices": [
+   "Il a été refusé au paradis comme en enfer",
+   "Il guide les âmes vers le cimetière",
+   "Il cherche sa femme disparue",
+   "Les fées l'ont puni pour un vol"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le Diable lui jette une braise, que Jack place dans un navet creusé : c'est « Jack of the Lantern ».",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-041",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'était le « souling » au Moyen Âge ?",
+  "choices": [
+   "Allumer des feux pour guider les âmes",
+   "Jeûner la veille de la Toussaint",
+   "Mendier des gâteaux contre des prières",
+   "Chanter la nuit dans les cimetières"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est un ancêtre de la tournée de bonbons : chaque gâteau donné valait une prière pour une âme du purgatoire.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-042",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelaient les petits gâteaux distribués lors du souling ?",
+  "choices": [
+   "Les scones",
+   "Les soul cakes",
+   "Les crumpets",
+   "Les hot cross buns"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ronds et épicés, souvent marqués d'une croix, ils représentaient une âme libérée du purgatoire.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-043",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans quelle décennie l'expression « trick or treat » se répand-elle aux États-Unis ?",
+  "choices": [
+   "Les années 1930",
+   "Les années 1980",
+   "Les années 1890",
+   "Les années 1960"
+  ],
+  "correctIndex": 0,
+  "explanation": "Elle apparaît dans la presse nord-américaine dans les années 1920-1930 et devient courante après la guerre.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-044",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi la tournée de bonbons a-t-elle été freinée aux États-Unis pendant la Seconde Guerre mondiale ?",
+  "choices": [
+   "À cause du rationnement du sucre",
+   "À cause d'une interdiction religieuse",
+   "À cause d'une épidémie de polio",
+   "À cause du couvre-feu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les bonbons étaient rationnés ; la tradition explose ensuite avec le baby-boom des banlieues.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-045",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En quelle année ont eu lieu les procès des sorcières de Salem ?",
+  "choices": [
+   "1642",
+   "1792",
+   "1592",
+   "1692"
+  ],
+  "correctIndex": 3,
+  "explanation": "En 1692-1693, plus de 200 personnes sont accusées dans la colonie du Massachusetts.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-046",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment la plupart des condamnés de Salem ont-ils été exécutés ?",
+  "choices": [
+   "Par pendaison",
+   "Par noyade",
+   "Par décapitation",
+   "Sur le bûcher"
+  ],
+  "correctIndex": 0,
+  "explanation": "Contrairement à l'image populaire, personne n'a été brûlé à Salem : 19 pendus et un homme écrasé.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-047",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment Giles Corey, accusé à Salem, a-t-il été exécuté ?",
+  "choices": [
+   "Brûlé vif",
+   "Écrasé sous des pierres",
+   "Noyé dans un étang",
+   "Pendu à un chêne"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il refusait de plaider ; selon la légende, ses derniers mots auraient été « plus de poids ».",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-048",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "En quelle année a paru le Malleus Maleficarum, le célèbre « Marteau des sorcières » ?",
+  "choices": [
+   "1610",
+   "1487",
+   "1215",
+   "1692"
+  ],
+  "correctIndex": 1,
+  "explanation": "Écrit par l'inquisiteur Heinrich Kramer, ce manuel a servi de référence aux chasseurs de sorcières.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-049",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Combien de personnes les historiens estiment-ils exécutées pour sorcellerie en Europe (XVe-XVIIIe siècles) ?",
+  "choices": [
+   "Environ 9 millions",
+   "Environ 1 million",
+   "Environ 40 000 à 60 000",
+   "Environ 500"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le chiffre de 9 millions, longtemps répété, est un mythe ; les estimations sérieuses tournent autour de 50 000.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-050",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel surnom porte Vlad III, prince qui aurait inspiré Dracula ?",
+  "choices": [
+   "Le Terrible",
+   "Le Cruel",
+   "L'Empaleur",
+   "Le Sanglant"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vlad Țepeș empalait ses ennemis ; son père appartenait à l'ordre du Dragon, d'où « Dracul ».",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-051",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Sur quelle principauté régnait Vlad l'Empaleur ?",
+  "choices": [
+   "La Hongrie",
+   "La Moldavie",
+   "La Transylvanie",
+   "La Valachie"
+  ],
+  "correctIndex": 3,
+  "explanation": "Né en Transylvanie, il régnait sur la Valachie, au sud de l'actuelle Roumanie.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-052",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle légende entoure la comtesse hongroise Élisabeth Báthory (XVIe-XVIIe siècles) ?",
+  "choices": [
+   "Elle se serait baignée dans le sang de jeunes filles",
+   "Elle aurait épousé le Diable",
+   "Elle aurait vécu 300 ans",
+   "Elle se changeait en louve les nuits de pleine lune"
+  ],
+  "correctIndex": 0,
+  "explanation": "Accusée de dizaines de meurtres, elle a été emmurée dans son château ; l'histoire du bain de sang est une légende tardive.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-053",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel quartier de Londres sévissait Jack l'Éventreur ?",
+  "choices": [
+   "Soho",
+   "Whitechapel",
+   "Notting Hill",
+   "Camden"
+  ],
+  "correctIndex": 1,
+  "explanation": "En 1888, au moins cinq femmes sont tuées dans ce quartier pauvre de l'East End ; le tueur n'a jamais été identifié.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-054",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle déesse aztèque veillait sur les morts et inspire encore le Día de los Muertos ?",
+  "choices": [
+   "Coatlicue",
+   "Tlaloc",
+   "Mictecacíhuatl",
+   "Quetzalcóatl"
+  ],
+  "correctIndex": 2,
+  "explanation": "La « Dame des morts » présidait des fêtes funéraires d'un mois, fusionnées plus tard avec la Toussaint catholique.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-055",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle fête romaine des morts avait lieu en février ?",
+  "choices": [
+   "Les Saturnales",
+   "Les Floralies",
+   "Les Feralia",
+   "Les Lupercales"
+  ],
+  "correctIndex": 2,
+  "explanation": "On y portait des offrandes aux tombes. Les Saturnales, en décembre, étaient joyeuses.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-056",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quelle déesse romaine des fruits aurait laissé sa trace dans les jeux de pommes d'Halloween ?",
+  "choices": [
+   "Flore",
+   "Pomone",
+   "Cérès",
+   "Diane"
+  ],
+  "correctIndex": 1,
+  "explanation": "Selon une théorie populaire (discutée), sa fête aurait fusionné avec Samhain dans la Bretagne romaine.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-057",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi les immigrants irlandais ont-ils adopté la citrouille en Amérique ?",
+  "choices": [
+   "Elle était sacrée chez les Autochtones",
+   "Elle était abondante et plus facile à creuser",
+   "Elle brûlait plus longtemps",
+   "Le navet y était interdit"
+  ],
+  "correctIndex": 1,
+  "explanation": "Plus grosse et plus tendre que le navet, la citrouille locale s'est vite imposée.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-058",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel pape est accusé d'avoir associé les chats noirs au Diable, au XIIIe siècle ?",
+  "choices": [
+   "Grégoire IX",
+   "Urbain II",
+   "Innocent III",
+   "Boniface VIII"
+  ],
+  "correctIndex": 0,
+  "explanation": "Sa bulle Vox in Rama (1233) décrit un culte où le Diable apparaît sous la forme d'un chat noir.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-059",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle part de la population européenne la peste noire (1347-1352) a-t-elle tuée ?",
+  "choices": [
+   "Environ 5 %",
+   "Près de 90 %",
+   "De 30 à 50 %",
+   "Environ 10 %"
+  ],
+  "correctIndex": 2,
+  "explanation": "Environ 25 à 50 millions de morts en quelques années.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-060",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel animal transportait les puces responsables de la peste ?",
+  "choices": [
+   "Le rat noir",
+   "Le chat errant",
+   "La chauve-souris",
+   "Le corbeau"
+  ],
+  "correctIndex": 0,
+  "explanation": "La bactérie Yersinia pestis passe du rat à l'humain par la piqûre de puces infectées.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-061",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qui étaient les « résurrectionnistes » du XIXe siècle ?",
+  "choices": [
+   "Des fossoyeurs syndiqués",
+   "Des médecins réanimateurs",
+   "Des voleurs de cadavres",
+   "Des prêtres exorcistes"
+  ],
+  "correctIndex": 2,
+  "explanation": "Les écoles de médecine manquaient de corps : les tombes fraîches étaient pillées la nuit.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-062",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À qui Burke et Hare vendaient-ils les corps de leurs victimes à Édimbourg, en 1828 ?",
+  "choices": [
+   "À un cirque ambulant",
+   "À un musée de cire",
+   "À une société secrète",
+   "À un anatomiste"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ils ont tué 16 personnes pour vendre leurs corps ; Burke a été pendu… puis disséqué publiquement.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-063",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi posait-on des grilles de fer (mortsafes) sur certaines tombes écossaises ?",
+  "choices": [
+   "Pour empêcher les vampires de sortir",
+   "Pour éviter les inondations",
+   "Pour protéger des loups",
+   "Pour empêcher le vol des cadavres"
+  ],
+  "correctIndex": 3,
+  "explanation": "La grille restait en place quelques semaines, le temps que le corps devienne inutilisable pour la dissection.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-064",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi certains cercueils du XIXe siècle étaient-ils équipés d'une cloche ?",
+  "choices": [
+   "Pour annoncer l'arrivée au cimetière",
+   "Pour attirer les prières",
+   "Par peur d'être enterré vivant",
+   "Pour éloigner les esprits"
+  ],
+  "correctIndex": 2,
+  "explanation": "La taphophobie était si répandue que des « cercueils de sûreté » ont été brevetés.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-065",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel cinéaste a réalisé Le Manoir du diable (1896), souvent cité comme le premier film d'horreur ?",
+  "choices": [
+   "Georges Méliès",
+   "F. W. Murnau",
+   "Les frères Lumière",
+   "Thomas Edison"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ce court film de 3 minutes montre une chauve-souris qui se change en Méphistophélès.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-066",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Harry Houdini est mort un soir d'Halloween. En quelle année ?",
+  "choices": [
+   "1945",
+   "1899",
+   "1926",
+   "1910"
+  ],
+  "correctIndex": 2,
+  "explanation": "Il est mort d'une péritonite le 31 octobre 1926 ; depuis, des séances de spiritisme tentent chaque année de le contacter.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-067",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle émission de radio a semé la panique aux États-Unis le 30 octobre 1938 ?",
+  "choices": [
+   "La Guerre des mondes",
+   "Frankenstein",
+   "Dracula",
+   "L'Homme invisible"
+  ],
+  "correctIndex": 0,
+  "explanation": "Orson Welles racontait une invasion martienne sous forme de faux bulletins ; l'ampleur de la panique a été exagérée par la presse.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-068",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Lors du Bal des Ardents (1393), en quoi Charles VI et ses compagnons étaient-ils déguisés quand leurs costumes ont pris feu ?",
+  "choices": [
+   "En fantômes de lin",
+   "En diables cornus",
+   "En hommes sauvages poilus",
+   "En squelettes de toile"
+  ],
+  "correctIndex": 2,
+  "explanation": "Leurs costumes de lin enduits de poix ont pris feu à cause d'une torche ; le roi a été sauvé de justesse.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-069",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel événement historique s'est produit un 31 octobre ?",
+  "choices": [
+   "La prise de la Bastille",
+   "Le premier pas sur la Lune",
+   "Luther affiche ses 95 thèses (1517)",
+   "La signature du traité de Versailles"
+  ],
+  "correctIndex": 2,
+  "explanation": "La Réforme protestante commence la veille de la Toussaint ; plusieurs pays la fêtent encore le 31 octobre.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-070",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "En Écosse, que devaient faire les enfants déguisés (les « guisers ») pour obtenir des friandises ?",
+  "choices": [
+   "Payer une pièce",
+   "Faire un petit numéro",
+   "Rien du tout",
+   "Réciter une prière"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le guising, plus ancien que le trick-or-treat, demandait de « gagner » sa friandise par une petite prestation.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-071",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que marquait Samhain dans le calendrier celtique ?",
+  "choices": [
+   "Le début des moissons",
+   "L'équinoxe de printemps",
+   "Le solstice d'été",
+   "Le début de la nouvelle année"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'année celtique commençait avec la saison sombre, le 1er novembre.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-072",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que croyait-on à propos de la frontière entre les vivants et les morts pendant Samhain ?",
+  "choices": [
+   "Qu'elle se déplaçait vers la mer",
+   "Qu'elle devenait plus mince",
+   "Qu'elle n'existait que pour les druides",
+   "Qu'elle se fermait totalement"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les esprits pouvaient circuler : on leur laissait de la nourriture et on se déguisait pour leur échapper.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-073",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Pourquoi se déguisait-on pendant Samhain, selon la tradition ?",
+  "choices": [
+   "Pour fêter les récoltes",
+   "Pour tromper les esprits",
+   "Pour honorer les druides",
+   "Pour séduire un futur époux"
+  ],
+  "correctIndex": 1,
+  "explanation": "Se faire passer pour l'un d'eux protégeait des esprits malfaisants.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-074",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Sur quelle colline d'Irlande les druides auraient-ils allumé le grand feu de Samhain ?",
+  "choices": [
+   "Tara",
+   "Croagh Patrick",
+   "Tlachtga",
+   "Uisneach"
+  ],
+  "correctIndex": 2,
+  "explanation": "Près d'Athboy, dans le comté de Meath ; Uisneach est associée à Beltane.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-075",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Avec quoi fabriquait-on, selon les grimoires, la sinistre « main de gloire » ?",
+  "choices": [
+   "La main d'un pendu",
+   "Une patte de loup",
+   "La main d'une sorcière brûlée",
+   "Une racine de mandragore"
+  ],
+  "correctIndex": 0,
+  "explanation": "Séchée et transformée en chandelier, elle était censée paralyser les habitants d'une maison cambriolée.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-076",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel rockeur repose au cimetière du Père-Lachaise, à Paris ?",
+  "choices": [
+   "Kurt Cobain",
+   "Jimi Hendrix",
+   "Elvis Presley",
+   "Jim Morrison"
+  ],
+  "correctIndex": 3,
+  "explanation": "La tombe du chanteur des Doors est l'une des plus visitées du cimetière, avec celles d'Édith Piaf et d'Oscar Wilde.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-077",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que porte traditionnellement la Faucheuse, personnification de la Mort en Europe ?",
+  "choices": [
+   "Un sablier et des ailes de chauve-souris",
+   "Une épée et une armure",
+   "Une faux et une longue robe noire à capuche",
+   "Une lanterne et une couronne"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle « fauche » les vies comme on récolte le blé — une image née au Moyen Âge, à l'époque des grandes pestes.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-078",
+  "category": "histoire",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment surnommait-on les médecins qui soignaient les pestiférés au XVIIe siècle ?",
+  "choices": [
+   "Les barbiers noirs",
+   "Les chirurgiens du Diable",
+   "Les docteurs corbeaux",
+   "Les médecins de peste"
+  ],
+  "correctIndex": 3,
+  "explanation": "Leur masque à bec a été décrit par Charles de Lorme, médecin de Louis XIII ; il est devenu un costume d'Halloween classique.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-079",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce qu'un memento mori ?",
+  "choices": [
+   "Une tombe sans nom",
+   "Un portrait de baptême",
+   "Une prière pour les défunts",
+   "Un rappel qu'on va mourir"
+  ],
+  "correctIndex": 3,
+  "explanation": "« Souviens-toi que tu vas mourir » : crânes, sabliers et portraits post mortem appartiennent à cette tradition.",
+  "physiatrie": false
+ },
+ {
+  "id": "histoire-v3-080",
+  "category": "histoire",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle mode macabre s'est répandue à l'époque victorienne ?",
+  "choices": [
+   "Garder les crânes des ancêtres au salon",
+   "Photographier les défunts avant leurs funérailles",
+   "Peindre les cercueils en blanc",
+   "Danser au cimetière à minuit"
+  ],
+  "correctIndex": 1,
+  "explanation": "La photo post mortem était parfois le seul portrait d'un proche. Les supports « pour tenir les morts debout » sont en revanche un mythe : ils servaient aux vivants immobiles pendant la pose.",
+  "physiatrie": false
+ }
+]

@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nuit: #1b1026;
+  --color-nuit-2: #26173a;
+  --color-nuit-3: #352250;
+  --color-os: #efe4cf;
+  --color-os-dim: #b9ab95;
+  --color-citrouille: #ff7a1a;
+  --color-ecto: #a6e36b;
+  --color-sang: #e0324b;
+  --color-parchemin: #f3e7c9;
+  --color-encre: #2a1b14;
+  --font-gothique: "Pirata One", Georgia, serif;
+  --font-corps: "Bricolage Grotesque", system-ui, sans-serif;
+}
+
+html, body { overflow-x: hidden; max-width: 100%; }
+body {
+  margin: 0;
+  color: var(--color-os);
+  font-family: var(--font-corps);
+  background:
+    radial-gradient(1200px 600px at 50% -200px, #3b2358 0%, transparent 70%),
+    var(--color-nuit);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+img, audio, video { max-width: 100%; }
+:focus-visible { outline: 3px solid var(--color-citrouille); outline-offset: 2px; }
+
+.titre { font-family: var(--font-gothique); font-weight: 400; letter-spacing: .01em; line-height: 1.05; }
+
+/* La pièce maîtresse : l'étiquette de bocal d'anatomie */
+.etiquette {
+  background: var(--color-parchemin);
+  color: var(--color-encre);
+  border-radius: 6px;
+  position: relative;
+  box-shadow: 0 0 0 6px var(--color-nuit-2), 0 0 0 7px #6b4d2e, 0 18px 40px -18px #000;
+}
+.etiquette::before {
+  content: ""; position: absolute; inset: 7px; border: 1.5px dashed #8b6a45; border-radius: 3px; pointer-events: none;
+}
+.etiquette .num { font-family: var(--font-gothique); color: #8b3a1a; }
+
+.panneau { background: var(--color-nuit-2); border: 1px solid #ffffff12; border-radius: 14px; }
+
+/* Boutons de réponse : une couleur et un symbole par choix */
+.rep { border-radius: 14px; min-height: 64px; text-align: left; font-weight: 600; transition: transform .08s ease; }
+.rep:active:not(:disabled) { transform: scale(.98); }
+.rep-0 { background: #b8501a; } .rep-1 { background: #5b4a8f; } .rep-2 { background: #1f6b6b; } .rep-3 { background: #8a2f4a; }
+
+.bandeau-mal {
+  background: repeating-linear-gradient(135deg, #3a0d16 0 14px, #4a1020 14px 28px);
+  border: 2px solid var(--color-sang);
+}
+
+@keyframes battement { 0%,100% { transform: scale(1); } 50% { transform: scale(1.06); } }
+.battement { animation: battement 1s ease-in-out infinite; }
+@keyframes monte { from { transform: translateY(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+.monte { animation: monte .6s cubic-bezier(.2,.8,.2,1) both; }
+@media (prefers-reduced-motion: reduce) { .battement, .monte { animation: none; } }

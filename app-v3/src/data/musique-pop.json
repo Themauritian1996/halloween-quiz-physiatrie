@@ -1,0 +1,1470 @@
+[
+ {
+  "id": "musique-pop-v3-001",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel tube reconnaît-on ?",
+  "choices": [
+   "Thriller — Michael Jackson",
+   "Bad — Michael Jackson",
+   "Beat It — Michael Jackson",
+   "Smooth Criminal — Michael Jackson"
+  ],
+  "correctIndex": 0,
+  "explanation": "Thriller (1982) et son clip-court-métrage de 14 minutes réalisé par John Landis.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/8c/cb/588ccb9a-ab79-4a38-43b5-d4c24ea42859/mzaf_2083607504726567992.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-002",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel film d'horreur a rendu célèbre ce morceau ?",
+  "choices": [
+   "Shining",
+   "Rosemary's Baby",
+   "L'Exorciste",
+   "Halloween"
+  ],
+  "correctIndex": 2,
+  "explanation": "C'est Tubular Bells (1973) de Mike Oldfield, utilisé dans L'Exorciste ; l'album a lancé le label Virgin.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/ad/9f/d0ad9ffc-9b15-847c-857f-c82546f4fe31/mzaf_5838067582588501290.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-003",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "De quel film vient cette chanson ?",
+  "choices": [
+   "Retour vers le futur",
+   "Beetlejuice",
+   "SOS Fantômes (Ghostbusters)",
+   "Gremlins"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ray Parker Jr. l'a écrite en quelques jours en 1984 ; « Who you gonna call? »",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8b/e3/638be3a1-2f5e-5cff-9b58-085e3b793cbd/mzaf_10733010531783613784.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-004",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Quelle superstar chante le refrain de ce titre de Rockwell (1984) ?",
+  "choices": [
+   "Prince",
+   "Michael Jackson",
+   "Stevie Wonder",
+   "Lionel Richie"
+  ],
+  "correctIndex": 1,
+  "explanation": "Somebody's Watching Me : Rockwell, fils du patron de la Motown, y raconte sa paranoïa ; Michael Jackson chante le refrain.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6f/0b/81/6f0b8124-b0e2-98b3-e517-493718197b02/mzaf_15444166212583157475.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-005",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Dans quelle série ce morceau de 1985 a-t-il sauvé un personnage d'un monstre ?",
+  "choices": [
+   "Dark",
+   "Euphoria",
+   "Stranger Things",
+   "Mercredi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Running Up That Hill de Kate Bush protège Max de Vecna (saison 4) et revient au sommet des palmarès en 2022.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/c0/a8/21c0a8a9-dadf-55e5-aeba-50dcc704a736/mzaf_5583157979505295580.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-006",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Qui a composé ce morceau pour orgue, devenu le cliché musical du vampire ?",
+  "choices": [
+   "Wolfgang Amadeus Mozart",
+   "Antonio Vivaldi",
+   "Georg Friedrich Haendel",
+   "Jean-Sébastien Bach"
+  ],
+  "correctIndex": 3,
+  "explanation": "La Toccata et fugue en ré mineur, souvent attribuée à Bach (son authenticité est discutée par certains musicologues).",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0200.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "musique-pop-v3-007",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quelle chanteuse interprète ce titre ?",
+  "choices": [
+   "Rihanna",
+   "Katy Perry",
+   "Beyoncé",
+   "Lady Gaga"
+  ],
+  "correctIndex": 0,
+  "explanation": "Disturbia (2008) : son clip au décor de cellule et de chambre de torture en a fait un classique des listes d'Halloween.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/10/48/a510486f-6ae2-63be-86cb-25e1be8125b2/mzaf_16451062589614299862.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-008",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "De quelle série vient ce thème ?",
+  "choices": [
+   "Sweet Home",
+   "Alice in Borderland",
+   "All of Us Are Dead",
+   "Squid Game"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pink Soldiers, de Jung Jae-il, accompagne les gardes en combinaison rose.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/a5/43/d0a54377-c428-2a06-dbd6-78821bcf818f/mzaf_16082330645748515523.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-009",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Qui a composé cette danse de squelettes jouée au violon et au xylophone ?",
+  "choices": [
+   "Modeste Moussorgski",
+   "Franz Liszt",
+   "Hector Berlioz",
+   "Camille Saint-Saëns"
+  ],
+  "correctIndex": 3,
+  "explanation": "La Danse macabre (1874) : la Mort accorde son violon à minuit et le xylophone imite le claquement des os.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "/media/med-0201.ogg",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "musique-pop-v3-010",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quelle artiste chante ce titre, écrit du point de vue du monstre caché sous son lit ?",
+  "choices": [
+   "Billie Eilish",
+   "Halsey",
+   "Lorde",
+   "Olivia Rodrigo"
+  ],
+  "correctIndex": 0,
+  "explanation": "bury a friend (2019), coécrit avec son frère Finneas, sur l'album When We All Fall Asleep, Where Do We Go?",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/f8/14/34f81471-60c1-03fd-8612-4c69989b2b80/mzaf_6498312954680902777.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-011",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Qui chante ce titre de 2011, redevenu viral sur TikTok en 2022 ?",
+  "choices": [
+   "Dua Lipa",
+   "Taylor Swift",
+   "Madonna",
+   "Lady Gaga"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bloody Mary, de l'album Born This Way, a été accélérée et associée par les internautes à la danse de Mercredi.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/d9/fd/a9d9fdbe-0718-8d5e-fd2a-91bf05bbcc4c/mzaf_6014557621905797616.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-012",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Quelle chanteuse reprend ici le standard Season of the Witch ?",
+  "choices": [
+   "Lana Del Rey",
+   "Florence Welch",
+   "Adele",
+   "Lorde"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pour le film Histoires effrayantes à raconter dans le noir (2019), produit par Guillermo del Toro. L'original est de Donovan (1966).",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/c8/75/c5c8753f-6b29-7802-5c6f-980808b75b53/mzaf_7972898662245842660.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-013",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "De quel film d'animation vient cette chanson ?",
+  "choices": [
+   "Les Noces funèbres",
+   "Coraline",
+   "Frankenweenie",
+   "L'Étrange Noël de monsieur Jack"
+  ],
+  "correctIndex": 3,
+  "explanation": "This Is Halloween ouvre le film : les habitants de la ville d'Halloween se présentent en chanson.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/cf/e4/9acfe482-1eee-1697-e4b4-277033b9f86e/mzaf_9977418176212827026.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-014",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel est cet instrument électronique, star des musiques de films de science-fiction ?",
+  "choices": [
+   "L'harmonica de verre",
+   "Le synthétiseur Moog",
+   "Les ondes Martenot",
+   "Le thérémine"
+  ],
+  "correctIndex": 3,
+  "explanation": "Inventé en 1920 par Léon Theremin, on en joue sans le toucher, en bougeant les mains près de deux antennes.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0218.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY-SA 2.0"
+  }
+ },
+ {
+  "id": "musique-pop-v3-015",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel groupe joue ce morceau, entendu dans un épisode culte de Stranger Things ?",
+  "choices": [
+   "Metallica",
+   "Iron Maiden",
+   "Slayer",
+   "Megadeth"
+  ],
+  "correctIndex": 0,
+  "explanation": "Master of Puppets (1986) : Eddie Munson le joue sur le toit de la caravane, dans le Monde à l'envers.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/41/b8/fc41b8d9-1946-643c-34b8-d48d99adb93a/mzaf_11376883454063654277.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-016",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel titre reconnaît-on ?",
+  "choices": [
+   "Monster Mash",
+   "Dem Bones",
+   "Spooky, Scary Skeletons",
+   "The Addams Family Theme"
+  ],
+  "correctIndex": 2,
+  "explanation": "La chanson d'Andrew Gold (1996) est devenue un mème grâce aux vidéos de squelettes dansants.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/52/58/10525878-2563-4101-305a-f192587450ae/mzaf_10635519091469965799.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-017",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Quel groupe new-yorkais joue ce titre (2009) au clip de loup-garou danseur ?",
+  "choices": [
+   "The Killers",
+   "Yeah Yeah Yeahs",
+   "The Strokes",
+   "Arctic Monkeys"
+  ],
+  "correctIndex": 1,
+  "explanation": "Heads Will Roll : « Off with your head, dance 'til you're dead ».",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/d5/50/2ad55038-9df9-8cd9-3266-fce3e78b9f66/mzaf_13589230364797896384.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-018",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Quel groupe avait créé l'original de cette reprise inquiétante ?",
+  "choices": [
+   "Tears for Fears",
+   "Eurythmics",
+   "Duran Duran",
+   "Depeche Mode"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sweet Dreams (1983) d'Annie Lennox et Dave Stewart, transformé en cauchemar industriel par Marilyn Manson en 1995.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/c1/ca/03c1ca0a-01af-d0aa-d5fd-2a058089627c/mzaf_6760163481643834218.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-019",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "video",
+  "question": "Quelle œuvre de musique classique accompagne cette vidéo ?",
+  "choices": [
+   "La Marche funèbre (Chopin)",
+   "Le Boléro (Ravel)",
+   "Dans l'antre du roi de la montagne (Grieg)",
+   "Une nuit sur le mont Chauve (Moussorgski)"
+  ],
+  "correctIndex": 2,
+  "explanation": "Extrait de Peer Gynt (1875) : la musique accélère à mesure que les trolls pourchassent Peer.",
+  "physiatrie": false,
+  "media": {
+   "kind": "video",
+   "src": "/media/med-0222.webm",
+   "alt": "Vidéo à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "CC BY 3.0"
+  }
+ },
+ {
+  "id": "musique-pop-v3-020",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Quel compositeur, fidèle complice de Tim Burton, signe ce générique ?",
+  "choices": [
+   "Danny Elfman",
+   "Hans Zimmer",
+   "Howard Shore",
+   "John Williams"
+  ],
+  "correctIndex": 0,
+  "explanation": "Danny Elfman a composé le thème de Mercredi (2022), après ceux de Beetlejuice et de L'Étrange Noël de monsieur Jack.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/6c/f9/a36cf9d4-cef8-ce63-1f3f-6827b018c7ac/mzaf_15528022977642301390.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-021",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "audio",
+  "question": "Qui est l'interprète original de cette chanson ?",
+  "choices": [
+   "Nina Simone",
+   "Chuck Berry",
+   "Screamin' Jay Hawkins",
+   "Ray Charles"
+  ],
+  "correctIndex": 2,
+  "explanation": "I Put a Spell on You (1956) : arrivé ivre en studio, Hawkins en a fait un rituel hurlé. Nina Simone en a fait une reprise célèbre en 1965.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/2b/15/7f2b1527-5410-af6f-aece-a2121dd850a4/mzaf_18414303548297508305.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-022",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quel groupe joue ce titre ?",
+  "choices": [
+   "Imagine Dragons",
+   "Coldplay",
+   "OneRepublic",
+   "Twenty One Pilots"
+  ],
+  "correctIndex": 0,
+  "explanation": "Demons (2013) parle des démons intérieurs qu'on cache à ceux qu'on aime.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/d4/e8/fcd4e814-39f4-19e8-f421-c2d269698025/mzaf_1039703479531920971.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-023",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Quelle chanteuse chante ce titre de 2023 sur un ex « vampire » ?",
+  "choices": [
+   "Olivia Rodrigo",
+   "Taylor Swift",
+   "Sabrina Carpenter",
+   "Billie Eilish"
+  ],
+  "correctIndex": 0,
+  "explanation": "vampire (2023) compare un ex manipulateur à un vampire qui l'a « saignée à blanc ».",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/09/5e/83095ea1-83bf-ecdc-3b75-358c350fca51/mzaf_15560849688086702972.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-024",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Grâce à quoi ce titre punk de 1981 est-il devenu viral en 2022 ?",
+  "choices": [
+   "Une scène de la série Mercredi",
+   "Une publicité de parfum",
+   "Une scène de Stranger Things",
+   "Un défi Fortnite"
+  ],
+  "correctIndex": 0,
+  "explanation": "Goo Goo Muck des Cramps : c'est la vraie musique de la scène du bal, même si TikTok l'a souvent remplacée par Bloody Mary.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8e/b6/268eb63d-b228-a040-3934-61840bd07c84/mzaf_12426396297438116241.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "musique-pop-v3-025",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Le « Prince des Ténèbres » Ozzy Osbourne a révélé en 2020 être atteint de quelle maladie ?",
+  "choices": [
+   "La sclérose latérale amyotrophique",
+   "La maladie d'Alzheimer",
+   "La sclérose en plaques",
+   "La maladie de Parkinson"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ozzy a donné son dernier concert avec Black Sabbath en juillet 2025, assis sur un trône, peu avant son décès.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-026",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle vieille chanson, chantée à Halloween, énumère les os reliés les uns aux autres ?",
+  "choices": [
+   "Spooky, Scary Skeletons",
+   "Dem Bones (Dry Bones)",
+   "Thriller",
+   "Monster Mash"
+  ],
+  "correctIndex": 1,
+  "explanation": "« The toe bone connected to the foot bone… » : une leçon d'anatomie… approximative.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-027",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans la chanson Dem Bones, à quel os l'os de la hanche (« hip bone ») est-il relié ?",
+  "choices": [
+   "À l'os du dos",
+   "À l'os de la cuisse",
+   "À l'os du genou",
+   "À l'os de l'épaule"
+  ],
+  "correctIndex": 1,
+  "explanation": "« The hip bone connected to the thigh bone » : articulation coxo-fémorale validée.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-028",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans le jeu vidéo d'horreur Dead Space, comment vient-on à bout des nécromorphes ?",
+  "choices": [
+   "En les brûlant au lance-flammes",
+   "En visant le cœur",
+   "En visant la tête",
+   "En tranchant leurs membres"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le « démembrement stratégique » : viser la tête ne sert à rien. Un cauchemar pour la clinique d'amputés.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-029",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Billie Eilish, icône de l'esthétique sombre, a parlé publiquement de quel trouble neurologique ?",
+  "choices": [
+   "L'épilepsie",
+   "La migraine hémiplégique",
+   "Le syndrome de Gilles de la Tourette",
+   "La sclérose en plaques"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle a expliqué vivre avec des tics depuis l'enfance, pour briser les préjugés.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-030",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Lady Gaga, interprète de Bloody Mary, a révélé souffrir de quel syndrome de douleur chronique ?",
+  "choices": [
+   "La spondylarthrite ankylosante",
+   "La fibromyalgie",
+   "La polyarthrite rhumatoïde",
+   "Le lupus"
+  ],
+  "correctIndex": 1,
+  "explanation": "Elle en parle dans le documentaire Gaga: Five Foot Two (2017) — un grand classique des cliniques de douleur.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-031",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment Michael Jackson réalisait-il sa célèbre inclinaison à 45° sur scène ?",
+  "choices": [
+   "Avec des chaussures spéciales",
+   "Avec un harnais dans le dos",
+   "Grâce à la force de ses mollets",
+   "Avec des câbles invisibles"
+  ],
+  "correctIndex": 0,
+  "explanation": "Brevet de 1993 : une encoche au talon s'emboîtait dans une cheville du plancher. Les neurochirurgiens ont écrit sur les risques de l'imiter… pour la colonne.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-032",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans la série Mercredi, comment La Chose, une main vivante, communique-t-elle ?",
+  "choices": [
+   "En écrivant sur ses paumes",
+   "Par télépathie",
+   "En langue des signes",
+   "En morse"
+  ],
+  "correctIndex": 2,
+  "explanation": "La Chose « parle » avec ses doigts ; Mercredi traduit. Une main sans poignet ni bras : un beau défi d'ergothérapie.",
+  "physiatrie": true
+ },
+ {
+  "id": "musique-pop-v3-033",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a enregistré Monster Mash, le tube d'Halloween de 1962 ?",
+  "choices": [
+   "Buddy Holly",
+   "Chuck Berry",
+   "Elvis Presley",
+   "Bobby « Boris » Pickett"
+  ],
+  "correctIndex": 3,
+  "explanation": "Il y imite la voix de Boris Karloff ; le titre est revenu dans les palmarès en 1973.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-034",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel acteur d'horreur prête sa voix et son rire inquiétant à la fin de Thriller ?",
+  "choices": [
+   "Bela Lugosi",
+   "Vincent Price",
+   "Christopher Lee",
+   "Boris Karloff"
+  ],
+  "correctIndex": 1,
+  "explanation": "Son monologue parlé et son rire final sont devenus aussi célèbres que la chorégraphie des zombies.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-035",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de temps dure environ le clip de Thriller ?",
+  "choices": [
+   "7 minutes",
+   "30 minutes",
+   "4 minutes",
+   "14 minutes"
+  ],
+  "correctIndex": 3,
+  "explanation": "Un vrai court-métrage, premier clip ajouté au National Film Registry américain.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-036",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a réalisé le clip de Thriller ?",
+  "choices": [
+   "John Landis",
+   "John Carpenter",
+   "Tim Burton",
+   "Steven Spielberg"
+  ],
+  "correctIndex": 0,
+  "explanation": "Michael Jackson l'a choisi pour Le Loup-garou de Londres (1981), d'où la transformation au début du clip.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-037",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel membre de Kiss, maquillé en démon, crache du « sang » sur scène ?",
+  "choices": [
+   "Paul Stanley",
+   "Ace Frehley",
+   "Peter Criss",
+   "Gene Simmons"
+  ],
+  "correctIndex": 3,
+  "explanation": "« The Demon » crache aussi du feu et tire une langue démesurée.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-038",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'a fait Ozzy Osbourne de façon tristement célèbre en concert, en 1982 ?",
+  "choices": [
+   "Il a mis le feu à sa guitare",
+   "Il s'est fait enterrer vivant",
+   "Il a avalé un serpent vivant",
+   "Il a mordu la tête d'une chauve-souris"
+  ],
+  "correctIndex": 3,
+  "explanation": "Il croyait que la chauve-souris lancée par un fan était en caoutchouc ; il a dû recevoir des vaccins contre la rage.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-039",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel chanteur est surnommé « le Prince des Ténèbres » ?",
+  "choices": [
+   "Marilyn Manson",
+   "Ozzy Osbourne",
+   "Rob Zombie",
+   "Alice Cooper"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le chanteur de Black Sabbath, pionnier du heavy metal.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-040",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Avant de réaliser des films d'horreur, quel groupe Rob Zombie menait-il ?",
+  "choices": [
+   "Slipknot",
+   "White Zombie",
+   "Black Sabbath",
+   "The Misfits"
+  ],
+  "correctIndex": 1,
+  "explanation": "Son groupe tire son nom d'un film de 1932 avec Bela Lugosi.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-041",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel costume porte le chanteur du groupe suédois Ghost ?",
+  "choices": [
+   "Celui d'un médecin de peste",
+   "Celui d'un pape-squelette",
+   "Celui d'un pharaon momifié",
+   "Celui d'un vampire victorien"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tobias Forge a incarné plusieurs « Papa Emeritus », puis le Cardinal Copia et Papa V Perpetua.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-042",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel DJ porte une immense tête de souris lumineuse ?",
+  "choices": [
+   "deadmau5",
+   "Marshmello",
+   "Skrillex",
+   "Daft Punk"
+  ],
+  "correctIndex": 0,
+  "explanation": "Joel Zimmerman a fait de son casque de souris un logo ; Marshmello porte un casque de guimauve.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-043",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Combien de membres masqués comptait le groupe Slipknot à ses débuts ?",
+  "choices": [
+   "9",
+   "12",
+   "6",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Chaque membre porte un numéro de 0 à 8 et un masque différent.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-044",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle l'événement annuel d'Halloween du jeu Fortnite ?",
+  "choices": [
+   "Spooky Royale",
+   "Halloween Havoc",
+   "Night of Fright",
+   "Fortnitemares"
+  ],
+  "correctIndex": 3,
+  "explanation": "Depuis 2017, avec des zombies, des citrouilles lance-roquettes et des skins d'horreur.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-045",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans les jeux Super Mario, comment s'appellent les fantômes qui se cachent quand on les regarde ?",
+  "choices": [
+   "Les Bloups",
+   "Les Maskass",
+   "Les Goomba",
+   "Les Boo"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ils couvrent leur visage quand Mario les fixe et avancent quand il tourne le dos.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-046",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de fantômes poursuivent Pac-Man dans le jeu original ?",
+  "choices": [
+   "5",
+   "6",
+   "3",
+   "4"
+  ],
+  "correctIndex": 3,
+  "explanation": "Blinky, Pinky, Inky et Clyde, chacun avec sa propre stratégie de poursuite.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-047",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel fantôme rouge de Pac-Man poursuit le joueur le plus directement ?",
+  "choices": [
+   "Clyde",
+   "Pinky",
+   "Blinky",
+   "Inky"
+  ],
+  "correctIndex": 2,
+  "explanation": "Blinky cible la case de Pac-Man ; Pinky tente de lui couper la route.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-048",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Luigi's Mansion, avec quoi Luigi capture-t-il les fantômes ?",
+  "choices": [
+   "Un filet à papillons",
+   "Un piège à fantômes",
+   "Un aspirateur",
+   "Une lampe magique"
+  ],
+  "correctIndex": 2,
+  "explanation": "Un aspirateur à fantômes conçu par un vieux professeur farfelu ; Luigi y aspire aussi les pièces d'or.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-049",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quel type est le Pokémon Ectoplasma (Gengar) ?",
+  "choices": [
+   "Psy seulement",
+   "Spectre et Poison",
+   "Ténèbres et Psy",
+   "Spectre et Ténèbres"
+  ],
+  "correctIndex": 1,
+  "explanation": "Il se cacherait dans les ombres pour voler la chaleur de ses proies.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-050",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quelle ville fictive se déroulent les premiers Resident Evil ?",
+  "choices": [
+   "Raccoon City",
+   "Arkham",
+   "Hawkins",
+   "Silent Hill"
+  ],
+  "correctIndex": 0,
+  "explanation": "Le virus T de la société Umbrella transforme ses habitants en zombies.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-051",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel monstre de Silent Hill porte un énorme casque triangulaire ?",
+  "choices": [
+   "Leatherface",
+   "Slender Man",
+   "Pyramid Head",
+   "Nemesis"
+  ],
+  "correctIndex": 2,
+  "explanation": "Apparu dans Silent Hill 2 (2001), il incarne la culpabilité du héros.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-052",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Minecraft, quel monstre vert explose quand il s'approche du joueur ?",
+  "choices": [
+   "Le Zombie",
+   "Le Creeper",
+   "Le Slime",
+   "L'Enderman"
+  ],
+  "correctIndex": 1,
+  "explanation": "Né d'une erreur de modélisation d'un cochon.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-053",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Minecraft, que craignent les zombies et les squelettes ?",
+  "choices": [
+   "Les citrouilles",
+   "La lumière du soleil",
+   "Les chats",
+   "L'eau"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ils brûlent au soleil, sauf s'ils portent un casque… ou une citrouille !",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-054",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Où est né le personnage de Slender Man, en 2009 ?",
+  "choices": [
+   "Dans un film d'horreur",
+   "Sur un forum internet",
+   "Dans un roman de Stephen King",
+   "Dans un jeu de société"
+  ],
+  "correctIndex": 1,
+  "explanation": "Créé lors d'un concours de photos truquées sur le forum Something Awful.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-055",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que signifie le plus souvent l'émoji 💀 dans un message ?",
+  "choices": [
+   "« Je suis mort de rire »",
+   "« Je suis triste »",
+   "« Danger »",
+   "« Joyeux Halloween »"
+  ],
+  "correctIndex": 0,
+  "explanation": "Il a remplacé le 😂 chez beaucoup de jeunes adultes.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-056",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Qu'est-ce que Spirit Halloween ?",
+  "choices": [
+   "Une appli de maisons hantées",
+   "Une marque de bonbons",
+   "Un festival de musique",
+   "Des boutiques de costumes éphémères"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ses boutiques s'installent dans des locaux vides chaque automne, ce qui est devenu un mème.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-057",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Squid Game, quelle confiserie faut-il découper sans la casser ?",
+  "choices": [
+   "Une guimauve",
+   "Un biscuit au gingembre",
+   "Une galette de sucre",
+   "Un caramel mou"
+  ],
+  "correctIndex": 2,
+  "explanation": "La série a lancé une mode mondiale de recettes de dalgona.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-058",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de joueurs participent aux jeux de la première saison de Squid Game ?",
+  "choices": [
+   "300",
+   "1 000",
+   "100",
+   "456"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le héros, Seong Gi-hun, porte le numéro 456.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-059",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Hocus Pocus, quelle chanson Winifred Sanderson interprète-t-elle au bal d'Halloween ?",
+  "choices": [
+   "Black Magic Woman",
+   "Witchy Woman",
+   "I Put a Spell on You",
+   "Season of the Witch"
+  ],
+  "correctIndex": 2,
+  "explanation": "Bette Midler en fait un numéro culte, qui ensorcelle toute la salle.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-060",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle danse culte accompagne The Rocky Horror Picture Show ?",
+  "choices": [
+   "Le Monster Mash",
+   "Le Time Warp",
+   "Le Moonwalk",
+   "La Macarena"
+  ],
+  "correctIndex": 1,
+  "explanation": "« It's just a jump to the left… » : le public la danse dans les séances de minuit depuis 1975.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-061",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Avant le cinéma, Danny Elfman était le chanteur de quel groupe ?",
+  "choices": [
+   "The Cure",
+   "Oingo Boingo",
+   "Talking Heads",
+   "Devo"
+  ],
+  "correctIndex": 1,
+  "explanation": "Leur tube Dead Man's Party est un classique des fêtes d'Halloween.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-062",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "À quel personnage Danny Elfman prête-t-il sa voix chantée ?",
+  "choices": [
+   "Le Joker",
+   "Edward aux mains d'argent",
+   "Jack Skellington",
+   "Beetlejuice"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chris Sarandon fait la voix parlée de Jack, Elfman la voix chantée.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-063",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle le chat noir qui parle dans Sabrina, l'apprentie sorcière ?",
+  "choices": [
+   "Jiji",
+   "Salem",
+   "Binx",
+   "Luna"
+  ],
+  "correctIndex": 1,
+  "explanation": "Salem est un sorcier condamné à vivre 100 ans en chat pour avoir voulu dominer le monde.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-064",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Hocus Pocus, quel garçon est transformé en chat noir immortel ?",
+  "choices": [
+   "Thackery Binx",
+   "Ernie « Ice »",
+   "Max Dennison",
+   "Billy Butcherson"
+  ],
+  "correctIndex": 0,
+  "explanation": "Il veille sur la maison des Sanderson pendant 300 ans.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-065",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle le chat noir de Kiki la petite sorcière ?",
+  "choices": [
+   "Jiji",
+   "Luna",
+   "Salem",
+   "Totoro"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dans le film de Miyazaki (1989), Kiki finit par ne plus le comprendre.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-066",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle le grimoire des sœurs Halliwell dans Charmed ?",
+  "choices": [
+   "Le Livre des Ombres",
+   "Le Livre des Morts",
+   "Le Necronomicon",
+   "Le Grimoire noir"
+  ],
+  "correctIndex": 0,
+  "explanation": "Les trois sœurs y trouvent sorts et démons ; le Necronomicon est celui de Lovecraft et d'Evil Dead.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-067",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appellent les épisodes spéciaux d'Halloween des Simpson ?",
+  "choices": [
+   "Halloween à Springfield",
+   "Simpson Horror Show",
+   "Les Contes de la crypte",
+   "La Nuit de Bart"
+  ],
+  "correctIndex": 1,
+  "explanation": "Diffusés chaque année depuis 1990, ils échappent à la continuité de la série.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-068",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Scooby-Doo, qui se cache presque toujours derrière le monstre ?",
+  "choices": [
+   "Un robot",
+   "Un humain déguisé",
+   "Un vrai fantôme",
+   "Scrappy-Doo"
+  ],
+  "correctIndex": 1,
+  "explanation": "« Et j'aurais réussi si vous, les enfants, ne vous en étiez pas mêlés ! »",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-069",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "De quelle race est Scooby-Doo ?",
+  "choices": [
+   "Un beagle",
+   "Un saint-bernard",
+   "Un boxer",
+   "Un dogue allemand"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ses créateurs se sont inspirés d'un dogue allemand primé, en exagérant volontairement ses défauts.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-070",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Coco (Pixar, 2017), de quel instrument Miguel rêve-t-il de jouer ?",
+  "choices": [
+   "De la trompette",
+   "Du violon",
+   "De la guitare",
+   "De l'accordéon"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sa famille a banni la musique depuis des générations ; il se retrouve au pays des morts.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-071",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Comment s'appelle le chien fantôme de Jack Skellington ?",
+  "choices": [
+   "Zero",
+   "Casper",
+   "Sparky",
+   "Scraps"
+  ],
+  "correctIndex": 0,
+  "explanation": "Son nez de citrouille lumineux guide le traîneau de Jack ; Sparky est le chien de Frankenweenie.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-072",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle chanteuse annonce chaque 1er novembre, en vidéo, que la saison de Noël commence ?",
+  "choices": [
+   "Céline Dion",
+   "Mariah Carey",
+   "Ariana Grande",
+   "Kelly Clarkson"
+  ],
+  "correctIndex": 1,
+  "explanation": "« It's time! » : All I Want for Christmas Is You remplace aussitôt les chansons d'Halloween.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-073",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel groupe a chanté Zombie (1994), parfois mal compris comme une chanson d'Halloween ?",
+  "choices": [
+   "Garbage",
+   "No Doubt",
+   "The Cranberries",
+   "U2"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dolores O'Riordan l'a écrite en réaction à un attentat de l'IRA à Warrington, en Angleterre.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-074",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel titre de Blue Öyster Cult (1976) invite à ne pas craindre la Faucheuse ?",
+  "choices": [
+   "Hells Bells",
+   "Bark at the Moon",
+   "Highway to Hell",
+   "(Don't Fear) The Reaper"
+  ],
+  "correctIndex": 3,
+  "explanation": "Et son célèbre « more cowbell » du sketch de Saturday Night Live.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-075",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle chanson de Michael Jackson a pour thème un fantôme qui hante ceux qui le jugent ?",
+  "choices": [
+   "Billie Jean",
+   "Thriller",
+   "Dirty Diana",
+   "Ghosts"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ghosts (1997) a donné un court-métrage de 40 minutes écrit avec Stephen King.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-076",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel chanteur de rock se fait « exécuter » en spectacle depuis les années 1970 ?",
+  "choices": [
+   "Alice Cooper",
+   "Gene Simmons",
+   "Ozzy Osbourne",
+   "Bruce Dickinson"
+  ],
+  "correctIndex": 0,
+  "explanation": "Guillotine, potence ou chaise électrique : le théâtre de l'horreur fait partie de chaque concert.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-077",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel rappeur a sorti la chanson Monster (2010) avec Jay-Z et Nicki Minaj ?",
+  "choices": [
+   "Lil Wayne",
+   "Drake",
+   "Kanye West",
+   "Eminem"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le couplet de Nicki Minaj sur Monster est souvent cité comme celui qui a lancé sa carrière.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-078",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel artiste chante The Monster (2013) avec Rihanna ?",
+  "choices": [
+   "Jay-Z",
+   "Drake",
+   "Eminem",
+   "Kanye West"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le duo parle des « monstres » sous le lit… et de la célébrité.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-079",
+  "category": "musique-pop",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Jenna Ortega a cité quelle chanteuse post-punk parmi les inspirations de la danse de Mercredi ?",
+  "choices": [
+   "Kate Bush",
+   "Debbie Harry",
+   "Siouxsie Sioux",
+   "Patti Smith"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elle a aussi cité Lisa Loring, la Mercredi des années 1960, et des danseurs goths des années 1980 filmés en boîte de nuit.",
+  "physiatrie": false
+ },
+ {
+  "id": "musique-pop-v3-080",
+  "category": "musique-pop",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Plants vs. Zombies, quelle plante sert de mur pour ralentir les zombies ?",
+  "choices": [
+   "Le Pois tireur",
+   "La Cerise bombe",
+   "La Noix",
+   "Le Tournesol"
+  ],
+  "correctIndex": 2,
+  "explanation": "La Noix (Wall-nut) encaisse les morsures pendant que les autres plantes attaquent ; le Tournesol produit du soleil.",
+  "physiatrie": false
+ }
+]

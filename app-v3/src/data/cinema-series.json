@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "cinema-series-v3-001",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle le clown maléfique de ce film ?",
+  "choices": [
+   "Art le Clown",
+   "Twisty",
+   "Captain Spaulding",
+   "Pennywise"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ça (2017) : Pennywise, le « clown dansant », hante la ville de Derry et réapparaît tous les 27 ans.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-002",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel est le nom de ce vampire du cinéma muet ?",
+  "choices": [
+   "Le comte Orlok",
+   "Le comte Yorga",
+   "Lestat de Lioncourt",
+   "Le comte Dracula"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nosferatu (1922) adaptait Dracula sans autorisation : les noms ont été changés, d'où le comte Orlok joué par Max Schreck.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0050.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "cinema-series-v3-003",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans ce film, qu'est-ce qui sert à hypnotiser le héros ?",
+  "choices": [
+   "Une cuillère dans une tasse de thé",
+   "Un métronome sur le piano",
+   "Un pendule doré qui oscille",
+   "Une boîte à musique ancienne"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dans Get Out (2017), Missy plonge Chris dans le « Sunken Place » en faisant tinter sa cuillère contre sa tasse.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-004",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Dans ce film, que fabrique la mère, qui est artiste ?",
+  "choices": [
+   "Des maisons et pièces miniatures",
+   "Des poupées de porcelaine",
+   "Des masques mortuaires en cire",
+   "Des marionnettes de bois"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dans Hérédité (2018), Annie construit des miniatures qui reproduisent sa propre vie de famille — y compris ses drames.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-005",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel couple d'enquêteurs du paranormal ce film met-il en scène ?",
+  "choices": [
+   "Sam et Dean Winchester",
+   "Fox Mulder et Dana Scully",
+   "Peter Venkman et Ray Stantz",
+   "Ed et Lorraine Warren"
+  ],
+  "correctIndex": 3,
+  "explanation": "Conjuring (2013) s'inspire des dossiers des Warren, démonologues américains bien réels, qui ont aussi « inspiré » Annabelle.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-006",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans ce film, qu'est-ce qui attire les créatures ?",
+  "choices": [
+   "La lumière",
+   "L'odeur du sang",
+   "Le moindre bruit",
+   "Le mouvement"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dans Sans un bruit (2018), les créatures sont aveugles mais ont une ouïe surdéveloppée : la famille communique en langue des signes.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-007",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel est le surnom du tueur masqué de ce film ?",
+  "choices": [
+   "Ghostface",
+   "Le Croque-mitaine",
+   "Jigsaw",
+   "Leatherface"
+  ],
+  "correctIndex": 0,
+  "explanation": "Scream (1996) : le masque de Ghostface s'inspire du Cri d'Edvard Munch.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-008",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Qui a réalisé ce film ?",
+  "choices": [
+   "Ari Aster",
+   "James Wan",
+   "Mike Flanagan",
+   "Jordan Peele"
+  ],
+  "correctIndex": 3,
+  "explanation": "Us (2019) est le deuxième film de Jordan Peele, après Get Out ; il a ensuite signé Nope (2022).",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/0/00/Us_%282019%29_theatrical_poster.png",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-009",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quel pays se déroule ce film ?",
+  "choices": [
+   "En Finlande",
+   "En Suède",
+   "En Islande",
+   "En Norvège"
+  ],
+  "correctIndex": 1,
+  "explanation": "Midsommar (2019) d'Ari Aster se passe pendant la fête du solstice d'une commune suédoise isolée, en plein jour permanent.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-010",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "De quel film de 1968 vient cette image ?",
+  "choices": [
+   "Rosemary's Baby",
+   "Carnival of Souls",
+   "La Nuit des morts-vivants",
+   "Les Oiseaux"
+  ],
+  "correctIndex": 2,
+  "explanation": "George Romero a tourné La Nuit des morts-vivants avec un budget minuscule et a inventé le zombie moderne, lent et cannibale.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "/media/med-0053.jpg",
+   "alt": "Image à identifier",
+   "credit": "Wikimedia Commons",
+   "licence": "Public domain"
+  }
+ },
+ {
+  "id": "cinema-series-v3-011",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle actrice reprend ici son rôle de Laurie Strode, 40 ans après le film original ?",
+  "choices": [
+   "Sigourney Weaver",
+   "Jamie Lee Curtis",
+   "Neve Campbell",
+   "Linda Hamilton"
+  ],
+  "correctIndex": 1,
+  "explanation": "Halloween (2018) ignore toutes les suites précédentes : Jamie Lee Curtis y affronte de nouveau Michael Myers.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-012",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Ce film adapte un jeu vidéo. Où se déroule l'action ?",
+  "choices": [
+   "Dans un parc d'attractions abandonné",
+   "Dans un centre commercial la nuit",
+   "Dans une pizzeria remplie d'animatroniques",
+   "Dans un hôpital psychiatrique"
+  ],
+  "correctIndex": 2,
+  "explanation": "Five Nights at Freddy's (2023) : un gardien de nuit doit survivre à la pizzeria Freddy Fazbear's et à ses robots meurtriers.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Five_Nights_At_Freddy%27s_poster.jpeg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-013",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Comment s'appelle le monde des esprits que visite l'enfant de ce film ?",
+  "choices": [
+   "Le Monde à l'envers",
+   "Le Lointain (The Further)",
+   "Les Limbes rouges",
+   "L'Autre Côté"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dans Insidious (2010), Dalton n'est pas hanté : il est perdu en projection astrale dans « le Lointain ». (Le Monde à l'envers, c'est Stranger Things.)",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-014",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "D'où surgit le monstre de ce film ?",
+  "choices": [
+   "D'un livre pour enfants",
+   "D'une cassette vidéo",
+   "D'un jeu de société",
+   "D'un miroir ancien"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mister Babadook (2014) : le monstre sort d'un livre animé dont les pages se réécrivent à chaque lecture.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/d/d7/The-Babadook-Poster.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-015",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Qu'est-ce que ce personnage ?",
+  "choices": [
+   "Une poupée possédée",
+   "Un clone humain raté",
+   "Une poupée robot avec une IA",
+   "Le fantôme d'une fillette"
+  ],
+  "correctIndex": 2,
+  "explanation": "M3GAN (2023) : un prototype de poupée IA, programmé pour protéger une enfant, interprète sa mission un peu trop littéralement.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://upload.wikimedia.org/wikipedia/en/0/03/M3GAN_Poster.jpeg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-016",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans quelle ville fictive se déroule cette série ?",
+  "choices": [
+   "Twin Peaks",
+   "Derry",
+   "Castle Rock",
+   "Hawkins"
+  ],
+  "correctIndex": 3,
+  "explanation": "Stranger Things se passe à Hawkins, dans l'Indiana des années 1980 ; Derry et Castle Rock sont des villes de Stephen King.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489169.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-017",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quelle actrice incarne ce personnage dans la série de 2022 ?",
+  "choices": [
+   "Jenna Ortega",
+   "Florence Pugh",
+   "Mia Goth",
+   "Christina Ricci"
+  ],
+  "correctIndex": 0,
+  "explanation": "Jenna Ortega joue Mercredi Addams ; Christina Ricci, la Mercredi des films des années 1990, joue une enseignante dans la série.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466410.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-018",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Quel créateur est derrière cette série d'anthologie ?",
+  "choices": [
+   "Vince Gilligan",
+   "Jordan Peele",
+   "Ryan Murphy",
+   "Mike Flanagan"
+  ],
+  "correctIndex": 2,
+  "explanation": "American Horror Story (2011), créée par Ryan Murphy et Brad Falchuk, change d'histoire à chaque saison avec les mêmes acteurs.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607475.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-019",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Quel jeu d'enfants constitue la toute première épreuve de cette série ?",
+  "choices": [
+   "La marelle",
+   "Le tir à la corde",
+   "1, 2, 3, soleil",
+   "Les billes"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dans Squid Game, la poupée géante « Young-hee » surveille le jeu 1, 2, 3, soleil : bouger après le chant est éliminatoire.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440521.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-020",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "De quel film vient ce thème au piano ?",
+  "choices": [
+   "Les Griffes de la nuit",
+   "Halloween (1978)",
+   "L'Exorciste",
+   "Vendredi 13"
+  ],
+  "correctIndex": 1,
+  "explanation": "John Carpenter a composé lui-même le thème d'Halloween, en mesure 5/4 inhabituelle, ce qui le rend si déstabilisant.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/76/5e/43765e97-ad21-c645-51b1-3a8a547263d9/mzaf_10428659719463428925.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-021",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Dans cette série, qu'est-ce qui transforme les humains en monstres ?",
+  "choices": [
+   "Des radiations",
+   "Un parasite extraterrestre",
+   "Un virus de la rage modifié",
+   "Un champignon parasite"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Last of Us (2023) s'inspire du vrai Ophiocordyceps, qui « zombifie » les fourmis.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/563/1409008.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-022",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "audio",
+  "question": "Ce thème au synthétiseur ouvre quelle série ?",
+  "choices": [
+   "Dark",
+   "Stranger Things",
+   "Black Mirror",
+   "The OA"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le générique de Stranger Things est signé Kyle Dixon et Michael Stein, du groupe S U R V I V E, sur synthétiseurs analogiques.",
+  "physiatrie": false,
+  "media": {
+   "kind": "audio",
+   "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/6f/ed/926fed10-ec76-2790-4b24-7fa4af34cea0/mzaf_10795859141048042074.plus.aac.p.m4a",
+   "alt": "Extrait sonore à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-023",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "image",
+  "question": "Comment s'appelle l'ancien shérif adjoint, héros de cette série ?",
+  "choices": [
+   "Negan",
+   "Glenn Rhee",
+   "Daryl Dixon",
+   "Rick Grimes"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Walking Dead (2010-2022) commence quand Rick Grimes se réveille du coma dans un monde envahi de rôdeurs.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/424/1061900.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-024",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "image",
+  "question": "Qui a créé cette série pour Netflix ?",
+  "choices": [
+   "Jordan Peele",
+   "Mike Flanagan",
+   "Ryan Murphy",
+   "Les frères Duffer"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Haunting of Hill House (2018) de Mike Flanagan est célèbre pour ses fantômes cachés en arrière-plan de nombreux plans.",
+  "physiatrie": false,
+  "media": {
+   "kind": "image",
+   "src": "https://static.tvmaze.com/uploads/images/original_untouched/498/1246083.jpg",
+   "alt": "Image à identifier",
+   "credit": "Source externe",
+   "licence": "Aperçu — droits réservés",
+   "external": true
+  }
+ },
+ {
+  "id": "cinema-series-v3-025",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Saw (2004), quelle partie de son corps le Dr Gordon tranche-t-il pour se libérer de sa chaîne ?",
+  "choices": [
+   "Son pied",
+   "Sa jambe au genou",
+   "Sa main",
+   "Son avant-bras"
+  ],
+  "correctIndex": 0,
+  "explanation": "Enchaîné par la cheville, il se scie le pied : une amputation trans-tibiale « artisanale » qui mériterait un bon suivi en prothétique.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-026",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans le film Misery (1990), que fait Annie Wilkes pour empêcher l'écrivain de fuir ?",
+  "choices": [
+   "Elle lui retire son fauteuil roulant",
+   "Elle lui coupe les tendons d'Achille",
+   "Elle lui brise les chevilles à la masse",
+   "Elle lui plâtre les deux jambes"
+  ],
+  "correctIndex": 2,
+  "explanation": "La scène du « hobbling » : Paul Sheldon, déjà convalescent de fractures, se fait fracasser les chevilles. Dans le roman, c'est encore pire.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-027",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Frankenstein (1931), qu'est-ce qui donne au monstre sa démarche raide si célèbre ?",
+  "choices": [
+   "Un tournage image par image",
+   "Une arthrose réelle de l'acteur",
+   "Des câbles tirés en coulisse",
+   "Des attelles et des bottes lestées"
+  ],
+  "correctIndex": 3,
+  "explanation": "Boris Karloff portait des renforts aux jambes et de lourdes bottes : une démarche en extension de genoux, sans flexion, vite épuisante.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-028",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Planet Terror (2007), par quoi Cherry remplace-t-elle sa jambe amputée ?",
+  "choices": [
+   "Par une mitrailleuse",
+   "Par une épée",
+   "Par une tronçonneuse",
+   "Par une jambe de bois sculptée"
+  ],
+  "correctIndex": 0,
+  "explanation": "Après une attaque de zombies, la jambe de Cherry devient une mitrailleuse — l'emboîture la plus irréaliste du cinéma.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-029",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans la saga Evil Dead, par quoi Ash remplace-t-il sa main coupée ?",
+  "choices": [
+   "Par un fusil à canon scié",
+   "Par une main mécanique",
+   "Par un crochet de pirate",
+   "Par une tronçonneuse"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ash se coupe la main possédée puis y fixe une tronçonneuse — prothèse « activité spécifique » par excellence.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-030",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Incassable (2000), de quelle maladie souffre Elijah Price, alias M. Glass ?",
+  "choices": [
+   "L'hémophilie sévère",
+   "La myasthénie grave",
+   "L'ostéogenèse imparfaite",
+   "L'ostéoporose précoce"
+  ],
+  "correctIndex": 2,
+  "explanation": "Elijah se fracture au moindre choc : l'ostéogenèse imparfaite est un défaut du collagène de type I.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-031",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Fenêtre sur cour (1954) d'Hitchcock, pourquoi le héros espionne-t-il ses voisins ?",
+  "choices": [
+   "Il est en convalescence d'une pneumonie",
+   "Il est immobilisé avec une jambe dans le plâtre",
+   "Il est aveugle et écoute à travers le mur",
+   "Il est assigné à résidence par la police"
+  ],
+  "correctIndex": 1,
+  "explanation": "Le photographe joué par James Stewart, en fauteuil roulant avec un plâtre jusqu'à la hanche, s'occupe en observant la cour… et un possible meurtre.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-032",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans le slasher Hush (2016), quelle particularité a l'héroïne traquée par un tueur ?",
+  "choices": [
+   "Elle est aveugle",
+   "Elle est sourde et muette",
+   "Elle se déplace en fauteuil roulant",
+   "Elle est amnésique"
+  ],
+  "correctIndex": 1,
+  "explanation": "Maddie, écrivaine sourde depuis une méningite à 13 ans, doit déjouer un tueur qu'elle ne peut pas entendre arriver.",
+  "physiatrie": true
+ },
+ {
+  "id": "cinema-series-v3-033",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Psychose (1960), où se déroule la célèbre scène du meurtre ?",
+  "choices": [
+   "Sous la douche",
+   "Dans un ascenseur",
+   "Dans la cave",
+   "Dans une cabine téléphonique"
+  ],
+  "correctIndex": 0,
+  "explanation": "La scène de la douche dure environ 3 minutes à l'écran mais a demandé une semaine de tournage et près de 80 plans.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-034",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel tueur porte un gant muni de lames dans Les Griffes de la nuit ?",
+  "choices": [
+   "Freddy Krueger",
+   "Chucky",
+   "Michael Myers",
+   "Jason Voorhees"
+  ],
+  "correctIndex": 0,
+  "explanation": "Freddy attaque ses victimes dans leurs rêves ; Wes Craven lui a donné un pull rayé rouge et vert, deux couleurs qui « jurent » à l'œil.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-035",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans le premier Vendredi 13 (1980), qui est le tueur ?",
+  "choices": [
+   "Le cuisinier du camp",
+   "Le shérif local",
+   "Jason lui-même",
+   "La mère de Jason"
+  ],
+  "correctIndex": 3,
+  "explanation": "Jason n'apparaît qu'à la toute fin : c'est sa mère qui tue les moniteurs pour le venger.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-036",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel objet Jason Voorhees porte-t-il sur le visage à partir du troisième Vendredi 13 ?",
+  "choices": [
+   "Un masque de soudeur",
+   "Un masque de hockey",
+   "Un sac de toile",
+   "Un masque à gaz"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dans le deuxième film, il porte un sac ; le masque de gardien de but apparaît dans Meurtres en 3 dimensions (1982).",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-037",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Halloween (1978), quel masque l'équipe a-t-elle modifié pour créer celui de Michael Myers ?",
+  "choices": [
+   "Un masque d'Elvis Presley",
+   "Un masque de Frankenstein",
+   "Un masque de Ronald Reagan",
+   "Un masque du capitaine Kirk"
+  ],
+  "correctIndex": 3,
+  "explanation": "Faute de budget, le masque de William Shatner a été peint en blanc et ses yeux élargis.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-038",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Shining (1980), comment s'appelle l'hôtel isolé ?",
+  "choices": [
+   "L'Overlook",
+   "L'hôtel Cortez",
+   "Le Grand Budapest",
+   "Le Bates Motel"
+  ],
+  "correctIndex": 0,
+  "explanation": "Jack Torrance en devient le gardien d'hiver ; l'hôtel Cortez est celui d'American Horror Story : Hotel.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-039",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel mot le petit Danny répète-t-il dans Shining ?",
+  "choices": [
+   "« Here's Johnny »",
+   "« Ils sont là »",
+   "« Redrum »",
+   "« Nevermore »"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lu dans un miroir, redrum devient murder (« meurtre »). « Here's Johnny! » est la réplique de son père.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-040",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle est la réplique culte du petit Cole dans Sixième Sens (1999) ?",
+  "choices": [
+   "« Tout le monde flotte »",
+   "« Tu veux jouer à un jeu ? »",
+   "« Je vois des gens qui sont morts »",
+   "« Ils sont là »"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le film de M. Night Shyamalan est resté célèbre pour son retournement final.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-041",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel film une fillette annonce-t-elle « Ils sont là ! » devant une télévision ?",
+  "choices": [
+   "Poltergeist (1982)",
+   "Paranormal Activity",
+   "Le Cercle (The Ring)",
+   "L'Exorciste"
+  ],
+  "correctIndex": 0,
+  "explanation": "Carol Anne parle aux esprits à travers la neige de l'écran ; le film est coécrit et produit par Steven Spielberg.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-042",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Le Cercle (The Ring, 2002), combien de jours reste-t-il à vivre après avoir vu la cassette maudite ?",
+  "choices": [
+   "13 jours",
+   "3 jours",
+   "1 jour",
+   "7 jours"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le téléphone sonne, une voix murmure « sept jours »… C'est le remake américain du japonais Ring (1998).",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-043",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle poupée tueuse abrite l'âme du tueur en série Charles Lee Ray ?",
+  "choices": [
+   "Billy",
+   "Chucky",
+   "Annabelle",
+   "Brahms"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dans Jeu d'enfant (1988), le tueur transfère son âme dans une poupée « Good Guy » par un rituel vaudou.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-044",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans la saga Saw, comment s'appelle la marionnette sur tricycle ?",
+  "choices": [
+   "Brahms",
+   "Hugo",
+   "Slappy",
+   "Billy"
+  ],
+  "correctIndex": 3,
+  "explanation": "Jigsaw utilise Billy pour délivrer ses messages ; Slappy est le pantin de Chair de poule.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-045",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Qui a réalisé L'Étrange Noël de monsieur Jack (1993) ?",
+  "choices": [
+   "Guillermo del Toro",
+   "Henry Selick",
+   "Wes Anderson",
+   "Tim Burton"
+  ],
+  "correctIndex": 1,
+  "explanation": "Piège classique : Tim Burton a imaginé et produit le film, mais c'est Henry Selick qui l'a réalisé (comme, plus tard, Coraline).",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-046",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Combien de fois faut-il prononcer le nom de Beetlejuice pour l'invoquer ?",
+  "choices": [
+   "7 fois",
+   "13 fois",
+   "5 fois",
+   "3 fois"
+  ],
+  "correctIndex": 3,
+  "explanation": "Beetlejuice (1988) puis Beetlejuice Beetlejuice (2024), toujours avec Michael Keaton dans le rôle du « bio-exorciste ».",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-047",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Hocus Pocus (1993), combien de sœurs Sanderson reviennent d'entre les morts ?",
+  "choices": [
+   "3",
+   "2",
+   "5",
+   "4"
+  ],
+  "correctIndex": 0,
+  "explanation": "Winifred, Mary et Sarah, jouées par Bette Midler, Kathy Najimy et Sarah Jessica Parker.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-048",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle forme prend le monstre géant final de SOS Fantômes (1984) ?",
+  "choices": [
+   "La statue de la Liberté",
+   "Une araignée géante",
+   "Un bonhomme en guimauve",
+   "Un dragon de fumée"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ray pense malgré lui au « Stay Puft Marshmallow Man », et le destructeur Gozer prend cette forme.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-049",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Gremlins (1984), que ne faut-il surtout jamais faire avec un mogwai ?",
+  "choices": [
+   "Le caresser à rebrousse-poil",
+   "Le nourrir après minuit",
+   "Le laisser seul la nuit",
+   "Lui chanter une chanson"
+  ],
+  "correctIndex": 1,
+  "explanation": "Les trois règles : pas de lumière vive, pas d'eau, et jamais de nourriture après minuit.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-050",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle la jeune fille possédée de L'Exorciste (1973) ?",
+  "choices": [
+   "Carrie",
+   "Regan",
+   "Wednesday",
+   "Samara"
+  ],
+  "correctIndex": 1,
+  "explanation": "Regan MacNeil, 12 ans, possédée par le démon Pazuzu ; le film a été le premier film d'horreur nommé à l'Oscar du meilleur film.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-051",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans La Malédiction (1976), comment s'appelle l'enfant qui serait l'Antéchrist ?",
+  "choices": [
+   "Danny",
+   "Damien",
+   "Kevin",
+   "Cole"
+  ],
+  "correctIndex": 1,
+  "explanation": "Damien Thorn porte la marque 666 sous ses cheveux.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-052",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Carrie (1976), qu'est-ce qui tombe sur l'héroïne lors du bal de fin d'année ?",
+  "choices": [
+   "Un seau de peinture rouge",
+   "Un seau de sang de porc",
+   "De l'eau glacée",
+   "Des plumes et du goudron"
+  ],
+  "correctIndex": 1,
+  "explanation": "L'humiliation déclenche sa colère télékinésique. C'est l'adaptation du tout premier roman de Stephen King.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-053",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Avec quoi Hannibal Lecter dit-il avoir dégusté le foie d'un recenseur ?",
+  "choices": [
+   "Des fèves et un bon chianti",
+   "Des frites et une bière",
+   "Des champignons et un porto",
+   "Du pain et un bordeaux"
+  ],
+  "correctIndex": 0,
+  "explanation": "La réplique du Silence des agneaux (1991), suivie du célèbre bruit de succion d'Anthony Hopkins.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-054",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Alien (1979), comment appelle-t-on la créature qui s'agrippe au visage de ses victimes ?",
+  "choices": [
+   "Le Predator",
+   "Le chestburster",
+   "La reine xénomorphe",
+   "Le facehugger"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le facehugger pond l'embryon ; le chestburster jaillit ensuite de la poitrine dans la scène du repas.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-055",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel compositeur a créé le thème à deux notes des Dents de la mer (1975) ?",
+  "choices": [
+   "Hans Zimmer",
+   "Ennio Morricone",
+   "John Williams",
+   "Danny Elfman"
+  ],
+  "correctIndex": 2,
+  "explanation": "Deux notes alternées de plus en plus rapides suffisent à annoncer le requin, souvent invisible à l'écran.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-056",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel procédé de tournage a rendu célèbre Le Projet Blair Witch (1999) ?",
+  "choices": [
+   "La 3D relief",
+   "Le noir et blanc granuleux",
+   "Le plan-séquence unique",
+   "Le found footage"
+  ],
+  "correctIndex": 3,
+  "explanation": "Présenté comme les bandes d'étudiants disparus, le film a coûté environ 60 000 $ et rapporté près de 250 millions.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-057",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Coraline (2009), qu'ont l'Autre Mère et les habitants de l'autre monde à la place des yeux ?",
+  "choices": [
+   "Des pièces de monnaie",
+   "Des billes de verre",
+   "Des trous noirs",
+   "Des boutons"
+  ],
+  "correctIndex": 3,
+  "explanation": "L'Autre Mère veut coudre des boutons sur les yeux de Coraline pour la garder à jamais.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-058",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel studio d'animation a réalisé Coraline et L'Étrange Pouvoir de Norman ?",
+  "choices": [
+   "Laika",
+   "Aardman",
+   "Pixar",
+   "DreamWorks"
+  ],
+  "correctIndex": 0,
+  "explanation": "Laika, studio de l'Oregon, est spécialisé dans l'animation en volume (stop-motion).",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-059",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Scream, quelle question le tueur pose-t-il au téléphone ?",
+  "choices": [
+   "« Qui est là ? »",
+   "« Tu as vérifié les enfants ? »",
+   "« Quel est ton film d'horreur préféré ? »",
+   "« Tu veux jouer à un jeu ? »"
+  ],
+  "correctIndex": 2,
+  "explanation": "« Do you like scary movies? » : Scream joue sans cesse avec les codes du genre.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-060",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans la saga Destination finale, qui est le véritable « tueur » ?",
+  "choices": [
+   "Un professeur déguisé",
+   "Un fantôme vengeur",
+   "Un démon invoqué",
+   "La Mort elle-même"
+  ],
+  "correctIndex": 3,
+  "explanation": "Les survivants d'un accident évité sont rattrapés un à un par la Mort, au moyen d'accidents absurdes.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-061",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans le film Smile (2022), quel signe annonce que la malédiction vous a choisi ?",
+  "choices": [
+   "Des rires dans le noir",
+   "Des gens qui vous sourient",
+   "Des saignements de nez",
+   "Des gens qui pleurent du sang"
+  ],
+  "correctIndex": 1,
+  "explanation": "La malédiction se transmet à un témoin, qui voit ensuite des gens lui sourire de façon terrifiante.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-062",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Nope (2022) de Jordan Peele, que cache le nuage immobile au-dessus du ranch ?",
+  "choices": [
+   "Un vaisseau extraterrestre habité",
+   "Un dieu ancien",
+   "Une créature volante prédatrice",
+   "Une tornade surnaturelle"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ce qu'on prend pour une soucoupe est un animal qui dévore tout ce qui le regarde dans les yeux.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-063",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Talk to Me (2023), quel objet permet de laisser un esprit entrer en soi ?",
+  "choices": [
+   "Une planche Ouija",
+   "Une main embaumée",
+   "Un miroir brisé",
+   "Un vieux téléphone"
+  ],
+  "correctIndex": 1,
+  "explanation": "Des ados australiens se filment en train de serrer la main… et de dire « je te laisse entrer ».",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-064",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle le clown tueur de la saga Terrifier ?",
+  "choices": [
+   "Art le Clown",
+   "Twisty",
+   "Pennywise",
+   "Krusty"
+  ],
+  "correctIndex": 0,
+  "explanation": "Art, muet et en noir et blanc, est devenu une icône du gore indépendant ; Twisty est le clown d'American Horror Story.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-065",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans la saison 4 de Stranger Things, comment s'appelle le grand méchant ?",
+  "choices": [
+   "Le Flagelleur mental",
+   "Vecna",
+   "Le Démogorgon",
+   "Le Démodog"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vecna, alias Henry Creel (le numéro 001), tue ses victimes après les avoir maudites par leurs souvenirs.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-066",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle gourmandise Eleven adore-t-elle dans Stranger Things ?",
+  "choices": [
+   "Les gaufres Eggo",
+   "Les beignets",
+   "La crème glacée",
+   "Les crêpes au sirop"
+  ],
+  "correctIndex": 0,
+  "explanation": "La série a fait remonter les ventes des gaufres Eggo, qui ont même fait une publicité rétro.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-067",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appellent les deux frères chasseurs de démons de Supernatural ?",
+  "choices": [
+   "Stefan et Damon Salvatore",
+   "Sam et Dean Winchester",
+   "Fox et Bill Mulder",
+   "Peter et Ray Venkman"
+  ],
+  "correctIndex": 1,
+  "explanation": "Supernatural a duré 15 saisons (2005-2020) ; les Salvatore sont les vampires de Vampire Diaries.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-068",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quelle ville californienne fictive vit Buffy, la tueuse de vampires ?",
+  "choices": [
+   "Hawkins",
+   "Forks",
+   "Sunnydale",
+   "Mystic Falls"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sunnydale est construite sur la Bouche de l'Enfer ; Forks est la ville de Twilight.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-069",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Que fait la peau d'Edward Cullen au soleil, dans Twilight ?",
+  "choices": [
+   "Elle brûle instantanément",
+   "Elle devient transparente",
+   "Elle scintille comme du diamant",
+   "Elle se couvre de cendres"
+  ],
+  "correctIndex": 2,
+  "explanation": "Une entorse célèbre aux règles des vampires classiques, qui craignent mortellement le soleil.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-070",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel acteur a incarné Dracula dans le film Universal de 1931 ?",
+  "choices": [
+   "Bela Lugosi",
+   "Boris Karloff",
+   "Christopher Lee",
+   "Lon Chaney"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lugosi a été enterré avec sa cape ; Christopher Lee a été le Dracula des films de la Hammer à partir de 1958.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-071",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans Rosemary's Baby (1968), qui est le père de l'enfant ?",
+  "choices": [
+   "Un ange déchu repenti",
+   "Le Diable",
+   "Le voisin âgé",
+   "Le médecin de famille"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rosemary découvre que ses voisins appartiennent à une secte satanique, de mèche avec son mari.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-072",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Shaun of the Dead (2004), où les héros décident-ils de se réfugier ?",
+  "choices": [
+   "Au supermarché",
+   "Dans un cinéma",
+   "Au pub, le Winchester",
+   "À l'église du quartier"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le plan de Shaun : « prendre une bonne pinte au Winchester et attendre que tout ça se tasse ».",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-073",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Bienvenue à Zombieland (2009), quelle est la règle n° 1 pour survivre ?",
+  "choices": [
+   "Ne jamais jouer les héros",
+   "Attacher sa ceinture",
+   "Toujours viser la tête deux fois",
+   "Le cardio"
+  ],
+  "correctIndex": 3,
+  "explanation": "Les gros sont les premiers rattrapés : règle n° 1, le cardio. La n° 2 est le « double tap ».",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-074",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Dans quel pays se déroule Dernier Train pour Busan (2016) ?",
+  "choices": [
+   "En Corée du Sud",
+   "En Chine",
+   "Au Japon",
+   "À Taïwan"
+  ],
+  "correctIndex": 0,
+  "explanation": "Une épidémie zombie éclate à bord d'un TGV Séoul-Busan.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-075",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Dans Le Labyrinthe de Pan (2006), où l'Homme pâle a-t-il les yeux ?",
+  "choices": [
+   "Sur son front",
+   "Il n'en a aucun",
+   "Dans ses paumes",
+   "Sur ses genoux"
+  ],
+  "correctIndex": 2,
+  "explanation": "Pour voir, il pose ses yeux dans ses paumes et les lève devant son visage.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-076",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quel acteur incarne Ichabod Crane dans Sleepy Hollow (1999) de Tim Burton ?",
+  "choices": [
+   "Johnny Depp",
+   "Christopher Walken",
+   "Christian Bale",
+   "Jude Law"
+  ],
+  "correctIndex": 0,
+  "explanation": "Christopher Walken joue le Cavalier sans tête, avec des dents limées.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-077",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Comment s'appelle l'école que fréquente Mercredi Addams dans la série de 2022 ?",
+  "choices": [
+   "Shermer High",
+   "Poudlard",
+   "Nevermore",
+   "Sunnydale High"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nevermore Academy, école pour « parias », doit son nom au poème Le Corbeau d'Edgar Allan Poe.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-078",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "De quel type de poupée est la vraie Annabelle, conservée par les Warren ?",
+  "choices": [
+   "Une poupée Barbie",
+   "Une poupée de porcelaine",
+   "Une poupée de chiffon",
+   "Une marionnette de bois"
+  ],
+  "correctIndex": 2,
+  "explanation": "Le film l'a remplacée par une poupée de porcelaine bien plus effrayante.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-079",
+  "category": "cinema-series",
+  "difficulty": "intermediaire",
+  "type": "texte",
+  "question": "Quelle actrice joue dans The Substance (2024), film d'horreur corporelle primé à Cannes ?",
+  "choices": [
+   "Michelle Pfeiffer",
+   "Nicole Kidman",
+   "Sharon Stone",
+   "Demi Moore"
+  ],
+  "correctIndex": 3,
+  "explanation": "Le film de Coralie Fargeat a valu à Demi Moore un Golden Globe en 2025.",
+  "physiatrie": false
+ },
+ {
+  "id": "cinema-series-v3-080",
+  "category": "cinema-series",
+  "difficulty": "difficile",
+  "type": "texte",
+  "question": "Quel réalisateur a signé le remake de Nosferatu sorti à Noël 2024 ?",
+  "choices": [
+   "Guillermo del Toro",
+   "Ari Aster",
+   "Jordan Peele",
+   "Robert Eggers"
+  ],
+  "correctIndex": 3,
+  "explanation": "Robert Eggers (The Witch, The Lighthouse) y dirige Bill Skarsgård en comte Orlok.",
+  "physiatrie": false
+ }
+]
